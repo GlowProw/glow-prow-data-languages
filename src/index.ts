@@ -12,6 +12,3 @@ export const en_US = {
     ships: ships_en_US,
     item: items_en_US
 };
-
-// 导出类型
-export * from './types';
