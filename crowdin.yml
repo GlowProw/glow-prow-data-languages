@@ -2,4 +2,4 @@ files:
   - source: /src/data/zh_CN/ships.json
     translation: /src/data/%language%/ships.json
   - source: /src/data/zh_CN/item.json
-    translation: /src/data/%two_letters_code%/item.json
+    translation: /src/data/%language%/item.json
