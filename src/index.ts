@@ -12,3 +12,5 @@ export const en_US = {
     ships: ships_en_US,
     item: items_en_US
 };
+
+export * from './types';
