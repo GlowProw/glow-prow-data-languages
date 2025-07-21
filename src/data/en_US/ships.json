@@ -1,66 +1,174 @@
 {
   "dhow": {
     "name": "Dhow",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "hunter": {
+        "title": "Hunter1",
+        "description": "Protect wildlife material derived from hunting."
+      },
+      "outOfSight": {
+        "title": "Disappear outside the line",
+        "description": "Reduce by 40% what you detected by a larger ship than you."
+      }
+    }
   },
   "bedar": {
     "name": "Bedar",
-    "description": "A small motorized boat capable of ramming targets and causing flood damage."
+    "description": "A small motorized boat capable of ramming targets and causing flood damage.",
+    "perks": {
+      "lancer": {
+        "title": "Cavalry",
+        "description": "The damage caused by the impact is increased by 25% when the enemy ship is pursued within 300 metres and is given additional speed.\n\nenters the enemy ship into the water state and causes it to fall by 30% for 30 seconds."
+      }
+    }
   },
   "hulk": {
     "name": "Hulk",
-    "description": "This ship is more durable, able to sustain continuous damage, and excels at withstanding incoming fire."
+    "description": "This ship is more durable, able to sustain continuous damage, and excels at withstanding incoming fire.",
+    "perks": {
+      "ironclad": {
+        "title": "Iron Armor",
+        "description": "Increases armor value by 350 seconds after damage.\n\nincreases support strength by 275% and supports strength by 25%."
+      }
+    }
   },
   "cutter": {
     "name": "Cutter",
-    "description": "A vessel capable of supporting other ships in intense combat."
+    "description": "A vessel capable of supporting other ships in intense combat.",
+    "perks": {
+      "unburden": {
+        "title": "White",
+        "description": "Repair 0.4% of serious injuries and 0.4% of body health per second.\n\nRestoration of restoration of 2 % of the health of all allied ships within 100 metres.\n\nRestores more than 60% of the body's health when using repair weapons.\n\nIncreases the vitality of the ship recovered by repairing weapons by 5% for each piece of repair weapon."
+      }
+    }
   },
   "barge": {
     "name": "Barge",
-    "description": "A ship specialized in causing fire and burn damage, then spreading chaos to nearby vessels."
+    "description": "A ship specialized in causing fire and burn damage, then spreading chaos to nearby vessels.",
+    "perks": {
+      "wildfire": {
+        "title": "Wildfire I",
+        "description": "Applying \"Burning\" to a ship will apply the same effect to all enemies within 125 metres.\n\nIncreases weapon damage by 35%.\n\nFire damage increases flame speed by 175%.\n\n"
+      }
+    }
   },
   "sloop": {
     "name": "Sloop",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "outburst": {
+        "title": "Burst",
+        "description": "50% chance of exploding in blast hit, dealing 1500 point damage within 150 m of blast radius.\n\nIncreases damage to buildings by 40% and blast damage by 15%."
+      }
+    }
   },
   "padewakang": {
     "name": "Padewakang",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "detonate": {
+        "title": "Art",
+        "description": "70% chance of exploding in the blast hit, causing 1000 damage in the 125-m explosion radius. If the target ship is burned, the chance is raised to 100%.\n\nIncreases damage to buildings by 50% and weapon damage radius by 12%."
+      }
+    }
   },
   "snow": {
     "name": "Snow",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "tenacity": {
+        "title": "Perseverance",
+        "description": "When supporting, restore 5% support strength per second.\n\nincreases support strength by 50% and supports strength recovery by 150%."
+      }
+    }
   },
   "brigantine": {
     "name": "Brigantine",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "bullhorn": {
+        "title": "Spectrum",
+        "description": "Damage caused by impact increases by 45% when pursuing enemy ships in 300 metres and gain additional speed.\n\nincreases flood weapon damage by 20% and inflicts more than 20% damage on flood target."
+      }
+    }
   },
   "sambuk": {
     "name": "Sambuk",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "scorched": {
+        "title": "Burnjoules",
+        "description": "Fire 5,000 points of damage when \"burning\" effects are applied to enemy ships. \"Burning\" effects will be applied to enemies within 150 metres.\n\nIncreases damage to ships with \"combustion\" effects."
+      }
+    }
   },
   "barque": {
     "name": "Barque",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "revitalized": {
+        "title": "Renewing",
+        "description": "Restores 0.4% of serious damage and 0.4% of the health of the ship per second and the nearby naval vessels.\n\nRestores 15 % of the durability, 10 % of serious injuries and more than 60 % of the body's health while using repair weapons.\n\nIncreases the life of the ship restored by the weapon by 5 % for each equipped with a repair weapon."
+      }
+    }
   },
   "brig": {
     "name": "Brig",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "artificer": {
+        "title": "Mechanics",
+        "description": "A weapon hit target increases the effect of the subsequent buoy by 3% and up to 45%. Restores between two fatalities for more than 12 seconds.\n\nreduces the reload time of the auxiliary weapon and nearby allied warships by 10%.\n\nIncreases the life of the ship recovered by repairing weapons by 5% for each piece of repair weapon."
+      }
+    }
   },
   "battleJunk": {
     "name": "Battle Junk",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "provoke": {
+        "title": "Coffering",
+        "description": "Damage caused in a 200-metre range triggers a mocker. Use this ship to make a mockery that increases the target vulnerability by 50% from all sources.\n\nto increase support strength by 150% and support strength recovery by 25%."
+      }
+    }
   },
   "garuda": {
     "name": "Garuda",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "artificer": {
+        "title": "Ancient Shooter",
+        "description": "Weapons damage increases by up to 60% depending on your distance from your target.\n\nWhen your body lives below or equal to 40%, the armor increases 500 points, and adjusts it to last durability for 10 seconds. The effect cooldown is 40 seconds."
+      }
+    }
   },
   "schooner": {
     "name": "Schooner",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "fury": {
+        "title": "Angry",
+        "description": "Increases damage to buildings by 50% and damage to vulnerabilities by 30% for ten seconds.\n\n20% when a weapon hit a weapon triggers its rages lasting 15 seconds and increases the damage to the fenders by 20% .\n\nOnce activated, it is possible for the fenders to take 700-point damage every 3 seconds in a 100-metre explosion radius."
+      }
+    }
   },
   "frigate": {
     "name": "Frigate",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
+    "perks": {
+      "grit": {
+        "title": "Grain gravel",
+        "description": "Get a layer of perseverance when damaged. Each layer increases 40 points of armor, up to 10 layers of armor. Each layer of perseverance lasts for 15 seconds. Reduces the damage to the Allies XSML, SML, and MED ships in the area of\n\n200m by 10%. Change to 20% when you have 10 layers of perseverance."
+      },
+      "colossal": {
+        "title": "Gambian Ambassador",
+        "description": "Navigation speed in rivers and shallow beaches is reduced by 30%."
+      },
+      "abundantGunports": {
+        "title": "Rich Artillery",
+        "description": "Damage to vulnerability increased by 30%."
+      }
+    }
   }
 }

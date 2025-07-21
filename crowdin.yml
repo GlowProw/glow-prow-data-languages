@@ -1,0 +1,5 @@
+files:
+  - source: /src/data/zh_CN/ships.json
+    translation: /src/data/%locale_with_underscore%/ships.json
+  - source: /src/data/zh_CN/item.json
+    translation: /src/data/%locale_with_underscore%/item.json
