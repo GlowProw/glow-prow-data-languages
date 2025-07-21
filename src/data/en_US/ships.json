@@ -1,0 +1,66 @@
+{
+  "dhow": {
+    "name": "Dhow",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "bedar": {
+    "name": "Bedar",
+    "description": "A small motorized boat capable of ramming targets and causing flood damage."
+  },
+  "hulk": {
+    "name": "Hulk",
+    "description": "This ship is more durable, able to sustain continuous damage, and excels at withstanding incoming fire."
+  },
+  "cutter": {
+    "name": "Cutter",
+    "description": "A vessel capable of supporting other ships in intense combat."
+  },
+  "barge": {
+    "name": "Barge",
+    "description": "A ship specialized in causing fire and burn damage, then spreading chaos to nearby vessels."
+  },
+  "sloop": {
+    "name": "Sloop",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "padewakang": {
+    "name": "Padewakang",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "snow": {
+    "name": "Snow",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "brigantine": {
+    "name": "Brigantine",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "sambuk": {
+    "name": "Sambuk",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "barque": {
+    "name": "Barque",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "brig": {
+    "name": "Brig",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "battleJunk": {
+    "name": "Battle Junk",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "garuda": {
+    "name": "Garuda",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "schooner": {
+    "name": "Schooner",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  },
+  "frigate": {
+    "name": "Frigate",
+    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines"
+  }
+}

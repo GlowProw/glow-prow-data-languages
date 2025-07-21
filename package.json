@@ -1,0 +1,16 @@
+{
+  "name": "glow-prow-data-languages",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "files": [
+    "dist",
+    "src/data"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
