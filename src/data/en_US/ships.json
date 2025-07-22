@@ -4,7 +4,7 @@
     "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
     "perks": {
       "hunter": {
-        "title": "Hunter1",
+        "title": "Hunter",
         "description": "Protect wildlife material derived from hunting."
       },
       "outOfSight": {
