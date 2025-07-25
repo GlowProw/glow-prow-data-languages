@@ -1,174 +1,98 @@
 {
   "dhow": {
     "name": "Dhow",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "hunter": {
-        "title": "Hunter",
-        "description": "Protect wildlife material derived from hunting."
-      },
-      "outOfSight": {
-        "title": "Disappear outside the line",
-        "description": "Reduce by 40% what you detected by a larger ship than you."
-      }
+    "description": {
+      "general": "一种小型船只，最初用于沿河流和海岸线狩猎野生动物。"
     }
   },
   "bedar": {
-    "name": "Bedar",
-    "description": "A small motorized boat capable of ramming targets and causing flood damage.",
-    "perks": {
-      "lancer": {
-        "title": "Cavalry",
-        "description": "The damage caused by the impact is increased by 25% when the enemy ship is pursued within 300 metres and is given additional speed.\n\nenters the enemy ship into the water state and causes it to fall by 30% for 30 seconds."
-      }
+    "name": "贝达尔帆船",
+    "description": {
+      "general": "一艘小型机动船，可以撞击目标并造成淹水伤害。"
     }
   },
   "hulk": {
-    "name": "Hulk",
-    "description": "This ship is more durable, able to sustain continuous damage, and excels at withstanding incoming fire.",
-    "perks": {
-      "ironclad": {
-        "title": "Iron Armor",
-        "description": "Increases armor value by 350 seconds after damage.\n\nincreases support strength by 275% and supports strength by 25%."
-      }
+    "name": "驳船",
+    "description": {
+      "general": "更耐用，能够承受持续伤害，这种船擅长抵御来袭的火力。"
     }
   },
   "cutter": {
-    "name": "Cutter",
-    "description": "A vessel capable of supporting other ships in intense combat.",
-    "perks": {
-      "unburden": {
-        "title": "White",
-        "description": "Repair 0.4% of serious injuries and 0.4% of body health per second.\n\nRestoration of restoration of 2 % of the health of all allied ships within 100 metres.\n\nRestores more than 60% of the body's health when using repair weapons.\n\nIncreases the vitality of the ship recovered by repairing weapons by 5% for each piece of repair weapon."
-      }
+    "name": "快艇",
+    "description": {
+      "general": "一艘能够在激烈的战斗中支援其他船只的船。"
     }
   },
   "barge": {
-    "name": "Barge",
-    "description": "A ship specialized in causing fire and burn damage, then spreading chaos to nearby vessels.",
-    "perks": {
-      "wildfire": {
-        "title": "Wildfire I",
-        "description": "Applying \"Burning\" to a ship will apply the same effect to all enemies within 125 metres.\n\nIncreases weapon damage by 35%.\n\nFire damage increases flame speed by 175%.\n\n"
-      }
+    "name": "平底船",
+    "description": {
+      "general": "一艘专门造成火焰和燃烧伤害，然后将混乱蔓延到附近船只的船。"
     }
   },
   "sloop": {
-    "name": "Sloop",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "outburst": {
-        "title": "Burst",
-        "description": "50% chance of exploding in blast hit, dealing 1500 point damage within 150 m of blast radius.\n\nIncreases damage to buildings by 40% and blast damage by 15%."
-      }
+    "name": "单桅纵帆船",
+    "description": {
+      "general": "如果装备了合适的武器，这艘船能够与多个敌人正面交锋。"
     }
   },
   "padewakang": {
     "name": "Padewakang",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "detonate": {
-        "title": "Art",
-        "description": "70% chance of exploding in the blast hit, causing 1000 damage in the 125-m explosion radius. If the target ship is burned, the chance is raised to 100%.\n\nIncreases damage to buildings by 50% and weapon damage radius by 12%."
-      }
+    "description": {
+      "general": "一艘更大的船只，如果装备得当，能够对抗多个敌人。"
     }
   },
   "snow": {
-    "name": "Snow",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "tenacity": {
-        "title": "Perseverance",
-        "description": "When supporting, restore 5% support strength per second.\n\nincreases support strength by 50% and supports strength recovery by 150%."
-      }
+    "name": "雪地帆船",
+    "description": {
+      "general": "一艘耐久度更高，能在战斗中坚守阵地的船只。它擅长抵御来袭的火力。"
     }
   },
   "brigantine": {
     "name": "Brigantine",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "bullhorn": {
-        "title": "Spectrum",
-        "description": "Damage caused by impact increases by 45% when pursuing enemy ships in 300 metres and gain additional speed.\n\nincreases flood weapon damage by 20% and inflicts more than 20% damage on flood target."
-      }
+    "description": {
+      "general": "一艘快速船只，能够撞击单个目标并造成淹水伤害。"
     }
   },
   "sambuk": {
-    "name": "Sambuk",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "scorched": {
-        "title": "Burnjoules",
-        "description": "Fire 5,000 points of damage when \"burning\" effects are applied to enemy ships. \"Burning\" effects will be applied to enemies within 150 metres.\n\nIncreases damage to ships with \"combustion\" effects."
-      }
+    "name": "桑布克",
+    "description": {
+      "general": "一艘专门造成火焰伤害并烧伤目标的船只。它还能够同时攻击近距离的多个敌人。"
     }
   },
   "barque": {
     "name": "Barque",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "revitalized": {
-        "title": "Renewing",
-        "description": "Restores 0.4% of serious damage and 0.4% of the health of the ship per second and the nearby naval vessels.\n\nRestores 15 % of the durability, 10 % of serious injuries and more than 60 % of the body's health while using repair weapons.\n\nIncreases the life of the ship restored by the weapon by 5 % for each equipped with a repair weapon."
-      }
+    "description": {
+      "general": "一艘擅长通过有效修理来帮助其他危险船只的船。"
     }
   },
   "brig": {
-    "name": "Brig",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "artificer": {
-        "title": "Mechanics",
-        "description": "A weapon hit target increases the effect of the subsequent buoy by 3% and up to 45%. Restores between two fatalities for more than 12 seconds.\n\nreduces the reload time of the auxiliary weapon and nearby allied warships by 10%.\n\nIncreases the life of the ship recovered by repairing weapons by 5% for each piece of repair weapon."
-      }
+    "name": "双桅横帆船",
+    "description": {
+      "general": "一艘支援船只，擅长部署能够扭转战局的浮标。"
     }
   },
   "battleJunk": {
-    "name": "Battle Junk",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "provoke": {
-        "title": "Coffering",
-        "description": "Damage caused in a 200-metre range triggers a mocker. Use this ship to make a mockery that increases the target vulnerability by 50% from all sources.\n\nto increase support strength by 150% and support strength recovery by 25%."
-      }
+    "name": "战舰",
+    "description": {
+      "general": "一艘坚韧的巨兽，适合分散对手注意力、承受伤害，并为盟友创造交战或逃脱的机会。"
     }
   },
   "garuda": {
     "name": "Garuda",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "artificer": {
-        "title": "Ancient Shooter",
-        "description": "Weapons damage increases by up to 60% depending on your distance from your target.\n\nWhen your body lives below or equal to 40%, the armor increases 500 points, and adjusts it to last durability for 10 seconds. The effect cooldown is 40 seconds."
-      }
+    "description": {
+      "general": "一艘快速、机动的船只，擅长追捕逃跑的船只。"
     }
   },
   "schooner": {
-    "name": "Schooner",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "fury": {
-        "title": "Angry",
-        "description": "Increases damage to buildings by 50% and damage to vulnerabilities by 30% for ten seconds.\n\n20% when a weapon hit a weapon triggers its rages lasting 15 seconds and increases the damage to the fenders by 20% .\n\nOnce activated, it is possible for the fenders to take 700-point damage every 3 seconds in a 100-metre explosion radius."
-      }
+    "name": "大帆船",
+    "description": {
+      "general": "擅长毁灭性的舷侧攻击，将每一次齐射都变成爆炸性的反应，对红岛的舰队和建筑造成严重破坏。"
     }
   },
   "frigate": {
     "name": "Frigate",
-    "description": "A small vessel originally built for hunting wildlife along rivers and coastlines",
-    "perks": {
-      "grit": {
-        "title": "Grain gravel",
-        "description": "Get a layer of perseverance when damaged. Each layer increases 40 points of armor, up to 10 layers of armor. Each layer of perseverance lasts for 15 seconds. Reduces the damage to the Allies XSML, SML, and MED ships in the area of\n\n200m by 10%. Change to 20% when you have 10 layers of perseverance."
-      },
-      "colossal": {
-        "title": "Gambian Ambassador",
-        "description": "Navigation speed in rivers and shallow beaches is reduced by 30%."
-      },
-      "abundantGunports": {
-        "title": "Rich Artillery",
-        "description": "Damage to vulnerability increased by 30%."
-      }
+    "description": {
+      "general": "一艘拥有无与伦比防御的大型船只。它散发出强大的光环，可以强化盟友。这是法国公司独创性和欧洲先进材料的产物。"
     }
   }
 }
