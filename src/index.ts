@@ -1,4 +1,4 @@
-import ships_zh_CN from './data/zh_CN/ships_old.json';
+import ships_zh_CN from './data/zh_CN/ships.json';
 import items_zh_CN from './data/zh_CN/item.json';
 import calendar_zh_CN from './data/zh_CN/calendar.json'
 import materials_zh_CN from './data/zh_CN/materials.json'
