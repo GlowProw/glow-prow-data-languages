@@ -1,248 +1,2465 @@
 {
-  "culverin1": {"title": "长炮1"},
-  "culverin2": {"title": "长炮2"},
-  "culverin3": {"title": "长炮3"},
-  "culverin4": {"title": "长炮4"},
-  "culverin5": {"title": "长炮5"},
-  "tearingCulverin1": {"title": "撕裂长炮1"},
-  "tearingCulverin2": {"title": "撕裂长炮2"},
-  "tearingCulverin3": {"title": "撕裂长炮3"},
-  "basilisk1": {"title": "蛇炮1"},
-  "basilisk2": {"title": "蛇炮2"},
-  "basilisk3": {"title": "蛇炮3"},
-  "carronade": {"title": "卡隆炮"},
-  "demicannon1": {"title": "半长炮1"},
-  "demicannon2": {"title": "半长炮2"},
-  "demicannon3": {"title": "半长炮3"},
-  "demicannon4": {"title": "半长炮4"},
-  "demicannon5": {"title": "半长炮5"},
-  "floodingDemicannon1": {"title": "洪水半长炮1"},
-  "floodingDemicannon2": {"title": "洪水半长炮2"},
-  "floodingDemicannon3": {"title": "洪水半长炮3"},
-  "zamzama1": {"title": "扎姆扎马炮1"},
-  "zamzama2": {"title": "扎姆扎马炮2"},
-  "zamzama3": {"title": "扎姆扎马炮3"},
-  "cannonballCrate": {"title": "炮弹箱"},
-  "bombardBombCrate": {"title": "轰炸炮弹箱"},
-  "ballistaBoltCrate": {"title": "弩箭箱"},
-  "seaFireOilCrate": {"title": "海火油箱"},
-  "mortarBombCrate": {"title": "迫击炮弹箱"},
-  "rocketCrate": {"title": "火箭箱"},
-  "torpedoCrate": {"title": "鱼雷箱"},
-  "ironHusk1": {"title": "铁壳1"},
-  "ironHusk2": {"title": "铁壳2"},
-  "ironHusk3": {"title": "铁壳3"},
-  "ironHusk4": {"title": "铁壳4"},
-  "ironHusk5": {"title": "铁壳5"},
-  "layeredScales1": {"title": "层鳞甲1"},
-  "layeredScales2": {"title": "层鳞甲2"},
-  "layeredScales3": {"title": "层鳞甲3"},
-  "layeredScales4": {"title": "层鳞甲4"},
-  "layeredScales5": {"title": "层鳞甲5"},
-  "laForteresse1": {"title": "堡垒1"},
-  "laForteresse2": {"title": "堡垒2"},
-  "laForteresse3": {"title": "堡垒3"},
-  "theBastion1": {"title": "棱堡1"},
-  "theBastion2": {"title": "棱堡2"},
-  "theBastion3": {"title": "棱堡3"},
-  "gambaKobe1": {"title": "神户甲1"},
-  "gambaKobe2": {"title": "神户甲2"},
-  "kawaca1": {"title": "卡瓦卡甲1"},
-  "kawaca2": {"title": "卡瓦卡甲2"},
-  "blackPrince": {"title": "黑王子"},
-  "ouroboros": {"title": "衔尾蛇"},
-  "wrathfulWard": {"title": "愤怒护甲"},
-  "wailingWard": {"title": "哀嚎护甲"},
-  "royalCustodian": {"title": "皇家守护者"},
-  "mortar1": {"title": "迫击炮1"},
-  "mortar2": {"title": "迫击炮2"},
-  "mortar3": {"title": "迫击炮3"},
-  "repairMortar1": {"title": "修复迫击炮1"},
-  "repairMortar2": {"title": "修复迫击炮2"},
-  "repairMortar3": {"title": "修复迫击炮3"},
-  "leopold1": {"title": "利奥波德1"},
-  "leopold2": {"title": "利奥波德2"},
-  "leopold3": {"title": "利奥波德3"},
-  "leFleau": {"title": "鞭挞"},
-  "rocket1": {"title": "火箭1"},
-  "rocket2": {"title": "火箭2"},
-  "rocket3": {"title": "火箭3"},
-  "theTermitesRocket1": {"title": "白蚁火箭1"},
-  "theTermitesRocket2": {"title": "白蚁火箭2"},
-  "theTermitesRocket3": {"title": "白蚁火箭3"},
-  "ballista1": {"title": "弩炮1"},
-  "ballista2": {"title": "弩炮2"},
-  "ballista3": {"title": "弩炮3"},
-  "greatSpringald1": {"title": "巨弩1"},
-  "greatSpringald2": {"title": "巨弩2"},
-  "greatSpringald3": {"title": "巨弩3"},
-  "twinWinchBallista": {"title": "双绞盘弩炮"},
-  "seaFire1": {"title": "海火1"},
-  "seaFire2": {"title": "海火2"},
-  "seaFire3": {"title": "海火3"},
-  "kallinikosFlame1": {"title": "卡利尼科斯火焰1"},
-  "kallinikosFlame2": {"title": "卡利尼科斯火焰2"},
-  "kallinikosFlame3": {"title": "卡利尼科斯火焰3"},
-  "blueSpecter": {"title": "蓝色幽灵"},
-  "grilledBeef": {"title": "烤牛肉"},
-  "grilledCoconut": {"title": "烤椰子"},
-  "grilledFish": {"title": "烤鱼"},
-  "grilledCrocodile": {"title": "烤鳄鱼"},
-  "grilledShark": {"title": "烤鲨鱼"},
-  "grilledMutton": {"title": "烤羊肉"},
-  "grilledDurian": {"title": "烤榴莲"},
-  "grilledChicken": {"title": "烤鸡肉"},
-  "grilledBread": {"title": "烤面包"},
-  "grilledBanana": {"title": "烤香蕉"},
-  "grilledPrimeHippo": {"title": "烤优质河马肉"},
-  "grilledPrimeCrocodile": {"title": "烤优质鳄鱼肉"},
-  "tylosaurusSteak": {"title": "沧龙牛排"},
-  "grilledScrewpine": {"title": "烤螺旋松"},
-  "grilledVegetables": {"title": "烤蔬菜"},
-  "grilledHippo": {"title": "烤河马肉"},
-  "varyBeMenaka": {"title": "瓦里贝梅纳卡"},
-  "godrogodro": {"title": "戈德罗戈德罗"},
-  "trondroGasy": {"title": "特隆德罗加西"},
-  "ndiziNaNyama": {"title": "恩迪兹纳尼亚马"},
-  "ragout": {"title": "炖肉"},
-  "sateKambing": {"title": "沙爹羊肉"},
-  "bitterballen": {"title": "苦味球"},
-  "mchuziWaKuharibu": {"title": "姆楚兹瓦库哈里布"},
-  "ronakoho": {"title": "罗纳科霍"},
-  "otakOtak": {"title": "奥塔克奥塔克"},
-  "firstAidStation": {"title": "急救站"},
-  "ropeLocker": {"title": "绳索柜"},
-  "scopingStation": {"title": "瞄准站"},
-  "scrapperStation": {"title": "废料站"},
-  "signalGong": {"title": "信号锣"},
-  "warDrums": {"title": "战鼓"},
-  "megaphone": {"title": "扩音器"},
-  "munitionsMixer": {"title": "弹药混合器"},
-  "ironCapstan": {"title": "铁绞盘"},
-  "riggingStation": {"title": "索具站"},
-  "gunnersQuadrant": {"title": "炮手象限仪"},
-  "waterTank": {"title": "水箱"},
-  "culverinWorks1": {"title": "长炮工坊1"},
-  "ironCladdingStation1": {"title": "铁甲站1"},
-  "prismaticPowderPort1": {"title": "棱镜火药左舷1"},
-  "prismaticPowderStarboard1": {"title": "棱镜火药右舷1"},
-  "prismaticPowderFront1": {"title": "棱镜火药前舷1"},
-  "ballistaWorks1": {"title": "弩炮工坊1"},
-  "bombardWorks1": {"title": "轰炸炮工坊1"},
-  "flamethrowerWorks1": {"title": "火焰喷射器工坊1"},
-  "longGunWorks1": {"title": "长枪工坊1"},
-  "maintainedArsenal1": {"title": "维护军械库1"},
-  "torpedoWorks1": {"title": "鱼雷工坊1"},
-  "demicannonWorks1": {"title": "半长炮工坊1"},
-  "mortarWorks1": {"title": "迫击炮工坊1"},
-  "rocketWorks1": {"title": "火箭工坊1"},
-  "grindstoneBombard1": {"title": "轰炸炮磨石1"},
-  "vatOfVolatiles1": {"title": "挥发物桶1"},
-  "grindstoneCulverin1": {"title": "长炮磨石1"},
-  "grindstoneLongGun1": {"title": "长枪磨石1"},
-  "grindstoneTorpedo1": {"title": "鱼雷磨石1"},
-  "grindstoneBallista1": {"title": "弩炮磨石1"},
-  "grindstone1": {"title": "磨石1"},
-  "brazingFurnaceTorpedo1": {"title": "鱼雷钎焊炉1"},
-  "brazingFurnaceDemicannon1": {"title": "半长炮钎焊炉1"},
-  "brazingFurnaceFlamethrower1": {"title": "火焰喷射器钎焊炉1"},
-  "brazingFurnace1": {"title": "钎焊炉1"},
-  "powderHouseBombard1": {"title": "轰炸炮火药房1"},
-  "brazingFurnaceRocket1": {"title": "火箭钎焊炉1"},
-  "brazingFurnaceMortar1": {"title": "迫击炮钎焊炉1"},
-  "powderHouseMortar1": {"title": "迫击炮火药房1"},
-  "repairKit1": {"title": "修理工具1"},
-  "repairKit2": {"title": "修理工具2"},
-  "repairKit3": {"title": "修理工具3"},
-  "enhancedRepairKit1": {"title": "强化修理工具1"},
-  "enhancedRepairKit2": {"title": "强化修理工具2"},
-  "enhancedRepairKit3": {"title": "强化修理工具3"},
-  "restorationKit": {"title": "修复工具"},
-  "bombard1": {"title": "轰炸炮1"},
-  "bombard2": {"title": "轰炸炮2"},
-  "bombard3": {"title": "轰炸炮3"},
-  "bombard4": {"title": "轰炸炮4"},
-  "bombard5": {"title": "轰炸炮5"},
-  "repairBombard1": {"title": "修复轰炸炮1"},
-  "repairBombard2": {"title": "修复轰炸炮2"},
-  "repairBombard3": {"title": "修复轰炸炮3"},
-  "fireBombard1": {"title": "火焰轰炸炮1"},
-  "fireBombard2": {"title": "火焰轰炸炮2"},
-  "fireBombard3": {"title": "火焰轰炸炮3"},
-  "monsMeg1": {"title": "蒙斯梅格1"},
-  "monsMeg2": {"title": "蒙斯梅格2"},
-  "monsMeg3": {"title": "蒙斯梅格3"},
-  "dardanellesGun": {"title": "达达尼尔炮"},
-  "longGun1": {"title": "长枪1"},
-  "longGun2": {"title": "长枪2"},
-  "longGun3": {"title": "长枪3"},
-  "longGun4": {"title": "长枪4"},
-  "longGun5": {"title": "长枪5"},
-  "fireLongGun1": {"title": "火焰长枪1"},
-  "fireLongGun2": {"title": "火焰长枪2"},
-  "fireLongGun3": {"title": "火焰长枪3"},
-  "repairLongGun1": {"title": "修复长枪1"},
-  "repairLongGun2": {"title": "修复长枪2"},
-  "repairLongGun3": {"title": "修复长枪3"},
-  "scurlocksLongNines": {"title": "斯库洛克长九"},
-  "scurlocksChasers": {"title": "斯库洛克追击者"},
-  "torpedo1": {"title": "鱼雷1"},
-  "torpedo2": {"title": "鱼雷2"},
-  "torpedo3": {"title": "鱼雷3"},
-  "shalei1": {"title": "沙雷1"},
-  "shalei2": {"title": "沙雷2"},
-  "shalei3": {"title": "沙雷3"},
-  "rahmasAmbition": {"title": "拉玛的野心"},
-  "rahmasLegacy": {"title": "拉玛的遗产"},
-  "pickaxe1": {"title": "镐1"},
-  "pickaxe2": {"title": "镐2"},
-  "pickaxe3": {"title": "镐3"},
-  "pickaxe4": {"title": "镐4"},
-  "pickaxe5": {"title": "镐5"},
-  "saw1": {"title": "锯1"},
-  "saw2": {"title": "锯2"},
-  "saw3": {"title": "锯3"},
-  "saw4": {"title": "锯4"},
-  "saw5": {"title": "锯5"},
-  "sickle1": {"title": "镰刀1"},
-  "sickle2": {"title": "镰刀2"},
-  "sickle3": {"title": "镰刀3"},
-  "sickle4": {"title": "镰刀4"},
-  "sickle5": {"title": "镰刀5"},
-  "spyglass1": {"title": "望远镜1"},
-  "spyglass2": {"title": "望远镜2"},
-  "spyglass3": {"title": "望远镜3"},
-  "crowbar1": {"title": "撬棍1"},
-  "crowbar2": {"title": "撬棍2"},
-  "crowbar3": {"title": "撬棍3"},
-  "crowbar4": {"title": "撬棍4"},
-  "crowbar5": {"title": "撬棍5"},
-  "huntingSpear1": {"title": "狩猎矛1"},
-  "huntingSpear2": {"title": "狩猎矛2"},
-  "huntingSpear3": {"title": "狩猎矛3"},
-  "huntingSpear4": {"title": "狩猎矛4"},
-  "huntingSpear5": {"title": "狩猎矛5"},
-  "maintenanceForge1": {"title": "维护熔炉1"},
-  "doublePlankedHull1": {"title": "双层船体1"},
-  "boatswainsCall1": {"title": "水手长哨1"},
-  "chainsLocker1": {"title": "锁链柜1"},
-  "joineryWorkshop1": {"title": "细木工坊1"},
-  "gunpowderBench1": {"title": "火药台1"},
-  "leadKettle1": {"title": "铅壶1"},
-  "spikedWarHorn1": {"title": "尖刺战号1"},
-  "stickyFuelStation1": {"title": "粘性燃料站1"},
-  "storageCompartment1": {"title": "储物舱1"},
-  "toolSmithy1": {"title": "工具锻造坊1"},
-  "flagPaintingStation1": {"title": "旗帜绘制站1"},
-  "volatileFuel1": {"title": "挥发燃料1"},
-  "leatherRopeGrips1": {"title": "皮革绳套1"},
-  "balancedMast1": {"title": "平衡桅杆1"},
-  "lightenedMast1": {"title": "轻量化桅杆1"},
-  "sterileGalley1": {"title": "无菌厨房1"},
-  "rumPantry1": {"title": "朗姆酒储藏室1"},
-  "laPotenceSchematics1": {"title": "拉波滕斯设计图1"},
-  "fauleIlse": {"title": "福尔伊尔斯"},
-  "laPiqure1": {"title": "拉皮克尔1"},
-  "laPiqure2": {"title": "拉皮克尔2"},
-  "laPiqure3": {"title": "拉皮克尔3"}
+  "other": {
+    "name": "其他"
+  },
+  "huntingSpear": {
+    "name": "狩猎长矛",
+    "description": {
+      "general": "用于猎杀动物或鲨鱼的长矛。",
+      "2": "改进后的长矛能更快猎杀动物或鲨鱼。",
+      "3": "进一步改进的长矛，猎杀速度更胜一筹。",
+      "4": "强化长矛，对野生动物造成更高伤害。",
+      "5": "完全强化的长矛，对野生动物的伤害达到顶峰。"
+    }
+  },
+  "crowbar": {
+    "name": "撬棍",
+    "description": {
+      "general": "用于打捞沉船物资。",
+      "2": "打捞沉船效率提升，适合中型沉船。",
+      "3": "打捞效率大幅提升，适合大型沉船。",
+      "4": "可高效打捞各类沉船并获取更多资源。",
+      "5": "升级版工具，打捞沉船时产量更高。"
+    }
+  },
+  "spyglass": {
+    "name": "望远镜",
+    "description": {
+      "general": "单筒望远镜。",
+      "1": "基础单镜片望远镜，一级变焦。",
+      "2": "双镜片改进型，支持二级变焦。",
+      "3": "三镜片高级型号，观测距离更远。"
+    }
+  },
+  "sickle": {
+    "name": "镰刀",
+    "description": {
+      "general": "用于收割植物。",
+      "2": "收割效率小幅提升。",
+      "3": "收割效率中等提升。",
+      "4": "收割效率显著提升，并有概率获得额外产出。",
+      "5": "收割效率极致提升，额外产出概率增加。"
+    }
+  },
+  "saw": {
+    "name": "锯子",
+    "description": {
+      "general": "用于砍伐树木。",
+      "2": "砍伐效率小幅提升。",
+      "3": "砍伐效率中等提升。",
+      "4": "砍伐效率大幅提升，并有概率获得额外木材。",
+      "5": "砍伐效率极致提升，额外木材概率增加。"
+    }
+  },
+  "pickaxe": {
+    "name": "矿镐",
+    "description": {
+      "general": "用于开采矿藏。",
+      "2": "开采效率小幅提升。",
+      "3": "开采效率中等提升。",
+      "4": "开采效率大幅提升，并有概率获得额外矿物。",
+      "5": "开采效率极致提升，额外矿物概率增加。"
+    }
+  },
+  "cannonballCrate": {
+    "name": "炮弹箱",
+    "description": {
+      "general": "内含100枚加农炮炮弹。"
+    }
+  },
+  "bombardBombCrate": {
+    "name": "臼炮炸弹箱",
+    "description": {
+      "general": "内含60枚臼炮炸弹。"
+    }
+  },
+  "ballistaBoltCrate": {
+    "name": "弩炮弹箱",
+    "description": {
+      "general": "内含20支弩炮箭矢。"
+    }
+  },
+  "seaFireOilCrate": {
+    "name": "海火油罐箱",
+    "description": {
+      "general": "内含60罐海火武器燃料。"
+    }
+  },
+  "mortarBombCrate": {
+    "name": "迫击炮弹箱",
+    "description": {
+      "general": "内含20枚迫击炮弹。"
+    }
+  },
+  "rocketCrate": {
+    "name": "火箭箱",
+    "description": {
+      "general": "内含100枚火箭弹。"
+    }
+  },
+  "torpedoCrate": {
+    "name": "鱼雷箱",
+    "description": {
+      "general": "内含60枚鱼雷。"
+    }
+  },
+  "ironHusk": {
+    "name": "铁甲外壳",
+    "description": {
+      "general": "暗色交错钢板构成，原始却坚不可摧的钢铁堡垒。"
+    }
+  },
+  "layeredScales": {
+    "name": "叠层鳞甲",
+    "description": {
+      "general": "红褐色鳞片与黑铁熔铸，自然与工艺的深海防线。"
+    }
+  },
+  "laForteresse": {
+    "name": "堡垒装甲",
+    "description": {
+      "general": "如暴风雨中的海面般深蓝鎏金，象征怒涛中的可靠守护。"
+    }
+  },
+  "theBastion": {
+    "name": "棱堡装甲",
+    "description": {
+      "general": "编织木料与金属光泽交融，彰显精妙防御工艺。"
+    }
+  },
+  "gambaKobe": {
+    "name": "神户护甲",
+    "description": {
+      "general": "多层木板密封船体缝隙，打造气密坚固结构。"
+    }
+  },
+  "kawaca": {
+    "name": "卡瓦查护甲",
+    "description": {
+      "general": "青柠与芥末色调，致敬远古坚船设计。"
+    }
+  },
+  "blackPrince": {
+    "name": "黑太子装甲",
+    "description": {
+      "general": "为斯库洛克量身定制，红金甲板在最脆弱处反而最为坚固。"
+    }
+  },
+  "ouroboros": {
+    "name": "衔尾蛇装甲",
+    "description": {
+      "general": "以传说海怪库哈里布之皮缝制，据说具有再生神力。"
+    }
+  },
+  "wailingWard": {
+    "name": "哀嚎护甲",
+    "description": {
+      "general": "由瘟疫使者部下研发，表面涂层可抵抗自身毒器。"
+    }
+  },
+  "wrathfulWard": {
+    "name": "怒焰护甲",
+    "description": {
+      "general": "浸染毒化学物质，随浪涛翻涌释放致命毒雾。"
+    }
+  },
+  "royalCustodian": {
+    "name": "皇家守卫",
+    "description": {
+      "general": "华丽鎏金外观，引诱所有海盗追逐财富。"
+    }
+  },
+  "mortar": {
+    "name": "迫击炮",
+    "description": {
+      "general": "发射毁灭性炮弹，对大范围区域造成巨额伤害。"
+    }
+  },
+  "leopold": {
+    "name": "利奥波德炮",
+    "description": {
+      "general": "发射霰弹的重炮，能撕裂船体并引发进水。"
+    }
+  },
+  "leFleau": {
+    "name": "灾厄炮",
+    "description": {
+      "general": "菲利普·拉佩斯特制毒炮，腐臭炮弹会消耗船员体力。"
+    }
+  },
+  "repairMortar": {
+    "name": "维修迫击炮",
+    "description": {
+      "general": "发射粘合剂包，修复友方船只船体破损。"
+    }
+  },
+  "rocket": {
+    "name": "火箭炮",
+    "description": {
+      "general": "速射火箭发射器，倾泻火焰弹幕。"
+    }
+  },
+  "theTermitesRocket": {
+    "name": "白蚁火箭",
+    "description": {
+      "general": "远东设计的曲射火箭炮，对建筑造成额外伤害。"
+    }
+  },
+  "bombard": {
+    "name": "臼炮",
+    "description": {
+      "general": "范围轰炸武器，可同时打击多个目标。"
+    }
+  },
+  "monsMeg": {
+    "name": "蒙斯梅格炮",
+    "description": {
+      "general": "苏格兰攻城臼炮，专为摧毁城墙打造。"
+    }
+  },
+  "dardanellesGun": {
+    "name": "达达尼尔巨炮",
+    "description": {
+      "general": "奥斯曼恐怖巨炮，齐射时毁天灭地。"
+    }
+  },
+  "fireBombard": {
+    "name": "火焰臼炮",
+    "description": {
+      "general": "轰炸范围目标并附加燃烧效果。"
+    }
+  },
+  "repairBombard": {
+    "name": "维修臼炮",
+    "description": {
+      "general": "发射修复粘合剂，修补友方船体。"
+    }
+  },
+  "torpedo": {
+    "name": "鱼雷",
+    "description": {
+      "general": "延迟引爆的双倍伤害鱼雷，无法攻击建筑。"
+    }
+  },
+  "shalei": {
+    "name": "沙雷鱼雷",
+    "description": {
+      "general": "高爆鱼雷可伤害多个目标，延迟引爆伤害翻倍。"
+    }
+  },
+  "rahmasAmbition": {
+    "name": "拉玛的野望",
+    "description": {
+      "general": "拉玛鱼雷改进型，同时命中时伤害倍增。"
+    }
+  },
+  "rahmasLegacy": {
+    "name": "拉玛的遗产",
+    "description": {
+      "general": "拉玛鱼雷终极版，齐射威力登峰造极。"
+    }
+  },
+  "ballista": {
+    "name": "弩炮",
+    "description": {
+      "general": "高精度巨弩，蓄力增加射程与威力。"
+    }
+  },
+  "greatSpringald": {
+    "name": "巨弩炮",
+    "description": {
+      "general": "专为撕裂船帆设计的强化巨弩。"
+    }
+  },
+  "twinWinchBallista": {
+    "name": "双绞盘弩炮",
+    "description": {
+      "general": "双绞盘结构可实现更强力蓄力。"
+    }
+  },
+  "seaFire": {
+    "name": "海火喷射器",
+    "description": {
+      "general": "短程喷射液态火焰焚烧一切。"
+    }
+  },
+  "kallinikosFlame": {
+    "name": "卡利尼科斯火焰",
+    "description": {
+      "general": "改良型海火，能有效削弱敌船防御。"
+    }
+  },
+  "blueSpecter": {
+    "name": "蓝焰幽魂",
+    "description": {
+      "general": "来历不明的异界武器，喷射幽蓝高温火焰。"
+    }
+  },
+  "culverin": {
+    "name": "长管炮",
+    "description": {
+      "general": "均衡型加农炮，射程、伤害与装填俱佳。"
+    }
+  },
+  "tearingCulverin": {
+    "name": "撕裂长管炮",
+    "description": {
+      "general": "擅长撕裂船帆的均衡加农炮。"
+    }
+  },
+  "basilisk": {
+    "name": "蛇怪炮",
+    "description": {
+      "general": "以神话毒蛇命名的青铜炮，可削弱敌船防御。"
+    }
+  },
+  "longGun": {
+    "name": "长重炮",
+    "description": {
+      "general": "专精远程打击的长身管加农炮。"
+    }
+  },
+  "fireLongGun": {
+    "name": "火焰长重炮",
+    "description": {
+      "general": "远程加农炮，炮弹附带燃烧效果。"
+    }
+  },
+  "repairLongGun": {
+    "name": "维修长重炮",
+    "description": {
+      "general": "发射修复粘弹的远程支援武器。"
+    }
+  },
+  "scurlocksChasers": {
+    "name": "斯库洛克追击炮",
+    "description": {
+      "general": "斯库洛克惯用的桅杆破坏武器。"
+    }
+  },
+  "scurlocksLongNines": {
+    "name": "斯库洛克长九炮",
+    "description": {
+      "general": "斯库洛克招牌的桅杆杀手。"
+    }
+  },
+  "demicannon": {
+    "name": "半长炮",
+    "description": {
+      "general": "近程霰弹炮，撕裂敌船效果卓越。"
+    }
+  },
+  "floodingDemicannon": {
+    "name": "进水半长炮",
+    "description": {
+      "general": "霰弹炮，命中后易引发船体进水。"
+    }
+  },
+  "carronade": {
+    "name": "卡隆炮",
+    "description": {
+      "general": "轻量化革新设计，牺牲射程换取精准低后坐力。"
+    }
+  },
+  "zamzama": {
+    "name": "赞姆扎马炮",
+    "description": {
+      "general": "短程大口径雷霆火炮，可削弱敌船防御。"
+    }
+  },
+  "repairKit": {
+    "name": "维修工具",
+    "description": {
+      "general": "修复部分船体耐久",
+      "1": "修复少量船体耐久。",
+      "2": "修复中等量船体耐久。",
+      "3": "修复大量船体耐久。"
+    }
+  },
+  "enhancedRepairKit": {
+    "name": "强化维修工具",
+    "description": {
+      "general": "按比例修复船体耐久",
+      "1": "修复少量百分比耐久。",
+      "2": "修复中等百分比耐久。",
+      "3": "修复高比例耐久。"
+    }
+  },
+  "restorationKit": {
+    "name": "恢复工具",
+    "description": {
+      "general": "清除船体所有负面状态。"
+    }
+  },
+  "grilledBeef": {
+    "name": "烤牛肉",
+    "description": {
+      "general": "用香料腌制后串烤的流行肉食。"
+    }
+  },
+  "grilledCoconut": {
+    "name": "烤椰球",
+    "description": {
+      "general": "烤至金黄的椰蓉球裹椰丝。"
+    }
+  },
+  "grilledFish": {
+    "name": "烤鱼",
+    "description": {
+      "general": "水手主食：架火烤至外脆里嫩。"
+    }
+  },
+  "grilledCrocodile": {
+    "name": "烤鳄鱼肉",
+    "description": {
+      "general": "肉质紧实温和，风味近似鱼类。"
+    }
+  },
+  "grilledShark": {
+    "name": "烤鲨鱼肉",
+    "description": {
+      "general": "掠食者沦为盘中餐，炙烤后腥香扑鼻。"
+    }
+  },
+  "grilledMutton": {
+    "name": "烤羊肉",
+    "description": {
+      "general": "文火慢烤数小时的香嫩羊肉。"
+    }
+  },
+  "grilledChicken": {
+    "name": "烤鸡",
+    "description": {
+      "general": "整鸡烤至金黄，航海者简餐。"
+    }
+  },
+  "grilledBread": {
+    "name": "烤面包",
+    "description": {
+      "general": "追溯至农业起源的古老食物。"
+    }
+  },
+  "grilledBanana": {
+    "name": "烤芭蕉",
+    "description": {
+      "general": "甜咸兼具的烤大蕉小吃。"
+    }
+  },
+  "grilledPrimeHippo": {
+    "name": "烤河马上腰肉",
+    "description": {
+      "general": "精选河马肉排，野味浓郁。"
+    }
+  },
+  "grilledPrimeCrocodile": {
+    "name": "烤鳄鱼上腰肉",
+    "description": {
+      "general": "鳄鱼最佳部位，纤维分明有嚼劲。"
+    }
+  },
+  "tylosaurusSteak": {
+    "name": "沧龙肉排",
+    "description": {
+      "general": "非洲海岸远古掠食者的肉排，微甜紧实。"
+    }
+  },
+  "grilledScrewpine": {
+    "name": "烤露兜糕",
+    "description": {
+      "general": "用露兜叶包裹烤制的绿色甜糕。"
+    }
+  },
+  "grilledVegetables": {
+    "name": "烤蔬菜",
+    "description": {
+      "general": "印度洋草本蔬菜杂烤，简单而丰盛。"
+    }
+  },
+  "grilledDurian": {
+    "name": "烤榴莲片",
+    "description": {
+      "general": "烘干后炙烤的榴莲片，散发烟熏甜香。"
+    }
+  },
+  "grilledHippo": {
+    "name": "烤河马肉",
+    "description": {
+      "general": "肉质粗韧带甜味。"
+    }
+  },
+  "varyBeMenaka": {
+    "name": "瓦里贝梅纳卡",
+    "description": {
+      "general": "搭配肥美肉块的米饭。"
+    }
+  },
+  "godrogodro": {
+    "name": "椰糖糕",
+    "description": {
+      "general": "传统炭火椰子蛋糕。"
+    }
+  },
+  "trondroGasy": {
+    "name": "特隆德罗加西",
+    "description": {
+      "general": "蔬菜炖鱼配米饭。"
+    }
+  },
+  "ndiziNaNyama": {
+    "name": "芭蕉炖鸡",
+    "description": {
+      "general": "甜咸交融的芭蕉鸡肉炖菜。"
+    }
+  },
+  "ragout": {
+    "name": "杂烩炖肉",
+    "description": {
+      "general": "多种肉类的香料炖煮。"
+    }
+  },
+  "sateKambing": {
+    "name": "沙爹羊肉",
+    "description": {
+      "general": "炭烤香料羊肉串，鲜嫩多汁。"
+    }
+  },
+  "bitterballen": {
+    "name": "荷兰肉丸",
+    "description": {
+      "general": "浓炖肉酱冷却后裹面包屑炸制。"
+    }
+  },
+  "ronakoho": {
+    "name": "罗纳科霍汤",
+    "description": {
+      "general": "全鸡与鲜料熬制的高汤。"
+    }
+  },
+  "mchuziWaKuharibu": {
+    "name": "库哈里布炖肉",
+    "description": {
+      "general": "海怪肉佐番茄香料，椰奶根茎慢炖。"
+    }
+  },
+  "otakOtak": {
+    "name": "乌打乌打",
+    "description": {
+      "general": "鱼肉香料叶包烤/蒸制。"
+    }
+  },
+  "firstAidStation": {
+    "name": "急救站",
+    "description": {
+      "general": "要是你先开枪打那帮杂碎，现在就不用包扎了！"
+    }
+  },
+  "ironCapstan": {
+    "name": "铁制绞盘",
+    "description": {
+      "general": "下锚吧船长！那群蠢货根本打不中我们！"
+    }
+  },
+  "ropeLocker": {
+    "name": "缆绳柜",
+    "description": {
+      "general": "嘿菜鸟！你他妈用勺子擦屁股吗？这是装饰绳不是锚绳！"
+    }
+  },
+  "scopingStation": {
+    "name": "观测台",
+    "description": {
+      "general": "盯紧敌船小子！别让我抓到你偷看美人鱼！"
+    }
+  },
+  "scrapperStation": {
+    "name": "抢修站",
+    "description": {
+      "general": "镐头餐刀破鞋都行！给老子补船！"
+    }
+  },
+  "signalGong": {
+    "name": "信号锣",
+    "description": {
+      "general": "听见没蠢货？这他妈不是开饭铃！"
+    }
+  },
+  "warDrums": {
+    "name": "战鼓",
+    "description": {
+      "general": "敌人来了弟兄们！就算戴维琼斯来索命，也告诉他我们还没准备好进 locker！"
+    }
+  },
+  "megaphone": {
+    "name": "扩音筒",
+    "description": {
+      "general": "每声号角都让我们的炮火更猛烈。"
+    }
+  },
+  "munitionsMixer": {
+    "name": "弹药调配台",
+    "description": {
+      "general": "小心配比你们这些蠢货！老子另一边眉毛可不想再被烧掉！"
+    }
+  },
+  "riggingStation": {
+    "name": "索具工坊",
+    "description": {
+      "general": "抄家伙海老鼠！修船要比他们凿洞更快！"
+    }
+  },
+  "gunnersQuadrant": {
+    "name": "炮手象限仪",
+    "description": {
+      "general": "船长咱们在数他们外套上的虱子吗？到底他妈能不能开炮了？！"
+    }
+  },
+  "waterTank": {
+    "name": "水箱",
+    "description": {
+      "general": "三天没水？呵，一天没朗姆才是地狱。"
+    }
+  },
+  "maintenanceForge": {
+    "name": "维护熔炉",
+    "description": {
+      "general": "熔炉坏了谁来修熔炉？"
+    }
+  },
+  "doublePlankedHull": {
+    "name": "双层船壳",
+    "description": {
+      "general": "加厚船壳更抗揍，但沉得比醉鬼的美梦还快！"
+    }
+  },
+  "boatswainsCall": {
+    "name": "水手长哨",
+    "description": {
+      "general": "这他妈不是下午茶时间！全员战位！"
+    }
+  },
+  "chainsLocker": {
+    "name": "锁链柜",
+    "description": {
+      "general": "上链弹弟兄！让他们的船帆变成破抹布！"
+    }
+  },
+  "joineryWorkshop": {
+    "name": "细木工坊",
+    "description": {
+      "general": "缺胳膊少腿别怕，工坊里有备用假肢！"
+    }
+  },
+  "gunpowderBench": {
+    "name": "火药工作台",
+    "description": {
+      "general": "这个加点那个搅拌，砰！给敌人送温暖！"
+    }
+  },
+  "leadKettle": {
+    "name": "铅壶",
+    "description": {
+      "general": "铅弹是喂敌人脖子的，不是他娘泡茶的！"
+    }
+  },
+  "spikedWarHorn": {
+    "name": "尖刺战号",
+    "description": {
+      "general": "抄家伙弟兄！顺便卸他们几条胳膊！"
+    }
+  },
+  "stickyFuelStation": {
+    "name": "粘油站",
+    "description": {
+      "general": "要又稠又恶心兄弟们！得像情人屁股黏在腿上那样糊住敌船！"
+    }
+  },
+  "storageCompartment": {
+    "name": "储物舱",
+    "description": {
+      "general": "这里放物资不是放你们的黄书！要让我发现私藏朗姆或春宫图就等死吧！"
+    }
+  },
+  "toolSmithy": {
+    "name": "工具铁匠铺",
+    "description": {
+      "general": "是先有木头还是先有砍木头的木头？"
+    }
+  },
+  "flagPaintingStation": {
+    "name": "旗帜彩绘站",
+    "description": {
+      "general": "每个下流船队都有艺术家，而我们这位...专精某种图案。"
+    }
+  },
+  "volatileFuel": {
+    "name": "易燃燃料",
+    "description": {
+      "general": "船长想找死吗？这些桶露天放着，一个火星我们就成篝火了！"
+    }
+  },
+  "leatherRopeGrips": {
+    "name": "皮革绳套",
+    "description": {
+      "general": "拉紧绳索！收帆要比秃子剃头还快！"
+    }
+  },
+  "balancedMast": {
+    "name": "平衡桅杆",
+    "description": {
+      "general": "通用型——不表示老子他妈优柔寡断！"
+    }
+  },
+  "sterileGalley": {
+    "name": "无菌厨房",
+    "description": {
+      "general": "臭小子们！进来前把靴子上的屎蹭干净！"
+    }
+  },
+  "rumPantry": {
+    "name": "朗姆储藏室",
+    "description": {
+      "general": "这才像话。"
+    }
+  },
+  "lightenedMast": {
+    "name": "轻型桅杆",
+    "description": {
+      "general": "听说东印度赛船会的落后者能溜过梅加福特炮台..."
+    }
+  },
+  "longGunWorks": {
+    "name": "长炮工坊",
+    "description": {
+      "general": "简单粗暴，杀人更快。"
+    }
+  },
+  "demicannonWorks": {
+    "name": "半长炮工坊",
+    "description": {
+      "general": "达曼总想朝敌人喷火——直到有天敌人喷了回来..."
+    }
+  },
+  "culverinWorks": {
+    "name": "长管炮工坊",
+    "description": {
+      "general": "玛雅的祈祷与天使优雅下，藏着黑暗与秘密。"
+    }
+  },
+  "vatOfVolatiles": {
+    "name": "易燃罐",
+    "description": {
+      "general": "丹尼想洗脸，现在他没脸了。"
+    }
+  },
+  "ironCladdingStation": {
+    "name": "铁甲包覆站",
+    "description": {
+      "general": "钢铁意志弟兄们！我们会像捅纸一样捅穿他们！"
+    }
+  },
+  "prismaticPowderFront": {
+    "name": "舰首火药桶",
+    "description": {
+      "general": "这不是仙女粉，但能让敌人'砰'消失！"
+    }
+  },
+  "prismaticPowderPort": {
+    "name": "左舷火药桶",
+    "description": {
+      "general": "以为是鼻烟？来吸一口！保证让你'脑洞大开'嘿嘿嘿。"
+    }
+  },
+  "prismaticPowderStarboard": {
+    "name": "右舷火药桶",
+    "description": {
+      "general": "别被名字迷惑，它的美在于毁灭性！"
+    }
+  },
+  "ballistaWorks": {
+    "name": "弩炮工坊",
+    "description": {
+      "general": "沉默如深海的伊莎贝尔，箭矢刺穿海怪藏身处。"
+    }
+  },
+  "bombardWorks": {
+    "name": "臼炮工坊",
+    "description": {
+      "general": "巴尔莱思念故土，在战火中用辛辣幽默呐喊。"
+    }
+  },
+  "flamethrowerWorks": {
+    "name": "海火工坊",
+    "description": {
+      "general": "冒烟是他的名字，喷吐烟雾与温吞火焰。"
+    }
+  },
+  "maintainedArsenal": {
+    "name": "维护军械库",
+    "description": {
+      "general": "该用老派方式解决问题了。"
+    }
+  },
+  "torpedoWorks": {
+    "name": "鱼雷工坊",
+    "description": {
+      "general": "阿马拉的智慧曾如火花闪耀，却在失败劫案中归于沉寂。"
+    }
+  },
+  "mortarWorks": {
+    "name": "迫击炮工坊",
+    "description": {
+      "general": "大海铭记玛莎的机敏与嘲讽。"
+    }
+  },
+  "rocketWorks": {
+    "name": "火箭工坊",
+    "description": {
+      "general": "纯白如雪的志郎，天真表象下藏着未诉的血色故事。"
+    }
+  },
+  "grindstoneBallista": {
+    "name": "弩炮磨石",
+    "description": {
+      "general": "我见过一箭穿三人，下次争取四个！"
+    }
+  },
+  "grindstoneBombard": {
+    "name": "臼炮磨石",
+    "description": {
+      "general": "不光刀刃要磨。记得有个出轨混蛋亲眼见识过亲密接触..."
+    }
+  },
+  "grindstoneCulverin": {
+    "name": "长管炮磨石",
+    "description": {
+      "general": "磨石除了磨武器还能干啥？能祛除诅咒吗？"
+    }
+  },
+  "grindstoneLongGun": {
+    "name": "长重炮磨石",
+    "description": {
+      "general": "听说过长臂船长吗？有次磨炮管时手凑太近..."
+    }
+  },
+  "grindstoneTorpedo": {
+    "name": "鱼雷磨石",
+    "description": {
+      "general": "磨亮那些鱼雷管！要像醉鬼钱袋绳那样利落！"
+    }
+  },
+  "grindstone": {
+    "name": "磨石",
+    "description": {
+      "general": "除了磨武器还能干啥？能祛除诅咒吗？"
+    }
+  },
+  "brazingFurnaceFlamethrower": {
+    "name": "海火熔炉",
+    "description": {
+      "general": "这他娘才叫明火！"
+    }
+  },
+  "brazingFurnace": {
+    "name": "钎焊熔炉",
+    "description": {
+      "general": "火焰让我想起凯特遇难那夜，我升起旗帜只为再触她柔软的毛皮。"
+    }
+  },
+  "brazingFurnaceMortar": {
+    "name": "迫击炮熔炉",
+    "description": {
+      "general": "把炮弹烧得滚烫！我们要像坏牡蛎那样让他们拉肚子！"
+    }
+  },
+  "brazingFurnaceTorpedo": {
+    "name": "鱼雷熔炉",
+    "description": {
+      "general": "把发射管插进熔炉！让敌人在尾流里沸腾！"
+    }
+  },
+  "brazingFurnaceRocket": {
+    "name": "火箭熔炉",
+    "description": {
+      "general": "马特总穿白衣，每块黑斑都是荣誉勋章。"
+    }
+  },
+  "brazingFurnaceDemicannon": {
+    "name": "半长炮熔炉",
+    "description": {
+      "general": "火焰让我想起凯特遇难那夜，我升起旗帜只为再触她柔软的毛皮。"
+    }
+  },
+  "powderHouseBombard": {
+    "name": "臼炮火药库",
+    "description": {
+      "general": "严禁明火！我是认真的！"
+    }
+  },
+  "powderHouseMortar": {
+    "name": "迫击炮火药库",
+    "description": {
+      "general": "操！说了不准有明火！"
+    }
+  },
+  "laPotenceSchematics": {
+    "name": "绞刑架图纸",
+    "description": {
+      "general": "我看见绿色蔓延，直到整片海洋成为翡翠色的死亡。"
+    }
+  },
+  "fauleIlse": {
+    "name": "污秽伊尔瑟",
+    "description": {
+      "general": "霰弹命中后铁片飞溅，适合对付密集船队。"
+    }
+  },
+  "theWarhammer": {
+    "name": "战锤火箭",
+    "description": {
+      "general": "从天而降的毁灭性火箭，名副其实的战场平衡者。"
+    }
+  },
+  "endlessRequiem": {
+    "name": "无尽安魂曲",
+    "description": {
+      "general": "于贝尔兄弟的制导鱼雷，极难躲避。"
+    }
+  },
+  "laPiqure": {
+    "name": "毒刺炮",
+    "description": {
+      "general": "瘟疫使者特制毒炮，消耗体力且无法被格挡。"
+    }
+  },
+  "dummySpringloader": {
+    "name": "假弹簧炮",
+    "description": {
+      "general": "他们分不出真假。哈哈哈！"
+    }
+  },
+  "fatanaStation": {
+    "name": "法塔纳站",
+    "description": {
+      "general": "一撮火药一把料。这可不是你屁眼放炮，伙计。"
+    }
+  },
+  "tuningStation": {
+    "name": "调谐站",
+    "description": {
+      "general": "装弹！不然把你们塞进去！"
+    }
+  },
+  "stormwovenSymphony": {
+    "name": "风暴交响乐",
+    "description": {
+      "general": "海浪上的完整乐团，愿他们的歌声成为你的护盾。"
+    }
+  },
+  "buccaneersOath": {
+    "name": "海盗誓约",
+    "description": {
+      "general": "刻在船体的誓言比任何炮弹都坚固。"
+    }
+  },
+  "mineSpringloader": {
+    "name": "水雷弹簧炮",
+    "description": {
+      "general": "发射雷场浮标布置致命陷阱。"
+    }
+  },
+  "infernalMaw": {
+    "name": "炼狱之口",
+    "description": {
+      "general": "改进型火焰雷场，爆炸时释放海火液体。"
+    }
+  },
+  "littleGrace": {
+    "name": "小恩惠",
+    "description": {
+      "general": "发射修复浮标修补船体桅杆。"
+    }
+  },
+  "abyssal": {
+    "name": "深渊护甲",
+    "description": {
+      "general": "深蓝鳞甲与银光交辉，可抵御最猛烈的火焰。"
+    }
+  },
+  "buoyShellsCrate": {
+    "name": "浮标炮弹箱",
+    "description": {
+      "general": "内含20枚弹簧炮浮标炮弹"
+    }
+  },
+  "leviathanArmor": {
+    "name": "利维坦护甲",
+    "description": {
+      "general": "以海怪 lestari 皮革打造的坚固流线型护甲，提升航速。"
+    }
+  },
+  "springloaderFurnace": {
+    "name": "弹簧炮熔炉",
+    "description": {
+      "general": "小心别烧着木头——就像你的眉毛！"
+    }
+  },
+  "springloaderPowderhouse": {
+    "name": "浮标火药库",
+    "description": {
+      "general": "再有人带明火进来，就把你塞进炮管！"
+    }
+  },
+  "machinistStationRepair": {
+    "name": "机械师台(修复)",
+    "description": {
+      "general": "这些浮标是给友军的！别花太多时间折腾！"
+    }
+  },
+  "raisedQuarterdeck": {
+    "name": "高尾楼",
+    "description": {
+      "general": "呃。湿袜子。世上最糟的东西。"
+    }
+  },
+  "buoyLocker": {
+    "name": "浮标柜",
+    "description": {
+      "general": "好奇那些华丽假发下面藏着多少浮标。"
+    }
+  },
+  "brouwersPowderhouse": {
+    "name": "布鲁尔火药库",
+    "description": {
+      "general": "原来屠夫的火药藏在这？正好用来屠他手下！"
+    }
+  },
+  "compagnieScreens": {
+    "name": "公司屏风",
+    "description": {
+      "general": "喂！这玩意儿不是给你们打盹的！"
+    }
+  },
+  "medicineCabinet": {
+    "name": "医药柜",
+    "description": {
+      "general": "我觉得你得的不是瘟疫的天花，小子。"
+    }
+  },
+  "compagnieSpiritsLocker": {
+    "name": "公司酒柜",
+    "description": {
+      "general": "哪个混蛋偷喝了我1650年的勃艮第？"
+    }
+  },
+  "secretCache": {
+    "name": "秘密储藏",
+    "description": {
+      "general": "我们要求丰厚报酬。只为银币卖命，弟兄们。"
+    }
+  },
+  "bombardMenuiserie": {
+    "name": "臼炮细木坊",
+    "description": {
+      "general": "接这里，连那里。记不住就把你脑袋钉甲板上！"
+    }
+  },
+  "rhapsodyOfTheDeep": {
+    "name": "深海狂想曲",
+    "description": {
+      "general": "无人能伤及品味如此奢华的船长。"
+    }
+  },
+  "cursedBanner": {
+    "name": "诅咒旗帜",
+    "description": {
+      "general": "旗帜在低语..."
+    }
+  },
+  "lemariMakanan": {
+    "name": "食物柜",
+    "description": {
+      "general": "吃了吗？酸菜咸鱼管够。"
+    }
+  },
+  "bedarUpgrade": {
+    "name": "贝达尔船升级",
+    "description": {
+      "general": "贝达尔船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "hulkUpgrade": {
+    "name": "赫尔克船升级",
+    "description": {
+      "general": "赫尔克船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "cutterUpgrade": {
+    "name": "卡特船升级",
+    "description": {
+      "general": "卡特船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "bargeUpgrade": {
+    "name": "巴吉船升级",
+    "description": {
+      "general": "巴吉船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "sloopUpgrade": {
+    "name": "单桅船升级",
+    "description": {
+      "general": "单桅船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "padewakangUpgrade": {
+    "name": "帕德瓦康船升级",
+    "description": {
+      "general": "帕德瓦康船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "snowUpgrade": {
+    "name": "斯诺船升级",
+    "description": {
+      "general": "斯诺船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "brigantineUpgrade": {
+    "name": "双桅船升级",
+    "description": {
+      "general": "双桅船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "sambukUpgrade": {
+    "name": "桑布克船升级",
+    "description": {
+      "general": "桑布克船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "barqueUpgrade": {
+    "name": "巴克船升级",
+    "description": {
+      "general": "巴克船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "brigUpgrade": {
+    "name": "布里格船升级",
+    "description": {
+      "general": "布里格船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "battleJunkUpgrade": {
+    "name": "战舢板升级",
+    "description": {
+      "general": "战舢板的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "garudaUpgrade": {
+    "name": "迦楼罗船升级",
+    "description": {
+      "general": "迦楼罗船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "boatswainsToll": {
+    "name": "水手长铃",
+    "description": {
+      "general": "更大更好！所以你们这帮混蛋最好动起来！"
+    }
+  },
+  "scupperStation": {
+    "name": "排水口站",
+    "description": {
+      "general": "别让我抓到你们把头塞进去！"
+    }
+  },
+  "waterFlask": {
+    "name": "水壶",
+    "description": {
+      "general": "海盗必备饮品。"
+    }
+  },
+  "waterBarrel": {
+    "name": "水桶",
+    "description": {
+      "general": "清爽饮用水。"
+    }
+  },
+  "teulingsCoffee": {
+    "name": "特林咖啡",
+    "description": {
+      "general": "用特林最爱的咖啡豆冲泡。"
+    }
+  },
+  "zongZi": {
+    "name": "粽子",
+    "description": {
+      "general": "用露兜叶包裹的美味米粽，也是鱼类最爱。"
+    }
+  },
+  "teulingsSpecialSteakDinner": {
+    "name": "特林特制牛排餐",
+    "description": {
+      "general": "按特林口味烹制的牛排配菜。"
+    }
+  },
+  "mermaidsTears": {
+    "name": "美人鱼之泪",
+    "description": {
+      "general": "最接近美人鱼的存在"
+    }
+  },
+  "darkNStormy": {
+    "name": "黑暗风暴",
+    "description": {
+      "general": "舒缓神经，完美应对公海风暴"
+    }
+  },
+  "scallyGrog": {
+    "name": "恶棍格罗格",
+    "description": {
+      "general": "为总督干杯！"
+    }
+  },
+  "bloodyAnnie": {
+    "name": "血腥安妮",
+    "description": {
+      "general": "甜蜜的提醒，海上总是孤独的"
+    }
+  },
+  "lestarisMeat": {
+    "name": "莱斯塔里肉",
+    "description": {
+      "general": "从海怪莱斯塔里身上获取的肉。"
+    }
+  },
+  "grilledLestariMeat": {
+    "name": "烤莱斯塔里肉",
+    "description": {
+      "general": "烤制的海怪肉，尝起来像鸡肉。"
+    }
+  },
+  "leatherFashioningStation": {
+    "name": "皮革加工站",
+    "description": {
+      "general": "试过点燃奶牛吗？这就是原因。"
+    }
+  },
+  "lestariTrophy": {
+    "name": "莱斯塔里战利品",
+    "description": {
+      "general": "\"用半船人的命换这该死的脑袋！\""
+    }
+  },
+  "hubacTuningRack": {
+    "name": "于贝尔调谐架",
+    "description": {
+      "general": "\"齿轮与轴承仿佛在和谐歌唱\""
+    }
+  },
+  "machinistStationMines": {
+    "name": "机械师台(水雷)",
+    "description": {
+      "general": "\"擦亮那些塞子弟兄！还要炸法国佬的假发呢！\""
+    }
+  },
+  "deluxeBallistaBoltCrate": {
+    "name": "精制弩炮弹箱",
+    "description": {
+      "general": "内含弩炮用箭矢",
+      "1": "内含40支弩炮箭矢",
+      "2": "内含60支弩炮箭矢"
+    }
+  },
+  "deluxeSeaFireOilCrate": {
+    "name": "精制海火油罐箱",
+    "description": {
+      "general": "内含海火武器用油罐",
+      "1": "内含120罐海火油",
+      "2": "内含180罐海火油"
+    }
+  },
+  "deluxeCannonballCrate": {
+    "name": "精制炮弹箱",
+    "description": {
+      "general": "内含加农炮用炮弹",
+      "1": "内含200枚炮弹",
+      "2": "内含300枚炮弹"
+    }
+  },
+  "deluxeMortarBombCrate": {
+    "name": "精制迫击炮弹箱",
+    "description": {
+      "general": "内含迫击炮用炸弹",
+      "1": "内含40枚迫击炮弹",
+      "2": "内含60枚迫击炮弹"
+    }
+  },
+  "deluxeRocketCrate": {
+    "name": "精制火箭箱",
+    "description": {
+      "general": "内含火箭发射器用火箭弹",
+      "1": "内含200枚火箭弹",
+      "2": "内含300枚火箭弹"
+    }
+  },
+  "deluxeBuoyShellsCrate": {
+    "name": "精制浮标炮弹箱",
+    "description": {
+      "general": "内含弹簧炮用浮标炮弹",
+      "1": "内含40枚浮标炮弹",
+      "2": "内含60枚浮标炮弹"
+    }
+  },
+  "deluxeBombardBombCrate": {
+    "name": "精制臼炮炸弹箱",
+    "description": {
+      "general": "内含臼炮用炸弹",
+      "1": "内含120枚臼炮炸弹",
+      "2": "内含180枚臼炮炸弹"
+    }
+  },
+  "deluxeTorpedoCrate": {
+    "name": "精制鱼雷箱",
+    "description": {
+      "general": "内含鱼雷发射器用鱼雷",
+      "1": "内含120枚鱼雷",
+      "2": "内含180枚鱼雷"
+    }
+  },
+  "whiteJade": {
+    "name": "白玉炮",
+    "description": {
+      "general": "能修复舰队的神炮，备受海军将领与商人追捧。"
+    }
+  },
+  "thousandYearMonsoon": {
+    "name": "千年季风",
+    "description": {
+      "general": "如百年风暴降临，每击都让龙骨船体无法修复。"
+    }
+  },
+  "crouchingTiger": {
+    "name": "卧虎炮",
+    "description": {
+      "general": "猛虎出击般凶悍，炮弹蕴含远东致狂香料。"
+    }
+  },
+  "spitefulSpikesStation": {
+    "name": "尖刺站",
+    "description": {
+      "general": "\"再啰嗦就把这些塞你屁眼里！\""
+    }
+  },
+  "emergencySails": {
+    "name": "应急帆",
+    "description": {
+      "general": "\"追上那群混蛋！他们杀了可怜的鲍勃！\""
+    }
+  },
+  "celestialDance": {
+    "name": "天界之舞",
+    "description": {
+      "general": "电弧在敌舰间优雅跳跃，若非焦臭味几乎称得上美丽..."
+    }
+  },
+  "hongYiPao": {
+    "name": "红夷炮",
+    "description": {
+      "general": "葡萄牙设计的帝国火炮，炮弹含致狂香料。"
+    }
+  },
+  "heavensMandate": {
+    "name": "天命炮",
+    "description": {
+      "general": "炮鸣如神兽陨落，炮心凝聚天怒风暴。"
+    }
+  },
+  "phoenixTalons": {
+    "name": "凤凰爪",
+    "description": {
+      "general": "喷射华丽死亡，挑衅所有与传奇海盗女王为敌者。"
+    }
+  },
+  "baneOfTenSuns": {
+    "name": "十日之殇",
+    "description": {
+      "general": "精密螺栓穿透船体钢铁，撕裂苍穹。"
+    }
+  },
+  "phoenixCrest": {
+    "name": "凤凰冠",
+    "description": {
+      "general": "华美外表掩藏残酷，变幻色彩令人眩晕狂怒。"
+    }
+  },
+  "organHarvestingStation": {
+    "name": "器官收割站",
+    "description": {
+      "general": "\"可怜的鲍勃想偷喝怪物炖汤\""
+    }
+  },
+  "bracedGunwales": {
+    "name": "加固舷墙",
+    "description": {
+      "general": "\"我不是在躲！你才是！\""
+    }
+  },
+  "heavenlyLance": {
+    "name": "天界长枪",
+    "description": {
+      "general": "发射闪耀鳞片劈开海浪，雷鸣随行。"
+    }
+  },
+  "lestariStew": {
+    "name": "莱斯塔里炖肉",
+    "description": {
+      "general": "薄切海怪肉炒时蔬配米饭。"
+    }
+  },
+  "firstMatesLedger": {
+    "name": "大副账本",
+    "description": {
+      "general": "\"她他妈怎么当上大副的？！\""
+    }
+  },
+  "kinckelsLaboratory": {
+    "name": "金克尔实验室",
+    "description": {
+      "general": "\"将军在此策划让伦帕叛军燃烧的诡计\""
+    }
+  },
+  "shellPackingStation": {
+    "name": "炮弹填装站",
+    "description": {
+      "general": "\"幸运！你再也用不着照镜子看自己丑脸了\""
+    }
+  },
+  "densityFurnace": {
+    "name": "密度熔炉",
+    "description": {
+      "general": "\"抱歉船长，我刚掉了一颗。它垂直炸了\""
+    }
+  },
+  "langrageBarrels": {
+    "name": "碎铁桶",
+    "description": {
+      "general": "\"木腿义的假腿呢？所有尖锐物都扔桶里！\""
+    }
+  },
+  "gearsWorkshop": {
+    "name": "齿轮工坊",
+    "description": {
+      "general": "\"锤子钳子！给他们脑门钉螺栓！\""
+    }
+  },
+  "smokedCanisters": {
+    "name": "熏制罐",
+    "description": {
+      "general": "\"有人看见箭矢先生吗？！\""
+    }
+  },
+  "beamSupports": {
+    "name": "横梁支架",
+    "description": {
+      "general": "\"这堡垒绝不会沉。我发誓！\""
+    }
+  },
+  "divineThunder": {
+    "name": "神雷炮",
+    "description": {
+      "general": "龙口状炮口跃动着风暴精华。"
+    }
+  },
+  "immortalVessel": {
+    "name": "不朽舰甲",
+    "description": {
+      "general": "传说受八神祝福，能在最危急时刻保全船只。"
+    }
+  },
+  "voltasWard": {
+    "name": "伏打护甲",
+    "description": {
+      "general": "铜线编织入船体，将风暴 fury 转化为无害闪光。"
+    }
+  },
+  "amberCoatingStation": {
+    "name": "琥珀涂层站",
+    "description": {
+      "general": "\"该死的吸血虫\""
+    }
+  },
+  "chargeStores": {
+    "name": "电荷储存",
+    "description": {
+      "general": "\"呃，为啥我们头发都竖起来了？\""
+    }
+  },
+  "lotusMooncake": {
+    "name": "莲蓉月饼",
+    "description": {
+      "general": "印有徽记的传统赠礼甜点。"
+    }
+  },
+  "hellepoort": {
+    "name": "地狱门",
+    "description": {
+      "general": "漆黑金属框架诉说着迷失灵魂的故事。"
+    }
+  },
+  "freemansEmbrace": {
+    "name": "自由民拥抱",
+    "description": {
+      "general": "\"船长我发誓，那些眼睛在雾里追着我们...像死神\""
+    }
+  },
+  "cannonballCarvingStation": {
+    "name": "炮弹雕刻站",
+    "description": {
+      "general": "\"你们他妈用这种炮亲老娘？！\""
+    }
+  },
+  "bloodyRed": {
+    "name": "血红旗",
+    "description": {
+      "general": "\"升旗弟兄！今天我们要见血！\""
+    }
+  },
+  "plaguebringersWard": {
+    "name": "瘟疫使者护甲",
+    "description": {
+      "general": "\"那瓶里装的不是白兰地，小子\""
+    }
+  },
+  "quickIgnitingPowder": {
+    "name": "速燃火药",
+    "description": {
+      "general": "\"敢在那边抽烟，老子就少踹一个屁股\""
+    }
+  },
+  "ballistaFurnace": {
+    "name": "弩炮熔炉",
+    "description": {
+      "general": "\"烧红它们弟兄！红到能穿透你们石头般冰冷的心！\""
+    }
+  },
+  "nagasCall": {
+    "name": "娜迦召唤",
+    "description": {
+      "general": "每次炮火闪烁都召唤海兽之力。"
+    }
+  },
+  "agnisFury": {
+    "name": "阿耆尼之怒",
+    "description": {
+      "general": "精密喷嘴将敌人化为灰烬。"
+    }
+  },
+  "eyeOfHeaven": {
+    "name": "天眼",
+    "description": {
+      "general": "上天注视一切，如同被火焰与闪电照亮的夜空。"
+    }
+  },
+  "blightkeeper": {
+    "name": "枯萎守卫",
+    "description": {
+      "general": "发射吸收败者生命力的浮标。"
+    }
+  },
+  "crimsonLotus": {
+    "name": "赤莲",
+    "description": {
+      "general": "愿你的船成为神圣狂热与纯粹目标的化身。"
+    }
+  },
+  "pishacha": {
+    "name": "毕舍遮",
+    "description": {
+      "general": "以逝者之躯锻造，传说已渡往神域。"
+    }
+  },
+  "tanashah": {
+    "name": "塔纳沙",
+    "description": {
+      "general": "金冠垂悬于坚实腰甲，守护不屈意志。"
+    }
+  },
+  "painPiper": {
+    "name": "痛苦笛手",
+    "description": {
+      "general": "\"尝尝这个，鸽痴蠢货！\""
+    }
+  },
+  "drownedOnesToll": {
+    "name": "溺亡者丧钟",
+    "description": {
+      "general": "\"船长爱把灵魂卖给谁都行，我们其他人怎么办...\""
+    }
+  },
+  "chainedLinks": {
+    "name": "锁链环节",
+    "description": {
+      "general": "\"你想当慢乌龟还是独眼龙？\""
+    }
+  },
+  "teulingsGuidance": {
+    "name": "特林指引",
+    "description": {
+      "general": "\"那个特林先生还不赖——虽然是个银发混蛋还总擦燕尾服！\""
+    }
+  },
+  "strangeElixir": {
+    "name": "奇异药剂",
+    "description": {
+      "general": "\"我感觉...能把整艘船砸向敌人！\""
+    }
+  },
+  "decoyDeck": {
+    "name": "诱饵甲板",
+    "description": {
+      "general": "\"谢啦杂种们的炮弹！\""
+    }
+  },
+  "floatCollars": {
+    "name": "浮力项圈",
+    "description": {
+      "general": "\"拿枕头来！浮标需要比你们蠢脑袋更软的垫料！\""
+    }
+  },
+  "mineClearingLocker": {
+    "name": "扫雷柜",
+    "description": {
+      "general": "\"你们他妈在干嘛？当皮球踢水雷？！\""
+    }
+  },
+  "devilsConcoction": {
+    "name": "恶魔调制品",
+    "description": {
+      "general": "\"小子们，那黄水最好不是从你们裤裆漏出来的！\""
+    }
+  },
+  "debrisLocker": {
+    "name": "残骸柜",
+    "description": {
+      "general": "\"谁敢偷懒我就亲手把他塞进去！\""
+    }
+  },
+  "expandingCorkscrewStation": {
+    "name": "扩张螺旋站",
+    "description": {
+      "general": "\"鲍勃，想看魔术吗？\""
+    }
+  },
+  "cannonballChargingStation": {
+    "name": "炮弹充能站",
+    "description": {
+      "general": "\"简单。只要把这头接到那——\""
+    }
+  },
+  "copperFasteningStation": {
+    "name": "铜扣站",
+    "description": {
+      "general": "\"给你们屁眼准备了漂亮礼物！\""
+    }
+  },
+  "rifledBarrelWorkshop": {
+    "name": "膛线工坊",
+    "description": {
+      "general": "\"船长！要用步枪给膛线管刻膛线吗？\""
+    }
+  },
+  "highVelocityKegs": {
+    "name": "高速火药桶",
+    "description": {
+      "general": "\"上次谁他妈装的辣椒粉？\""
+    }
+  },
+  "nashkar": {
+    "name": "纳什卡",
+    "description": {
+      "general": "炮身刻满不可名状的符文，最好别念出来。"
+    }
+  },
+  "dahaaka": {
+    "name": "达哈卡",
+    "description": {
+      "general": "如古水蛇般确保你的怒火穿越浪涛。"
+    }
+  },
+  "rumFruitcake": {
+    "name": "朗姆水果蛋糕",
+    "description": {
+      "general": "斯库洛克最爱的奢华水果蛋糕。"
+    }
+  },
+  "crocodileMeat": {
+    "name": "鳄鱼肉",
+    "description": {
+      "general": "生吃勉强可食。"
+    }
+  },
+  "tylosaurusFlesh": {
+    "name": "沧龙肉",
+    "description": {
+      "general": "非洲海岸掠食者的肉，专吃倒霉水手"
+    }
+  },
+  "fish": {
+    "name": "鱼肉",
+    "description": {
+      "general": "口感柔软风味温和。"
+    }
+  },
+  "durian": {
+    "name": "榴莲",
+    "description": {
+      "general": "气味浓烈带刺的大型水果。"
+    }
+  },
+  "coconut": {
+    "name": "椰子",
+    "description": {
+      "general": "荒岛主食。"
+    }
+  },
+  "ndizi": {
+    "name": "芭蕉",
+    "description": {
+      "general": "烹饪用的甜味大蕉。"
+    }
+  },
+  "rawChicken": {
+    "name": "生鸡肉",
+    "description": {
+      "general": "平淡黏腻。"
+    }
+  },
+  "flour": {
+    "name": "面粉",
+    "description": {
+      "general": "多种菜肴的关键原料。"
+    }
+  },
+  "rawMutton": {
+    "name": "生羊肉",
+    "description": {
+      "general": "烹饪可减轻苦味。"
+    }
+  },
+  "rawVegetables": {
+    "name": "生蔬菜",
+    "description": {
+      "general": "平淡无奇。"
+    }
+  },
+  "screwpine": {
+    "name": "露兜果",
+    "description": {
+      "general": "可煮制研磨成高营养糊状物。"
+    }
+  },
+  "hippoMeat": {
+    "name": "河马肉",
+    "description": {
+      "general": "苦味重质地粗。"
+    }
+  },
+  "sharkMeat": {
+    "name": "鲨鱼肉",
+    "description": {
+      "general": "酸臭味重，煮熟更佳。"
+    }
+  },
+  "rawBeef": {
+    "name": "生牛肉",
+    "description": {
+      "general": "煮熟更美味。"
+    }
+  },
+  "primeCrocodileMeat": {
+    "name": "优质鳄鱼肉",
+    "description": {
+      "general": "鳄鱼最佳部位。"
+    }
+  },
+  "primeHippoMeat": {
+    "name": "优质河马肉",
+    "description": {
+      "general": "河马最佳部位。"
+    }
+  },
+  "libertyCap": {
+    "name": "自由帽菇",
+    "description": {
+      "general": "毒性极强，一口足以致幻。"
+    }
+  },
+  "schoonerUpgrade": {
+    "name": "斯库纳船升级",
+    "description": {
+      "general": "斯库纳船的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "titansCuirass": {
+    "name": "泰坦胸甲",
+    "description": {
+      "general": "降低震晕效果强度，对爆炸伤害有卓越抗性。灵感源自远古神祇的永恒之力。"
+    }
+  },
+  "heydensGuard": {
+    "name": "海登守卫",
+    "description": {
+      "general": "格挡时免疫燃烧伤害，强化对燃烧武器的防御。专为抵抗乌格瓦纳的 fury 设计。"
+    }
+  },
+  "nocturneHeart": {
+    "name": "夜曲核心",
+    "description": {
+      "general": "船体耐久越高，武器伤害越高。圣安妮突袭者的最爱，以无伤奇袭著称。"
+    }
+  },
+  "silverSentinel": {
+    "name": "白银哨兵",
+    "description": {
+      "general": "强化格挡可抵消部分伤害，完美时机格挡效果更佳。"
+    }
+  },
+  "divineWind": {
+    "name": "神风炮",
+    "description": {
+      "general": "暗鳞包裹的臼炮，炮弹命中后数秒召唤闪电打击。"
+    }
+  },
+  "floodingBombard": {
+    "name": "进水臼炮",
+    "description": {
+      "general": "范围轰炸武器，擅长击穿船体引发进水。"
+    }
+  },
+  "tearingLongGun": {
+    "name": "撕裂长重炮",
+    "description": {
+      "general": "远程加农炮，专精破坏船帆使其瘫痪。"
+    }
+  },
+  "farscourge": {
+    "name": "远疆灾星",
+    "description": {
+      "general": "无耻之徒锻造的武器，远程造成船体穿孔与甲板进水，同时削弱敌船防御。"
+    }
+  },
+  "langeKartouwe": {
+    "name": "朗格卡托炮",
+    "description": {
+      "general": "荷兰工程奇迹，发射延迟爆炸的闪光弹，对建筑伤害提升。"
+    }
+  },
+  "alecto": {
+    "name": "阿勒克托",
+    "description": {
+      "general": "猩红涂装的三连发弩炮，三箭同中时引发烈焰爆炸。"
+    }
+  },
+  "explosiveDemicannon": {
+    "name": "爆破半长炮",
+    "description": {
+      "general": "中程霰弹炮，冲击波可震晕敌舰船员。"
+    }
+  },
+  "piercingDemicannon": {
+    "name": "穿透半长炮",
+    "description": {
+      "general": "中程霰弹炮，弹片可削弱装甲造成船体穿孔。"
+    }
+  },
+  "kleineKartouwe": {
+    "name": "克莱因卡托炮",
+    "description": {
+      "general": "紧凑致命的青铜炮，发射可二次爆炸的炮弹。"
+    }
+  },
+  "fireCulverin": {
+    "name": "火焰长管炮",
+    "description": {
+      "general": "均衡型加农炮，炮弹附带燃烧效果。"
+    }
+  },
+  "brickbreaker": {
+    "name": "碎砖者",
+    "description": {
+      "general": "硬化钢炮专精摧毁防御工事。"
+    }
+  },
+  "urbansGreatGun": {
+    "name": "乌尔班巨炮",
+    "description": {
+      "general": "齐射时释放毁灭弹幕，瘫痪敌舰船帆。"
+    }
+  },
+  "bilgefireBarrels": {
+    "name": "舱底火桶",
+    "description": {
+      "general": "\"擦亮火炮弟兄，我们要用敌人内脏给他们上油\""
+    }
+  },
+  "emergencyLocker": {
+    "name": "应急柜",
+    "description": {
+      "general": "\"拿木槌和木板来！不然用你屁股堵洞！\""
+    }
+  },
+  "wyrmsBreathChurner": {
+    "name": "巨龙吐息搅拌器",
+    "description": {
+      "general": "\"糖、香料和一切不美好的东西\""
+    }
+  },
+  "markOfTheWolf": {
+    "name": "狼之印记",
+    "description": {
+      "general": "\"狼在猎杀我们。它的眼睛穿过迷雾注视我们，如同死亡\""
+    }
+  },
+  "fuseFusingStation": {
+    "name": "引信熔接站",
+    "description": {
+      "general": "\"弹头必须保持干燥！否则敌人会替我们点火\""
+    }
+  },
+  "ramrodWorkshop": {
+    "name": "通条工坊",
+    "description": {
+      "general": "\"把手伸进去祈祷你朋友别点引信\""
+    }
+  },
+  "breechlockFurnace": {
+    "name": "后膛熔炉",
+    "description": {
+      "general": "\"哈！好枪法！进得去出得来！\""
+    }
+  },
+  "dynamicBallastControl": {
+    "name": "动态压载控制",
+    "description": {
+      "general": "\"可怜的吉米，说了别在木材舱打盹\""
+    }
+  },
+  "mortarGrinder": {
+    "name": "迫击炮研磨器",
+    "description": {
+      "general": "专用研磨台可提升迫击炮射速。"
+    }
+  },
+  "infamyChest": {
+    "name": "恶名宝箱",
+    "description": {
+      "general": "匿名赞助人赠送的宝箱"
+    }
+  },
+  "kingpinChest": {
+    "name": "龙头宝箱",
+    "description": {
+      "general": "匿名赞助人赠送的宝箱"
+    }
+  },
+  "silveryRaiderCache": {
+    "name": "白银掠夺者储藏",
+    "description": {
+      "general": "象征海盗胆识与冒险的珍贵战利品。"
+    }
+  },
+  "gildedRaiderCache": {
+    "name": "鎏金掠夺者储藏",
+    "description": {
+      "general": "终极繁荣与胜利的象征，真正海上枭雄的标记。"
+    }
+  },
+  "summerStashChest": {
+    "name": "夏日储藏箱",
+    "description": {
+      "general": "向雅妮塔上交冰块的奖励。"
+    }
+  },
+  "azureCache": {
+    "name": "蔚蓝储藏",
+    "description": {
+      "general": "蔚蓝舰队商船的储藏箱，似乎能吸收周围热量。"
+    }
+  },
+  "azureStrongbox": {
+    "name": "蔚蓝保险箱",
+    "description": {
+      "general": "蔚蓝舰队精英船只的保险箱，似乎能吸收周围热量。"
+    }
+  },
+  "ogreKingCosmeticsChest": {
+    "name": "食人魔王外观箱",
+    "description": {
+      "general": "可能包含食人魔王荣耀套装外观的华丽宝箱"
+    }
+  },
+  "rodeMaangodinChest": {
+    "name": "神秘宝箱(赤月神)",
+    "description": {
+      "general": "内藏何等珍宝？"
+    }
+  },
+  "bloodiedStrongbox": {
+    "name": "血渍保险箱",
+    "description": {
+      "general": "背叛同族的代价远超物质损失。"
+    }
+  },
+  "recoveredExeterChest": {
+    "name": "埃克塞特回收箱",
+    "description": {
+      "general": "从埃克塞特残骸回收的财宝箱。"
+    }
+  },
+  "aGiftInReturn": {
+    "name": "回礼",
+    "description": {
+      "general": "受赠者不会忘记这份心意馈赠的回礼。"
+    }
+  },
+  "maangodinChest": {
+    "name": "神秘宝箱(月神)",
+    "description": {
+      "general": "内藏何等珍宝？"
+    }
+  },
+  "reapersCache": {
+    "name": "死神储藏",
+    "description": {
+      "general": "藏有未知珍宝的华丽宝箱。"
+    }
+  },
+  "legacyCache": {
+    "name": "传承储藏",
+    "description": {
+      "general": "包含往季物品的稀有装备合集。"
+    }
+  },
+  "smugglersSupplies": {
+    "name": "走私者补给",
+    "description": {
+      "general": "含特林的特供物资、舵轮专用材料及大量银币。"
+    }
+  },
+  "soleilRoyalTreasureChest": {
+    "name": "皇家太阳号财宝箱",
+    "description": {
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "whiteAriaChest": {
+    "name": "白色咏叹箱",
+    "description": {
+      "general": "从伯特兰·于贝尔旗舰夺取的财宝箱。"
+    }
+  },
+  "blackAriaChest": {
+    "name": "黑色咏叹箱",
+    "description": {
+      "general": "从阿尔芒·于贝尔旗舰夺取的财宝箱。"
+    }
+  },
+  "chorusFleetStrongbox": {
+    "name": "合唱舰队保险箱",
+    "description": {
+      "general": "密封保险箱，内含曾属于于贝尔双子的物品。"
+    }
+  },
+  "nianStrongbox": {
+    "name": "年兽保险箱",
+    "description": {
+      "general": "来自利用年兽传说制造恐慌的船只，胜者得其战利品。"
+    }
+  },
+  "opwellingTreasureChest": {
+    "name": "涌潮财宝箱",
+    "description": {
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "vanderkillsLocker": {
+    "name": "范德基尔储物箱",
+    "description": {
+      "general": "从臭名昭著的范德基尔处劫掠的箱子。"
+    }
+  },
+  "roninCosmeticsChest": {
+    "name": "浪人外观箱",
+    "description": {
+      "general": "可能包含浪人船套装外观的华丽宝箱"
+    }
+  },
+  "sengokuNightsCosmeticsChest": {
+    "name": "战国之夜外观箱",
+    "description": {
+      "general": "可能包含战国之夜套装外观的华丽宝箱"
+    }
+  },
+  "risenZamaharibuChest": {
+    "name": "神秘宝箱(复生萨马哈里布)",
+    "description": {
+      "general": "内藏何等珍宝？"
+    }
+  },
+  "risenMegaLestariChest": {
+    "name": "神秘宝箱(复生巨蜥)",
+    "description": {
+      "general": "内藏何等珍宝？"
+    }
+  },
+  "elderShadowbeastChest": {
+    "name": "神秘宝箱(上古影兽)",
+    "description": {
+      "general": "内藏何等珍宝？"
+    }
+  },
+  "regattaChest": {
+    "name": "竞速赛宝箱",
+    "description": {
+      "general": "授予海上速度之王的奖励。"
+    }
+  },
+  "mooncakeRegattaChest": {
+    "name": "月饼竞速赛宝箱",
+    "description": {
+      "general": "授予海上速度之王的奖励。"
+    }
+  },
+  "vikramsStash": {
+    "name": "维克拉姆储藏",
+    "description": {
+      "general": "维克拉姆船上的箱子，含中等数量战利品。"
+    }
+  },
+  "vikramsLocker": {
+    "name": "维克拉姆储物箱",
+    "description": {
+      "general": "维克拉姆船上的箱子，含少量战利品。"
+    }
+  },
+  "vikramsStrongbox": {
+    "name": "维克拉姆保险箱",
+    "description": {
+      "general": "维克拉姆船上的大箱子，含大量战利品。"
+    }
+  },
+  "silverPouch": {
+    "name": "银币袋",
+    "description": {
+      "general": "内含少量银币。"
+    }
+  },
+  "silverBox": {
+    "name": "银币盒",
+    "description": {
+      "general": "内含中量银币。"
+    }
+  },
+  "silverChest": {
+    "name": "银币箱",
+    "description": {
+      "general": "内含大量银币。"
+    }
+  },
+  "commanderZhangsChest": {
+    "name": "张指挥官宝箱",
+    "description": {
+      "general": "从张指挥官旗舰夺取的财宝箱"
+    }
+  },
+  "phoenixsTalonChest": {
+    "name": "凤凰爪号宝箱",
+    "description": {
+      "general": "从凤凰爪号夺取的财宝箱"
+    }
+  },
+  "phoenixsTalonStrongbox": {
+    "name": "凤凰爪号保险箱",
+    "description": {
+      "general": "凤凰爪号保险箱"
+    }
+  },
+  "ascensionChest": {
+    "name": "升华宝箱",
+    "description": {
+      "general": "用于装备升阶与重铸的高级材料。"
+    }
+  },
+  "materialsChest": {
+    "name": "材料宝箱",
+    "description": {
+      "general": "匿名赞助人赠送的宝箱。"
+    }
+  },
+  "darkDescentSetChest": {
+    "name": "黑暗降临套装箱",
+    "description": {
+      "general": "匿名赞助人赠送的宝箱。"
+    }
+  },
+  "mutuallyAssuredSetChest": {
+    "name": "相互保证套装箱",
+    "description": {
+      "general": "匿名赞助人赠送的宝箱。"
+    }
+  },
+  "serpentsDueSetChest": {
+    "name": "蛇债套装箱",
+    "description": {
+      "general": "匿名赞助人赠送的宝箱。"
+    }
+  },
+  "divineInterventionSetChest": {
+    "name": "神圣干预套装箱",
+    "description": {
+      "general": "匿名赞助人赠送的宝箱。"
+    }
+  },
+  "ascendedCache": {
+    "name": "升华储藏",
+    "description": {
+      "general": "开启后自动升阶的物品合集"
+    }
+  },
+  "deathTidesChest": {
+    "name": "死亡潮汐宝箱",
+    "description": {
+      "general": "匿名赞助人赠送的宝箱。"
+    }
+  },
+  "poseidonsBrew": {
+    "name": "波塞冬之酿",
+    "description": {
+      "general": "对抗海上热衰竭的提神烈酒。"
+    }
+  },
+  "largeSilverChest": {
+    "name": "巨型银币箱",
+    "description": {
+      "general": "内含超大量银币。"
+    }
+  },
+  "frigateUpgrade": {
+    "name": "护卫舰升级",
+    "description": {
+      "general": "护卫舰的升级组件。",
+      "1": "将船从0级升至1级。",
+      "2": "将船从1级升至2级。",
+      "3": "将船从2级升至3级。",
+      "4": "将船从3级升至4级。",
+      "5": "将船从4级升至5级。",
+      "6": "将船从5级升至6级。",
+      "7": "将船从6级升至7级。"
+    }
+  },
+  "thunderDragonCannon": {
+    "name": "雷龙炮",
+    "description": {
+      "general": "召唤闪电撕裂船帆，炮口轰鸣如七重雷霆。"
+    }
+  },
+  "ashbreaker": {
+    "name": "灰烬破坏者",
+    "description": {
+      "general": "受法拉祭司祝福，燃烧伤害加速破防状态积累。"
+    }
+  },
+  "hellgateSerpent": {
+    "name": "地狱门海蛇",
+    "description": {
+      "general": "每发鱼雷召唤黑暗灵魂，造成燃烧伤害同时修复己方船体。"
+    }
+  },
+  "stormVigil": {
+    "name": "风暴守望",
+    "description": {
+      "general": "倾泻无尽火箭弹幕，造成进水与重创。"
+    }
+  },
+  "spiritcaller": {
+    "name": "唤灵者",
+    "description": {
+      "general": "部署灵魂信标浮标，削弱敌舰装甲。"
+    }
+  },
+  "harrowguard": {
+    "name": "折磨守卫",
+    "description": {
+      "general": "减轻穿孔效果，对穿透伤害有卓越抗性。"
+    }
+  },
+  "wyrmhide": {
+    "name": "龙皮甲",
+    "description": {
+      "general": "对建筑特防，低速或停船时防护更强。"
+    }
+  },
+  "novaArma": {
+    "name": "新星武装",
+    "description": {
+      "general": "格挡被击中时触发爆炸的反击装甲。"
+    }
+  },
+  "trunnionFurnace": {
+    "name": "耳轴熔炉",
+    "description": {
+      "general": "精炼长管炮耳轴，提升弹速与连锁伤害几率。"
+    }
+  },
+  "acceleratedGunrailSmithy": {
+    "name": "加速炮轨工坊",
+    "description": {
+      "general": "定制轨道系统加快装填并提升辅助武器伤害。"
+    }
+  },
+  "ammoPrimingBench": {
+    "name": "弹药准备台",
+    "description": {
+      "general": "手工填装弹药提升攻城与维修弹药效果。"
+    }
+  },
+  "royalSentinel": {
+    "name": "皇家哨兵",
+    "description": {
+      "general": "部署哨兵装置浮标，对进入范围的敌舰施加震晕。"
+    }
+  },
+  "roaringMeg": {
+    "name": "咆哮梅格",
+    "description": {
+      "general": "强化爆炸伤害对建筑的极致破坏力。"
+    }
+  },
+  "rocketGrinder": {
+    "name": "火箭研磨器",
+    "description": {
+      "general": "专用研磨台可提升火箭炮射速。"
+    }
+  },
+  "moonshineChest": {
+    "name": "私酿酒宝箱",
+    "description": {
+      "general": "私酿贩子的非法财富宝箱。"
+    }
+  },
+  "moonshineStrongbox": {
+    "name": "私酿酒保险箱",
+    "description": {
+      "general": "私酿贩子的非法财富保险箱。"
+    }
+  },
+  "ascendedAshbreakerChest": {
+    "name": "升华灰烬破坏者箱",
+    "description": {
+      "general": "内含升华活动武器。"
+    }
+  },
+  "ascendedEventCache": {
+    "name": "升华活动储藏",
+    "description": {
+      "general": "内含升华活动武器。"
+    }
+  }
 }
