@@ -2079,5 +2079,712 @@
         "狂怒状态下每3秒触发700伤害爆炸（半径100米）"
       ]
     }
+  },
+  "schoonerUpgrade": {
+    "description": {
+      "1": [
+        "船体耐久值提升至41000",
+        "防御强度提升至8200"
+      ],
+      "2": [
+        "基础船级提升至5级",
+        "货舱容量提升至75000"
+      ],
+      "3": [
+        "最高航速提升至12节",
+        "转向速度提升至17节",
+        "新增'深蓝'特权"
+      ],
+      "4": [
+        "基础船级提升至6级",
+        "船体耐久值提升至46000",
+        "防御强度提升至9200"
+      ],
+      "5": [
+        "基础船级提升至7级",
+        "家具槽位增加至6个"
+      ],
+      "6": [
+        "基础船级提升至8级",
+        "防御强度恢复速度提升12.5%",
+        "新增'爆燃'特权"
+      ],
+      "7": [
+        "基础船级提升至9级",
+        "船体耐久值提升至50600",
+        "防御强度提升至10120",
+        "防御强度恢复速度提升25%"
+      ]
+    }
+  },
+  "volatile": {
+    "name": "爆燃",
+    "description": {
+      "general": "本舰所有舷侧武器将造成额外20%爆炸伤害，并减少爆炸武器10%装填时间"
+    }
+  },
+  "chainReaction": {
+    "name": "连锁反应",
+    "description": {
+      "general": [
+        "每次命中后该武器伤害提升5%",
+        "效果在首次命中后7秒重置"
+      ]
+    }
+  },
+  "pneumaticEngine": {
+    "name": "气动引擎",
+    "description": {
+      "general": [
+        "以250米射程快速发射海火弩箭",
+        "武器需短暂预热后才能发射"
+      ]
+    }
+  },
+  "tempest": {
+    "name": "暴风雨",
+    "description": {
+      "general": "每次命中目标会引发150米内最近敌人遭受雷电打击，造成2500点电击伤害"
+    }
+  },
+  "soulShield": {
+    "name": "灵魂护盾",
+    "description": {
+      "general": "部署浮标生成防护穹顶吸收敌方投射物，但对穿透伤害抗性较弱"
+    }
+  },
+  "rally": {
+    "name": "集结号令",
+    "description": {
+      "general": "使用船员攻击可使舷侧武器伤害提升33%，耐力恢复速度提升100%，持续15秒"
+    }
+  },
+  "phantasmicThrust": {
+    "name": "幻影冲撞",
+    "description": {
+      "general": "冲撞目标时可修复相当于造成伤害138%的船体耐久值"
+    }
+  },
+  "darkMeditation": {
+    "name": "黑暗冥想",
+    "description": {
+      "general": "防御状态下，每秒钟减少负面状态效果最大持续时间的10%"
+    }
+  },
+  "painPiper": {
+    "description": {
+      "general": [
+        "受到船员攻击后，下次船员攻击伤害提升80%",
+        "承受船员攻击伤害减少10%",
+        "最大耐力值提升5%"
+      ]
+    }
+  },
+  "drownedOnesToll": {
+    "description": {
+      "general": [
+        "当耐力值高于60%且船体耐久未满时，每秒消耗6%耐力值恢复0.28%船体耐久",
+        "最大船体耐久提升8%",
+        "非战斗状态下耐力恢复速度提升6%"
+      ]
+    }
+  },
+  "chainedLinks": {
+    "description": {
+      "general": [
+        "调整风帆时，弱点所受伤害减少60%，但每次被命中消耗10%耐力值",
+        "弱点承受伤害永久减少20%",
+        "装备护甲评级提升10%"
+      ]
+    }
+  },
+  "teulingsGuidance": {
+    "description": {
+      "general": [
+        "命中弱点后，8秒内下一次弱点命中伤害提升30%",
+        "舰首武器对弱点伤害提升12%",
+        "舰首武器装填时间减少5%"
+      ]
+    }
+  },
+  "strangeElixir": {
+    "description": {
+      "general": [
+        "耐力值高于50%时，船员技能范围扩大25%",
+        "船员攻击充能速度提升15%",
+        "防御状态耐力消耗减少5%"
+      ]
+    }
+  },
+  "decoyDeck": {
+    "description": {
+      "general": [
+        "每有一个目标因本舰陷入嘲讽状态，受治疗量提升5%（最高20%）",
+        "敌方目标嘲讽状态充能速度提升7%",
+        "威胁值生成提高7%"
+      ]
+    }
+  },
+  "floatCollars": {
+    "description": {
+      "general": [
+        "浮标最大生命值提升100%",
+        "浮标部署持续时间延长50%"
+      ]
+    }
+  },
+  "mineClearingLocker": {
+    "description": {
+      "general": [
+        "半帆以下航行时，80%概率避免触发水雷浮标",
+        "水雷浮标造成伤害降低15%",
+        "防御强度提升5%"
+      ]
+    }
+  },
+  "devilsConcoction": {
+    "description": {
+      "general": [
+        "燃烧武器持续伤害提升12%",
+        "燃烧武器最大射程提升8%"
+      ]
+    }
+  },
+  "debrisLocker": {
+    "description": {
+      "general": [
+        "对已受帆布撕裂状态的目标，进水状态充能效率提升50%",
+        "帆布撕裂状态充能速度提升16%"
+      ]
+    }
+  },
+  "expandingCorkscrewStation": {
+    "description": {
+      "general": [
+        "进水武器持续伤害提升12%",
+        "进水武器最大射程提升8%"
+      ]
+    }
+  },
+  "cannonballChargingStation": {
+    "description": {
+      "general": [
+        "对已受穿透状态的目标，雷击状态充能效率提升50%",
+        "穿透状态充能速度提升16%"
+      ]
+    }
+  },
+  "copperFasteningStation": {
+    "description": {
+      "general": [
+        "电击武器持续伤害提升12%",
+        "电击武器最大射程提升8%"
+      ]
+    }
+  },
+  "rifledBarrelWorkshop": {
+    "description": {
+      "general": [
+        "对已受进水状态的目标，穿透状态充能效率提升50%",
+        "进水状态充能速度提升16%"
+      ]
+    }
+  },
+  "highVelocityKegs": {
+    "description": {
+      "general": [
+        "穿透武器持续伤害提升12%",
+        "穿透武器最大射程提升8%"
+      ]
+    }
+  },
+  "ghostlyMending": {
+    "name": "幽灵修补",
+    "description": {
+      "general": [
+        "该武器造成伤害的5%转化为船体修复",
+        "命中弱点时修复效果提升700%"
+      ]
+    }
+  },
+  "sunder": {
+    "name": "撕裂",
+    "description": {
+      "general": [
+        "鱼雷激活后速度提升100%并可穿透目标船只",
+        "鱼雷同时降低目标200点护甲，持续10秒"
+      ]
+    }
+  },
+  "reinforced": {
+    "name": "强化装甲",
+    "description": {
+      "general": "受穿透状态造成的伤害减少25%"
+    }
+  },
+  "crocodileMeat": {
+    "description": {
+      "general": "恢复30%耐力值"
+    }
+  },
+  "tylosaurusFlesh": {
+    "description": {
+      "general": "恢复40%耐力值"
+    }
+  },
+  "fish": {
+    "description": {
+      "general": "恢复20%耐力值"
+    }
+  },
+  "durian": {
+    "description": {
+      "general": "恢复20%耐力值"
+    }
+  },
+  "coconut": {
+    "description": {
+      "general": "恢复20%耐力值"
+    }
+  },
+  "ndizi": {
+    "description": {
+      "general": "恢复20%耐力值"
+    }
+  },
+  "rawChicken": {
+    "description": {
+      "general": "恢复25%耐力值"
+    }
+  },
+  "flour": {
+    "description": {
+      "general": "恢复25%耐力值"
+    }
+  },
+  "rawMutton": {
+    "description": {
+      "general": "恢复25%耐力值"
+    }
+  },
+  "rawVegetables": {
+    "description": {
+      "general": "恢复25%耐力值"
+    }
+  },
+  "screwpine": {
+    "description": {
+      "general": "恢复20%耐力值"
+    }
+  },
+  "hippoMeat": {
+    "description": {
+      "general": "恢复30%耐力值"
+    }
+  },
+  "sharkMeat": {
+    "description": {
+      "general": "恢复20%耐力值"
+    }
+  },
+  "rawBeef": {
+    "description": {
+      "general": "恢复25%耐力值"
+    }
+  },
+  "primeHippoMeat": {
+    "description": {
+      "general": "恢复35%耐力值"
+    }
+  },
+  "primeCrocodileMeat": {
+    "description": {
+      "general": "恢复35%耐力值"
+    }
+  },
+  "fire": {
+    "name": "火焰"
+  },
+  "libertyCap": {
+    "description": {
+      "general": [
+        "船员间伤害提升30%",
+        "耐力恢复速度降低50%"
+      ]
+    }
+  },
+  "shelter": {
+    "name": "庇护所",
+    "description": {
+      "general": "受炮弹震荡伤害减少25%，持续时间缩短50%"
+    }
+  },
+  "cindershield": {
+    "name": "余烬护盾",
+    "description": {
+      "general": "防御状态下免疫燃烧状态效果"
+    }
+  },
+  "emberWard": {
+    "name": "灰烬屏障",
+    "description": {
+      "general": "燃烧武器伤害减少30%，防御状态下额外减少30%"
+    }
+  },
+  "euphoria": {
+    "name": "亢奋",
+    "description": {
+      "general": "船体耐久高于75%时，武器伤害提升15%"
+    }
+  },
+  "vigilance": {
+    "name": "警戒",
+    "description": {
+      "general": [
+        "防御状态前2秒内，所受伤害减少3000点",
+        "2秒后防御状态减伤效果降至200点",
+        "激活防御消耗双倍耐力值"
+      ]
+    }
+  },
+  "afterShock": {
+    "name": "余震",
+    "description": {
+      "general": "炮弹命中2秒后在落点召唤雷电，造成2000点电击伤害"
+    }
+  },
+  "impendingBoom": {
+    "name": "迫近爆轰",
+    "description": {
+      "general": [
+        "命中时有15%概率触发延迟爆炸，4秒后对65米半径范围造成7500点伤害",
+        "命中弱点时触发概率提升至100%",
+        "每个目标最多触发一次"
+      ]
+    }
+  },
+  "tripleThreat": {
+    "name": "三重威胁",
+    "description": {
+      "general": "一次性发射3枚炮弹，全部命中同一目标时追加400点火焰伤害"
+    }
+  },
+  "combustion": {
+    "name": "燃烧弹",
+    "description": {
+      "1": "附加10%伤害值的爆炸伤害",
+      "2": "附加20%伤害值的爆炸伤害",
+      "3": "附加30%伤害值的爆炸伤害"
+    }
+  },
+  "imminentBang": {
+    "name": "临爆炸弹",
+    "description": {
+      "general": [
+        "命中时有3%概率触发延迟爆炸，4秒后对65米半径范围造成7500点伤害",
+        "每个目标最多触发一次"
+      ]
+    }
+  },
+  "bilgefireBarrels": {
+    "description": {
+      "general": [
+        "对带有伤害型状态的目标有5%概率完全重置状态持续时间（30秒冷却）",
+        "舷侧武器持续伤害提升10%",
+        "舷侧武器伤害提升5%"
+      ]
+    }
+  },
+  "emergencyLocker": {
+    "description": {
+      "general": [
+        "舰船所受伤害型状态持续时间减少50%，但该状态伤害提升15%",
+        "承受持续伤害降低10%",
+        "最大船体耐久提升6%"
+      ]
+    }
+  },
+  "wyrmsBreathChurner": {
+    "description": {
+      "general": [
+        "对目标触发炮弹震荡时，使其武器装填时间延长20%，持续10秒",
+        "爆炸武器持续伤害提升20%",
+        "爆炸武器伤害提升5%"
+      ]
+    }
+  },
+  "markOfTheWolf": {
+    "description": {
+      "general": [
+        "触发燃烧状态时，炮弹震荡充能效率同步提升50%，持续7秒",
+        "爆炸武器射速提升20%",
+        "对建筑伤害提升5%"
+      ]
+    }
+  },
+  "fuseFusingStation": {
+    "description": {
+      "general": [
+        "舰首/舰尾武器装填时间减少9%",
+        "舰首/舰尾武器持续伤害提升9%"
+      ]
+    }
+  },
+  "ramrodWorkshop": {
+    "description": {
+      "general": [
+        "舷侧武器装填时间减少7%",
+        "舷侧武器持续伤害提升7%"
+      ]
+    }
+  },
+  "breechlockFurnace": {
+    "description": {
+      "general": [
+        "距离目标每近50米，持续伤害最高提升20%（每50米递减2%）",
+        "对敌舰炮弹震荡充能效率提升5%",
+        "炮弹震荡状态伤害提升3%"
+      ]
+    }
+  },
+  "dynamicBallastControl": {
+    "description": {
+      "general": [
+        "距离攻击者每远100米，承受持续伤害最多减少30%（600米达上限）",
+        "承受穿透充能效率降低8%",
+        "装备护甲评级提升3%"
+      ]
+    }
+  },
+  "mortarProjectileSpeed": {
+    "description": {
+      "15": "迫击炮弹丸速度提升15%"
+    }
+  },
+  "rocketProjectileSpeed": {
+    "description": {
+      "15": "火箭弹丸速度提升15%"
+    }
+  },
+  "joineryWorkshop": {
+    "description": {
+      "1": "修复武器治疗效果提升6%"
+    }
+  },
+  "grit": {
+    "name": "坚韧",
+    "description": {
+      "general": [
+        "受伤害时获得1层坚韧（每层提升40护甲，上限10层，持续15秒）",
+        "200米内XSML/SML/MED级友舰受伤害减少10%，当自身有10层坚韧时减伤效果提升至20%"
+      ]
+    }
+  },
+  "colossal": {
+    "name": "巨舰",
+    "description": {
+      "general": "河流与浅水区航行速度降低30%"
+    }
+  },
+  "abundantGunports": {
+    "name": "密集炮门",
+    "description": {
+      "general": "弱点承受伤害增加30%"
+    }
+  },
+  "frigateUpgrade": {
+    "description": {
+      "1": [
+        "船体耐久值提升至104000",
+        "防御强度提升至31200"
+      ],
+      "2": [
+        "货舱容量提升至95000"
+      ],
+      "3": [
+        "基础船级提升至6级",
+        "最高航速提升至15节",
+        "转向速度提升至20节",
+        "新增'深蓝'特权"
+      ],
+      "4": [
+        "船体耐久值提升至107000",
+        "防御强度提升至32100"
+      ],
+      "5": [
+        "基础船级提升至7级",
+        "家具槽位增加至6个"
+      ],
+      "6": [
+        "基础船级提升至8级",
+        "防御强度恢复速度提升12.5%",
+        "新增'以牙还牙'特权"
+      ],
+      "7": [
+        "基础船级提升至9级",
+        "船体耐久值提升至128400",
+        "防御强度提升至38520",
+        "防御强度恢复速度提升25%"
+      ]
+    }
+  },
+  "resolve": {
+    "name": "决意",
+    "description": {
+      "general": [
+        "当坚韧叠至10层时受伤害触发决意",
+        "立即恢复10%防御强度，状态效果伤害减少20%，威胁值生成提升100%，持续10秒"
+      ]
+    }
+  },
+  "poseidonsBrew": {
+    "description": {
+      "general": [
+        "清除舰船所有负面状态",
+        "20秒内免疫状态效果"
+      ]
+    }
+  },
+  "skyrender": {
+    "name": "天穹撕裂者",
+    "description": {
+      "general": [
+        "炮击风帆时概率召唤雷电（5000点电击伤害）",
+        "每5次命中增加15%触发率（上限45%）",
+        "目标处于帆布撕裂状态时雷电伤害提升至10000点"
+      ]
+    }
+  },
+  "marauder": {
+    "name": "掠夺者",
+    "description": {
+      "general": [
+        "每1%燃烧伤害同步提升易伤状态充能效率1%",
+        "额外提升易伤充能效率40%"
+      ]
+    }
+  },
+  "spiritMending": {
+    "name": "灵魂修补",
+    "description": {
+      "general": "造成伤害的20%转化为船体修复，距离每增加50米转化率提升5%（上限50%）"
+    }
+  },
+  "torrent": {
+    "name": "洪流",
+    "description": {
+      "general": [
+        "持续发射60枚火箭弹",
+        "50%进水伤害转化为重度伤害"
+      ]
+    }
+  },
+  "illuminate": {
+    "name": "照明弹",
+    "description": {
+      "general": [
+        "使目标移动速度降低50%，护甲降低20%，持续3秒",
+        "使哭泣的幽灵易受伤害"
+      ]
+    }
+  },
+  "impregnable": {
+    "name": "坚不可摧",
+    "description": {
+      "general": [
+        "穿刺状态效果降低护甲的效率降低50%",
+        "穿刺状态效果持续时间缩短15%"
+      ]
+    }
+  },
+  "entrenched": {
+    "name": "固守",
+    "description": {
+      "general": "受到来自建筑的伤害减少5%，每3000点防御强度额外减少1%"
+    }
+  },
+  "bastion": {
+    "name": "堡垒",
+    "description": {
+      "general": "半帆或抛锚时，受到的命中伤害减少20%"
+    }
+  },
+  "volatileVestment": {
+    "name": "易爆背心",
+    "description": {
+      "general": [
+        "在防御时受到攻击，会触发爆炸，在100米爆炸半径内造成3500点爆炸伤害",
+        "此效果有10秒冷却时间"
+      ]
+    }
+  },
+  "trunnionFurnace": {
+    "description": {
+      "general": [
+        "火炮命中目标时，有25%的几率扩散到100米内的附近目标，造成25%的原始伤害。不适用于修复武器",
+        "火炮弹丸速度提高10%"
+      ]
+    }
+  },
+  "acceleratedGunrailSmithy": {
+    "description": {
+      "general": [
+        "每重新装填一个武器象限，装填时间减少5%，辅助武器的次要伤害增加7%",
+        "未收帆时，辅助武器的武器伤害增加9%",
+        "转向速度提高8%"
+      ]
+    }
+  },
+  "ammoPrimingBench": {
+    "description": {
+      "general": [
+        "当距离目标超过160米时，攻城武器对建筑物的伤害增加20%，修复武器的修复量增加18%",
+        "攻城武器的武器伤害增加4%。修复武器修复船体生命值增加7%",
+        "攻城武器和修复武器的弹丸速度提高10%，但海火和辅助武器除外"
+      ]
+    }
+  },
+  "dazzling": {
+    "name": "炫目",
+    "description": {
+      "general": "爆炸还会对所有目标施加震荡效果"
+    }
+  },
+  "demolition": {
+    "name": "拆除",
+    "description": {
+      "general": "该武器的爆炸伤害对建筑物的伤害增加300%"
+    }
+  },
+  "precisionBlast": {
+    "name": "精准爆破",
+    "description": {
+      "general": "在30米爆炸半径内额外造成30%的爆炸伤害"
+    }
+  },
+  "rumPantry": {
+    "description": {
+      "1": "体力恢复速度提高10%"
+    }
+  },
+  "sterileGalley": {
+    "description": {
+      "1": "最大体力提高10%"
+    }
+  },
+  "balancedMast": {
+    "description": {
+      "1": "加速和减速提高16%"
+    }
+  },
+  "leatherRopeGrips": {
+    "description": {
+      "1": "收帆时船员体力消耗减少15%"
+    }
+  },
+  "lightenedMast": {
+    "description": {
+      "1": "加速提高26%"
+    }
   }
 }
