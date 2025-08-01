@@ -7,6 +7,7 @@ import modifications_zh_CN from './data/zh_CN/modifications.json'
 import perks_zh_CN from './data/zh_CN/perks.json'
 import seasons_zh_CN from './data/zh_CN/seasons.json'
 import locations_zh_CN from './data/zh_CN/locations.json'
+import ultimates_zh_CN from './data/zh_CN/ultimates.json'
 
 import ships_en_US from './data/en_US/ships.json';
 import items_en_US from './data/en_US/item.json';
@@ -17,6 +18,7 @@ import modifications_en_US from './data/en_US/modifications.json'
 import perks_en_US from './data/en_US/perks.json'
 import seasons_en_US from './data/en_US/seasons.json'
 import locations_en_US from './data/en_US/locations.json'
+import ultimates_en_US from './data/en_US/ultimates.json'
 
 export const zh_CN = {
     ships: ships_zh_CN,
@@ -27,7 +29,8 @@ export const zh_CN = {
     modifications: modifications_zh_CN,
     perks: perks_zh_CN,
     seasons: seasons_zh_CN,
-    locations: locations_zh_CN
+    locations: locations_zh_CN,
+    ultimates: ultimates_zh_CN
 };
 
 export const en_US = {
@@ -39,7 +42,8 @@ export const en_US = {
     modifications: modifications_en_US,
     perks: perks_en_US,
     seasons: seasons_en_US,
-    locations: locations_en_US
+    locations: locations_en_US,
+    ultimates: ultimates_en_US
 };
 
 export * from './types';
