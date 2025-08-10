@@ -3,3 +3,5 @@ files:
     translation: /src/data/%locale_with_underscore%/ships.json
   - source: /src/data/en_US/item.json
     translation: /src/data/%locale_with_underscore%/item.json
+  - source: /src/data/en_US/calendar.json
+    translation: /src/data/%locale_with_underscore%/calendar.json
