@@ -5,3 +5,17 @@ files:
     translation: /src/data/%locale_with_underscore%/item.json
   - source: /src/data/en_US/calendar.json
     translation: /src/data/%locale_with_underscore%/calendar.json
+  - source: /src/data/en_US/factions.json
+    translation: /src/data/%locale_with_underscore%/factions.json
+  - source: /src/data/en_US/locations.json
+    translation: /src/data/%locale_with_underscore%/locations.json
+  - source: /src/data/en_US/materials.json
+    translation: /src/data/%locale_with_underscore%/materials.json
+  - source: /src/data/en_US/modifications.json
+    translation: /src/data/%locale_with_underscore%/modifications.json
+  - source: /src/data/en_US/perks.json
+    translation: /src/data/%locale_with_underscore%/perks.json
+  - source: /src/data/en_US/seasons.json
+    translation: /src/data/%locale_with_underscore%/seasons.json
+  - source: /src/data/en_US/ultimates.json
+    translation: /src/data/%locale_with_underscore%/ultimates.json
