@@ -2,97 +2,97 @@
   "dhow": {
     "name": "Dhow",
     "description": {
-      "general": "一种小型船只，最初用于沿河流和海岸线狩猎野生动物。"
+      "general": "A small vessel originally built to hunt wildlife along rivers and coastlines."
     }
   },
   "bedar": {
-    "name": "贝达尔帆船",
+    "name": "Bedar",
     "description": {
-      "general": "一艘小型机动船，可以撞击目标并造成淹水伤害。"
+      "general": "A small maneuverable ship that can ram targets and cause flooding damage."
     }
   },
   "hulk": {
-    "name": "驳船",
+    "name": "Hulk",
     "description": {
-      "general": "更耐用，能够承受持续伤害，这种船擅长抵御来袭的火力。"
+      "general": "More durable and capable of taking sustained damage, this ship specializes in bracing against incoming fire."
     }
   },
   "cutter": {
-    "name": "快艇",
+    "name": "Cutter",
     "description": {
-      "general": "一艘能够在激烈的战斗中支援其他船只的船。"
+      "general": "A ship capable of supporting other ships in the thick of combat."
     }
   },
   "barge": {
-    "name": "平底船",
+    "name": "Barge",
     "description": {
-      "general": "一艘专门造成火焰和燃烧伤害，然后将混乱蔓延到附近船只的船。"
+      "general": "A ship specialized in dealing fire and burning damage, before spreading the chaos to nearby ships."
     }
   },
   "sloop": {
-    "name": "单桅纵帆船",
+    "name": "Sloop",
     "description": {
-      "general": "如果装备了合适的武器，这艘船能够与多个敌人正面交锋。"
+      "general": "With the right weapons equipped, this ship is able to stand toe-to-toe with multiple enemies."
     }
   },
   "padewakang": {
     "name": "Padewakang",
     "description": {
-      "general": "一艘更大的船只，如果装备得当，能够对抗多个敌人。"
+      "general": "A larger ship capable of taking on multiple enemies when properly equipped."
     }
   },
   "snow": {
-    "name": "雪地帆船",
+    "name": "Snow",
     "description": {
-      "general": "一艘耐久度更高，能在战斗中坚守阵地的船只。它擅长抵御来袭的火力。"
+      "general": "A ship with increased durability and holding its ground in a fight. It specializes in bracing against incoming fire."
     }
   },
   "brigantine": {
     "name": "Brigantine",
     "description": {
-      "general": "一艘快速船只，能够撞击单个目标并造成淹水伤害。"
+      "general": "A swift ship that is able to ram singular targets and cause flooding damage."
     }
   },
   "sambuk": {
-    "name": "桑布克",
+    "name": "Sambuk",
     "description": {
-      "general": "一艘专门造成火焰伤害并烧伤目标的船只。它还能够同时攻击近距离的多个敌人。"
+      "general": "A ship specialized in dishing out fire damage and burning its targets. It is also able to target multiple enemies in close proximity."
     }
   },
   "barque": {
     "name": "Barque",
     "description": {
-      "general": "一艘擅长通过有效修理来帮助其他危险船只的船。"
+      "general": "A ship that excels at aiding other ships in danger by rendering effective repairs."
     }
   },
   "brig": {
-    "name": "双桅横帆船",
+    "name": "Brig",
     "description": {
-      "general": "一艘支援船只，擅长部署能够扭转战局的浮标。"
+      "general": "A support ship that excels in deploying buoys that can shift the battle in their favor."
     }
   },
   "battleJunk": {
-    "name": "战舰",
+    "name": "Battle Junk",
     "description": {
-      "general": "一艘坚韧的巨兽，适合分散对手注意力、承受伤害，并为盟友创造交战或逃脱的机会。"
+      "general": "A resilient juggernaut suited for distracting opponents, withstanding damage, and creating opportunities for allies to engage or escape."
     }
   },
   "garuda": {
     "name": "Garuda",
     "description": {
-      "general": "一艘快速、机动的船只，擅长追捕逃跑的船只。"
+      "general": "A fast, maneuverable vessel with a knack for hunting down fleeing ships."
     }
   },
   "schooner": {
-    "name": "大帆船",
+    "name": "Schooner",
     "description": {
-      "general": "擅长毁灭性的舷侧攻击，将每一次齐射都变成爆炸性的反应，对红岛的舰队和建筑造成严重破坏。"
+      "general": "Excels at devastating broadside attacks, turning every barrage into an explosive reaction, wreaking havoc on fleets and structures in the Red Isle."
     }
   },
   "frigate": {
     "name": "Frigate",
     "description": {
-      "general": "一艘拥有无与伦比防御的大型船只。它散发出强大的光环，可以强化盟友。这是法国公司独创性和欧洲先进材料的产物。"
+      "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
     }
   }
 }
