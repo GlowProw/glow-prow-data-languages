@@ -1,0 +1,455 @@
+{
+  "masterworkKit": {
+    "name": "大师工艺套件"
+  },
+  "ascensionModule": {
+    "name": "晋升模块"
+  },
+  "primevalFang": {
+    "name": "远古獠牙"
+  },
+  "xanthousGemstone": {
+    "name": "黄晶宝石"
+  },
+  "artisansRefinementPack": {
+    "name": "工匠精炼包"
+  },
+  "putrefiedLestariSkin": {
+    "name": "腐败的莱斯塔里皮革"
+  },
+  "putrefiedZamaharibuScale": {
+    "name": "腐败的扎马哈里布鳞片"
+  },
+  "xanthousStone": {
+    "name": "黄晶石"
+  },
+  "gannetDenseNiter": {
+    "name": "塘鹅致密硝石"
+  },
+  "orcaIntricateApparatus": {
+    "name": "逆戟鲸精密装置"
+  },
+  "wyrmVolatileNapalm": {
+    "name": "巨龙挥发凝固汽油"
+  },
+  "eelSturdyRopes": {
+    "name": "鳗鱼坚韧绳索"
+  },
+  "jadePhoenixStatue": {
+    "name": "翡翠凤凰雕像"
+  },
+  "yellowDragonBanner": {
+    "name": "黄龙旗帜"
+  },
+  "blightedFuel": {
+    "name": "枯萎燃料"
+  },
+  "plagueDust": {
+    "name": "瘟疫粉尘"
+  },
+  "azureDragonHead": {
+    "name": "碧蓝龙首"
+  },
+  "phoenixPinion": {
+    "name": "凤凰飞羽"
+  },
+  "phoenixBeak": {
+    "name": "凤凰喙"
+  },
+  "lightningDragonScale": {
+    "name": "雷龙鳞片"
+  },
+  "lightningDragonClaw": {
+    "name": "雷龙之爪"
+  },
+  "wormDrive": {
+    "name": "蜗杆传动装置"
+  },
+  "planetaryGearset": {
+    "name": "行星齿轮组"
+  },
+  "purifiedSaltpeter": {
+    "name": "纯化硝石"
+  },
+  "quicklime": {
+    "name": "生石灰"
+  },
+  "naphtha": {
+    "name": "石脑油"
+  },
+  "lestarisMeat": {
+    "name": "莱斯塔里肉"
+  },
+  "ice": {
+    "name": "冰"
+  },
+  "blackAriaShipPart": {
+    "name": "黑色咏叹调船部件"
+  },
+  "whiteAriaShipPart": {
+    "name": "白色咏叹调船部件"
+  },
+  "hubacHeirloom": {
+    "name": "胡巴克传家宝"
+  },
+  "lestarisSkin": {
+    "name": "莱斯塔里皮革"
+  },
+  "zamaharibuScales": {
+    "name": "扎马哈里布鳞片"
+  },
+  "upgradeParts": {
+    "name": "升级部件"
+  },
+  "sinewString": {
+    "name": "筋腱弦线"
+  },
+  "lacquer": {
+    "name": "漆"
+  },
+  "dryCastingSand": {
+    "name": "干燥铸砂"
+  },
+  "plateGlass": {
+    "name": "平板玻璃"
+  },
+  "woodPitch": {
+    "name": "木焦油"
+  },
+  "monstrousTooth": {
+    "name": "怪物獠牙"
+  },
+  "vengefulEssence": {
+    "name": "复仇精华"
+  },
+  "etherealAshes": {
+    "name": "缥缈灰烬"
+  },
+  "gannetsSaltpeter": {
+    "name": "塘鹅硝石"
+  },
+  "orcasMechanism": {
+    "name": "逆戟鲸机械装置"
+  },
+  "wyrmsBreath": {
+    "name": "巨龙吐息"
+  },
+  "eelsTwine": {
+    "name": "鳗鱼麻线"
+  },
+  "charcoal": {
+    "name": "木炭"
+  },
+  "metalSalvage": {
+    "name": "金属残骸"
+  },
+  "rustyNail": {
+    "name": "锈钉"
+  },
+  "scavengedWood": {
+    "name": "拾荒木材"
+  },
+  "brokenPlank": {
+    "name": "破碎木板"
+  },
+  "tornSail": {
+    "name": "撕裂船帆"
+  },
+  "precisionDrillingBit": {
+    "name": "精密钻头"
+  },
+  "rubber": {
+    "name": "橡胶"
+  },
+  "torsionSpring": {
+    "name": "扭力弹簧"
+  },
+  "screwMechanism": {
+    "name": "螺旋机构"
+  },
+  "cogwheel": {
+    "name": "齿轮"
+  },
+  "crudeSaltpeter": {
+    "name": "粗制硝石"
+  },
+  "lime": {
+    "name": "石灰"
+  },
+  "sheetGlass": {
+    "name": "薄板玻璃"
+  },
+  "woodTar": {
+    "name": "木焦油"
+  },
+  "shellac": {
+    "name": "虫胶"
+  },
+  "castingSand": {
+    "name": "铸砂"
+  },
+  "apexHippoLeather": {
+    "name": "顶级河马皮革"
+  },
+  "apexCrocodileLeather": {
+    "name": "顶级鳄鱼皮革"
+  },
+  "thickCrocodileLeather": {
+    "name": "厚鳄鱼皮革"
+  },
+  "sharkLeather": {
+    "name": "鲨鱼皮革"
+  },
+  "hippoLeather": {
+    "name": "河马皮革"
+  },
+  "crocodileLeather": {
+    "name": "鳄鱼皮革"
+  },
+  "greenheartPlank": {
+    "name": "绿心木板"
+  },
+  "juniperPlank": {
+    "name": "杜松木板"
+  },
+  "ironwoodPlank": {
+    "name": "铁木木板"
+  },
+  "mopanePlank": {
+    "name": "莫帕尼木板"
+  },
+  "irokoPlank": {
+    "name": "伊罗科木板"
+  },
+  "teakPlank": {
+    "name": "柚木木板"
+  },
+  "acaciaPlank": {
+    "name": "金合欢木板"
+  },
+  "magnetiteIngot": {
+    "name": "磁铁矿锭"
+  },
+  "zincIngot": {
+    "name": "锌锭"
+  },
+  "cobaltIngot": {
+    "name": "钴锭"
+  },
+  "bronzeIngot": {
+    "name": "青铜锭"
+  },
+  "steelIngot": {
+    "name": "钢锭"
+  },
+  "nickelIngot": {
+    "name": "镍锭"
+  },
+  "castIronIngot": {
+    "name": "铸铁锭"
+  },
+  "roselleCloth": {
+    "name": "洛神花布"
+  },
+  "fineAbaka": {
+    "name": "精制阿巴卡麻"
+  },
+  "fineRamie": {
+    "name": "精制苎麻"
+  },
+  "fineHemp": {
+    "name": "精制大麻"
+  },
+  "fineLinen": {
+    "name": "精制亚麻"
+  },
+  "fineSisal": {
+    "name": "精制剑麻"
+  },
+  "fineJute": {
+    "name": "精制黄麻"
+  },
+  "repairKit3": {
+    "name": "修理工具包3型"
+  },
+  "repairKit2": {
+    "name": "修理工具包2型"
+  },
+  "repairKit1": {
+    "name": "修理工具包1型"
+  },
+  "waterBarrel": {
+    "name": "水桶"
+  },
+  "waterFlask": {
+    "name": "水壶"
+  },
+  "hippoMeat": {
+    "name": "河马肉"
+  },
+  "rawVegetables": {
+    "name": "生蔬菜"
+  },
+  "rawBeef": {
+    "name": "生牛肉"
+  },
+  "screwpine": {
+    "name": "露兜树"
+  },
+  "tylosaurusFlesh": {
+    "name": "泰龙蜥肉"
+  },
+  "primeCrocodileMeat": {
+    "name": "优质鳄鱼肉"
+  },
+  "durian": {
+    "name": "榴莲"
+  },
+  "primeHippoMeat": {
+    "name": "优质河马肉"
+  },
+  "flour": {
+    "name": "面粉"
+  },
+  "rawChicken": {
+    "name": "生鸡肉"
+  },
+  "rawMutton": {
+    "name": "生羊肉"
+  },
+  "sharkMeat": {
+    "name": "鲨鱼肉"
+  },
+  "crocodileMeat": {
+    "name": "鳄鱼肉"
+  },
+  "ndizi": {
+    "name": "恩迪兹香蕉"
+  },
+  "fish": {
+    "name": "鱼"
+  },
+  "coconut": {
+    "name": "椰子"
+  },
+  "apexHippoHide": {
+    "name": "顶级河马皮"
+  },
+  "apexCrocodileHide": {
+    "name": "顶级鳄鱼皮"
+  },
+  "thickCrocodileHide": {
+    "name": "厚鳄鱼皮"
+  },
+  "sharkSkin": {
+    "name": "鲨鱼皮"
+  },
+  "hippoHide": {
+    "name": "河马皮"
+  },
+  "crocodileHide": {
+    "name": "鳄鱼皮"
+  },
+  "greenheart": {
+    "name": "绿心木"
+  },
+  "juniper": {
+    "name": "杜松"
+  },
+  "ironwood": {
+    "name": "铁木"
+  },
+  "mopane": {
+    "name": "莫帕尼"
+  },
+  "iroko": {
+    "name": "伊罗科"
+  },
+  "teak": {
+    "name": "柚木"
+  },
+  "acacia": {
+    "name": "金合欢"
+  },
+  "magnetite": {
+    "name": "磁铁矿"
+  },
+  "zinc": {
+    "name": "锌"
+  },
+  "cobalt": {
+    "name": "钴"
+  },
+  "copper": {
+    "name": "铜"
+  },
+  "pureIron": {
+    "name": "纯铁"
+  },
+  "nickel": {
+    "name": "镍"
+  },
+  "bogIron": {
+    "name": "沼铁矿"
+  },
+  "roselle": {
+    "name": "洛神花"
+  },
+  "abaka": {
+    "name": "阿巴卡麻"
+  },
+  "ramie": {
+    "name": "苎麻"
+  },
+  "hemp": {
+    "name": "大麻"
+  },
+  "linen": {
+    "name": "亚麻"
+  },
+  "sisal": {
+    "name": "剑麻"
+  },
+  "jute": {
+    "name": "黄麻"
+  },
+  "copperBars": {
+    "name": "铜条"
+  },
+  "silverLions": {
+    "name": "银狮币"
+  },
+  "halfTaels": {
+    "name": "半两银"
+  },
+  "azuriteGem": {
+    "name": "蓝铜矿宝石"
+  },
+  "reapersToll": {
+    "name": "死神之税"
+  },
+  "sovereigns": {
+    "name": "君主币"
+  },
+  "piecesOfEight": {
+    "name": "八片币"
+  },
+  "silver": {
+    "name": "银"
+  },
+  "gold": {
+    "name": "金"
+  },
+  "cork": {
+    "name": "软木"
+  },
+  "jadeDragon": {
+    "name": "玉龙币"
+  },
+  "units": {
+    "name": "单位币"
+  },
+  "bloodiedDoubloon": {
+    "name": "血染达布隆"
+  }
+}

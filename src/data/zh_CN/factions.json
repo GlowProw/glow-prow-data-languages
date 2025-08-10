@@ -1,0 +1,62 @@
+{
+  "sultanateOfSohar": {
+    "name": "苏哈尔苏丹国"
+  },
+  "scavengers": {
+    "name": "拾荒者"
+  },
+  "theHelm": {
+    "name": "舵手会"
+  },
+  "rogues": {
+    "name": "无赖帮"
+  },
+  "seaPeople": {
+    "name": "海民"
+  },
+  "theUnhallowed": {
+    "name": "亵渎者"
+  },
+  "azureFleet": {
+    "name": "蔚蓝舰队"
+  },
+  "fleetOfPestilence": {
+    "name": "瘟疫舰队"
+  },
+  "dominionOfRempah": {
+    "name": "伦帕赫领"
+  },
+  "shadowLegion": {
+    "name": "暗影军团"
+  },
+  "privateers": {
+    "name": "私掠者"
+  },
+  "dragonsClaw": {
+    "name": "龙爪帮"
+  },
+  "phoenixsTalon": {
+    "name": "凤凰之爪"
+  },
+  "pirates": {
+    "name": "海盗"
+  },
+  "chorusFleet": {
+    "name": "浩劫合唱舰队"
+  },
+  "clanOfFara": {
+    "name": "法拉氏族"
+  },
+  "confederationOfUngwana": {
+    "name": "昂瓦纳联盟"
+  },
+  "britishTradingAlliance": {
+    "name": "不列颠贸易同盟"
+  },
+  "dutchMerchantCompany": {
+    "name": "荷兰商人公司"
+  },
+  "compagnieRoyale": {
+    "name": "皇家公司"
+  }
+}
