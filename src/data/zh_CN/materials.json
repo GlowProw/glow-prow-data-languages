@@ -1,455 +1,618 @@
 {
-  "masterworkKit": {
-    "name": "大师工艺套件"
-  },
-  "ascensionModule": {
-    "name": "晋升模块"
-  },
-  "primevalFang": {
-    "name": "远古獠牙"
-  },
-  "xanthousGemstone": {
-    "name": "黄晶宝石"
-  },
-  "artisansRefinementPack": {
-    "name": "工匠精炼包"
-  },
-  "putrefiedLestariSkin": {
-    "name": "腐败的莱斯塔里皮革"
-  },
-  "putrefiedZamaharibuScale": {
-    "name": "腐败的扎马哈里布鳞片"
-  },
-  "xanthousStone": {
-    "name": "黄晶石"
-  },
-  "gannetDenseNiter": {
-    "name": "塘鹅致密硝石"
-  },
-  "orcaIntricateApparatus": {
-    "name": "逆戟鲸精密装置"
-  },
-  "wyrmVolatileNapalm": {
-    "name": "巨龙挥发凝固汽油"
-  },
-  "eelSturdyRopes": {
-    "name": "鳗鱼坚韧绳索"
-  },
-  "jadePhoenixStatue": {
-    "name": "翡翠凤凰雕像"
-  },
-  "yellowDragonBanner": {
-    "name": "黄龙旗帜"
-  },
-  "blightedFuel": {
-    "name": "枯萎燃料"
-  },
-  "plagueDust": {
-    "name": "瘟疫粉尘"
-  },
-  "azureDragonHead": {
-    "name": "碧蓝龙首"
-  },
-  "phoenixPinion": {
-    "name": "凤凰飞羽"
-  },
-  "phoenixBeak": {
-    "name": "凤凰喙"
-  },
-  "lightningDragonScale": {
-    "name": "雷龙鳞片"
-  },
-  "lightningDragonClaw": {
-    "name": "雷龙之爪"
-  },
-  "wormDrive": {
-    "name": "蜗杆传动装置"
-  },
-  "planetaryGearset": {
-    "name": "行星齿轮组"
-  },
-  "purifiedSaltpeter": {
-    "name": "纯化硝石"
-  },
-  "quicklime": {
-    "name": "生石灰"
-  },
-  "naphtha": {
-    "name": "石脑油"
-  },
-  "lestarisMeat": {
-    "name": "莱斯塔里肉"
-  },
-  "ice": {
-    "name": "冰"
-  },
-  "blackAriaShipPart": {
-    "name": "黑色咏叹调船部件"
-  },
-  "whiteAriaShipPart": {
-    "name": "白色咏叹调船部件"
-  },
-  "hubacHeirloom": {
-    "name": "胡巴克传家宝"
-  },
-  "lestarisSkin": {
-    "name": "莱斯塔里皮革"
-  },
-  "zamaharibuScales": {
-    "name": "扎马哈里布鳞片"
-  },
-  "upgradeParts": {
-    "name": "升级部件"
-  },
-  "sinewString": {
-    "name": "筋腱弦线"
-  },
-  "lacquer": {
-    "name": "漆"
-  },
-  "dryCastingSand": {
-    "name": "干燥铸砂"
-  },
-  "plateGlass": {
-    "name": "平板玻璃"
-  },
-  "woodPitch": {
-    "name": "木焦油"
-  },
-  "monstrousTooth": {
-    "name": "怪物獠牙"
-  },
-  "vengefulEssence": {
-    "name": "复仇精华"
-  },
-  "etherealAshes": {
-    "name": "缥缈灰烬"
-  },
-  "gannetsSaltpeter": {
-    "name": "塘鹅硝石"
-  },
-  "orcasMechanism": {
-    "name": "逆戟鲸机械装置"
-  },
-  "wyrmsBreath": {
-    "name": "巨龙吐息"
-  },
-  "eelsTwine": {
-    "name": "鳗鱼麻线"
-  },
-  "charcoal": {
-    "name": "木炭"
-  },
-  "metalSalvage": {
-    "name": "金属残骸"
-  },
-  "rustyNail": {
-    "name": "锈钉"
-  },
-  "scavengedWood": {
-    "name": "拾荒木材"
-  },
-  "brokenPlank": {
-    "name": "破碎木板"
-  },
-  "tornSail": {
-    "name": "撕裂船帆"
-  },
-  "precisionDrillingBit": {
-    "name": "精密钻头"
-  },
-  "rubber": {
-    "name": "橡胶"
-  },
-  "torsionSpring": {
-    "name": "扭力弹簧"
-  },
-  "screwMechanism": {
-    "name": "螺旋机构"
-  },
-  "cogwheel": {
-    "name": "齿轮"
-  },
-  "crudeSaltpeter": {
-    "name": "粗制硝石"
-  },
-  "lime": {
-    "name": "石灰"
-  },
-  "sheetGlass": {
-    "name": "薄板玻璃"
-  },
-  "woodTar": {
-    "name": "木焦油"
-  },
-  "shellac": {
-    "name": "虫胶"
-  },
-  "castingSand": {
-    "name": "铸砂"
-  },
-  "apexHippoLeather": {
-    "name": "顶级河马皮革"
-  },
-  "apexCrocodileLeather": {
-    "name": "顶级鳄鱼皮革"
-  },
-  "thickCrocodileLeather": {
-    "name": "厚鳄鱼皮革"
-  },
-  "sharkLeather": {
-    "name": "鲨鱼皮革"
-  },
-  "hippoLeather": {
-    "name": "河马皮革"
-  },
-  "crocodileLeather": {
-    "name": "鳄鱼皮革"
-  },
-  "greenheartPlank": {
-    "name": "绿心木板"
-  },
-  "juniperPlank": {
-    "name": "杜松木板"
-  },
-  "ironwoodPlank": {
-    "name": "铁木木板"
-  },
-  "mopanePlank": {
-    "name": "莫帕尼木板"
-  },
-  "irokoPlank": {
-    "name": "伊罗科木板"
-  },
-  "teakPlank": {
-    "name": "柚木木板"
-  },
-  "acaciaPlank": {
-    "name": "金合欢木板"
-  },
-  "magnetiteIngot": {
-    "name": "磁铁矿锭"
-  },
-  "zincIngot": {
-    "name": "锌锭"
-  },
-  "cobaltIngot": {
-    "name": "钴锭"
-  },
-  "bronzeIngot": {
-    "name": "青铜锭"
-  },
-  "steelIngot": {
-    "name": "钢锭"
-  },
-  "nickelIngot": {
-    "name": "镍锭"
-  },
-  "castIronIngot": {
-    "name": "铸铁锭"
-  },
-  "roselleCloth": {
-    "name": "洛神花布"
-  },
-  "fineAbaka": {
-    "name": "精制阿巴卡麻"
-  },
-  "fineRamie": {
-    "name": "精制苎麻"
-  },
-  "fineHemp": {
-    "name": "精制大麻"
-  },
-  "fineLinen": {
-    "name": "精制亚麻"
-  },
-  "fineSisal": {
-    "name": "精制剑麻"
-  },
-  "fineJute": {
-    "name": "精制黄麻"
-  },
-  "repairKit3": {
-    "name": "修理工具包3型"
-  },
-  "repairKit2": {
-    "name": "修理工具包2型"
-  },
-  "repairKit1": {
-    "name": "修理工具包1型"
-  },
-  "waterBarrel": {
-    "name": "水桶"
-  },
-  "waterFlask": {
-    "name": "水壶"
-  },
-  "hippoMeat": {
-    "name": "河马肉"
-  },
-  "rawVegetables": {
-    "name": "生蔬菜"
-  },
-  "rawBeef": {
-    "name": "生牛肉"
-  },
-  "screwpine": {
-    "name": "露兜树"
-  },
-  "tylosaurusFlesh": {
-    "name": "泰龙蜥肉"
-  },
-  "primeCrocodileMeat": {
-    "name": "优质鳄鱼肉"
-  },
-  "durian": {
-    "name": "榴莲"
-  },
-  "primeHippoMeat": {
-    "name": "优质河马肉"
-  },
-  "flour": {
-    "name": "面粉"
-  },
-  "rawChicken": {
-    "name": "生鸡肉"
-  },
-  "rawMutton": {
-    "name": "生羊肉"
-  },
-  "sharkMeat": {
-    "name": "鲨鱼肉"
-  },
-  "crocodileMeat": {
-    "name": "鳄鱼肉"
-  },
-  "ndizi": {
-    "name": "恩迪兹香蕉"
-  },
-  "fish": {
-    "name": "鱼"
-  },
-  "coconut": {
-    "name": "椰子"
-  },
-  "apexHippoHide": {
-    "name": "顶级河马皮"
-  },
-  "apexCrocodileHide": {
-    "name": "顶级鳄鱼皮"
-  },
-  "thickCrocodileHide": {
-    "name": "厚鳄鱼皮"
-  },
-  "sharkSkin": {
-    "name": "鲨鱼皮"
-  },
-  "hippoHide": {
-    "name": "河马皮"
-  },
-  "crocodileHide": {
-    "name": "鳄鱼皮"
-  },
-  "greenheart": {
-    "name": "绿心木"
-  },
-  "juniper": {
-    "name": "杜松"
-  },
-  "ironwood": {
-    "name": "铁木"
-  },
-  "mopane": {
-    "name": "莫帕尼"
-  },
-  "iroko": {
-    "name": "伊罗科"
-  },
-  "teak": {
-    "name": "柚木"
-  },
-  "acacia": {
-    "name": "金合欢"
-  },
-  "magnetite": {
-    "name": "磁铁矿"
-  },
-  "zinc": {
-    "name": "锌"
-  },
-  "cobalt": {
-    "name": "钴"
-  },
-  "copper": {
-    "name": "铜"
-  },
-  "pureIron": {
-    "name": "纯铁"
-  },
-  "nickel": {
-    "name": "镍"
-  },
-  "bogIron": {
-    "name": "沼铁矿"
-  },
-  "roselle": {
-    "name": "洛神花"
-  },
-  "abaka": {
-    "name": "阿巴卡麻"
-  },
-  "ramie": {
-    "name": "苎麻"
-  },
-  "hemp": {
-    "name": "大麻"
-  },
-  "linen": {
-    "name": "亚麻"
-  },
-  "sisal": {
-    "name": "剑麻"
-  },
-  "jute": {
-    "name": "黄麻"
-  },
-  "copperBars": {
-    "name": "铜条"
-  },
-  "silverLions": {
-    "name": "银狮币"
-  },
-  "halfTaels": {
-    "name": "半两银"
-  },
-  "azuriteGem": {
-    "name": "蓝铜矿宝石"
-  },
-  "reapersToll": {
-    "name": "死神之税"
-  },
-  "sovereigns": {
-    "name": "君主币"
+  "silver": {
+    "name": "银",
+    "description": "所有人用于贸易和商业的银币。"
   },
   "piecesOfEight": {
-    "name": "八片币"
+    "name": "八里亚尔",
+    "description": "由海舵社发行的专属货币。将其运送至避风港可将其储存起来，在黑市使用，或用于你的海舵社帝国。"
   },
-  "silver": {
-    "name": "银"
+  "sovereigns": {
+    "name": "君主币",
+    "description": ""
+  },
+  "reapersToll": {
+    "name": "死神之税",
+    "description": ""
   },
   "gold": {
-    "name": "金"
+    "name": "金",
+    "description": ""
   },
-  "cork": {
-    "name": "软木"
+  "copperBars": {
+    "name": "铜条",
+    "description": "从提炼铜到最高纯度的欧洲重要的高品位金属，使其能够用于战争。"
   },
-  "jadeDragon": {
-    "name": "玉龙币"
+  "gildmarks": {
+    "name": "镀金马克",
+    "description": "用平衡和死亡符号盖上了大量未知材料印制的零件。 对未知的人来说，他们是好奇的奇迹；对已知的人来说，他们不易赚钱。"
   },
-  "units": {
-    "name": "单位币"
+  "azuriteGem": {
+    "name": "蓝铜矿宝石",
+    "description": ""
+  },
+  "halfTaels": {
+    "name": "半两银",
+    "description": ""
+  },
+  "silverLions": {
+    "name": "银狮币",
+    "description": "Scurlock亲自设计的银币从母国运出。 也许它们是打算当时的货币，当时Scurlock一天会控制印度洋，或者他相信这一点。"
   },
   "bloodiedDoubloon": {
-    "name": "血染达布隆"
+    "name": "血染达布隆",
+    "description": ""
+  },
+  "illicitMoonshine": {
+    "name": "非法月亮模式",
+    "description": "这种精神的强度已经超越了顶层。它的丰富和含油的材质穿透了它的玻璃封装。"
+  },
+  "coconut": {
+    "name": "椰子",
+    "description": "孤岛上的主食。"
+  },
+  "fish": {
+    "name": "鱼",
+    "description": "口感温和，肉质柔软。"
+  },
+  "ndizi": {
+    "name": "恩迪兹香蕉",
+    "description": "因甜美的口味而广受欢迎；其烹饪用的品种被称为大蕉。"
+  },
+  "crocodileMeat": {
+    "name": "鳄鱼肉",
+    "description": "几乎无法生食。"
+  },
+  "primeCrocodileMeat": {
+    "name": "优质鳄鱼肉",
+    "description": "鳄鱼肉的最佳部位。"
+  },
+  "sharkMeat": {
+    "name": "鲨鱼肉",
+    "description": "酸味强烈，烹煮后口感会有所改善。"
+  },
+  "rawMutton": {
+    "name": "生羊肉",
+    "description": "将羊肉烹煮后能够去除其强烈的膻味。"
+  },
+  "rawChicken": {
+    "name": "生鸡肉",
+    "description": "平淡黏腻。"
+  },
+  "flour": {
+    "name": "面粉",
+    "description": "许多菜肴的重要原料。"
+  },
+  "primeHippoMeat": {
+    "name": "优质河马肉",
+    "description": "河马肉的最佳部位。"
+  },
+  "screwpine": {
+    "name": "露兜树",
+    "description": "这种水果在煮熟后，可以磨成营养丰富的可食用糊状物。"
+  },
+  "rawBeef": {
+    "name": "生牛肉",
+    "description": "最好还是煮熟后再吃。"
+  },
+  "rawVegetables": {
+    "name": "生蔬菜",
+    "description": "口味平淡不张扬。"
+  },
+  "hippoMeat": {
+    "name": "河马肉",
+    "description": "口味略苦，肉质坚韧。"
+  },
+  "waterFlask": {
+    "name": "水壶",
+    "description": "海盗的必备饮品。"
+  },
+  "waterBarrel": {
+    "name": "水桶",
+    "description": "清新可口的饮用水。"
+  },
+  "durian": {
+    "name": "榴莲",
+    "description": "气味强烈，长满尖刺的大型水果。"
+  },
+  "tylosaurusFlesh": {
+    "name": "泰龙蜥肉",
+    "description": "一只浸入非洲海岸的野兽肉，它在不幸的海员身上发烧。"
+  },
+  "pureIron": {
+    "name": "纯铁",
+    "description": "含铁量更大的金属矿石。"
+  },
+  "ironwood": {
+    "name": "铁木",
+    "description": "最难和最重的木材之一。"
+  },
+  "tornSail": {
+    "name": "撕裂船帆",
+    "description": "一块布被从海水中拔掉。需要Crowbar从沉船中收获。"
+  },
+  "scavengedWood": {
+    "name": "拾荒木材",
+    "description": "一块从船体上移走的木头。需要Crowbar从沉船上收获。"
+  },
+  "metalSalvage": {
+    "name": "金属残骸",
+    "description": "从其船顶被割去的金属板。需要Crowbar从沉船中采集。"
+  },
+  "ironwoodPlank": {
+    "name": "铁木木板",
+    "description": "用于制作基本船舶和设备的浮动、基本板材。"
+  },
+  "crudeSaltpeter": {
+    "name": "粗制硝石",
+    "description": "对火药至关重要的自然泥炭剂。"
+  },
+  "shellac": {
+    "name": "虫胶",
+    "description": "木制结构的涂料剂。"
+  },
+  "rustyNail": {
+    "name": "锈钉",
+    "description": "已经生长的钉子。需要Crowbar 从沉船中收获。"
+  },
+  "copper": {
+    "name": "铜",
+    "description": "可用于多种用途的红色、可溶解的金属。"
+  },
+  "castIronIngot": {
+    "name": "铸铁锭",
+    "description": "用来制作基本船舶和设备的固有但不纯的金属。"
+  },
+  "acacia": {
+    "name": "金合欢",
+    "description": "耐用和耐轮换的木材。"
+  },
+  "sharkSkin": {
+    "name": "鲨鱼皮",
+    "description": ""
+  },
+  "jute": {
+    "name": "黄麻",
+    "description": "一个有各种用途的软光纤维。"
+  },
+  "cobaltIngot": {
+    "name": "钴锭",
+    "description": "精炼科巴尔特矿石。它被熔化成一块花。它用于制造船舶、武器和家具。"
+  },
+  "teakPlank": {
+    "name": "柚木木板",
+    "description": "用来制作最优秀船只和设备的不可信的木材。"
+  },
+  "iroko": {
+    "name": "伊罗科",
+    "description": "一种据信具有治愈特性的木材。"
+  },
+  "lime": {
+    "name": "石灰",
+    "description": "一种可融入砖块和迫击炮的强大建筑材料。"
+  },
+  "nickel": {
+    "name": "镍",
+    "description": "防腐蚀的金银金属勒索可怕。"
+  },
+  "steelIngot": {
+    "name": "钢锭",
+    "description": "用来制造最优秀船只和设备的铁质不可信的金属。"
+  },
+  "cobalt": {
+    "name": "钴",
+    "description": "古代以来用来为玻璃和陶瓷添加蓝色的稀有金属。"
+  },
+  "irokoPlank": {
+    "name": "伊罗科木板",
+    "description": "用来制造先进船只和设备的更强、可放大的木材。"
+  },
+  "sisal": {
+    "name": "剑麻",
+    "description": "一种耐热、耐盐度极高的纤维。"
+  },
+  "castingSand": {
+    "name": "铸砂",
+    "description": "金属沙子用于在铁匠铸造厂铸造。"
+  },
+  "acaciaPlank": {
+    "name": "金合欢木板",
+    "description": "用于制作基本船舶和设备的浮动、基本板材。"
+  },
+  "nickelIngot": {
+    "name": "镍锭",
+    "description": "精炼镍矿。它被熔炼成一种灵魂药。用于制造船舶、武器和家具。"
+  },
+  "bogIron": {
+    "name": "沼铁矿",
+    "description": "通常在低地地区发现铁矿石。"
+  },
+  "juniperPlank": {
+    "name": "杜松木板",
+    "description": "用来制造先进船只和设备的更强、可放大的木材。"
+  },
+  "fineAbaka": {
+    "name": "精制阿巴卡麻",
+    "description": "从阿巴卡工厂精炼织物，用于制造船舶、武器和家具。"
+  },
+  "screwMechanism": {
+    "name": "螺旋机构",
+    "description": "金属和木材框架结合在一起的基本螺丝。"
+  },
+  "mopanePlank": {
+    "name": "莫帕尼木板",
+    "description": "用于制作基本船舶和设备的木板。"
+  },
+  "fineLinen": {
+    "name": "精制亚麻",
+    "description": "用于制作先进船只和设备的灵活而平稳的纤维。"
+  },
+  "cogwheel": {
+    "name": "齿轮",
+    "description": "简单的转动轮，可以分成木制支撑。"
+  },
+  "woodTar": {
+    "name": "木焦油",
+    "description": "船只的粗水密封、帆船和船上的一切。"
+  },
+  "fineJute": {
+    "name": "精制黄麻",
+    "description": "用于制作基本船舶和设备的弹性但丑陋的织物。"
+  },
+  "fineSisal": {
+    "name": "精制剑麻",
+    "description": "从修女厂提炼纤维，用于制造船舶、武器和家具。"
+  },
+  "sharkLeather": {
+    "name": "鲨鱼皮革",
+    "description": "从鲨鱼皮肤提炼出非常耐用的皮革。可以用来制造各种物品。"
+  },
+  "thickCrocodileHide": {
+    "name": "厚鳄鱼皮",
+    "description": ""
+  },
+  "thickCrocodileLeather": {
+    "name": "厚鳄鱼皮革",
+    "description": "极强而坚固的皮革从厚的裁剪皮肤提炼。可以用来制造各种物品。"
+  },
+  "crocodileHide": {
+    "name": "鳄鱼皮",
+    "description": ""
+  },
+  "crocodileLeather": {
+    "name": "鳄鱼皮革",
+    "description": "从Crocodile Skin精炼的高强度和坚固皮革。可以用来制造各种物品。"
+  },
+  "zincIngot": {
+    "name": "锌锭",
+    "description": "精炼锌矿。它被熔炼成一种灵魂。它用于制造船舶、武器和家具。"
+  },
+  "brokenPlank": {
+    "name": "破碎木板",
+    "description": "一块木材已经从船体中流失。需要Crowbar从沉船中收获。"
+  },
+  "sheetGlass": {
+    "name": "薄板玻璃",
+    "description": "对于需要视线的物品，厚玻璃。"
+  },
+  "fineHemp": {
+    "name": "精制大麻",
+    "description": "用来制作最优秀船只和设备的不可信的坚固结构。"
+  },
+  "hippoHide": {
+    "name": "河马皮",
+    "description": ""
+  },
+  "hippoLeather": {
+    "name": "河马皮革",
+    "description": "从Hippo Skin精炼出令人难以置信的皮革。可以用来制造各种物品。"
+  },
+  "greenheartPlank": {
+    "name": "绿心木板",
+    "description": "用于制造先进船只和设备的不可信的木材。"
+  },
+  "roselleCloth": {
+    "name": "洛神花布",
+    "description": "用来制作最优秀船只和设备的不可信的坚固结构。"
+  },
+  "precisionDrillingBit": {
+    "name": "精密钻头",
+    "description": "手工金属钻探，用于准确的工程工作。"
+  },
+  "greenheart": {
+    "name": "绿心木",
+    "description": "红色木材耐腐烂腐烂。"
+  },
+  "roselle": {
+    "name": "洛神花",
+    "description": "纤维强度与重量之比很高。"
+  },
+  "fineRamie": {
+    "name": "精制苎麻",
+    "description": "精炼编织品，用于制造船舶、武器和家具。"
+  },
+  "ramie": {
+    "name": "苎麻",
+    "description": "一种由Flex工厂纤维制成的强力吸收纺织品。"
+  },
+  "teak": {
+    "name": "柚木",
+    "description": "以耐久性和抗水性著称的 o f型木材。"
+  },
+  "hemp": {
+    "name": "大麻",
+    "description": "第一批被转化为可用纤维的工厂之一。"
+  },
+  "abaka": {
+    "name": "阿巴卡麻",
+    "description": "从一种香蕉植物中获得的硬纤维。"
+  },
+  "juniper": {
+    "name": "杜松",
+    "description": "一种重量极高的木材。"
+  },
+  "apexCrocodileHide": {
+    "name": "顶级鳄鱼皮",
+    "description": ""
+  },
+  "apexCrocodileLeather": {
+    "name": "顶级鳄鱼皮革",
+    "description": "从 Apex Crocodile Skin 精炼强而坚固的皮革。可以用来制造各种物品。"
+  },
+  "apexHippoHide": {
+    "name": "顶级河马皮",
+    "description": ""
+  },
+  "apexHippoLeather": {
+    "name": "顶级河马皮革",
+    "description": "从Apex Hippo Skin提炼的耐用皮革。可以用来制造各种物品。"
+  },
+  "rubber": {
+    "name": "橡胶",
+    "description": "一种既耐力又抗水的自然复合物。"
+  },
+  "magnetite": {
+    "name": "磁铁矿",
+    "description": "导致在古代发现磁铁的铁矿石。"
+  },
+  "magnetiteIngot": {
+    "name": "磁铁矿锭",
+    "description": "用来制造最优秀船只和设备的铁质不可信的金属。"
+  },
+  "mopane": {
+    "name": "莫帕尼",
+    "description": "特别苛刻和密集的木材。"
+  },
+  "linen": {
+    "name": "亚麻",
+    "description": "一种由Flex工厂纤维制成的强力吸收纺织品。"
+  },
+  "torsionSpring": {
+    "name": "扭力弹簧",
+    "description": "工业场址通常是一个不人道的大春。"
+  },
+  "bronzeIngot": {
+    "name": "青铜锭",
+    "description": "用于制造先进船只和设备的更强、重金属。"
+  },
+  "zinc": {
+    "name": "锌",
+    "description": "自古以来用于合金的稀有金属。"
+  },
+  "repairKit1": {
+    "name": "修理工具包1型",
+    "description": "可略微修复船身。"
+  },
+  "repairKit2": {
+    "name": "修理工具包2型",
+    "description": "可小幅修复船身。"
+  },
+  "repairKit3": {
+    "name": "修理工具包3型",
+    "description": "可中幅修复船身。"
+  },
+  "monstrousTooth": {
+    "name": "怪物獠牙",
+    "description": "源自一个被Ungwana称为“Vengeance的爪子”的野兽。"
+  },
+  "vengefulEssence": {
+    "name": "复仇精华",
+    "description": "另一种世界性燃料会不断释放出可怕的能源。 触摸它使你感觉好像你被地狱火焰焦虑， 但他们离开你的手后不留在你的皮肤上。"
+  },
+  "etherealAshes": {
+    "name": "缥缈灰烬",
+    "description": "一根几乎半透明的灰尘，用光谱光线脉冲。 你无法感受到你手指的精细谷物，但他们会给你的脊柱带来一个令人费解的冷却。"
+  },
+  "eelsTwine": {
+    "name": "鳗鱼麻线",
+    "description": "由Eel编织的强硬字符串，有助于制作Ballistas。"
+  },
+  "wyrmsBreath": {
+    "name": "巨龙吐息",
+    "description": "一种由Wyrms制造的爆炸物的高度易燃坑和溶剂。"
+  },
+  "orcasMechanism": {
+    "name": "逆戟鲸机械装置",
+    "description": "Orcas设计的环形管，用于需要高压的建筑。"
+  },
+  "gannetsSaltpeter": {
+    "name": "塘鹅硝石",
+    "description": "一种用来制造现代武器中所用火药的威力极大的化学品，由甘特精炼。"
+  },
+  "dryCastingSand": {
+    "name": "干燥铸砂",
+    "description": "连铸沙片被迫形成密密、重型形状。"
+  },
+  "lacquer": {
+    "name": "漆",
+    "description": "用来把木材和防水结合起来的壳体更强有力的组合。"
+  },
+  "woodPitch": {
+    "name": "木焦油",
+    "description": "一种净化密封，用于装载、海运和暴露于海洋的任何东西。"
+  },
+  "plateGlass": {
+    "name": "平板玻璃",
+    "description": "密封玻璃和玻璃板，形成了几乎防碎的保证书。"
+  },
+  "sinewString": {
+    "name": "筋腱弦线",
+    "description": "一个由法拉部族制作的极其棘手的字符串，可以用来制造复杂的物品。通常在红岛上发现。"
+  },
+  "upgradeParts": {
+    "name": "升级部件",
+    "description": "一组可用于升级的主制部件。"
+  },
+  "lestarisSkin": {
+    "name": "莱斯塔里皮革",
+    "description": "坚韧不拔的皮肤躲在杀死的Lestari上。"
+  },
+  "hubacHeirloom": {
+    "name": "胡巴克传家宝",
+    "description": "古堡家庭中世代代传下来的遗物。"
+  },
+  "units": {
+    "name": "单位币",
+    "description": ""
+  },
+  "blackAriaShipPart": {
+    "name": "黑色咏叹调船部件",
+    "description": "一个从Armand Hubac的黑阿丽亚娜拿来的破碎部件看起来就像剑。"
+  },
+  "whiteAriaShipPart": {
+    "name": "白色咏叹调船部件",
+    "description": "Bertrand Hubac的白阿里亚旗的一部分。看起来像一个盾牌。"
+  },
+  "cork": {
+    "name": "软木",
+    "description": "远离亚尼塔的合成，对一些人非常有价值。"
+  },
+  "ice": {
+    "name": "冰",
+    "description": "一种热带奇迹般寒冷。"
+  },
+  "lestarisMeat": {
+    "name": "莱斯塔里肉",
+    "description": "从海怪莱斯塔里身上获取的肉。"
+  },
+  "jadeDragon": {
+    "name": "玉龙币",
+    "description": "一个可在商店中用于特殊活动的典型令牌。"
+  },
+  "naphtha": {
+    "name": "石脑油",
+    "description": "用于解析包括敌人在内的顽固物质的强大溶剂。"
+  },
+  "zamaharibuScales": {
+    "name": "扎马哈里布鳞片",
+    "description": "作为海风暴，很难杀死和凶残的一只野兽的皮。"
+  },
+  "quicklime": {
+    "name": "生石灰",
+    "description": "净化于粗略的极限，更快地采取行动并与不同的表面联结起来。"
+  },
+  "purifiedSaltpeter": {
+    "name": "纯化硝石",
+    "description": "一种纯洁而有力的萨尔特佩特形式，它以其多面性和可靠性而著称。请记住以谨慎和尊重的方式处理。"
+  },
+  "planetaryGearset": {
+    "name": "行星齿轮组",
+    "description": "一个全天候式的认知器安排，通常建造先进的转化机制。"
+  },
+  "wormDrive": {
+    "name": "蜗杆传动装置",
+    "description": "一种将旋转转换为平滑准确移动的紧凑型渔具系统。"
+  },
+  "lightningDragonClaw": {
+    "name": "雷龙之爪",
+    "description": "一块由闪电龙留下的飞弹。它甚至在休眠状态下都会产生电能。"
+  },
+  "lightningDragonScale": {
+    "name": "雷龙鳞片",
+    "description": "闪电龙留下的出色缩放，甚至在休眠状态下仍保持其辐射和亮度。"
+  },
+  "phoenixBeak": {
+    "name": "凤凰喙",
+    "description": "一块来自李蒂安国王旗的破碎片，可因为其难以置信的复原力而重新定位。"
+  },
+  "phoenixPinion": {
+    "name": "凤凰飞羽",
+    "description": "来自李蒂安国旗的老帆船。由于其多面性，它能够修补其他物体。"
+  },
+  "azureDragonHead": {
+    "name": "碧蓝龙首",
+    "description": "来自赞格司令旗帜的龙头。这种强大的野兽朝着皇帝的下风发出信号。"
+  },
+  "plagueDust": {
+    "name": "瘟疫粉尘",
+    "description": "一种邪恶的粉末物质，与毒性和恶毒性的本质相渗透。"
+  },
+  "blightedFuel": {
+    "name": "枯萎燃料",
+    "description": "从La Peste的旗帜下的弓箭中捕获的有毒精英，它暴露了一种恶毒的能量。"
+  },
+  "yellowDragonBanner": {
+    "name": "黄龙旗帜",
+    "description": "一幅从赞格指挥官的旗帜画出来的横幅。它有一个高亮的黄色龙在云端。"
+  },
+  "jadePhoenixStatue": {
+    "name": "翡翠凤凰雕像",
+    "description": "一只由纯粹外衣制作的一只光明镜的雕像，是李蒂安部落少数珍贵财产之一。"
+  },
+  "eelSturdyRopes": {
+    "name": "鳗鱼坚韧绳索",
+    "description": "通过编织在一起处理它和其他材料来制作。知道它的可靠性和弹性。"
+  },
+  "wyrmVolatileNapalm": {
+    "name": "巨龙挥发凝固汽油",
+    "description": "一种由漫长而复杂的蒸馏过程产生的高度易燃的液体，小火花可导致大规模毁灭。"
+  },
+  "orcaIntricateApparatus": {
+    "name": "逆戟鲸精密装置",
+    "description": "一个由装备和碎片组成的复杂机制系统。把它放在一起可以实现最大的效率。"
+  },
+  "gannetDenseNiter": {
+    "name": "塘鹅致密硝石",
+    "description": "盐度进一步提炼以实现其最纯度。可以用作武器和氨的成分。"
+  },
+  "xanthousStone": {
+    "name": "黄晶石",
+    "description": "一个光亮的金块用光谱光谱阴影进行脉冲。你几乎可以听到最暗的回声和声音。"
+  },
+  "putrefiedZamaharibuScale": {
+    "name": "腐败的扎马哈里布鳞片",
+    "description": "破碎的Zamaharibu的比例。使人能够摆脱毛虫，伤疤遍布全处，很可能被神秘力量复活。"
+  },
+  "putrefiedLestariSkin": {
+    "name": "腐败的莱斯塔里皮革",
+    "description": "死后的莱斯塔里隐藏。被拒绝治愈的伤口标记。很可能被神秘的力量复活。"
+  },
+  "artisansRefinementPack": {
+    "name": "工匠精炼包",
+    "description": "管理的稀有工具和材料集合，旨在提升装饰品，使其更加细致。"
+  },
+  "xanthousGemstone": {
+    "name": "黄晶宝石",
+    "description": "一股能够释放出一种温和辐射的杰出宝石。你不能完全放置它的形状和形式。"
+  },
+  "masterworkKit": {
+    "name": "大师工艺套件",
+    "description": "一套用来全面升级船只和设备的主构造工具。"
+  },
+  "ascensionModule": {
+    "name": "晋升模块",
+    "description": "一个升级项目的高级设备，添加分级的修改档，用于定制，并且有强大和独特的修改。"
+  },
+  "primevalFang": {
+    "name": "远古獠牙",
+    "description": "来自深渊的野兽的可怕怪物。任何人都必须勇敢地拥抱它的爪子。"
+  },
+  "deepIron": {
+    "name": "深铁水",
+    "description": ""
+  },
+  "deepIronPlates": {
+    "name": "深铁板",
+    "description": ""
   }
 }

@@ -72,7 +72,7 @@
     "description": "附加%s-%s%基础伤害作为爆炸伤害"
   },
   "pierce": {
-    "name": "贯穿",
+    "name": "穿透",
     "description": "每次命中额外造成%s-%s点穿透伤害"
   },
   "rupturing": {
@@ -171,19 +171,19 @@
     "description": "命中后有%s-%s%几率减少恢复工具3秒冷却"
   },
   "amplifiedPiercing": {
-    "name": "穿透增幅",
+    "name": "扩大穿透",
     "description": "提升%s-%s%现有穿透伤害"
   },
   "amplifiedElectric": {
-    "name": "雷电增幅",
+    "name": "扩大电击",
     "description": "提升%s-%s%现有雷电伤害"
   },
   "amplifiedExplosive": {
-    "name": "爆炸增幅",
+    "name": "扩大爆炸",
     "description": "提升%s-%s%现有爆炸伤害"
   },
   "amplifiedFlooding": {
-    "name": "浸水增幅",
+    "name": "扩大进水",
     "description": "提升%s-%s%现有浸水伤害"
   },
   "tearing": {
