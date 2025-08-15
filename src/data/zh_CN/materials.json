@@ -21,7 +21,7 @@
   },
   "copperBars": {
     "name": "铜条",
-    "description": "从提炼铜到最高纯度的欧洲重要的高品位金属，使其能够用于战争。"
+    "description": "来自欧洲的优质金属，由铜精炼而成，纯度极高，颇为重要，适用于战争武装。"
   },
   "gildmarks": {
     "name": "镀金马克",
@@ -52,11 +52,11 @@
     "description": "孤岛上的主食。"
   },
   "fish": {
-    "name": "鱼",
+    "name": "鱼肉",
     "description": "口感温和，肉质柔软。"
   },
   "ndizi": {
-    "name": "恩迪兹香蕉",
+    "name": "香蕉",
     "description": "因甜美的口味而广受欢迎；其烹饪用的品种被称为大蕉。"
   },
   "crocodileMeat": {
@@ -88,7 +88,7 @@
     "description": "河马肉的最佳部位。"
   },
   "screwpine": {
-    "name": "露兜树",
+    "name": "露兜树果",
     "description": "这种水果在煮熟后，可以磨成营养丰富的可食用糊状物。"
   },
   "rawBeef": {
@@ -116,11 +116,11 @@
     "description": "气味强烈，长满尖刺的大型水果。"
   },
   "tylosaurusFlesh": {
-    "name": "泰龙蜥肉",
+    "name": "海王龙血肉",
     "description": "一只浸入非洲海岸的野兽肉，它在不幸的海员身上发烧。"
   },
   "pureIron": {
-    "name": "纯铁",
+    "name": "铁",
     "description": "含铁量更大的金属矿石。"
   },
   "ironwood": {

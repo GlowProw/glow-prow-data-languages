@@ -1,95 +1,95 @@
 {
   "oathsOfWar": {
-    "name": "宣战誓言",
-    "description": "随着印度洋局势的紧张，敌对派系之间为了争夺主导地位展开了激烈的冲突。各帝国以坚不可摧的堡垒捍卫自己的阵地，并派遣强大的大型战舰，意图粉碎一切敌对势力，最终夺取霸权。",
+    "name": "Oaths of War",
+    "description": "As tensions rise in the Indian Ocean, hostile factions engage in fierce conflicts to compete for dominance. Empires defend their positions with impregnable fortresses and deploy powerful capital ships, aiming to crush all opposition and ultimately seize hegemony.",
     "data": {
       "phoenixStorm": {
-        "name": "凤凰风暴",
-        "description": "赛季首领\n直面黎天宁和她的战船"
+        "name": "Phoenix Storm",
+        "description": "Seasonal Boss\nFace Li Tianning and her warship"
       },
       "theRageOfTheDragon": {
-        "name": "飞龙之怒"
+        "name": "Rage of the Dragon"
       },
       "theShadowDragonHasArrived": {
-        "name": "影龙降临"
+        "name": "Shadow Dragon's Arrival"
       },
       "ferventBootleggerNickname": {
-        "name": "狂热私酒贩号",
-        "description": "限时活动"
+        "name": "Fervent Bootlegger",
+        "description": "Limited-time Event"
       },
       "witchHunter": {
-        "name": "猎狼人"
+        "name": "Witch Hunter"
       },
       "theKingOfPlagues": {
-        "name": "瘟疫之王"
+        "name": "King of Plagues"
       },
       "chasingDestinyMelodicSilence": {
-        "name": "追命靡音",
-        "description": "精英战船再临"
+        "name": "Chasing Destiny: Melodic Silence",
+        "description": "Elite Warship Returns"
       },
       "sufferingShip": {
-        "name": "疼苦号",
-        "description": "精英战船"
+        "name": "S.S. Suffering",
+        "description": "Elite Warship"
       },
       "doubleSilverCoins": {
-        "name": "双倍硬币",
-        "description": "周末活动"
+        "name": "Double Silver Coins",
+        "description": "Weekend Event"
       },
       "revengeOfTheBeast": {
-        "name": "凶兽复仇",
-        "description": "海怪"
+        "name": "Beast's Revenge",
+        "description": "Sea Monster"
       },
       "mahayama": {
-        "name": "摩诃影",
-        "description": "赛季首领"
+        "name": "Mahayama",
+        "description": "Seasonal Boss"
       },
       "gloryUponOnesShoulders": {
-        "name": "荣耀加身",
-        "description": "限时活动"
+        "name": "Glory Upon Shoulders",
+        "description": "Limited-time Event"
       },
       "eightRupees": {
-        "name": "八里亚尔",
-        "description": "周末活动"
+        "name": "Eight Reales",
+        "description": "Weekend Event"
       },
       "shroudingTheSunAndTerrifyingShadows": {
-        "name": "蔽日骇影",
-        "description": "赛季首领"
+        "name": "Sun-Shrouding Terror",
+        "description": "Seasonal Boss"
       },
       "fromTheAbyss": {
-        "name": "来自深渊",
-        "description": "精英战船"
+        "name": "From the Abyss",
+        "description": "Elite Warship"
       },
       "doubleGoldMark": {
-        "name": "双倍镀金马克",
-        "description": "周末活动"
+        "name": "Double Gold Mark",
+        "description": "Weekend Event"
       },
       "mistyRequiem": {
-        "name": "暗潮安魂曲",
-        "description": "限时活动"
+        "name": "Misty Requiem",
+        "description": "Limited-time Event"
       },
       "ghostlyGapingMouth": {
-        "name": "亡魂巨口",
-        "description": "海怪"
+        "name": "Ghostly Gaping Maw",
+        "description": "Sea Monster"
       },
       "enmityAndAnger": {
-        "name": "怨仇怒火",
-        "description": "海怪"
+        "name": "Enmity and Wrath",
+        "description": "Sea Monster"
       },
       "toothEnhancementBonus": {
-        "name": "獠牙加成",
-        "description": "周末活动"
+        "name": "Fang Enhancement Bonus",
+        "description": "Weekend Event"
       },
       "royalSunray": {
-        "name": "皇家烈阳号",
-        "description": "精英战船"
+        "name": "Royal Sunray",
+        "description": "Elite Warship"
       },
       "decayedFortress": {
-        "name": "破败堡垒",
-        "description": "回归首领"
+        "name": "Decayed Fortress",
+        "description": "Returning Boss"
       },
       "impulse": {
-        "name": "冲动号",
-        "description": "精英战船"
+        "name": "Impulse",
+        "description": "Elite Warship"
       }
     }
   }
