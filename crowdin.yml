@@ -1,3 +1,5 @@
+preserve_hierarchy: true
+
 files:
   - source: /src/data/en_US/ships.json
     translation: /src/data/%locale_with_underscore%/ships.json
