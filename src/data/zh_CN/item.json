@@ -332,13 +332,13 @@
     }
   },
   "scurlocksChasers": {
-    "name": "斯库洛克的追逐者",
+    "name": "斯科洛克的追逐者",
     "description": {
       "general": "为斯科洛特所钟爱的超远距离大炮。可以通过摧毁敌船桅杆并造成大量伤害来击垮敌船。"
     }
   },
   "scurlocksLongNines": {
-    "name": "斯库洛克九式炮",
+    "name": "斯科洛克九式炮",
     "description": {
       "general": "为斯科洛特所钟爱的超远距离大炮。可以通过摧毁敌船桅杆并造成大量伤害来击垮敌船。"
     }
@@ -2054,21 +2054,21 @@
     }
   },
   "kingpinChest": {
-    "name": "龙头宝箱",
+    "name": "头目宝箱",
     "description": {
       "general": "匿名赞助人赠送的宝箱"
     }
   },
   "silveryRaiderCache": {
-    "name": "白银掠夺者储藏",
+    "name": "银白掠夺者藏货",
     "description": {
-      "general": "象征海盗胆识与冒险的珍贵战利品。"
+      "general": "对于任何航海者来说都是一份值得骄傲的奖励，它充分展现了海盗的大胆冒险和英勇事迹。"
     }
   },
   "gildedRaiderCache": {
-    "name": "鎏金掠夺者储藏",
+    "name": "镀金掠夺者藏货",
     "description": {
-      "general": "终极繁荣与胜利的象征，真正海上枭雄的标记。"
+      "general": "这是繁荣和胜利的终极象征，是公海上名副其实的海盗的标志。"
     }
   },
   "summerStashChest": {
@@ -2096,15 +2096,15 @@
     }
   },
   "rodeMaangodinChest": {
-    "name": "神秘宝箱(赤月神)",
+    "name": "神秘宝箱(赤月亮女神)",
     "description": {
-      "general": "内藏何等珍宝？"
+      "general": "这箱子里藏着什么宝贝呢？"
     }
   },
   "bloodiedStrongbox": {
-    "name": "血渍保险箱",
+    "name": "血色保险箱",
     "description": {
-      "general": "背叛同族的代价远超物质损失。"
+      "general": "背弃同胞可不止要付出物质上的代价。"
     }
   },
   "recoveredExeterChest": {
@@ -2120,9 +2120,9 @@
     }
   },
   "maangodinChest": {
-    "name": "神秘宝箱(月神)",
+    "name": "神秘宝箱(月亮女神)",
     "description": {
-      "general": "内藏何等珍宝？"
+      "general": "这箱子里藏着什么宝贝呢？"
     }
   },
   "reapersCache": {
@@ -2150,15 +2150,15 @@
     }
   },
   "whiteAriaChest": {
-    "name": "白色咏叹箱",
+    "name": "白色咏叹调号宝箱",
     "description": {
-      "general": "从伯特兰·于贝尔旗舰夺取的财宝箱。"
+      "general": "从伯特兰·胡巴茨的旗舰缴获的宝箱。"
     }
   },
   "blackAriaChest": {
-    "name": "黑色咏叹箱",
+    "name": "黑色咏叹调号宝箱",
     "description": {
-      "general": "从阿尔芒·于贝尔旗舰夺取的财宝箱。"
+      "general": "从阿尔芒·胡巴茨的旗舰缴获的宝箱。"
     }
   },
   "chorusFleetStrongbox": {
@@ -2180,9 +2180,9 @@
     }
   },
   "vanderkillsLocker": {
-    "name": "范德基尔储物箱",
+    "name": "范德基尔的锁箱",
     "description": {
-      "general": "从臭名昭著的范德基尔处劫掠的箱子。"
+      "general": "从臭名昭著的范德基尔那里夺来的箱子。"
     }
   },
   "roninCosmeticsChest": {
@@ -2198,21 +2198,21 @@
     }
   },
   "risenZamaharibuChest": {
-    "name": "神秘宝箱(复生萨马哈里布)",
+    "name": "神秘宝箱(复生萨马哈利布)",
     "description": {
-      "general": "内藏何等珍宝？"
+      "general": "这箱子里藏着什么宝贝呢？"
     }
   },
   "risenMegaLestariChest": {
-    "name": "神秘宝箱(复生巨蜥)",
+    "name": "神秘宝箱(复生莱斯塔里)",
     "description": {
-      "general": "内藏何等珍宝？"
+      "general": "这箱子里藏着什么宝贝呢？"
     }
   },
   "elderShadowbeastChest": {
-    "name": "神秘宝箱(上古影兽)",
+    "name": "神秘宝箱(上古影龙)",
     "description": {
-      "general": "内藏何等珍宝？"
+      "general": "这箱子里藏着什么宝贝呢？"
     }
   },
   "regattaChest": {
@@ -2228,45 +2228,45 @@
     }
   },
   "vikramsStash": {
-    "name": "维克拉姆储藏",
+    "name": "维克莱姆的锁箱",
     "description": {
-      "general": "维克拉姆船上的箱子，含中等数量战利品。"
+      "general": "维克莱姆船上的一个箱子。内含数量较少的战利品。"
     }
   },
   "vikramsLocker": {
-    "name": "维克拉姆储物箱",
+    "name": "维克莱姆的锁箱",
     "description": {
-      "general": "维克拉姆船上的箱子，含少量战利品。"
+      "general": "维克莱姆船上的一个箱子。内含数量可观的战利品。"
     }
   },
   "vikramsStrongbox": {
-    "name": "维克拉姆保险箱",
+    "name": "维克莱姆的保险箱",
     "description": {
-      "general": "维克拉姆船上的大箱子，含大量战利品。"
+      "general": "维克莱姆船上的一个沉重箱子。内含大量战利品。"
     }
   },
   "silverPouch": {
-    "name": "银币袋",
+    "name": "一袋银币",
     "description": {
-      "general": "内含少量银币。"
+      "general": "含有少量银币。"
     }
   },
   "silverBox": {
-    "name": "银币盒",
+    "name": "一盒银币",
     "description": {
-      "general": "内含中量银币。"
+      "general": "含有适量银币。"
     }
   },
   "silverChest": {
-    "name": "银币箱",
+    "name": "一箱银币",
     "description": {
-      "general": "内含大量银币。"
+      "general": "含有大量银币。"
     }
   },
   "commanderZhangsChest": {
-    "name": "张指挥官宝箱",
+    "name": "张提督的宝箱",
     "description": {
-      "general": "从张指挥官旗舰夺取的财宝箱"
+      "general": "从张提督的旗舰上夺取的宝箱"
     }
   },
   "phoenixsTalonChest": {
@@ -2318,9 +2318,9 @@
     }
   },
   "ascendedCache": {
-    "name": "升华储藏",
+    "name": "晋阶型贮藏箱",
     "description": {
-      "general": "开启后自动升阶的物品合集"
+      "general": "内含一系列物品，这些物品可在该贮藏箱打开后进阶。"
     }
   },
   "deathTidesChest": {
@@ -2336,9 +2336,9 @@
     }
   },
   "largeSilverChest": {
-    "name": "巨型银币箱",
+    "name": "一大箱银币",
     "description": {
-      "general": "内含超大量银币。"
+      "general": "含有巨量银币。"
     }
   },
   "frigateUpgrade": {
@@ -2439,27 +2439,27 @@
     }
   },
   "moonshineChest": {
-    "name": "私酿酒宝箱",
+    "name": "私酒宝箱",
     "description": {
-      "general": "私酿贩子的非法财富宝箱。"
+      "general": "装有私酒船不义之财的宝箱。（有几率获得晋阶型武器）"
     }
   },
   "moonshineStrongbox": {
-    "name": "私酿酒保险箱",
+    "name": "私酒保险箱",
     "description": {
-      "general": "私酿贩子的非法财富保险箱。"
+      "general": "装有私酒船不义之财的宝箱。（有几率获得晋阶型武器）"
     }
   },
   "ascendedAshbreakerChest": {
-    "name": "升华灰烬破坏者箱",
+    "name": "晋阶型烬灭者宝箱",
     "description": {
-      "general": "内含升华活动武器。"
+      "general": "内含一件进阶型事件武器。"
     }
   },
   "ascendedEventCache": {
-    "name": "升华活动储藏",
+    "name": "晋阶型事件武器贮藏箱",
     "description": {
-      "general": "内含升华活动武器。"
+      "general": "内含一件进阶型事件武器。"
     }
   }
 }
