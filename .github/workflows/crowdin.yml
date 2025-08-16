@@ -3,6 +3,9 @@ name: Crowdin Action
 on:
   push:
     branches: [ main ]
+  schedule:
+    # 每周运行（UTC）
+    - cron: '0 0 * * 1'
 
 jobs:
   synchronize-with-crowdin:
