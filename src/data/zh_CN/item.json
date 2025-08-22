@@ -2462,6 +2462,62 @@
       "general": "内含一件进阶型事件武器。"
     }
   },
+  "topDeckWeaponsAscendedCache": {
+    "name": "顶层武器缓存",
+    "description": {
+      "general": "Top-Deck Weapons Ascended Cache"
+    }
+  },
+  "auxiliaryWeaponsAscendedCache": {
+    "name": "Auxiliary Weapons Ascended Cache",
+    "description": {
+      "general": "A collection of Auxiliary Weapons that will be ascended upon opening"
+    }
+  },
+  "frontWeaponsAscendedCache": {
+    "name": "Front Weapons Ascended Cache",
+    "description": {
+      "general": "A collection of Front Weapons that will be ascended upon opening"
+    }
+  },
+  "allDeckWeaponsAscendedCache": {
+    "name": "All-Deck Weapons Ascended Cache",
+    "description": {
+      "general": "A collection of All-Deck Weapons that will be ascended upon opening"
+    }
+  },
+  "megafortCache": {
+    "name": "Megafort Cache",
+    "description": {
+      "general": "Spoils from the megacorporations' war, seized from Megafort Wolvenhol"
+    }
+  },
+  "teulingsMaterialsChest": {
+    "name": "Teuling's Materials Chest",
+    "description": {
+      "general": "Contains a selection of rare materials for crafting."
+    }
+  },
+  "teulingsItemAscensionChest": {
+    "name": "Teuling's Item Ascension Chest",
+    "description": {
+      "general": "Contains a selection of items for ascension."
+    }
+  },
+  "teulingsArmorChest": {
+    "name": "Teuling's Armor Chest",
+    "description": {
+      "general": "Contains a random Smuggler Pass Armor.",
+      "1": "Contains a random Smuggler Pass Armor from Year 1."
+    }
+  },
+  "teulingsFurnitureChest": {
+    "name": "Teuling's Furniture Chest",
+    "description": {
+      "general": "Contains a random Smuggler Pass Furniture.",
+      "1": "Contains a random Smuggler Pass Furniture from Year 1."
+    }
+  },
   "teulingsWeaponChest": {
     "name": "Teuling's Weapon Chest",
     "description": {
@@ -2469,10 +2525,58 @@
       "1": "Contains a random Smuggler Pass Weapon from Year 1."
     }
   },
-  "topDeckWeaponsAscendedCache": {
-    "name": "Top-Deck Weapons Ascended Cache",
+  "jokaKubwaTreasureChest": {
+    "name": "宝箱(Joka Kubwa)",
     "description": {
-      "general": "Top-Deck Weapons Ascended Cache"
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "dianSinagaTreasureChest": {
+    "name": "宝箱(Dian Sinaga)",
+    "description": {
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "dirkAnkerenTreasureChest": {
+    "name": "宝箱(Dirk Ankeren)",
+    "description": {
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "galvinRocheTreasureChest": {
+    "name": "皇家太阳号财宝箱",
+    "description": {
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "tangenaRabeTreasureChest": {
+    "name": "宝箱(Tangena Rabe)",
+    "description": {
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "ahPakTreasureChest": {
+    "name": "宝箱(Ah Pak)",
+    "description": {
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "mizerjaTreasureChest": {
+    "name": "宝箱(Mizerja)",
+    "description": {
+      "general": "此箱藏有何种财宝？"
+    }
+  },
+  "elDoradoCosmeticsChest": {
+    "name": "El Dorado Cosmetics Chest",
+    "description": {
+      "general": "An opulent chest which may contain cosmetics that are part of El Dorado Set"
+    }
+  },
+  "hellfestShipCosmeticsChest": {
+    "name": "Hellfest Ship Cosmetics Chest",
+    "description": {
+      "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
     }
   }
 }
