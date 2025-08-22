@@ -10,6 +10,8 @@ import locations_zh_CN from './data/zh_CN/locations.json'
 import ultimates_zh_CN from './data/zh_CN/ultimates.json'
 import ranks_zh_CN from './data/zh_CN/ranks.json'
 import cosmetics_zh_CN from './data/zh_CN/cosmetics.json'
+import events_zh_CN from './data/zh_CN/events.json'
+import worldEvents_zh_CN from './data/zh_CN/worldEvents.json'
 
 import ships_zh_TW from './data/zh_TW/ships.json';
 import items_zh_TW from './data/zh_TW/item.json';
@@ -23,6 +25,8 @@ import locations_zh_TW from './data/zh_TW/locations.json'
 import ultimates_zh_TW from './data/zh_TW/ultimates.json'
 import ranks_zh_TW from './data/zh_TW/ranks.json'
 import cosmetics_zh_TW from './data/zh_TW/cosmetics.json'
+import events_zh_TW from './data/zh_TW/events.json'
+import worldEvents_zh_TW from './data/zh_TW/worldEvents.json'
 
 import ships_en_US from './data/en_US/ships.json';
 import items_en_US from './data/en_US/item.json';
@@ -36,8 +40,11 @@ import locations_en_US from './data/en_US/locations.json'
 import ultimates_en_US from './data/en_US/ultimates.json'
 import ranks_en_US from './data/en_US/ranks.json'
 import cosmetics_en_US from './data/en_US/cosmetics.json'
+import events_en_US from './data/en_US/events.json'
+import worldEvents_en_US from './data/en_US/worldEvents.json'
+import {LanguageData} from "./types";
 
-export const zh_CN = {
+export const zh_CN: LanguageData = {
     ships: ships_zh_CN,
     items: items_zh_CN,
     calendar: calendar_zh_CN,
@@ -49,10 +56,29 @@ export const zh_CN = {
     locations: locations_zh_CN,
     ultimates: ultimates_zh_CN,
     ranks: ranks_zh_CN,
-    ...cosmetics_zh_CN
+    ...cosmetics_zh_CN,
+    ...events_zh_CN,
+    ...worldEvents_zh_CN
 };
 
-export const zh_TW = {
+export const zh_TW: LanguageData = {
+    ships: ships_zh_TW,
+    items: items_zh_TW,
+    calendar: calendar_zh_TW,
+    materials: materials_zh_TW,
+    factions: factions_zh_TW,
+    modifications: modifications_zh_TW,
+    perks: perks_zh_TW,
+    seasons: seasons_zh_TW,
+    locations: locations_zh_TW,
+    ultimates: ultimates_zh_TW,
+    ranks: ranks_zh_TW,
+    ...cosmetics_zh_TW,
+    ...events_zh_TW,
+    ...worldEvents_zh_TW
+};
+
+export const en_US: LanguageData = {
     ships: ships_en_US,
     items: items_en_US,
     calendar: calendar_en_US,
@@ -64,22 +90,9 @@ export const zh_TW = {
     locations: locations_en_US,
     ultimates: ultimates_en_US,
     ranks: ranks_en_US,
-    ...cosmetics_en_US
-};
-
-export const en_US = {
-    ships: ships_en_US,
-    items: items_en_US,
-    calendar: calendar_en_US,
-    materials: materials_en_US,
-    factions: factions_en_US,
-    modifications: modifications_en_US,
-    perks: perks_en_US,
-    seasons: seasons_en_US,
-    locations: locations_en_US,
-    ultimates: ultimates_en_US,
-    ranks: ranks_en_US,
-    ...cosmetics_en_US
+    ...cosmetics_en_US,
+    ...events_en_US,
+    ...worldEvents_en_US
 };
 
 export * from './types';
