@@ -9,6 +9,20 @@ import seasons_zh_CN from './data/zh_CN/seasons.json'
 import locations_zh_CN from './data/zh_CN/locations.json'
 import ultimates_zh_CN from './data/zh_CN/ultimates.json'
 import ranks_zh_CN from './data/zh_CN/ranks.json'
+import cosmetics_zh_CN from './data/zh_CN/cosmetics.json'
+
+import ships_zh_TW from './data/zh_TW/ships.json';
+import items_zh_TW from './data/zh_TW/item.json';
+import calendar_zh_TW from './data/zh_TW/calendar.json'
+import materials_zh_TW from './data/zh_TW/materials.json'
+import factions_zh_TW from './data/zh_TW/factions.json'
+import modifications_zh_TW from './data/zh_TW/modifications.json'
+import perks_zh_TW from './data/zh_TW/perks.json'
+import seasons_zh_TW from './data/zh_TW/seasons.json'
+import locations_zh_TW from './data/zh_TW/locations.json'
+import ultimates_zh_TW from './data/zh_TW/ultimates.json'
+import ranks_zh_TW from './data/zh_TW/ranks.json'
+import cosmetics_zh_TW from './data/zh_TW/cosmetics.json'
 
 import ships_en_US from './data/en_US/ships.json';
 import items_en_US from './data/en_US/item.json';
@@ -21,6 +35,7 @@ import seasons_en_US from './data/en_US/seasons.json'
 import locations_en_US from './data/en_US/locations.json'
 import ultimates_en_US from './data/en_US/ultimates.json'
 import ranks_en_US from './data/en_US/ranks.json'
+import cosmetics_en_US from './data/en_US/cosmetics.json'
 
 export const zh_CN = {
     ships: ships_zh_CN,
@@ -33,7 +48,23 @@ export const zh_CN = {
     seasons: seasons_zh_CN,
     locations: locations_zh_CN,
     ultimates: ultimates_zh_CN,
-    ranks: ranks_zh_CN
+    ranks: ranks_zh_CN,
+    ...cosmetics_zh_CN
+};
+
+export const zh_TW = {
+    ships: ships_en_US,
+    items: items_en_US,
+    calendar: calendar_en_US,
+    materials: materials_en_US,
+    factions: factions_en_US,
+    modifications: modifications_en_US,
+    perks: perks_en_US,
+    seasons: seasons_en_US,
+    locations: locations_en_US,
+    ultimates: ultimates_en_US,
+    ranks: ranks_en_US,
+    ...cosmetics_en_US
 };
 
 export const en_US = {
@@ -47,7 +78,8 @@ export const en_US = {
     seasons: seasons_en_US,
     locations: locations_en_US,
     ultimates: ultimates_en_US,
-    ranks: ranks_en_US
+    ranks: ranks_en_US,
+    ...cosmetics_en_US
 };
 
 export * from './types';
