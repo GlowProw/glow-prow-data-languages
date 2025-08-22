@@ -1,15 +1,13 @@
 {
-  "events": {
-    "dragonsRegatta": "龙舟竞渡",
-    "summerFiesta": "夏日盛会",
-    "mooncakeRegatta": "月饼赛舟",
-    "requiemOfTheLost": "迷失安魂曲",
-    "azureSolstice": "蔚蓝至日",
-    "enterTheNian": "年兽来袭",
-    "theFounding": "建国大典",
-    "gloryAdorned": "荣耀加冕",
-    "theHonorless": "无誉者",
-    "darktideLullaby": "暗潮摇篮曲",
-    "moonshineLarceny": "月光窃影"
-  }
+  "dragonsRegatta": "龙舟竞渡",
+  "summerFiesta": "夏日盛会",
+  "mooncakeRegatta": "月饼赛舟",
+  "requiemOfTheLost": "迷失安魂曲",
+  "azureSolstice": "蔚蓝至日",
+  "enterTheNian": "年兽来袭",
+  "theFounding": "建国大典",
+  "gloryAdorned": "荣耀加冕",
+  "theHonorless": "无誉者",
+  "darktideLullaby": "暗潮摇篮曲",
+  "moonshineLarceny": "月光窃影"
 }

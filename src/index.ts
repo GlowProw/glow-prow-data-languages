@@ -56,9 +56,9 @@ export const zh_CN: LanguageData = {
     locations: locations_zh_CN,
     ultimates: ultimates_zh_CN,
     ranks: ranks_zh_CN,
-    ...cosmetics_zh_CN,
-    ...events_zh_CN,
-    ...worldEvents_zh_CN
+    cosmetics: cosmetics_zh_CN,
+    events: events_zh_CN,
+    worldEvents: worldEvents_zh_CN
 };
 
 export const zh_TW: LanguageData = {
@@ -73,9 +73,9 @@ export const zh_TW: LanguageData = {
     locations: locations_zh_TW,
     ultimates: ultimates_zh_TW,
     ranks: ranks_zh_TW,
-    ...cosmetics_zh_TW,
-    ...events_zh_TW,
-    ...worldEvents_zh_TW
+    cosmetics: cosmetics_zh_TW,
+    events: events_zh_TW,
+    worldEvents: worldEvents_zh_TW
 };
 
 export const en_US: LanguageData = {
@@ -90,9 +90,9 @@ export const en_US: LanguageData = {
     locations: locations_en_US,
     ultimates: ultimates_en_US,
     ranks: ranks_en_US,
-    ...cosmetics_en_US,
-    ...events_en_US,
-    ...worldEvents_en_US
+    cosmetics: cosmetics_en_US,
+    events: events_en_US,
+    worldEvents: worldEvents_en_US
 };
 
 export * from './types';
