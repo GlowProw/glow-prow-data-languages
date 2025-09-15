@@ -16,5 +16,6 @@ export interface LanguageData {
     ranks: LData
     cosmetics: LData
     events: LData
-    worldEvents: LData
+    worldEvents: LData,
+    empireSkills: LData
 }

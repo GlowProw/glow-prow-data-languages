@@ -12,6 +12,7 @@ import ranks_zh_CN from './data/zh_CN/ranks.json'
 import cosmetics_zh_CN from './data/zh_CN/cosmetics.json'
 import events_zh_CN from './data/zh_CN/events.json'
 import worldEvents_zh_CN from './data/zh_CN/worldEvents.json'
+import empireSkills_zh_CN from './data/zh_CN/empireSkills.json'
 
 import ships_zh_TW from './data/zh_TW/ships.json';
 import items_zh_TW from './data/zh_TW/item.json';
@@ -27,6 +28,7 @@ import ranks_zh_TW from './data/zh_TW/ranks.json'
 import cosmetics_zh_TW from './data/zh_TW/cosmetics.json'
 import events_zh_TW from './data/zh_TW/events.json'
 import worldEvents_zh_TW from './data/zh_TW/worldEvents.json'
+import empireSkills_zh_TW from './data/zh_TW/empireSkills.json'
 
 import ships_en_US from './data/en_US/ships.json';
 import items_en_US from './data/en_US/item.json';
@@ -42,6 +44,8 @@ import ranks_en_US from './data/en_US/ranks.json'
 import cosmetics_en_US from './data/en_US/cosmetics.json'
 import events_en_US from './data/en_US/events.json'
 import worldEvents_en_US from './data/en_US/worldEvents.json'
+import empireSkills_en_US from './data/en_US/empireSkills.json'
+
 import {LanguageData} from "./types";
 
 export const zh_CN: LanguageData = {
@@ -58,7 +62,8 @@ export const zh_CN: LanguageData = {
     ranks: ranks_zh_CN,
     cosmetics: cosmetics_zh_CN,
     events: events_zh_CN,
-    worldEvents: worldEvents_zh_CN
+    worldEvents: worldEvents_zh_CN,
+    empireSkills: empireSkills_zh_CN
 };
 
 export const zh_TW: LanguageData = {
@@ -75,7 +80,8 @@ export const zh_TW: LanguageData = {
     ranks: ranks_zh_TW,
     cosmetics: cosmetics_zh_TW,
     events: events_zh_TW,
-    worldEvents: worldEvents_zh_TW
+    worldEvents: worldEvents_zh_TW,
+    empireSkills: empireSkills_zh_TW
 };
 
 export const en_US: LanguageData = {
@@ -92,7 +98,8 @@ export const en_US: LanguageData = {
     ranks: ranks_en_US,
     cosmetics: cosmetics_en_US,
     events: events_en_US,
-    worldEvents: worldEvents_en_US
+    worldEvents: worldEvents_en_US,
+    empireSkills: empireSkills_en_US
 };
 
 export * from './types';

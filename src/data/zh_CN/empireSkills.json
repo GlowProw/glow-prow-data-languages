@@ -1,0 +1,317 @@
+{
+  "root": {
+    "name": "玩家"
+  },
+  "improvedLaboratoryEquipment": {
+    "name": "已改良实验室设备",
+    "effects": {
+      "general": ""
+    }
+  },
+  "masterApothecaries": {
+    "name": "大师药剂师",
+    "effects": {
+      "general": ""
+    }
+  },
+  "telokPenjarahsFavor": {
+    "name": "特洛克·彭贾拉的青睐",
+    "effects": {
+      "general": ""
+    }
+  },
+  "insideIntel": {
+    "name": "内部情报",
+    "effects": {
+      "general": ""
+    }
+  },
+  "betterOeals": {
+    "name": "更好的交易",
+    "effects": {
+      "general": ""
+    }
+  },
+  "bloodiedOrders": {
+    "name": "血染订单",
+    "effects": {
+      "general": ""
+    }
+  },
+  "improvedDistilleryEquipment": {
+    "name": "改良蒸馏设备",
+    "effects": {
+      "general": ""
+    }
+  },
+  "masterDistillers": {
+    "name": "酿酒大师",
+    "effects": {
+      "general": ""
+    }
+  },
+  "sainet-annesFavor": {
+    "name": "圣安妮的青睐",
+    "effects": {
+      "general": ""
+    }
+  },
+  "rogueScavenger": {
+    "name": "无赖拾荒者",
+    "effects": {
+      "general": ""
+    }
+  },
+  "primeTargets": {
+    "name": "首要目标",
+    "effects": {
+      "general": ""
+    }
+  },
+  "bulkOffers": {
+    "name": "批量报价",
+    "effects": {
+      "general": ""
+    }
+  },
+  "ruthlessDeals": {
+    "name": "无情交易",
+    "effects": {
+      "general": ""
+    }
+  },
+  "gangButcher": {
+    "name": "帮派屠夫",
+    "effects": {
+      "general": ""
+    }
+  },
+  "manufactoryExpansion": {
+    "name": "制造厂扩张",
+    "effects": {
+      "general": ""
+    }
+  },
+  "refinedMaterialProduction": {
+    "name": "精炼材料生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "processBreakthrough-refined": {
+    "name": "工艺突破-精炼",
+    "effects": {
+      "general": ""
+    }
+  },
+  "processBreakthrough-specialized": {
+    "name": "工艺突破-专业化",
+    "effects": {
+      "general": ""
+    }
+  },
+  "refinedSpecializedMaterialProductionRefined": {
+    "name": "精炼专业化材料生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "exoticMaterialProduction": {
+    "name": "异域材料生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "compagnieRoyaleDominance": {
+    "name": "皇家公司主导",
+    "effects": {
+      "general": ""
+    }
+  },
+  "ascensionModuleProduction": {
+    "name": "晋升模块生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "advancedGinProcessing": {
+    "name": "高级金酒加工",
+    "effects": {
+      "general": ""
+    }
+  },
+  "improvedEquipment": {
+    "name": "改良设备",
+    "effects": {
+      "general": ""
+    }
+  },
+  "empireAdministration": {
+    "name": "帝国管理",
+    "effects": {
+      "general": ""
+    }
+  },
+  "goldSkullGinProduction": {
+    "name": "金骷髅金酒生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "dependableLaborers": {
+    "name": "可靠劳工",
+    "effects": {
+      "general": ""
+    }
+  },
+  "goldSkullRumProduction": {
+    "name": "金骷髅朗姆酒生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "upgradePartProduction": {
+    "name": "升级零件生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "advancedRumProcessing": {
+    "name": "高级朗姆酒加工",
+    "effects": {
+      "general": ""
+    }
+  },
+  "processBreakhrough-refined": {
+    "name": "工艺突破-精炼",
+    "effects": {
+      "general": ""
+    }
+  },
+  "refinedSpecializedMaterialProduction": {
+    "name": "精炼专业化材料生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "clanOfFaraDominance": {
+    "name": "法拉氏族主导",
+    "effects": {
+      "general": ""
+    }
+  },
+  "carvedImperialJadeProduction": {
+    "name": "雕刻帝王翡翠生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "advancedImperialJadeProcessing": {
+    "name": "高级帝王翡翠加工",
+    "effects": {
+      "general": ""
+    }
+  },
+  "processBreakthrough-refinedSpecialized": {
+    "name": "工艺突破-精炼专业化",
+    "effects": {
+      "general": ""
+    }
+  },
+  "seaPeopleDominance": {
+    "name": "海洋民族主导",
+    "effects": {
+      "general": ""
+    }
+  },
+  "coerciveGrowth": {
+    "name": "强制增长",
+    "effects": {
+      "general": ""
+    }
+  },
+  "manufactoryFortification": {
+    "name": "制造厂防御工事",
+    "effects": {
+      "general": ""
+    }
+  },
+  "territorialDominance": {
+    "name": "领土主导",
+    "effects": {
+      "general": ""
+    }
+  },
+  "savvyTraders": {
+    "name": "精明商人",
+    "effects": {
+      "general": ""
+    }
+  },
+  "efficientShipping": {
+    "name": "高效运输",
+    "effects": {
+      "general": ""
+    }
+  },
+  "tradeDominance": {
+    "name": "贸易主导",
+    "effects": {
+      "general": ""
+    }
+  },
+  "refinedSpecializedSpecializedMaterialProduction": {
+    "name": "精炼专业化材料生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "dominionOfRempahDominance": {
+    "name": "伦帕领地主导",
+    "effects": {
+      "general": ""
+    }
+  },
+  "ascensionModuleProduction-dominionOfRempah": {
+    "name": "晋升模块生产（伦帕领地）",
+    "effects": {
+      "general": ""
+    }
+  },
+  "advancedHeavenSmokeProcessing": {
+    "name": "高级天堂烟加工",
+    "effects": {
+      "general": ""
+    }
+  },
+  "blackFlowerHeavenSmokeProduction": {
+    "name": "黑花天堂烟生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "dutchMerchantCompanyDominance": {
+    "name": "荷兰商人公司主导",
+    "effects": {
+      "general": ""
+    }
+  },
+  "advancedSnuffProcessing": {
+    "name": "高级鼻烟加工",
+    "effects": {
+      "general": ""
+    }
+  },
+  "silverSnuffProduction": {
+    "name": "银鼻烟生产",
+    "effects": {
+      "general": ""
+    }
+  },
+  "confederationOfUngwanaDominance": {
+    "name": "温瓦纳邦联主导",
+    "effects": {
+      "general": ""
+    }
+  }
+}
