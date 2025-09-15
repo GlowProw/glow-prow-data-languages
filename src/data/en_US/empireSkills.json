@@ -1,11 +1,11 @@
 {
   "root": {
-    "name": "玩家"
+    "name": "Player"
   },
   "improvedLaboratoryEquipment": {
-    "name": "已改良实验室设备",
+    "name": "Improved Laboratory Equipment",
     "effects": {
-      "general": ""
+      "general": "Distites the refinement time of Helm Wares at the"
     }
   },
   "masterApothecaries": {
@@ -14,10 +14,10 @@
       "general": ""
     }
   },
-  "telokPenjarah'sFavor": {
-    "name": "特洛克·彭贾拉的青睐",
+  "telokPenjarahsFavor": {
+    "name": "Telok Penjarah's Favor",
     "effects": {
-      "general": ""
+      "general": "Improves standing in Telok Penjarah, Adds Legendary Helm wares to rewards at the Job Board"
     }
   },
   "insideIntel": {
@@ -39,99 +39,99 @@
     }
   },
   "improvedDistilleryEquipment": {
-    "name": "改良蒸馏设备",
+    "name": "Improved Distillery Equipment",
     "effects": {
-      "general": ""
+      "general": "Reduces the refinement time of Helm Wares at the Distillery by 60%"
     }
   },
   "masterDistillers": {
-    "name": "酿酒大师",
+    "name": "Master Distillers",
     "effects": {
-      "general": ""
+      "general": "Adds a 30% chance to produce an aditional item whenrefining Helm Wares in the Dillry"
     }
   },
-  "sainet-anne'sFavor": {
-    "name": "圣安妮的青睐",
+  "sainet-annesFavor": {
+    "name": "Sainet-anne's Favor",
     "effects": {
-      "general": ""
+      "general": "Improves standing in Sante-Ane Adds Legendary Helmwares to rewards at the Job Board"
     }
   },
   "rogueScavenger": {
-    "name": "无赖拾荒者",
+    "name": "Rogue Scavenger",
     "effects": {
-      "general": ""
+      "general": "Adds a 75% chance to scavenge Helm Materials from the rogue merchant when completing new Rogue Hunts "
     }
   },
   "primeTargets": {
-    "name": "首要目标",
+    "name": "Prime Targets",
     "effects": {
-      "general": ""
+      "general": "Alows Rogue Hunt Opruities to target more valuableconrvoys carying 50% more Raw He Materials"
     }
   },
   "bulkOffers": {
-    "name": "批量报价",
+    "name": "Bulk Offers",
     "effects": {
-      "general": ""
+      "general": "Ihcreases the amount of materials ofed in Supply Deals by 50%"
     }
   },
   "ruthlessDeals": {
-    "name": "无情交易",
+    "name": "Ruthless Deals",
     "effects": {
-      "general": ""
+      "general": "Pllage hidden materials from Helmn Liaisons by barding them during Roving Supply Deals Increases Helm raw material rewards from boarding by 20% for new Roving Supply Deals"
     }
   },
   "gangButcher": {
-    "name": "帮派屠夫",
+    "name": "Gang Butcher",
     "effects": {
-      "general": ""
+      "general": "Deter rogue ambushers by eiminating their fleets Completing Rogue Hunts reduces Death Mark duration by 30 minutes"
     }
   },
   "manufactoryExpansion": {
-    "name": "制造厂扩张",
+    "name": "Manufactory Expansion",
     "effects": {
-      "general": ""
+      "general": "Ihcreases the maximum upgradeable level of Compagnie Roylle Manufactories by I"
     }
   },
   "refinedMaterialProduction": {
-    "name": "精炼材料生产",
+    "name": "Refined Material Production",
     "effects": {
-      "general": ""
+      "general": "Unlocks production of refined materials at Manufactories located in Compagnie Royale resource sttements"
     }
   },
   "processBreakthrough-refined": {
-    "name": "工艺突破-精炼",
+    "name": "ProcessBreakthrough (Refined)",
     "effects": {
-      "general": ""
+      "general": "Increases production rate of refined matenials at Compagnie Royale manfactories by 10%"
     }
   },
   "processBreakthrough-specialized": {
-    "name": "工艺突破-专业化",
+    "name": "Process Breakthrough (Specialized)",
     "effects": {
-      "general": ""
+      "general": "Increases production rate of specialzed materials at Compagnie Royale manufactores by 10%"
     }
   },
   "refinedSpecializedMaterialProductionRefined": {
-    "name": "精炼专业化材料生产",
+    "name": "Refined Specialized Material Production Refined",
     "effects": {
-      "general": ""
+      "general": "Unlocks praduction of refined special ized materials at manufactories located in Compagnie Royale sttlements "
     }
   },
   "exoticMaterialProduction": {
-    "name": "异域材料生产",
+    "name": "Exotic Material Production",
     "effects": {
-      "general": ""
+      "general": "Unlocks production of exotic materials at Manufactories located in the Compagnie Royale capital stlement"
     }
   },
   "compagnieRoyaleDominance": {
-    "name": "皇家公司主导",
+    "name": "Compagnie Royale Dominance",
     "effects": {
-      "general": ""
+      "general": "Each owned Compagnie Royale manufactory increases the production rate of materials at their manufactories by 0.6%"
     }
   },
   "ascensionModuleProduction": {
-    "name": "晋升模块生产",
+    "name": "Ascension Module Production",
     "effects": {
-      "general": ""
+      "general": "Unlocks production of Ascension Modules at Manfactories located in the Compagie Royale capital setlement"
     }
   },
   "advancedGinProcessing": {
