@@ -99,13 +99,13 @@
     }
   },
   "processBreakthrough-refined": {
-    "name": "工艺突破-精炼",
+    "name": "工艺突破 (精炼)",
     "effects": {
       "general": ""
     }
   },
   "processBreakthrough-specialized": {
-    "name": "工艺突破-专业化",
+    "name": "工艺突破 (专业化)",
     "effects": {
       "general": ""
     }
@@ -206,14 +206,8 @@
       "general": ""
     }
   },
-  "advancedImperialJadeProcessing": {
-    "name": "高级帝王翡翠加工",
-    "effects": {
-      "general": ""
-    }
-  },
   "processBreakthrough-refinedSpecialized": {
-    "name": "工艺突破-精炼专业化",
+    "name": "工艺突破 (精炼专业化)",
     "effects": {
       "general": ""
     }
@@ -260,12 +254,6 @@
       "general": ""
     }
   },
-  "refinedSpecializedSpecializedMaterialProduction": {
-    "name": "精炼专业化材料生产",
-    "effects": {
-      "general": ""
-    }
-  },
   "dominionOfRempahDominance": {
     "name": "伦帕领地主导",
     "effects": {
@@ -292,12 +280,6 @@
   },
   "dutchMerchantCompanyDominance": {
     "name": "荷兰商人公司主导",
-    "effects": {
-      "general": ""
-    }
-  },
-  "advancedSnuffProcessing": {
-    "name": "高级鼻烟加工",
     "effects": {
       "general": ""
     }
