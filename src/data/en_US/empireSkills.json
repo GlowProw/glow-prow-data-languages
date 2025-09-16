@@ -5,7 +5,9 @@
   "improvedLaboratoryEquipment": {
     "name": "Improved Laboratory Equipment",
     "effects": {
-      "general": "Distites the refinement time of Helm Wares at the"
+      "1": "1",
+      "2": "2",
+      "3": "Distites the refinement time of Helm Wares at the Laboratory by 60%"
     }
   },
   "masterApothecaries": {
@@ -19,7 +21,9 @@
   "telokPenjarahsFavor": {
     "name": "Telok Penjarah's Favor",
     "effects": {
-      "general": "Improves standing in Telok Penjarah, Adds Legendary Helm wares to rewards at the Job Board"
+      "1": "1",
+      "2": "2",
+      "3": "Improves standing in Telok Penjarah, Adds Legendary Helm wares to rewards at the Job Board"
     }
   },
   "insideIntel": {
@@ -41,6 +45,8 @@
   "bloodiedOrders": {
     "name": "Bloodied Orders",
     "effects": {
+      "1": "1",
+      "2": "2",
       "3": "Pllage hidden wares from Dverseas Smugglers by boarding them during Roving Orders hcreases Pecces of Eight rewards from boarding by 100% for new Roving Orders"
     }
   },
@@ -53,45 +59,56 @@
   "masterDistillers": {
     "name": "Master Distillers",
     "effects": {
-      "general": "Adds a 30% chance to produce an aditional item whenrefining Helm Wares in the Dillry"
+      "1": "1",
+      "2": "2",
+      "3": "Adds a 30% chance to produce an aditional item whenrefining Helm Wares in the Dillry"
     }
   },
-  "sainet-annesFavor": {
-    "name": "Sainet-anne's Favor",
+  "sainte-annesFavor": {
+    "name": "Sainte-anne's Favor",
     "effects": {
-      "general": "Improves standing in Sante-Ane Adds Legendary Helmwares to rewards at the Job Board"
+      "1": "1",
+      "2": "2",
+      "3": "Improves standing in Sante-Ane Adds Legendary Helmwares to rewards at the Job Board"
     }
   },
   "rogueScavenger": {
     "name": "Rogue Scavenger",
     "effects": {
-      "1": "Adds a 75% chance to scavenge Helm Materials from the rogue merchant when completing new Rogue Hunts",
-      "2": "Adds a 75% chance to scavenge Helm Materials from the rogue merchant when completing new Rogue Hunts",
+      "1": "1",
+      "2": "2",
       "3": "Adds a 75% chance to scavenge Helm Materials from the rogue merchant when completing new Rogue Hunts"
     }
   },
   "primeTargets": {
     "name": "Prime Targets",
     "effects": {
-      "general": "Alows Rogue Hunt Opruities to target more valuableconrvoys carying 50% more Raw He Materials"
+      "1": "1",
+      "2": "2",
+      "3": "Alows Rogue Hunt Opruities to target more valuableconrvoys carying 50% more Raw He Materials"
     }
   },
   "bulkOffers": {
     "name": "Bulk Offers",
     "effects": {
-      "general": "Ihcreases the amount of materials ofed in Supply Deals by 50%"
+      "1": "1",
+      "2": "2",
+      "3": "Ihcreases the amount of materials ofed in Supply Deals by 50%"
     }
   },
   "ruthlessDeals": {
     "name": "Ruthless Deals",
     "effects": {
-      "general": "Pllage hidden materials from Helmn Liaisons by barding them during Roving Supply Deals Increases Helm raw material rewards from boarding by 20% for new Roving Supply Deals"
+      "1": "1",
+      "2": "Pllage hidden materials from Helmn Liaisons by barding them during Roving Supply Deals Increases Helm raw material rewards from boarding by 20% for new Roving Supply Deals"
     }
   },
   "gangButcher": {
     "name": "Gang Butcher",
     "effects": {
-      "general": "Deter rogue ambushers by eiminating their fleets Completing Rogue Hunts reduces Death Mark duration by 30 minutes"
+      "1": "1",
+      "2": "2",
+      "3": "Deter rogue ambushers by eiminating their fleets Completing Rogue Hunts reduces Death Mark duration by 30 minutes"
     }
   },
   "manufactoryExpansion": {
@@ -100,16 +117,32 @@
       "general": "Ihcreases the maximum upgradeable level of Compagnie Roylle Manufactories by I"
     }
   },
+  "advancedImperialJadeProcessing": {
+    "name": "Advanced Imperial Jade Processing",
+    "effects": {
+      "1": "increases imperial jade's profit rate by 6%",
+      "2": "increases imperial jade's profit rate by 12%"
+    }
+  },
   "refinedMaterialProduction": {
     "name": "Refined Material Production",
     "effects": {
       "general": "Unlocks production of refined materials at Manufactories located in Compagnie Royale resource sttements"
     }
   },
-  "processBreakthrough-refined": {
-    "name": "ProcessBreakthrough (Refined)",
+  "advancedSnuffProcessing": {
+    "name": "Advanced Snuff Processing",
     "effects": {
-      "general": "Increases production rate of refined matenials at Compagnie Royale manfactories by 10%"
+      "1": "increases Snuff's profit rate by 6%",
+      "2": "increases Snuff's profit rate by 12%"
+    }
+  },
+  "processBreakthrough-refined": {
+    "name": "Process Breakthrough (Refined)",
+    "effects": {
+      "1": "Increases production rate of refined matenials at Compagnie Royale manfactories by 10%",
+      "2": "2",
+      "3": "3"
     }
   },
   "processBreakthrough-specialized": {
@@ -147,7 +180,8 @@
   "advancedGinProcessing": {
     "name": "Advanced Gin Processing",
     "effects": {
-      "general": "hcreases Gin's profit rate by 6%"
+      "1": "increases Gin's profit rate by 6%",
+      "2": "2"
     }
   },
   "improvedEquipment": {
@@ -159,13 +193,13 @@
   "empireAdministration": {
     "name": "Empire Administration",
     "effects": {
-      "general": "Ihcreases the maximum number of owned Manufactories by 3"
+      "general": "Ihcreases the maximum number of owned Manufactories by {index}"
     }
   },
   "goldSkullGinProduction": {
     "name": "Gold Skull Gin Production",
     "effects": {
-      "general": "Unlocks production of Gold Skul Gin from the refinement of White Shu Gin at the Distlry and from resource setbements. \n\tThe Manufactory must be able to produce Gold Skull Gin.",
+      "general": "Unlocks production of Gold Skul Gin from the refinement of White Shu Gin at the Distlry and from resource setbements. \n\tThe Manufactory must be able to produce Gold Skull Gin."
     }
   },
   "dependableLaborers": {
@@ -177,7 +211,7 @@
   "goldSkullRumProduction": {
     "name": "Gold Skull Rum Production",
     "effects": {
-      "general": "Unlocks production of Gold Slkul Rum from the refinement of White Shul Rum at the Ditlley and from resource setbements.\n\tThe Manufactory must be able t切o produce Gold Skul Rum"
+      "general": "Unlocks production of Gold Slkul Rum from the refinement of White Shul Rum at the Ditlley and from resource setbements.\n\tThe Manufactory must be able to produce Gold Skul Rum"
     }
   },
   "upgradePartProduction": {
@@ -190,12 +224,6 @@
     "name": "Advanced Rum Processing",
     "effects": {
       "general": "Ihcreases Run's profit rate by 6%"
-    }
-  },
-  "processBreakhrough-refined": {
-    "name": "Process Breakhrough (Refined)",
-    "effects": {
-      "general": "Ihcreases production rate of refined materials at Sea People manufactonies by 10%"
     }
   },
   "refinedSpecializedMaterialProduction": {
@@ -216,13 +244,12 @@
       "general": "Unlocks production of Carved lmperial Jade from the refinement of Imperial Jade at the Laboratory and from resource settlements.\n\tThe Manufactory must be able to produce Carved lmperial JIade"
     }
   },
-
   "processBreakthrough-refinedSpecialized": {
     "name": "Process Breakthrough (Refined Specialized)",
     "effects": {
-      "1": "Ihcreases production rate of refined special ized materials at Clan of Fara manufactories by 10%",
-      "2":"Ihcreases production rate of refined special ized materials at Clan of Fara manufactories by 20%",
-      "3":"Ihcreases production rate of refined special ized materials at Clan of Fara manufactories by 30%"
+      "1": "Increases production rate of refined special ized materials at Clan of Fara manufactories by 10%",
+      "2": "Increases production rate of refined special ized materials at Clan of Fara manufactories by 20%",
+      "3": "Increases production rate of refined special ized materials at Clan of Fara manufactories by 30%"
     }
   },
   "seaPeopleDominance": {
@@ -240,7 +267,9 @@
   "manufactoryFortification": {
     "name": "Manufactory Fortification",
     "effects": {
-      "3": "Ihcreases resitience of manufactories located within owned tritories by 50%"
+      "1": "1",
+      "2": "2",
+      "3": "Increases resitience of manufactories located within owned tritories by 50%"
     }
   },
   "territorialDominance": {
@@ -252,7 +281,9 @@
   "savvyTraders": {
     "name": "Savvy Traders",
     "effects": {
-      "general": "Ihcreases the profit bonus for established Trade Routes by 6%"
+      "1": "1",
+      "2": "2",
+      "3": "Ihcreases the profit bonus for established Trade Routes by 6%"
     }
   },
   "efficientShipping": {
@@ -276,7 +307,8 @@
   "advancedHeavenSmokeProcessing": {
     "name": "Advanced Heaven Smoke Processing",
     "effects": {
-      "general": "Ihcreases Heaven Smoke's profit rate by 12%"
+      "1": "Increases Heaven Smoke's profit rate by 6%",
+      "2": "Increases Heaven Smoke's profit rate by 12%"
     }
   },
   "blackFlowerHeavenSmokeProduction": {

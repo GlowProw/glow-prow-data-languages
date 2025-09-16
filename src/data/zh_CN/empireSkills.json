@@ -3,297 +3,336 @@
     "name": "玩家"
   },
   "improvedLaboratoryEquipment": {
-    "name": "已改良实验室设备",
+    "name": "改良型实验室设备",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "在实验室精炼赫尔姆货物所需时间缩短60%"
     }
   },
   "masterApothecaries": {
-    "name": "大师药剂师",
+    "name": "药剂大师",
     "effects": {
-      "general": ""
+      "1": "在实验室精炼赫尔姆货物时，有10%几率获得额外物品",
+      "2": "在实验室精炼赫尔姆货物时，有20%几率获得额外物品",
+      "3": "在实验室精炼赫尔姆货物时，有30%几率获得额外物品"
     }
   },
   "telokPenjarahsFavor": {
-    "name": "特洛克·彭贾拉的青睐",
+    "name": "特洛克彭贾拉之眷顾",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "提升在特洛克彭贾拉的声望，在布告板任务奖励中添加传奇赫尔姆货物"
     }
   },
   "insideIntel": {
     "name": "内部情报",
     "effects": {
-      "general": ""
+      "1": "掠夺要塞时可获得的赫尔姆原材料数量增加15%",
+      "2": "掠夺要塞时可获得的赫尔姆原材料数量增加25%",
+      "3": "掠夺要塞时可获得的赫尔姆原材料数量增加35%"
     }
   },
   "betterOeals": {
-    "name": "更好的交易",
+    "name": "更优订单",
     "effects": {
-      "general": ""
+      "1": "订单中提供的八里尔银币数量增加35%",
+      "2": "订单中提供的八里尔银币数量增加55%",
+      "3": "订单中提供的八里尔银币数量增加75%"
     }
   },
   "bloodiedOrders": {
     "name": "血染订单",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "在执行流动订单期间，通过登船夺取海外走私者的隐藏货物。新流动订单中登船战利品的八里尔银币奖励增加100%"
     }
   },
   "improvedDistilleryEquipment": {
-    "name": "改良蒸馏设备",
+    "name": "改良型蒸馏厂设备",
     "effects": {
-      "general": ""
+      "general": "在蒸馏厂精炼赫尔姆货物所需时间缩短60%"
     }
   },
   "masterDistillers": {
     "name": "酿酒大师",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "在蒸馏厂精炼赫尔姆货物时，有30%几率获得额外物品"
     }
   },
-  "sainet-annesFavor": {
-    "name": "圣安妮的青睐",
+  "sainte-annesFavor": {
+    "name": "圣安妮之眷顾",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "提升在圣安妮的声望，在布告板任务奖励中添加传奇赫尔姆货物"
     }
   },
   "rogueScavenger": {
-    "name": "无赖拾荒者",
+    "name": "恶徒搜刮者",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "完成新的恶徒追猎时，有75%几率从恶徒商人处搜刮到赫尔姆材料"
     }
   },
   "primeTargets": {
-    "name": "首要目标",
+    "name": "优先目标",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "允许恶徒追猎机会锁定更有价值的船队，其携带的赫尔姆原材料增加50%"
     }
   },
   "bulkOffers": {
-    "name": "批量报价",
+    "name": "大宗报价",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "供应协议中提供的材料数量增加50%"
     }
   },
   "ruthlessDeals": {
     "name": "无情交易",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "在执行流动供应协议期间，通过登船夺取赫尔姆联络人的隐藏材料。新流动供应协议中登船战利品的赫尔姆原材料奖励增加20%"
     }
   },
   "gangButcher": {
     "name": "帮派屠夫",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "通过歼灭舰队来威慑恶徒伏击者。完成恶徒追猎可使死亡标记持续时间减少30分钟"
     }
   },
   "manufactoryExpansion": {
     "name": "制造厂扩张",
     "effects": {
-      "general": ""
+      "general": "将皇家 compagnie 制造厂的可升级最大等级提高1级"
+    }
+  },
+  "advancedImperialJadeProcessing": {
+    "name": "高级帝王翡翠加工",
+    "effects": {
+      "1": "帝王翡翠利润率提高6%",
+      "2": "帝王翡翠利润率提高12%"
     }
   },
   "refinedMaterialProduction": {
     "name": "精炼材料生产",
     "effects": {
-      "general": ""
+      "general": "解锁位于皇家 compagnie 资源定居点的制造厂生产精炼材料的能力"
+    }
+  },
+  "advancedSnuffProcessing": {
+    "name": "高级鼻烟加工",
+    "effects": {
+      "1": "鼻烟利润率提高6%",
+      "2": "鼻烟利润率提高12%"
     }
   },
   "processBreakthrough-refined": {
-    "name": "工艺突破 (精炼)",
+    "name": "工艺突破（精炼）",
     "effects": {
-      "general": ""
+      "1": "皇家 compagnie 制造厂的精炼材料生产速率提高10%",
+      "2": "2",
+      "3": "3"
     }
   },
   "processBreakthrough-specialized": {
-    "name": "工艺突破 (专业化)",
+    "name": "工艺突破（专精）",
     "effects": {
-      "general": ""
+      "1": "皇家 compagnie 制造厂的专精材料生产速率提高10%",
+      "2": "皇家 compagnie 制造厂的专精材料生产速率提高20%",
+      "3": "皇家 compagnie 制造厂的专精材料生产速率提高30%"
     }
   },
   "refinedSpecializedMaterialProductionRefined": {
-    "name": "精炼专业化材料生产",
+    "name": "精炼专精材料生产（精炼）",
     "effects": {
-      "general": ""
+      "general": "解锁位于皇家 compagnie 定居点的制造厂生产精炼专精材料的能力"
     }
   },
   "exoticMaterialProduction": {
     "name": "异域材料生产",
     "effects": {
-      "general": ""
+      "general": "解锁位于皇家 compagnie 首都定居点的制造厂生产异域材料的能力"
     }
   },
   "compagnieRoyaleDominance": {
-    "name": "皇家公司主导",
+    "name": "皇家 compagnie 支配",
     "effects": {
-      "general": ""
+      "general": "每座拥有的皇家 compagnie 制造厂可使其制造厂的材料生产速率提高0.6%"
     }
   },
   "ascensionModuleProduction": {
     "name": "晋升模块生产",
     "effects": {
-      "general": ""
+      "general": "解锁位于皇家 compagnie 首都定居点的制造厂生产晋升模块的能力"
     }
   },
   "advancedGinProcessing": {
     "name": "高级金酒加工",
     "effects": {
-      "general": ""
+      "1": "金酒利润率提高6%",
+      "2": "2"
     }
   },
   "improvedEquipment": {
     "name": "改良设备",
     "effects": {
-      "general": ""
+      "general": "每级制造厂（从2级开始）提供3%的生产成本削减加成，最高可达12%"
     }
   },
   "empireAdministration": {
     "name": "帝国管理",
     "effects": {
-      "general": ""
+      "general": "增加可拥有的制造厂最大数量 {index}"
     }
   },
   "goldSkullGinProduction": {
     "name": "金骷髅金酒生产",
     "effects": {
-      "general": ""
+      "general": "解锁通过在蒸馏厂精炼白蜀金酒以及资源定居点来生产金骷髅金酒的能力。\n\t制造厂必须能够生产金骷髅金酒。"
     }
   },
   "dependableLaborers": {
     "name": "可靠劳工",
     "effects": {
-      "general": ""
+      "general": "每级制造厂（从2级开始）提供3%的生产速率加成，最高可达12%"
     }
   },
   "goldSkullRumProduction": {
     "name": "金骷髅朗姆酒生产",
     "effects": {
-      "general": ""
+      "general": "解锁通过在蒸馏厂精炼白蜀朗姆酒以及资源定居点来生产金骷髅朗姆酒的能力。\n\t制造厂必须能够生产金骷髅朗姆酒。"
     }
   },
   "upgradePartProduction": {
-    "name": "升级零件生产",
+    "name": "升级部件生产",
     "effects": {
-      "general": ""
+      "general": "解锁位于法拉氏族首都定居点的制造厂生产升级部件的能力"
     }
   },
   "advancedRumProcessing": {
     "name": "高级朗姆酒加工",
     "effects": {
-      "general": ""
-    }
-  },
-  "processBreakhrough-refined": {
-    "name": "工艺突破-精炼",
-    "effects": {
-      "general": ""
+      "general": "朗姆酒利润率提高6%"
     }
   },
   "refinedSpecializedMaterialProduction": {
-    "name": "精炼专业化材料生产",
+    "name": "精炼专精材料生产",
     "effects": {
-      "general": ""
+      "general": "解锁位于雷姆帕 dominion 定居点的制造厂生产精炼专精材料的能力"
     }
   },
   "clanOfFaraDominance": {
-    "name": "法拉氏族主导",
+    "name": "法拉氏族支配",
     "effects": {
-      "general": ""
+      "general": "每座拥有的法拉氏族制造厂可使其制造厂的材料生产速率提高15%"
     }
   },
   "carvedImperialJadeProduction": {
-    "name": "雕刻帝王翡翠生产",
+    "name": "雕琢帝王翡翠生产",
     "effects": {
-      "general": ""
+      "general": "解锁通过在实验室精炼帝王翡翠以及资源定居点来生产雕琢帝王翡翠的能力。\n\t制造厂必须能够生产雕琢帝王翡翠。"
     }
   },
   "processBreakthrough-refinedSpecialized": {
-    "name": "工艺突破 (精炼专业化)",
+    "name": "工艺突破（精炼专精）",
     "effects": {
-      "general": ""
+      "1": "法拉氏族制造厂的精炼专精材料生产速率提高10%",
+      "2": "法拉氏族制造厂的精炼专精材料生产速率提高20%",
+      "3": "法拉氏族制造厂的精炼专精材料生产速率提高30%"
     }
   },
   "seaPeopleDominance": {
-    "name": "海洋民族主导",
+    "name": "海洋民族支配",
     "effects": {
-      "general": ""
+      "general": "每座拥有的海洋民族制造厂可使其制造厂的材料生产速率提高15%"
     }
   },
   "coerciveGrowth": {
     "name": "强制增长",
     "effects": {
-      "general": ""
+      "general": "完成针对已拥有制造厂的接管机会，可将制造厂升级1级，最高至4级"
     }
   },
   "manufactoryFortification": {
     "name": "制造厂防御工事",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "位于己方领土内的制造厂耐久度增加50%"
     }
   },
   "territorialDominance": {
-    "name": "领土主导",
+    "name": "领土支配",
     "effects": {
-      "general": ""
+      "general": "每块拥有的领土可降低0.5%的全局生产成本"
     }
   },
   "savvyTraders": {
     "name": "精明商人",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "已建立贸易路线的利润加成提高6%"
     }
   },
   "efficientShipping": {
-    "name": "高效运输",
+    "name": "高效航运",
     "effects": {
-      "general": ""
+      "general": "运输时间减少75%"
     }
   },
   "tradeDominance": {
-    "name": "贸易主导",
+    "name": "贸易支配",
     "effects": {
-      "general": ""
+      "general": "每条已建立的贸易路线可提高0.1%的全局生产速率"
     }
   },
   "dominionOfRempahDominance": {
-    "name": "伦帕领地主导",
+    "name": "雷姆帕 dominion 支配",
     "effects": {
-      "general": ""
-    }
-  },
-  "ascensionModuleProduction-dominionOfRempah": {
-    "name": "晋升模块生产（伦帕领地）",
-    "effects": {
-      "general": ""
+      "general": "每座拥有的雷姆帕 dominion 制造厂可使其制造厂的材料生产速率提高0.6%"
     }
   },
   "advancedHeavenSmokeProcessing": {
     "name": "高级天堂烟加工",
     "effects": {
-      "general": ""
+      "1": "天堂烟利润率提高6%",
+      "2": "天堂烟利润率提高12%"
     }
   },
   "blackFlowerHeavenSmokeProduction": {
     "name": "黑花天堂烟生产",
     "effects": {
-      "general": ""
+      "general": "解锁通过在实验室精炼蓝花天堂烟以及资源定居点来生产黑花天堂烟的能力。\n\t制造厂必须能够生产黑花天堂烟。"
     }
   },
   "dutchMerchantCompanyDominance": {
-    "name": "荷兰商人公司主导",
+    "name": "荷兰商人公司支配",
     "effects": {
-      "general": ""
+      "general": "每座拥有的荷兰商人公司制造厂可使其制造厂的材料生产速率提高0.6%"
     }
   },
   "silverSnuffProduction": {
     "name": "银鼻烟生产",
     "effects": {
-      "general": ""
+      "general": "解锁通过在实验室精炼黑鼻烟以及资源定居点来生产银鼻烟的能力。\n\t制造厂必须能够生产银鼻烟。"
     }
   },
   "confederationOfUngwanaDominance": {
-    "name": "温瓦纳邦联主导",
+    "name": "温瓦纳邦联支配",
     "effects": {
-      "general": ""
+      "general": "每座拥有的温瓦纳邦联制造厂可使其制造厂的材料生产速率提高0.6%"
     }
   }
 }
