@@ -289,7 +289,9 @@
   "efficientShipping": {
     "name": "高效航运",
     "effects": {
-      "general": "运输时间减少75%"
+      "1": "1",
+      "2": "2",
+      "3": "运输时间减少75%"
     }
   },
   "tradeDominance": {

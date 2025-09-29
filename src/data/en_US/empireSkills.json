@@ -289,7 +289,9 @@
   "efficientShipping": {
     "name": "Efficient Shipping",
     "effects": {
-      "general": "Reduces Transportation Time by 75%"
+      "1": "1",
+      "2": "2",
+      "3": "Reduces Transportation Time by 75%"
     }
   },
   "tradeDominance": {
