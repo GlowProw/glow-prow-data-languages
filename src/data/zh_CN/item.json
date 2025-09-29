@@ -2469,27 +2469,27 @@
     }
   },
   "auxiliaryWeaponsAscendedCache": {
-    "name": "Auxiliary Weapons Ascended Cache",
+    "name": "普阶型辅助武器宝箱",
     "description": {
-      "general": "A collection of Auxiliary Weapons that will be ascended upon opening"
+      "general": "一套辅助武器，开启时将升华"
     }
   },
   "frontWeaponsAscendedCache": {
-    "name": "Front Weapons Ascended Cache",
+    "name": "普阶型前武器宝箱",
     "description": {
-      "general": "A collection of Front Weapons that will be ascended upon opening"
+      "general": "开启时将升华的前线武器合集"
     }
   },
   "allDeckWeaponsAscendedCache": {
-    "name": "All-Deck Weapons Ascended Cache",
+    "name": "普阶型全甲板武器宝箱",
     "description": {
-      "general": "A collection of All-Deck Weapons that will be ascended upon opening"
+      "general": "一系列全船型武器，打开后即可使用"
     }
   },
   "megafortCache": {
-    "name": "Megafort Cache",
+    "name": "巨堡宝箱",
     "description": {
-      "general": "Spoils from the megacorporations' war, seized from Megafort Wolvenhol"
+      "general": "从Megafort Wolvenhol夺取的巨型战利品的破坏者"
     }
   },
   "teulingsMaterialsChest": {
@@ -2574,7 +2574,7 @@
     }
   },
   "hellfestShipCosmeticsChest": {
-    "name": "Hellfest Ship Cosmetics Chest",
+    "name": "地狱狂欢节战舰外观宝箱",
     "description": {
       "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
     }
