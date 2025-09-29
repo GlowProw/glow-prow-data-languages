@@ -43,9 +43,17 @@
     "name": "血染达布隆",
     "description": ""
   },
+  "heartfeltWish": {
+    "name": "Heartfelt Wish",
+    "description": "An amulet made by a loving parent to be passed to a child filled with their wishes for safety and happiness."
+  },
   "illicitMoonshine": {
     "name": "非法月亮模式",
     "description": "这种精神的强度已经超越了顶层。它的丰富和含油的材质穿透了它的玻璃封装。"
+  },
+  "smugglersMark": {
+    "name": "Smuggler's Mark",
+    "description": ""
   },
   "coconut": {
     "name": "椰子",
