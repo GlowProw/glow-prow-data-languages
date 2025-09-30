@@ -2742,9 +2742,9 @@
     }
   },
   "suaveSeadogCosmeticsChest": {
-    "name": "Suave Seadog Cosmetics Chest",
+    "name": "圆滑老水手外观宝箱",
     "description": {
-      "general": "An opulent chest which may contain cosmetics that are part of Suave Seadog Set"
+      "general": "一个华丽的箱子，里面可能装有属于“舒雅海豹套装”的化妆品。"
     }
   }
 }
