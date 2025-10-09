@@ -2060,9 +2060,9 @@
     }
   },
   "silveryRaiderCache": {
-    "name": "银白掠夺者藏货",
+    "name": "古铜掠夺者藏货",
     "description": {
-      "general": "对于任何航海者来说都是一份值得骄傲的奖励，它充分展现了海盗的大胆冒险和英勇事迹。"
+      "general": "对海盗的勇气和毅力的绝佳致敬，这一宝藏讲述了战斗与风雨中的故事。"
     }
   },
   "gildedRaiderCache": {
@@ -2493,36 +2493,36 @@
     }
   },
   "teulingsMaterialsChest": {
-    "name": "Teuling's Materials Chest",
+    "name": "图林的材料宝箱",
     "description": {
-      "general": "Contains a selection of rare materials for crafting."
+      "general": "内含一系列稀有制作材料。"
     }
   },
   "teulingsItemAscensionChest": {
-    "name": "Teuling's Item Ascension Chest",
+    "name": "图林的物品晋升宝箱",
     "description": {
-      "general": "Contains a selection of items for ascension."
+      "general": "内含一系列晋升物品。"
     }
   },
   "teulingsArmorChest": {
-    "name": "Teuling's Armor Chest",
+    "name": "图林的装甲宝箱",
     "description": {
-      "general": "Contains a random Smuggler Pass Armor.",
-      "1": "Contains a random Smuggler Pass Armor from Year 1."
+      "general": "内含一件随机第一年走私贩通行证装甲。",
+      "1": "内含一件随机第一年走私贩通行证装甲。"
     }
   },
   "teulingsFurnitureChest": {
-    "name": "Teuling's Furniture Chest",
+    "name": "图林的陈设宝箱",
     "description": {
-      "general": "Contains a random Smuggler Pass Furniture.",
-      "1": "Contains a random Smuggler Pass Furniture from Year 1."
+      "general": "包含一件随机走私者通行证陈设。",
+      "1": "内含一件随机第一年走私贩通行证陈设。"
     }
   },
   "teulingsWeaponChest": {
-    "name": "Teuling's Weapon Chest",
+    "name": "图林的武器宝箱",
     "description": {
-      "general": "Contains a random Smuggler Pass Weapon.",
-      "1": "Contains a random Smuggler Pass Weapon from Year 1."
+      "general": "包含一件随机走私者通行证武器。",
+      "1": "内含一件随机第一年走私贩通行证武器。"
     }
   },
   "jokaKubwaTreasureChest": {
@@ -2616,27 +2616,27 @@
     }
   },
   "royalSterilizationTent": {
-    "name": "Royal Sterilization Tent",
+    "name": "皇家消毒帐篷",
     "description": {
-      "general": "Equipped with antiseptics and surgical tools of Compagnie design, this station restores Crew Stamina and enables faster repairs."
+      "general": "配备了皇家公司设计的消毒剂和外科器械，这座维修站能够恢复船员体力并加快维修速度。"
     }
   },
   "atelierDeCuivrage": {
-    "name": "Atelier de Cuivrage",
+    "name": "镀铜工坊",
     "description": {
-      "general": "Reinforces the hull with finely hammered copper plating, reducing damage from elemental ammunition and easing the strain when Bracing against enemy fire."
+      "general": "\n采用精锻铜板加固船体，降低元素弹药的伤害，并在防御敌方炮火时减轻船体承受的压力"
     }
   },
   "rampantCarriageHold": {
-    "name": "Rampant Carriage Hold",
+    "name": "狂暴炮架舱",
     "description": {
-      "general": "Outfitted with reinforced carriages and specialized plating, this station amplifies elemental damage dealt while reducing incoming elemental effects."
+      "general": "此陈设配备强化炮架与特种板材，能提升造成的元素伤害，同时降低受到的元素效果影响。"
     }
   },
   "sandbagPaintingStation": {
-    "name": "Sandbag Painting Station",
+    "name": "沙袋喷涂站",
     "description": {
-      "general": "A crude but effective workshop where taunts are stenciled in blood and sand. Strengthens brace and further enrages enemies to attack."
+      "general": "一座简陋但实用的工坊，以风沙与鲜血勾勒着对敌人的蔑视。强化防御并进一步激怒敌人发动攻击。"
     }
   },
   "counterthrustLocker": {
@@ -2664,15 +2664,15 @@
     }
   },
   "contractCache": {
-    "name": "Contract Cache",
+    "name": "委托贮藏箱",
     "description": {
-      "general": "A beginner's cache of basic contracts"
+      "general": "留给新手的基础委托贮藏箱"
     }
   },
   "advancedContractCache": {
-    "name": "Advanced Contract Cache",
+    "name": "高级委托贮藏箱",
     "description": {
-      "general": "A cache of treasures for those who have proven their worth on the high seas"
+      "general": "为在公海上证明了自己价值的海盗准备的宝藏"
     }
   },
   "locketOfTheDamned": {
@@ -2688,21 +2688,21 @@
     }
   },
   "laPestesHead": {
-    "name": "La Peste's Head",
+    "name": "瘟疫之首",
     "description": {
       "general": "The head of the Plague King, Philippe La Peste. Holding the bag in hand, you could almost swear you hear muffled curses from within."
     }
   },
   "laPestesLocker": {
-    "name": "La Peste's Locker",
+    "name": "拉普的锁箱",
     "description": {
       "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
     }
   },
   "laPestesStrongbox": {
-    "name": "La Peste's Strongbox",
+    "name": "拉佩斯特的保险箱",
     "description": {
-      "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+      "general": "除了快乐、瘟疫或这两者，你还能从中得到什么奖励呢?"
     }
   },
   "wreckedConductorBuoy": {
