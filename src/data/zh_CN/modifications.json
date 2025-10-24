@@ -159,7 +159,7 @@
     "description": "摧毁一个弱点可恢复该船只%s-%s的严重伤害"
   },
   "amplifiedBurning": {
-    "name": "扩大火焰",
+    "name": "扩大燃烧",
     "description": "将现有燃烧伤害提升%s-%s%"
   },
   "siege": {
