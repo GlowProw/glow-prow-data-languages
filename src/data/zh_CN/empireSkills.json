@@ -112,22 +112,22 @@
     }
   },
   "manufactoryExpansion": {
-    "name": "制造厂扩张",
+    "name": "工厂扩张",
     "effects": {
-      "general": "将皇家 compagnie 制造厂的可升级最大等级提高1级"
+      "general": "将{faction}工厂的可升级等级上限提升 {index}"
     }
   },
   "advancedImperialJadeProcessing": {
     "name": "高级帝王翡翠加工",
     "effects": {
-      "1": "帝王翡翠利润率提高6%",
-      "2": "帝王翡翠利润率提高12%"
+      "1": "帝王绿的利润率提升 6%",
+      "2": "帝王绿的利润率提升 12%"
     }
   },
   "refinedMaterialProduction": {
     "name": "精炼材料生产",
     "effects": {
-      "general": "解锁位于皇家 compagnie 资源定居点的制造厂生产精炼材料的能力"
+      "general": "解锁{faction}资源定居点工厂的精炼材料生产"
     }
   },
   "advancedSnuffProcessing": {
@@ -138,43 +138,43 @@
     }
   },
   "processBreakthrough-refined": {
-    "name": "工艺突破（精炼）",
+    "name": "加工水平突破（精炼）",
     "effects": {
-      "1": "皇家 compagnie 制造厂的精炼材料生产速率提高10%",
-      "2": "2",
-      "3": "3"
+      "1": "将{faction}工厂的精炼材料生产率提升 10%",
+      "2": "将{faction}工厂的精炼材料生产率提升 20%",
+      "3": "将{faction}工厂的精炼材料生产率提升 30%"
     }
   },
   "processBreakthrough-specialized": {
-    "name": "工艺突破（专精）",
+    "name": "加工水平突破（特殊）",
     "effects": {
-      "1": "皇家 compagnie 制造厂的专精材料生产速率提高10%",
-      "2": "皇家 compagnie 制造厂的专精材料生产速率提高20%",
-      "3": "皇家 compagnie 制造厂的专精材料生产速率提高30%"
+      "1": "将{faction}工厂的特殊材料生产率提升 10%",
+      "2": "将{faction}工厂的特殊材料生产率提升 20%",
+      "3": "将{faction}工厂的特殊材料生产率提升 30%"
     }
   },
   "refinedSpecializedMaterialProductionRefined": {
-    "name": "精炼专精材料生产（精炼）",
+    "name": "精炼特殊材料生产",
     "effects": {
-      "general": "解锁位于皇家 compagnie 定居点的制造厂生产精炼专精材料的能力"
+      "general": "解锁{faction}定居点工厂的精炼特殊材料生产"
     }
   },
   "exoticMaterialProduction": {
-    "name": "异域材料生产",
+    "name": "奇珍材料生产",
     "effects": {
-      "general": "解锁位于皇家 compagnie 首都定居点的制造厂生产异域材料的能力"
+      "general": "解锁{faction}首府定居点工厂的奇珍材料生产"
     }
   },
   "compagnieRoyaleDominance": {
-    "name": "皇家 compagnie 支配",
+    "name": "皇家公司主导",
     "effects": {
-      "general": "每座拥有的皇家 compagnie 制造厂可使其制造厂的材料生产速率提高0.6%"
+      "general": "每拥有一个{faction}工厂，都会将同类工厂的材料生产率提升0.6%"
     }
   },
   "ascensionModuleProduction": {
     "name": "晋升模块生产",
     "effects": {
-      "general": "解锁位于皇家 compagnie 首都定居点的制造厂生产晋升模块的能力"
+      "general": "解锁{faction}首府定居点工厂的晋阶模组生产"
     }
   },
   "advancedGinProcessing": {
@@ -185,15 +185,15 @@
     }
   },
   "improvedEquipment": {
-    "name": "改良设备",
+    "name": "装备改良",
     "effects": {
-      "general": "每级制造厂（从2级开始）提供3%的生产成本削减加成，最高可达12%"
+      "general": "按照工厂等级（从2级开始），生产成本每级降低 3%，最多可降低 12%"
     }
   },
   "empireAdministration": {
-    "name": "帝国管理",
+    "name": "帝国统治",
     "effects": {
-      "general": "增加可拥有的制造厂最大数量 {index}"
+      "general": "可拥有的最大工厂数量增加 {index}"
     }
   },
   "goldSkullGinProduction": {
@@ -203,39 +203,39 @@
     }
   },
   "dependableLaborers": {
-    "name": "可靠劳工",
+    "name": "可靠工人",
     "effects": {
-      "general": "每级制造厂（从2级开始）提供3%的生产速率加成，最高可达12%"
+      "general": "按照工厂等级（从2级开始），生产率每级提升 3%，最多可降低12%"
     }
   },
   "goldSkullRumProduction": {
     "name": "金骷髅朗姆酒生产",
     "effects": {
-      "general": "解锁通过在蒸馏厂精炼白蜀朗姆酒以及资源定居点来生产金骷髅朗姆酒的能力。\n\t制造厂必须能够生产金骷髅朗姆酒。"
+      "general": "通过在酒厂和资源定居点精炼白骷髅朗姆酒来解锁金骷髅朗姆酒的生产。\n\t前提是工厂能够生产金骷髅朗姆酒。"
     }
   },
   "upgradePartProduction": {
     "name": "升级部件生产",
     "effects": {
-      "general": "解锁位于法拉氏族首都定居点的制造厂生产升级部件的能力"
+      "general": "解锁{faction}首府定居点工厂的升级部件生产"
     }
   },
   "advancedRumProcessing": {
     "name": "高级朗姆酒加工",
     "effects": {
-      "general": "朗姆酒利润率提高6%"
+      "general": "朗姆酒的利润率提升 6%"
     }
   },
   "refinedSpecializedMaterialProduction": {
-    "name": "精炼专精材料生产",
+    "name": "精炼特殊材料生产",
     "effects": {
-      "general": "解锁位于雷姆帕 dominion 定居点的制造厂生产精炼专精材料的能力"
+      "general": "解锁{faction}定居点工厂的精炼特殊材料生产"
     }
   },
   "clanOfFaraDominance": {
     "name": "法拉氏族支配",
     "effects": {
-      "general": "每座拥有的法拉氏族制造厂可使其制造厂的材料生产速率提高15%"
+      "general": "每拥有一个珐拉氏族工厂，都会将同类工厂的材料生产率提升15%"
     }
   },
   "carvedImperialJadeProduction": {
@@ -245,17 +245,17 @@
     }
   },
   "processBreakthrough-refinedSpecialized": {
-    "name": "工艺突破（精炼专精）",
+    "name": "加工水平突破（精炼特殊）",
     "effects": {
-      "1": "法拉氏族制造厂的精炼专精材料生产速率提高10%",
-      "2": "法拉氏族制造厂的精炼专精材料生产速率提高20%",
-      "3": "法拉氏族制造厂的精炼专精材料生产速率提高30%"
+      "1": "将{faction}工厂的精炼特殊材料生产率提升 10%",
+      "2": "将{faction}工厂的精炼特殊材料生产率提升 20%",
+      "3": "将{faction}工厂的精炼特殊材料生产率提升 30%"
     }
   },
   "seaPeopleDominance": {
-    "name": "海洋民族支配",
+    "name": "海民主导",
     "effects": {
-      "general": "每座拥有的海洋民族制造厂可使其制造厂的材料生产速率提高15%"
+      "general": "每拥有一个海民工厂，都会将同类工厂的材料生产率提升1.5%"
     }
   },
   "coerciveGrowth": {
@@ -267,13 +267,13 @@
   "manufactoryFortification": {
     "name": "制造厂防御工事",
     "effects": {
-      "1": "1",
-      "2": "2",
-      "3": "位于己方领土内的制造厂耐久度增加50%"
+      "1": "将已拥有地盘内工厂的防御能力提升10%",
+      "2": "将已拥有地盘内工厂的防御能力提升20%",
+      "3": "将已拥有地盘内工厂的防御能力提升35%"
     }
   },
   "territorialDominance": {
-    "name": "领土支配",
+    "name": "地盘主导",
     "effects": {
       "general": "每块拥有的领土可降低0.5%的全局生产成本"
     }
@@ -287,11 +287,11 @@
     }
   },
   "efficientShipping": {
-    "name": "高效航运",
+    "name": "高效运输",
     "effects": {
-      "1": "1",
-      "2": "2",
-      "3": "运输时间减少75%"
+      "1": "运输时间减少 20%",
+      "2": "运输时间减少 40%",
+      "3": "运输时间减少 75%"
     }
   },
   "tradeDominance": {
@@ -301,16 +301,16 @@
     }
   },
   "dominionOfRempahDominance": {
-    "name": "雷姆帕 dominion 支配",
+    "name": "任帕自治领主导",
     "effects": {
-      "general": "每座拥有的雷姆帕 dominion 制造厂可使其制造厂的材料生产速率提高0.6%"
+      "general": "每拥有一个{faction}工厂，都会将同类工厂的材料生产率提升0.6%"
     }
   },
   "advancedHeavenSmokeProcessing": {
     "name": "高级天堂烟加工",
     "effects": {
-      "1": "天堂烟利润率提高6%",
-      "2": "天堂烟利润率提高12%"
+      "1": "天堂烟的利润率提升 6%",
+      "2": "天堂烟的利润率提升 12%"
     }
   },
   "blackFlowerHeavenSmokeProduction": {
@@ -320,9 +320,9 @@
     }
   },
   "dutchMerchantCompanyDominance": {
-    "name": "荷兰商人公司支配",
+    "name": "荷兰商社主导",
     "effects": {
-      "general": "每座拥有的荷兰商人公司制造厂可使其制造厂的材料生产速率提高0.6%"
+      "general": "每拥有一个荷兰商社工厂，都会将同类工厂的材料生产率提升0.6%"
     }
   },
   "silverSnuffProduction": {
@@ -332,9 +332,9 @@
     }
   },
   "confederationOfUngwanaDominance": {
-    "name": "温瓦纳邦联支配",
+    "name": "乌瓜纳联邦主导",
     "effects": {
-      "general": "每座拥有的温瓦纳邦联制造厂可使其制造厂的材料生产速率提高0.6%"
+      "general": "每拥有一个乌瓜纳联邦工厂，都会将同类工厂的材料生产率提升 0.6%"
     }
   }
 }

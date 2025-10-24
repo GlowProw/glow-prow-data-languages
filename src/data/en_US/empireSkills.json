@@ -114,20 +114,20 @@
   "manufactoryExpansion": {
     "name": "Manufactory Expansion",
     "effects": {
-      "general": "Ihcreases the maximum upgradeable level of Compagnie Roylle Manufactories by I"
+      "general": "Increases the maximum upgradeable level of {faction} Manufactories by {index}"
     }
   },
   "advancedImperialJadeProcessing": {
     "name": "Advanced Imperial Jade Processing",
     "effects": {
-      "1": "increases imperial jade's profit rate by 6%",
-      "2": "increases imperial jade's profit rate by 12%"
+      "1": "Increases Imperial Jade's profit rate by 6%",
+      "2": "Increases Imperial Jade's profit rate by 12%"
     }
   },
   "refinedMaterialProduction": {
     "name": "Refined Material Production",
     "effects": {
-      "general": "Unlocks production of refined materials at Manufactories located in Compagnie Royale resource sttements"
+      "general": "Unlocks production of refined materials at Manufactories located in Clan of Fara resource settlements"
     }
   },
   "advancedSnuffProcessing": {
@@ -140,41 +140,41 @@
   "processBreakthrough-refined": {
     "name": "Process Breakthrough (Refined)",
     "effects": {
-      "1": "Increases production rate of refined matenials at Compagnie Royale manfactories by 10%",
-      "2": "2",
-      "3": "3"
+      "1": "Increases production rate of refined materials at {faction} manufactories by 10%",
+      "2": "Increases production rate of refined materials at {faction} manufactories by 20%",
+      "3": "Increases production rate of refined materials at {faction} manufactories by 30%"
     }
   },
   "processBreakthrough-specialized": {
     "name": "Process Breakthrough (Specialized)",
     "effects": {
-      "1": "Increases production rate of specialzed materials at Compagnie Royale manufactores by 10%",
-      "2": "Increases production rate of specialzed materials at Compagnie Royale manufactores by 20%",
-      "3": "Increases production rate of specialzed materials at Compagnie Royale manufactores by 30%"
+      "1": "Increases production rate of specialized materials at {faction} manufactories by 10%",
+      "2": "Increases production rate of specialized materials at {faction} manufactories by 20%",
+      "3": "Increases production rate of specialized materials at {faction} manufactories by 30%"
     }
   },
   "refinedSpecializedMaterialProductionRefined": {
     "name": "Refined Specialized Material Production Refined",
     "effects": {
-      "general": "Unlocks praduction of refined special ized materials at manufactories located in Compagnie Royale sttlements "
+      "general": "Unlocks production of refined specialized materials at manufactories located in {faction} settlements"
     }
   },
   "exoticMaterialProduction": {
     "name": "Exotic Material Production",
     "effects": {
-      "general": "Unlocks production of exotic materials at Manufactories located in the Compagnie Royale capital stlement"
+      "general": "Unlocks production of exotic materials at Manufactories located in the Clan of Fara capital settlement"
     }
   },
   "compagnieRoyaleDominance": {
     "name": "Compagnie Royale Dominance",
     "effects": {
-      "general": "Each owned Compagnie Royale manufactory increases the production rate of materials at their manufactories by 0.6%"
+      "general": "Each owned {faction} manufactory increases the production rate of materials at their manufactories by\n0.6%"
     }
   },
   "ascensionModuleProduction": {
     "name": "Ascension Module Production",
     "effects": {
-      "general": "Unlocks production of Ascension Modules at Manfactories located in the Compagie Royale capital setlement"
+      "general": "Unlocks production of Ascension Modules at Manufactories located in the {faction} capital settlement"
     }
   },
   "advancedGinProcessing": {
@@ -187,13 +187,13 @@
   "improvedEquipment": {
     "name": "Improved Equipment",
     "effects": {
-      "general": "Adds a production cost reduction bonus of 3% per Manufactory level (starting from Level 2). up to a maximum of 12%"
+      "general": "Adds a production cost reduction bonus of 3% per Manufactory level (starting from Level 2), up to a maximum of 12%"
     }
   },
   "empireAdministration": {
     "name": "Empire Administration",
     "effects": {
-      "general": "Ihcreases the maximum number of owned Manufactories by {index}"
+      "general": "Increases the maximum number of owned Manufactories by {index}"
     }
   },
   "goldSkullGinProduction": {
@@ -205,37 +205,37 @@
   "dependableLaborers": {
     "name": "Dependable Laborers",
     "effects": {
-      "general": "Adds a production rate bonus of 3% per Manufactory level (starting from Level 2). up to a maximum of 12%"
+      "general": "Adds a production rate bonus of 3% per Manufactory level (starting from Level 2), up to a maximum of 12%"
     }
   },
   "goldSkullRumProduction": {
     "name": "Gold Skull Rum Production",
     "effects": {
-      "general": "Unlocks production of Gold Slkul Rum from the refinement of White Shul Rum at the Ditlley and from resource setbements.\n\tThe Manufactory must be able to produce Gold Skul Rum"
+      "general": "Unlocks production of Gold Skull Rum from the refinement of White Skull Rum at the Distillery and from resource\nsettlements.\nThe Manufactory must be able to produce Gold Skull Rum."
     }
   },
   "upgradePartProduction": {
     "name": "Upgrade Part Production",
     "effects": {
-      "general": "Unlocks production of Upgrade Parts at Manufactories located in the Clan of Fara capitall settlement"
+      "general": "Unlocks production of Upgrade Parts at Manufactories located in the {faction} capital settlement"
     }
   },
   "advancedRumProcessing": {
     "name": "Advanced Rum Processing",
     "effects": {
-      "general": "Ihcreases Run's profit rate by 6%"
+      "general": "Increases Rum's profit rate by 6%"
     }
   },
   "refinedSpecializedMaterialProduction": {
     "name": "Refined Specialized Material Production",
     "effects": {
-      "general": "Unlocks production of refined secialized materials at manufactories located in Dominion of Rempah settlements"
+      "general": "Unlocks production of refined specialized materials at manufactories located in {faction} settlements"
     }
   },
   "clanOfFaraDominance": {
     "name": "Clan Of Fara Dominance",
     "effects": {
-      "general": "Each owned Clan of Fara manufactory increases the production rate of matberials at their manufactories by 15%"
+      "general": "Each owned Clan of Fara manufactory increases the\nproduction rate of materials at their manufactories by 15%"
     }
   },
   "carvedImperialJadeProduction": {
@@ -247,15 +247,15 @@
   "processBreakthrough-refinedSpecialized": {
     "name": "Process Breakthrough (Refined Specialized)",
     "effects": {
-      "1": "Increases production rate of refined special ized materials at Clan of Fara manufactories by 10%",
-      "2": "Increases production rate of refined special ized materials at Clan of Fara manufactories by 20%",
-      "3": "Increases production rate of refined special ized materials at Clan of Fara manufactories by 30%"
+      "1": "Increases production rate of refined specialized materials at {faction} manufactories by 10%",
+      "2": "Increases production rate of refined specialized materials at {faction} manufactories by 20%",
+      "3": "Increases production rate of refined specialized materials at {faction} manufactories by 30%"
     }
   },
   "seaPeopleDominance": {
     "name": "Sea People Dominance",
     "effects": {
-      "general": "Each owned Sea People manufactory increases the production rate of materials at their manufactories by 15%"
+      "general": "Each owned Sea People manufactory increases the production rate of materials at their manufactories by 1.5%"
     }
   },
   "coerciveGrowth": {
@@ -267,9 +267,9 @@
   "manufactoryFortification": {
     "name": "Manufactory Fortification",
     "effects": {
-      "1": "1",
-      "2": "2",
-      "3": "Increases resitience of manufactories located within owned tritories by 50%"
+      "1": "Increases resilience of manufactories located within owned territories by 10%",
+      "2": "Increases resilience of manufactories located within owned territories by 20%",
+      "3": "Increases resilience of manufactories located within owned territories by 35%"
     }
   },
   "territorialDominance": {
@@ -289,8 +289,8 @@
   "efficientShipping": {
     "name": "Efficient Shipping",
     "effects": {
-      "1": "1",
-      "2": "2",
+      "1": "Reduces Transportation Time by 20%",
+      "2": "Reduces Transportation Time by 40%",
       "3": "Reduces Transportation Time by 75%"
     }
   },
@@ -303,7 +303,7 @@
   "dominionOfRempahDominance": {
     "name": "Dominion Of Rempah Dominance",
     "effects": {
-      "general": "Each owned Dominion of Rempah manufactory increases the production rate of materials at thei manufactories by 0.6%"
+      "general": "Each owned Dominion of {faction} manufactory increases the production rate of materials at their manufactories by 0.6%"
     }
   },
   "advancedHeavenSmokeProcessing": {
@@ -322,7 +322,7 @@
   "dutchMerchantCompanyDominance": {
     "name": "Dutch Merchant Company Dominance",
     "effects": {
-      "general": "Each owned Dutch Merchant Company manufactory incrBases the production rate of materials at their manufactories by 0.6%"
+      "general": "Each owned Dutch Merchant Company manufactory\nincreases the production rate of materials at their manufactories by 0.6%"
     }
   },
   "silverSnuffProduction": {
@@ -334,7 +334,7 @@
   "confederationOfUngwanaDominance": {
     "name": "Confederation Of Ungwana Dominance",
     "effects": {
-      "general": "Each owned Confederation of Ungwana manufactory increases the production rate of materials at their manufactories by 0.6%"
+      "general": "Each owned Confederation of Ungwana manufactory\nincreases the production rate of materials at their manufactories by 0.6%"
     }
   }
 }
