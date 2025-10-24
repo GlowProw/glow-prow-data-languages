@@ -92,5 +92,87 @@
         "description": "Elite Warship"
       }
     }
+  },
+  "gutsAndGlory": {
+    "name": "Guts And Glory",
+    "description": "As the Faction War rages on, where will your loyalties lie? Pick a side: Dutch Merchant Company or French Compagnie Royale. Win territories, earn war assets, and fight for ultimate victory in Guts and Glory. ",
+    "data": {
+      "factionWar": {
+        "name": "Faction War",
+        "description": "New Feature\nParticipate in the war between the Dutch Trading Company and the Royal Company to earn rewards"
+      },
+      "drowningPlague": {
+        "name": "Drowning Plague",
+        "description": ""
+      },
+      "theGreatShadow": {
+        "name": "The Great Shadow",
+        "description": ""
+      },
+      "theRovingLost": {
+        "name": "The Roving Lost",
+        "description": ""
+      },
+      "gloryAdored": {
+        "name": "Glory Adored",
+        "description": "Limited-time Event"
+      },
+      "rewardBoost": {
+        "name": "Reward Boost",
+        "description": "Special Event"
+      },
+      "theMizerja": {
+        "name": "The Mizerja",
+        "description": "Elite Warship"
+      },
+      "theShadowBeasts": {
+        "name": "The Shadow Beasts",
+        "description": "Celestial Dragon Eclipses the Sun"
+      },
+      "theSerpentsWrath": {
+        "name": "The Serpent's Wrath",
+        "description": "Season Boss"
+      },
+      "gildMarksBoost": {
+        "name": "Gild Marks Boost",
+        "description": "Special Event"
+      },
+      "revenantsFury": {
+        "name": "Revenant's Fury",
+        "description": "Sea Monster"
+      },
+      "reaversRevenge": {
+        "name": "Reaver's Revenge",
+        "description": "Sea Monster"
+      },
+      "theSoleilRoyal": {
+        "name": "The Soleil Royal",
+        "description": "Elite Warship"
+      },
+      "helmRoost": {
+        "name": "Helm Roost",
+        "description": "Special Event"
+      },
+      "smugglerBoost": {
+        "name": "Smuggler Boost",
+        "description": "Special Event"
+      },
+      "theWolfHunter": {
+        "name": "The Wolf Hunter",
+        "description": "Elite Warship"
+      },
+      "azureSolstice": {
+        "name": "Azure Solstice",
+        "description": "Limited-time Event"
+      },
+      "theOpwelling": {
+        "name": "The Opwelling",
+        "description": "Elite Warship"
+      },
+      "gloryAdorned": {
+        "name": "Glory Adorned",
+        "description": "Limited-time Event"
+      }
+    }
   }
 }
