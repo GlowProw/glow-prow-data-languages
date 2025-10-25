@@ -21,3 +21,5 @@ files:
     translation: /src/data/%locale_with_underscore%/seasons.json
   - source: /src/data/en_US/ultimates.json
     translation: /src/data/%locale_with_underscore%/ultimates.json
+  - source: /src/data/en_US/empireSkills.json
+    translation: /src/data/%locale_with_underscore%/empireSkills.json

@@ -13,17 +13,17 @@
   "masterApothecaries": {
     "name": "Master Apothecaries",
     "effects": {
-      "1": "Adds a 10% chance to produce an aditinal item when rfining Helm Wares in the Laboratory",
-      "2": "Adds a 20% chance to produce an aditinal item when rfining Helm Wares in the Laboratory",
-      "3": "Adds a 30% chance to produce an aditinal item when rfining Helm Wares in the Laboratory"
+      "1": "Adds a 10% chance to produce an additional item when refining Helm Wares in the Laboratory",
+      "2": "Adds a 20% chance to produce an additional item when refining Helm Wares in the Laboratory",
+      "3": "Adds a 30% chance to produce an additional item when refining Helm Wares in the Laboratory"
     }
   },
   "telokPenjarahsFavor": {
     "name": "Telok Penjarah's Favor",
     "effects": {
-      "1": "1",
-      "2": "2",
-      "3": "Improves standing in Telok Penjarah, Adds Legendary Helm wares to rewards at the Job Board"
+      "1": "Improves standing in Telok Penjarah. Adds Helm Raw Materials to rewards at the Job Board.",
+      "2": "Improves standing in Telok Penjarah. Adds Rare Helm Wares to rewards at the Job Board.",
+      "3": "Improves standing in Telok Penjarah. Adds Legendary Helm Wares to rewards at the Job Board."
     }
   },
   "insideIntel": {
@@ -37,17 +37,17 @@
   "betterOeals": {
     "name": "Better Oeals",
     "effects": {
-      "1": "hcreases the amount of Eights ofred in Orders by 35%",
-      "2": "hcreases the amount of Eights ofred in Orders by 55%",
-      "3": "hcreases the amount of Eights ofred in Orders by 75%"
+      "1": "Increases the amount of Eights offered in Orders by 25%",
+      "2": "Increases the amount of Eights offered in Orders by 50%",
+      "3": "Increases the amount of Eights offered in Orders by 75%"
     }
   },
   "bloodiedOrders": {
     "name": "Bloodied Orders",
     "effects": {
-      "1": "1",
-      "2": "2",
-      "3": "Pllage hidden wares from Dverseas Smugglers by boarding them during Roving Orders hcreases Pecces of Eight rewards from boarding by 100% for new Roving Orders"
+      "1": "Pillage hidden wares from Overseas Smugglers by boarding them during Raving Orders. Increases Pieces of Eight rewards from boarding by 50% for new Roving Orders.",
+      "2": "Pillage hidden wares from Overseas Smugglers by boarding them during Raving Orders. Increases Pieces of Eight rewards from boarding by 75% for new Roving Orders.",
+      "3": "Pillage hidden wares from Overseas Smugglers by boarding them during Raving Orders. Increases Pieces of Eight rewards from boarding by 100% for new Roving Orders."
     }
   },
   "improvedDistilleryEquipment": {
@@ -69,7 +69,7 @@
     "effects": {
       "1": "1",
       "2": "2",
-      "3": "Improves standing in Sante-Ane Adds Legendary Helmwares to rewards at the Job Board"
+      "3": "Improves standing in Telok Penjarah. Adds Legendary Helm Wares to rewards at the Job Board."
     }
   },
   "rogueScavenger": {
@@ -99,16 +99,16 @@
   "ruthlessDeals": {
     "name": "Ruthless Deals",
     "effects": {
-      "1": "1",
-      "2": "Pllage hidden materials from Helmn Liaisons by barding them during Roving Supply Deals Increases Helm raw material rewards from boarding by 20% for new Roving Supply Deals"
+      "1": "Pillage hidden materials from Helm Liaisons by boarding them during Roving Supply Deals. Increases Helm raw material rewards from boarding by 10% for new Roving Supply Deals.",
+      "2": "Pillage hidden materials from Helm Liaisons by boarding them during Roving Supply Deals. Increases Helm raw material rewards from boarding by 20% for new Roving Supply Deals."
     }
   },
   "gangButcher": {
     "name": "Gang Butcher",
     "effects": {
-      "1": "1",
-      "2": "2",
-      "3": "Deter rogue ambushers by eiminating their fleets Completing Rogue Hunts reduces Death Mark duration by 30 minutes"
+      "1": "Deter rogue ambushers by eliminating their fleets. Completing Rogue Hunts reduces Death Mark duration by 10 minutes",
+      "2": "Deter rogue ambushers by eliminating their fleets. Completing Rogue Hunts reduces Death Mark duration by 20 minutes",
+      "3": "Deter rogue ambushers by eliminating their fleets. Completing Rogue Hunts reduces Death Mark duration by 30 minutes"
     }
   },
   "manufactoryExpansion": {

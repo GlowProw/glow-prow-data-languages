@@ -1,6 +1,5 @@
 {
   "oathsOfWar": {
-    "name": "宣战誓言",
     "description": "随着印度洋局势的紧张，敌对派系之间为了争夺主导地位展开了激烈的冲突。各帝国以坚不可摧的堡垒捍卫自己的阵地，并派遣强大的大型战舰，意图粉碎一切敌对势力，最终夺取霸权。",
     "data": {
       "phoenixStorm": {
@@ -94,83 +93,82 @@
     }
   },
   "gutsAndGlory": {
-    "name": "Guts And Glory",
-    "description": "As the Faction War rages on, where will your loyalties lie? Pick a side: Dutch Merchant Company or French Compagnie Royale. Win territories, earn war assets, and fight for ultimate victory in Guts and Glory. ",
+    "description": "系战争愈演愈烈，你的忠诚将属于哪一方？选择一方：荷兰商业公司或法国皇家公司。征服领土，获取战争资产，在“勇气与荣耀”中争夺最终胜利。",
     "data": {
       "factionWar": {
-        "name": "Faction War",
-        "description": "New Feature\nParticipate in the war between the Dutch Trading Company and the Royal Company to earn rewards"
+        "name": "阵营战争",
+        "description": "新功能\n参与荷兰商社与皇家公司之间的战争，获取奖励"
       },
       "drowningPlague": {
-        "name": "Drowning Plague",
+        "name": "没顶恶疫",
         "description": ""
       },
       "theGreatShadow": {
-        "name": "The Great Shadow",
+        "name": "蔽日骇影",
         "description": ""
       },
       "theRovingLost": {
-        "name": "The Roving Lost",
+        "name": "彷徨游魂",
         "description": ""
       },
       "gloryAdored": {
-        "name": "Glory Adored",
+        "name": "荣耀加身",
         "description": "限时活动"
       },
       "rewardBoost": {
-        "name": "Reward Boost",
-        "description": "Special Event"
+        "name": "奖励加成",
+        "description": "特别活动"
       },
       "theMizerja": {
-        "name": "The Mizerja",
+        "name": "苦痛号",
         "description": "精英战船"
       },
       "theShadowBeasts": {
-        "name": "The Shadow Beasts",
-        "description": "Celestial Dragon Eclipses the Sun"
+        "name": "影龙降临",
+        "description": "天龙蔽日"
       },
       "theSerpentsWrath": {
-        "name": "The Serpent's Wrath",
-        "description": "Season Boss"
+        "name": "飞龙之怒",
+        "description": "赛季首领"
       },
       "gildMarksBoost": {
-        "name": "Gild Marks Boost",
-        "description": "Special Event"
+        "name": "镀金马克加成",
+        "description": "特别活动"
       },
       "revenantsFury": {
-        "name": "Revenant's Fury",
+        "name": "亡魂怒火",
         "description": "海怪"
       },
       "reaversRevenge": {
-        "name": "Reaver's Revenge",
+        "name": "凶兽复仇",
         "description": "海怪"
       },
       "theSoleilRoyal": {
-        "name": "The Soleil Royal",
+        "name": "皇家烈阳号",
         "description": "精英战船"
       },
       "helmRoost": {
-        "name": "Helm Roost",
-        "description": "Special Event"
+        "name": "海舵社加成",
+        "description": "特别活动"
       },
       "smugglerBoost": {
-        "name": "Smuggler Boost",
-        "description": "Special Event"
+        "name": "走私贩点数加成",
+        "description": "特别活动"
       },
       "theWolfHunter": {
-        "name": "The Wolf Hunter",
+        "name": "猎狼人",
         "description": "精英战船"
       },
       "azureSolstice": {
-        "name": "Azure Solstice",
+        "name": "蔚蓝至日",
         "description": "限时活动"
       },
       "theOpwelling": {
-        "name": "The Opwelling",
+        "name": "冲动号",
         "description": "精英战船"
       },
       "gloryAdorned": {
-        "name": "Glory Adorned",
+        "name": "荣耀加身",
         "description": "限时活动"
       }
     }
