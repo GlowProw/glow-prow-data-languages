@@ -564,10 +564,7 @@
   "putrefying": {
     "name": "腐烂",
     "description": {
-      "general": [
-        "受到冲击时会在短时间内释放有毒烟雾，造成伤害并削弱船员体力。",
-        "防御无法抵挡毒雾造成的伤害。"
-      ]
+      "general": "Releases toxic fumes for a short period upon impact, sapping the target's Crew Stamina based on 1% of the Toxic damage dealt"
     }
   },
   "venemousVengeance": {
@@ -825,10 +822,7 @@
   "toxic": {
     "name": "剧毒",
     "description": {
-      "3": [
-        "该武器命中后削弱船员体力。",
-        "增加20%伤害，且无法被防御抵挡。"
-      ]
+      "3": "Adds 30% of damage as Toxic Damage"
     }
   },
   "homing": {
@@ -1765,7 +1759,8 @@
     "description": {
       "1": "施加10%的电击伤害",
       "2": "施加20%的电击伤害",
-      "3": "施加30%的电击伤害"
+      "3": "施加30%的电击伤害",
+      "4": "Adds 40% of damage as Electric Damage"
     }
   },
   "organHarvestingStation": {
@@ -2643,12 +2638,12 @@
     }
   },
   "skyrend": {
-    "name": "Skyrend",
+    "name": "裂穹",
     "description": {
       "general": [
-        "Each volley of cannon fire on enemy sails has a chance of summoning a lightning strike that deals 5000 Electric Damage",
-        "Every 5 hits adds a 15% chance, up to a maximum of 45%",
-        "Lightning strike damage increases to 10000 if target has Torn Sails"
+        "每轮齐射的炮火命中敌船船帆后，有一定几率召唤一道雷击，造成5000电击伤害。",
+        "每命中5次，召唤几率提升15%（最高几率为45%）。",
+        "若目标拥有船帆撕裂，则雷击伤害提升至10000。"
       ]
     }
   },
@@ -2766,7 +2761,7 @@
   },
   "sterileGalley": {
     "description": {
-      "1": "Increases Maximum Stamina by 7%"
+      "1": "最大体力提升7%"
     }
   },
   "balancedMast": {
@@ -2787,42 +2782,42 @@
   "royalSterilizationTent": {
     "description": {
       "general": [
-        "Increases Repair Amount of weapons by 21% for targets below 70% Hull Health",
-        "1% of Repair Amount also restores 0.1% Crew Stamina to the target",
-        "Reduces Reload Time of Repair Weapons by 11%"
+        "使武器对于船身生命值低于70%的目标的维修量提升21%。",
+        "每维修1%会恢复目标0.1%的船员体力",
+        "修复武器的装填时间减少11%。"
       ]
     }
   },
   "atelierDeCuivrage": {
     "description": {
       "general": [
-        "While above 50% Hull Health, reduces incoming Secondary Damage by 24%, and increases Threat Generation by 15% and weapon damage by 10%",
-        "Increases Armor Rating of equipped armor by 100"
+        "当船身生命值高于50%时，受到的次要伤害降低24%，同时提升15%威胁生成和10%武器伤害",
+        "将已装备装甲的装甲级别提升100"
       ]
     }
   },
   "rampantCarriageHold": {
     "description": {
       "general": [
-        "After 10 consecutive hits on targets, applies the Sea's Roar status effect to your ship and the nearest ally within 150m. Missing a shots resets the counter",
-        "Sea's Roar increases the Secondary Damage dealt by 17% and reduces incoming Secondary Damage by 15% for 17s",
-        "Decreases Reload Time of Weapons by 7%"
+        "连续10次击中目标后，为你的战舰和150米范围内最近的友军施加深洋怒红状态效果。若射击未命中，则计数重置。",
+        "深洋怒吼：使造成的次要伤害提升17%，并使收到的次要伤害降低15%，持续17秒。",
+        "武器装填时间降低7%"
       ]
     }
   },
   "sandbagPaintingStation": {
     "description": {
       "general": [
-        "After receiving 12 hits, gains the Sea's Ward status effect for 30s, with a cooldown of 60s",
-        "Sea's Ward increases Brace Strength by 18%. 3% of weapon damage builds up the Taunted status effect on enemies",
-        "Reduces Crew Stamina Depletion while Bracing by 14%"
+        "连续受击12次后获得大洋之盾状态效果，持续30秒，冷却60秒。",
+        "大洋之盾：提升18%防御强度。武器伤害的3%会在敌人身上累计被嘲讽状态效果。",
+        "防御时将船员体力消耗降低14%"
       ]
     }
   },
   "counterthrustLocker": {
     "description": {
       "general": [
-        "撞击目标后，将加速度提升300%，持续5秒",
+        "撞击目标后，加速度提升300%，持续5秒。",
         "逆风航行时，提升10%最高速度并降低战斗时的船员体力消耗，持续10%"
       ]
     }
@@ -2937,7 +2932,7 @@
     }
   },
   "lancerSeaFire": {
-    "name": "Lancer",
+    "name": "枪骑兵",
     "description": {
       "general": "Fires a streak of lightning that can chain up to 4 targets in proximity. Increases damage by 1% per 10m of weapon range. Adds 75m to weapon range"
     }
