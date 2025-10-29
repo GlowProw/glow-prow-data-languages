@@ -1,317 +1,340 @@
 {
   "root": {
-    "name": "玩家"
+    "name": "Player"
   },
   "improvedLaboratoryEquipment": {
-    "name": "改良实验室设备",
+    "name": "Improved Laboratory Equipment",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "Distites the refinement time of Helm Wares at the Laboratory by 60%"
     }
   },
   "masterApothecaries": {
-    "name": "大师药剂师",
+    "name": "Master Apothecaries",
     "effects": {
-      "general": ""
+      "1": "Adds a 10% chance to produce an additional item when refining Helm Wares in the Laboratory",
+      "2": "Adds a 20% chance to produce an additional item when refining Helm Wares in the Laboratory",
+      "3": "Adds a 30% chance to produce an additional item when refining Helm Wares in the Laboratory"
     }
   },
-  "telokPenjarah'sFavor": {
-    "name": "特洛克·彭贾拉的青睐",
+  "telokPenjarahsFavor": {
+    "name": "Telok Penjarah's Favor",
     "effects": {
-      "general": ""
+      "1": "Improves standing in Telok Penjarah. Adds Helm Raw Materials to rewards at the Job Board.",
+      "2": "Improves standing in Telok Penjarah. Adds Rare Helm Wares to rewards at the Job Board.",
+      "3": "Improves standing in Telok Penjarah. Adds Legendary Helm Wares to rewards at the Job Board."
     }
   },
   "insideIntel": {
-    "name": "内部情报",
+    "name": "Inside Intel",
     "effects": {
-      "general": ""
+      "1": "Ihcreases the amount of Raw Helm Materials ailable for the taking when plundering forts by 15%",
+      "2": "Ihcreases the amount of Raw Helm Materials ailable for the taking when plundering forts by 25%",
+      "3": "Ihcreases the amount of Raw Helm Materials ailable for the taking when plundering forts by 35%"
     }
   },
   "betterOeals": {
-    "name": "更好的交易",
+    "name": "Better Oeals",
     "effects": {
-      "general": ""
+      "1": "Increases the amount of Eights offered in Orders by 25%",
+      "2": "Increases the amount of Eights offered in Orders by 50%",
+      "3": "Increases the amount of Eights offered in Orders by 75%"
     }
   },
   "bloodiedOrders": {
-    "name": "血染订单",
+    "name": "Bloodied Orders",
     "effects": {
-      "general": ""
+      "1": "Pillage hidden wares from Overseas Smugglers by boarding them during Raving Orders. Increases Pieces of Eight rewards from boarding by 50% for new Roving Orders.",
+      "2": "Pillage hidden wares from Overseas Smugglers by boarding them during Raving Orders. Increases Pieces of Eight rewards from boarding by 75% for new Roving Orders.",
+      "3": "Pillage hidden wares from Overseas Smugglers by boarding them during Raving Orders. Increases Pieces of Eight rewards from boarding by 100% for new Roving Orders."
     }
   },
   "improvedDistilleryEquipment": {
-    "name": "改良蒸馏设备",
+    "name": "Improved Distillery Equipment",
     "effects": {
-      "general": ""
+      "general": "Reduces the refinement time of Helm Wares at the Distillery by 60%"
     }
   },
   "masterDistillers": {
-    "name": "酿酒大师",
+    "name": "Master Distillers",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "Adds a 30% chance to produce an aditional item whenrefining Helm Wares in the Dillry"
     }
   },
-  "sainet-anne'sFavor": {
-    "name": "圣安妮的青睐",
+  "sainte-annesFavor": {
+    "name": "Sainte-anne's Favor",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "Improves standing in Telok Penjarah. Adds Legendary Helm Wares to rewards at the Job Board."
     }
   },
   "rogueScavenger": {
-    "name": "无赖拾荒者",
+    "name": "Rogue Scavenger",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "Adds a 75% chance to scavenge Helm Materials from the rogue merchant when completing new Rogue Hunts"
     }
   },
   "primeTargets": {
-    "name": "首要目标",
+    "name": "Prime Targets",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "Alows Rogue Hunt Opruities to target more valuableconrvoys carying 50% more Raw He Materials"
     }
   },
   "bulkOffers": {
-    "name": "批量报价",
+    "name": "Bulk Offers",
     "effects": {
-      "general": ""
+      "1": "1",
+      "2": "2",
+      "3": "Ihcreases the amount of materials ofed in Supply Deals by 50%"
     }
   },
   "ruthlessDeals": {
-    "name": "无情交易",
+    "name": "Ruthless Deals",
     "effects": {
-      "general": ""
+      "1": "Pillage hidden materials from Helm Liaisons by boarding them during Roving Supply Deals. Increases Helm raw material rewards from boarding by 10% for new Roving Supply Deals.",
+      "2": "Pillage hidden materials from Helm Liaisons by boarding them during Roving Supply Deals. Increases Helm raw material rewards from boarding by 20% for new Roving Supply Deals."
     }
   },
   "gangButcher": {
-    "name": "帮派屠夫",
+    "name": "Gang Butcher",
     "effects": {
-      "general": ""
+      "1": "Deter rogue ambushers by eliminating their fleets. Completing Rogue Hunts reduces Death Mark duration by 10 minutes",
+      "2": "Deter rogue ambushers by eliminating their fleets. Completing Rogue Hunts reduces Death Mark duration by 20 minutes",
+      "3": "Deter rogue ambushers by eliminating their fleets. Completing Rogue Hunts reduces Death Mark duration by 30 minutes"
     }
   },
   "manufactoryExpansion": {
-    "name": "制造厂扩张",
+    "name": "Manufactory Expansion",
     "effects": {
-      "general": ""
-    }
-  },
-  "refinedMaterialProduction": {
-    "name": "精炼材料生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "processBreakthrough-refined": {
-    "name": "工艺突破-精炼",
-    "effects": {
-      "general": ""
-    }
-  },
-  "processBreakthrough-specialized": {
-    "name": "工艺突破-专业化",
-    "effects": {
-      "general": ""
-    }
-  },
-  "refinedSpecializedMaterialProductionRefined": {
-    "name": "精炼专业化材料生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "exoticMaterialProduction": {
-    "name": "异域材料生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "compagnieRoyaleDominance": {
-    "name": "皇家公司主导",
-    "effects": {
-      "general": ""
-    }
-  },
-  "ascensionModuleProduction": {
-    "name": "晋升模块生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "advancedGinProcessing": {
-    "name": "高级金酒加工",
-    "effects": {
-      "general": ""
-    }
-  },
-  "improvedEquipment": {
-    "name": "改良设备",
-    "effects": {
-      "general": ""
-    }
-  },
-  "empireAdministration": {
-    "name": "帝国管理",
-    "effects": {
-      "general": ""
-    }
-  },
-  "goldSkullGinProduction": {
-    "name": "金骷髅金酒生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "dependableLaborers": {
-    "name": "可靠劳工",
-    "effects": {
-      "general": ""
-    }
-  },
-  "goldSkullRumProduction": {
-    "name": "金骷髅朗姆酒生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "upgradePartProduction": {
-    "name": "升级零件生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "advancedRumProcessing": {
-    "name": "高级朗姆酒加工",
-    "effects": {
-      "general": ""
-    }
-  },
-  "processBreakhrough-refined": {
-    "name": "工艺突破-精炼",
-    "effects": {
-      "general": ""
-    }
-  },
-  "refinedSpecializedMaterialProduction": {
-    "name": "精炼专业化材料生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "clanOfFaraDominance": {
-    "name": "法拉氏族主导",
-    "effects": {
-      "general": ""
-    }
-  },
-  "carvedImperialJadeProduction": {
-    "name": "雕刻帝王翡翠生产",
-    "effects": {
-      "general": ""
+      "general": "Increases the maximum upgradeable level of {faction} Manufactories by {index}"
     }
   },
   "advancedImperialJadeProcessing": {
-    "name": "高级帝王翡翠加工",
+    "name": "Advanced Imperial Jade Processing",
     "effects": {
-      "general": ""
+      "1": "Increases Imperial Jade's profit rate by 6%",
+      "2": "Increases Imperial Jade's profit rate by 12%"
     }
   },
-  "processBreakthrough-refinedSpecialized": {
-    "name": "工艺突破-精炼专业化",
+  "refinedMaterialProduction": {
+    "name": "Refined Material Production",
     "effects": {
-      "general": ""
-    }
-  },
-  "seaPeopleDominance": {
-    "name": "海洋民族主导",
-    "effects": {
-      "general": ""
-    }
-  },
-  "coerciveGrowth": {
-    "name": "强制增长",
-    "effects": {
-      "general": ""
-    }
-  },
-  "manufactoryFortification": {
-    "name": "制造厂防御工事",
-    "effects": {
-      "general": ""
-    }
-  },
-  "territorialDominance": {
-    "name": "领土主导",
-    "effects": {
-      "general": ""
-    }
-  },
-  "savvyTraders": {
-    "name": "精明商人",
-    "effects": {
-      "general": ""
-    }
-  },
-  "efficientShipping": {
-    "name": "高效运输",
-    "effects": {
-      "general": ""
-    }
-  },
-  "tradeDominance": {
-    "name": "贸易主导",
-    "effects": {
-      "general": ""
-    }
-  },
-  "refinedSpecializedSpecializedMaterialProduction": {
-    "name": "精炼专业化材料生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "dominionOfRempahDominance": {
-    "name": "伦帕领地主导",
-    "effects": {
-      "general": ""
-    }
-  },
-  "ascensionModuleProduction-dominionOfRempah": {
-    "name": "晋升模块生产（伦帕领地）",
-    "effects": {
-      "general": ""
-    }
-  },
-  "advancedHeavenSmokeProcessing": {
-    "name": "高级天堂烟加工",
-    "effects": {
-      "general": ""
-    }
-  },
-  "blackFlowerHeavenSmokeProduction": {
-    "name": "黑花天堂烟生产",
-    "effects": {
-      "general": ""
-    }
-  },
-  "dutchMerchantCompanyDominance": {
-    "name": "荷兰商人公司主导",
-    "effects": {
-      "general": ""
+      "general": "Unlocks production of refined materials at Manufactories located in Clan of Fara resource settlements"
     }
   },
   "advancedSnuffProcessing": {
-    "name": "高级鼻烟加工",
+    "name": "Advanced Snuff Processing",
     "effects": {
-      "general": ""
+      "1": "increases Snuff's profit rate by 6%",
+      "2": "increases Snuff's profit rate by 12%"
+    }
+  },
+  "processBreakthrough-refined": {
+    "name": "Process Breakthrough (Refined)",
+    "effects": {
+      "1": "Increases production rate of refined materials at {faction} manufactories by 10%",
+      "2": "Increases production rate of refined materials at {faction} manufactories by 20%",
+      "3": "Increases production rate of refined materials at {faction} manufactories by 30%"
+    }
+  },
+  "processBreakthrough-specialized": {
+    "name": "Process Breakthrough (Specialized)",
+    "effects": {
+      "1": "Increases production rate of specialized materials at {faction} manufactories by 10%",
+      "2": "Increases production rate of specialized materials at {faction} manufactories by 20%",
+      "3": "Increases production rate of specialized materials at {faction} manufactories by 30%"
+    }
+  },
+  "refinedSpecializedMaterialProductionRefined": {
+    "name": "Refined Specialized Material Production Refined",
+    "effects": {
+      "general": "Unlocks production of refined specialized materials at manufactories located in {faction} settlements"
+    }
+  },
+  "exoticMaterialProduction": {
+    "name": "Exotic Material Production",
+    "effects": {
+      "general": "Unlocks production of exotic materials at Manufactories located in the Clan of Fara capital settlement"
+    }
+  },
+  "compagnieRoyaleDominance": {
+    "name": "Compagnie Royale Dominance",
+    "effects": {
+      "general": "Each owned {faction} manufactory increases the production rate of materials at their manufactories by\n0.6%"
+    }
+  },
+  "ascensionModuleProduction": {
+    "name": "Ascension Module Production",
+    "effects": {
+      "general": "Unlocks production of Ascension Modules at Manufactories located in the {faction} capital settlement"
+    }
+  },
+  "advancedGinProcessing": {
+    "name": "Advanced Gin Processing",
+    "effects": {
+      "1": "increases Gin's profit rate by 6%",
+      "2": "2"
+    }
+  },
+  "improvedEquipment": {
+    "name": "Improved Equipment",
+    "effects": {
+      "general": "Adds a production cost reduction bonus of 3% per Manufactory level (starting from Level 2), up to a maximum of 12%"
+    }
+  },
+  "empireAdministration": {
+    "name": "Empire Administration",
+    "effects": {
+      "general": "Increases the maximum number of owned Manufactories by {index}"
+    }
+  },
+  "goldSkullGinProduction": {
+    "name": "Gold Skull Gin Production",
+    "effects": {
+      "general": "Unlocks production of Gold Skul Gin from the refinement of White Shu Gin at the Distlry and from resource setbements. \n\tThe Manufactory must be able to produce Gold Skull Gin."
+    }
+  },
+  "dependableLaborers": {
+    "name": "Dependable Laborers",
+    "effects": {
+      "general": "Adds a production rate bonus of 3% per Manufactory level (starting from Level 2), up to a maximum of 12%"
+    }
+  },
+  "goldSkullRumProduction": {
+    "name": "Gold Skull Rum Production",
+    "effects": {
+      "general": "Unlocks production of Gold Skull Rum from the refinement of White Skull Rum at the Distillery and from resource\nsettlements.\nThe Manufactory must be able to produce Gold Skull Rum."
+    }
+  },
+  "upgradePartProduction": {
+    "name": "Upgrade Part Production",
+    "effects": {
+      "general": "Unlocks production of Upgrade Parts at Manufactories located in the {faction} capital settlement"
+    }
+  },
+  "advancedRumProcessing": {
+    "name": "Advanced Rum Processing",
+    "effects": {
+      "general": "Increases Rum's profit rate by 6%"
+    }
+  },
+  "refinedSpecializedMaterialProduction": {
+    "name": "Refined Specialized Material Production",
+    "effects": {
+      "general": "Unlocks production of refined specialized materials at manufactories located in {faction} settlements"
+    }
+  },
+  "clanOfFaraDominance": {
+    "name": "Clan Of Fara Dominance",
+    "effects": {
+      "general": "Each owned Clan of Fara manufactory increases the\nproduction rate of materials at their manufactories by 15%"
+    }
+  },
+  "carvedImperialJadeProduction": {
+    "name": "Carved Imperial Jade Production",
+    "effects": {
+      "general": "Unlocks production of Carved lmperial Jade from the refinement of Imperial Jade at the Laboratory and from resource settlements.\n\tThe Manufactory must be able to produce Carved lmperial JIade"
+    }
+  },
+  "processBreakthrough-refinedSpecialized": {
+    "name": "Process Breakthrough (Refined Specialized)",
+    "effects": {
+      "1": "Increases production rate of refined specialized materials at {faction} manufactories by 10%",
+      "2": "Increases production rate of refined specialized materials at {faction} manufactories by 20%",
+      "3": "Increases production rate of refined specialized materials at {faction} manufactories by 30%"
+    }
+  },
+  "seaPeopleDominance": {
+    "name": "Sea People Dominance",
+    "effects": {
+      "general": "Each owned Sea People manufactory increases the production rate of materials at their manufactories by 1.5%"
+    }
+  },
+  "coerciveGrowth": {
+    "name": "Coercive Growth",
+    "effects": {
+      "general": "Completing Takeover Oprtutis trgeting owned Manfactories upgrades the Manufactory by level up to level 4 "
+    }
+  },
+  "manufactoryFortification": {
+    "name": "Manufactory Fortification",
+    "effects": {
+      "1": "Increases resilience of manufactories located within owned territories by 10%",
+      "2": "Increases resilience of manufactories located within owned territories by 20%",
+      "3": "Increases resilience of manufactories located within owned territories by 35%"
+    }
+  },
+  "territorialDominance": {
+    "name": "Territorial Dominance",
+    "effects": {
+      "general": "Reduces global production cost by 0.5% for every owned territory"
+    }
+  },
+  "savvyTraders": {
+    "name": "Savvy Traders",
+    "effects": {
+      "1": "1",
+      "2": "2",
+      "3": "Ihcreases the profit bonus for established Trade Routes by 6%"
+    }
+  },
+  "efficientShipping": {
+    "name": "Efficient Shipping",
+    "effects": {
+      "1": "Reduces Transportation Time by 20%",
+      "2": "Reduces Transportation Time by 40%",
+      "3": "Reduces Transportation Time by 75%"
+    }
+  },
+  "tradeDominance": {
+    "name": "Trade Dominance",
+    "effects": {
+      "general": "Ihcreases global production rate by 0.1% for every established trade route"
+    }
+  },
+  "dominionOfRempahDominance": {
+    "name": "Dominion Of Rempah Dominance",
+    "effects": {
+      "general": "Each owned Dominion of {faction} manufactory increases the production rate of materials at their manufactories by 0.6%"
+    }
+  },
+  "advancedHeavenSmokeProcessing": {
+    "name": "Advanced Heaven Smoke Processing",
+    "effects": {
+      "1": "Increases Heaven Smoke's profit rate by 6%",
+      "2": "Increases Heaven Smoke's profit rate by 12%"
+    }
+  },
+  "blackFlowerHeavenSmokeProduction": {
+    "name": "Black Flower Heaven Smoke Production",
+    "effects": {
+      "general": "Unlocks production of Black Fower Heaven Smake from the refinement of Blue Rower Heaven Smoke at the Laboratory and from resource setlements\n\tThe Manufactory must be able to produce Black Flower Heaven Smake."
+    }
+  },
+  "dutchMerchantCompanyDominance": {
+    "name": "Dutch Merchant Company Dominance",
+    "effects": {
+      "general": "Each owned Dutch Merchant Company manufactory\nincreases the production rate of materials at their manufactories by 0.6%"
     }
   },
   "silverSnuffProduction": {
-    "name": "银鼻烟生产",
+    "name": "Silver Snuff Production",
     "effects": {
-      "general": ""
+      "general": "Unlocks production of Siver Snuff from the refinement of Black Snuff at the Laboratory and from resurce settlements.\n\tThe Manufactory must be able t切produce Siver Shuf."
     }
   },
   "confederationOfUngwanaDominance": {
-    "name": "温瓦纳邦联主导",
+    "name": "Confederation Of Ungwana Dominance",
     "effects": {
-      "general": ""
+      "general": "Each owned Confederation of Ungwana manufactory\nincreases the production rate of materials at their manufactories by 0.6%"
     }
   }
 }

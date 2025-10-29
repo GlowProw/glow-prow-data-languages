@@ -1,6 +1,5 @@
 {
   "oathsOfWar": {
-    "name": "Oaths of War",
     "description": "As tensions rise in the Indian Ocean, hostile factions engage in fierce conflicts to compete for dominance. Empires defend their positions with impregnable fortresses and deploy powerful capital ships, aiming to crush all opposition and ultimately seize hegemony.",
     "data": {
       "phoenixStorm": {
@@ -94,7 +93,6 @@
     }
   },
   "gutsAndGlory": {
-    "name": "Guts And Glory",
     "description": "As the Faction War rages on, where will your loyalties lie? Pick a side: Dutch Merchant Company or French Compagnie Royale. Win territories, earn war assets, and fight for ultimate victory in Guts and Glory. ",
     "data": {
       "factionWar": {
