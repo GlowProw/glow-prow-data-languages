@@ -23,3 +23,5 @@ files:
     translation: /src/data/%locale_with_underscore%/ultimates.json
   - source: /src/data/en_US/empireSkills.json
     translation: /src/data/%locale_with_underscore%/empireSkills.json
+  - source: /src/data/en_US/worldEvents.json
+    translation: /src/data/%locale_with_underscore%/worldEvents.json

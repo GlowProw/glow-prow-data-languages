@@ -2640,9 +2640,9 @@
     }
   },
   "counterthrustLocker": {
-    "name": "Counterthrust Locker",
+    "name": "反冲锁箱",
     "description": {
-      "general": "A clever system of reinforced pulleys and bracing rigs that converts drag into drive -- boosting speed when ramming or sailing against the wind."
+      "general": "一种巧妙的强化滑轮和支撑装置系统，能够将阻力转化为动力——在撞击或逆风航行时能提高速度。"
     }
   },
   "darktideChest": {
