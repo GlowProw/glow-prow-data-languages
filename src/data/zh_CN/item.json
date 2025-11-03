@@ -904,7 +904,7 @@
   "laPotenceSchematics": {
     "name": "绞刑架设计图",
     "description": {
-      "general": "重点表示出绞刑架号的结构弱点。传闻菲利普·拉佩斯特的恐怖战舰更像是幽灵而非实物，然而即使诅咒再生的船只也有其弱点。"
+      "general": "重点标示出绞刑架号的结构弱点。传闻菲力浦●拉佩斯特的恐怖战舰更像是幽灵而\n非实物，然而，即便是诅咒再深的船只也有其弱点。"
     }
   },
   "fauleIlse": {
@@ -2642,7 +2642,7 @@
   "counterthrustLocker": {
     "name": "反冲锁箱",
     "description": {
-      "general": "一种巧妙的强化滑轮和支撑装置系统，能够将阻力转化为动力——在撞击或逆风航行时能提高速度。"
+      "general": "一套巧妙的加固滑轮与支撑索具，能将阻力转化为动力，在冲撞或逆风航行时提升速度。"
     }
   },
   "darktideChest": {
@@ -2850,9 +2850,9 @@
     }
   },
   "sloopOfWarUpgrade": {
-    "name": "Sloop of War Upgrade",
+    "name": "战争单桅炮艇升级",
     "description": {
-      "general": "Ship upgrade for the Sloop of War.",
+      "general": "战争单桅炮艇的升级组件",
       "1": "将扁嘴帆艇从0级升至1级。",
       "2": "将扁嘴帆艇从1级升至2级。",
       "3": "将扁嘴帆艇从2级升至3级。",

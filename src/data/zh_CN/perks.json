@@ -597,12 +597,12 @@
   "laPotenceSchematics": {
     "description": {
       "general": [
-        "提高对敌船弱点的伤害",
-        "揭示瘟疫舰队的弱点"
+        "对敌方船只造成的弱点伤害增加10%",
+        "武器命中时无视目标10%的剧毒抗性"
       ],
       "1": [
         "对敌舰弱点伤害提高10%",
-        "揭示瘟疫舰队的弱点"
+        "武器命中时无视目标10%的剧毒抗性"
       ]
     }
   },
@@ -822,7 +822,7 @@
   "toxic": {
     "name": "剧毒",
     "description": {
-      "3": "Adds 30% of damage as Toxic Damage"
+      "3": "施加30%的剧毒伤害"
     }
   },
   "homing": {
@@ -1760,7 +1760,7 @@
       "1": "施加10%的电击伤害",
       "2": "施加20%的电击伤害",
       "3": "施加30%的电击伤害",
-      "4": "Adds 40% of damage as Electric Damage"
+      "4": "施加40%的剧毒伤害"
     }
   },
   "organHarvestingStation": {
@@ -2826,109 +2826,109 @@
     "name": "Plaguebringer",
     "description": {
       "general": [
-        "When attacking a target under Poisoned status effect, it increases the damage and duration of the Poisoned status effect by 6% and 20% respectively for each consecutive hit up to 30% increased damage and 100% increased duration. Weapon hit has a chance to cause a poison explosion of 300m on the target, dealing 1000 Toxic damage to hostile enemies",
-        "Increase Toxic Weapons damage by 20% and Poisoned charge up rate by 150%"
+        "攻击受到中毒状态效果影响的敌方船只时，每次连续命中都会使中毒状态效果的伤害和持续时间分别提升6%（最多30%）和20%（最多100%）。武器每命中一次，都有几率在一个中毒目标300米内引发爆炸，对敌人造成1000剧毒伤害。剧毒型武器伤害提升20%，中毒充能速度提升150%。",
+        "剧毒型武器伤害提升20%，中毒充能速度提升150%。"
       ]
     }
   },
   "spite": {
     "name": "Spite",
     "description": {
-      "general": "When attacking an enemy ship under the Poisoned status effect, the enemy ship deals 50 Toxic Damage per second to nearby targets within 300m for 10 seconds. Decreases damage received from targets affected by the Poisoned status effect by 30%"
+      "general": "攻击受到中毒状态效果影响的敌方船只时，敌方船只会每秒对附近300米范围内的目标造成50剧毒伤害，持续10秒。来自收到中毒状态效果影响的目标的伤害降低30%。"
     }
   },
   "resurgence": {
     "name": "Resurgence",
     "description": {
-      "general": "Killing a target grants a 100% boost to Maximum Brace Strength for 11s and instantly restores 60% Brace Strength and 25% Hull Health. This effect has a cooldown of 60s"
+      "general": "击杀目标后，最大防御强度提升100%，持续11秒，并立即回复60%防御强度和25%船身生命值。该效果冷却时间为60秒。"
     }
   },
   "windcaller": {
     "name": "Windcaller",
     "description": {
-      "general": "While bracing, increase Acceleration and Turning Speed by 2% each second. When Bracing ends, retain acceleration and Turning Speed for 6s. For this duration, increase Sailing Speed by 14%"
+      "general": "防御时，加速度和转向速度每秒提升2%。防御结束后，加速度和转向速度的提升效果持续6秒。在此期间，航行速度提升14%。"
     }
   },
   "immunity": {
     "name": "Immunity",
     "description": {
-      "general": "Reduces the damage that passes through Brace Strength to Hull Health due to the Poisoned status effect by 50%. Also reduces duration of Poisoned status effect by 25%"
+      "general": "将中毒状态效果穿透防御强度对船身生命值造成的伤害减少50%，并使中毒状态效果的持续时间减少25%。"
     }
   },
   "stinkpotStation": {
     "description": {
       "general": [
-        "Hits with a Toxic Weapon on a target within 250m, deal 10% more damage if they are Bracing",
-        "Poisoned Status effects applied to targets within 250m deal 10% increased damage",
-        "Increases Toxic Damage to enemy ships by 8%"
+        "使用剧毒武器命中250米内的目标时，如果目标处于防御状态，则额外造成10%伤害",
+        "对250米内目标施加的中毒状态效果可额外造成10%伤害",
+        "对敌方船只额外造成8%剧毒伤害"
       ]
     }
   },
   "sheetingWinchConsole": {
     "description": {
       "general": [
-        "Gain 0.8% weapon damage per 1kts of sailing Speed",
-        "If no damage is received while trimming for 5s, reduce the reload time of Broadside Weapons by 12% for 10s",
-        "Increases Acceleration by 20%"
+        "每1节航行速度可获得0.8%武器伤害",
+        "调整船帆时，如果5秒内未收到伤害，则弦侧武器的装填时间降低12%，持续10秒",
+        "将加速度提升20%"
       ]
     }
   },
   "gimbalRingStores": {
     "description": {
       "general": [
-        "Hitting a target over 180m away, increases damage of Demicannon weapons by 17% for 12s",
-        "Increases Projectile Speed of Demicannon Weapons by 14%",
-        "Increases Maximum Range of Demicannon Weapons by 12%"
+        "命中180米外的目标后，半加农炮型武器伤害提升17%，持续12秒",
+        "半加农炮型武器的炮弹速度增加14%",
+        "半加农炮型武器的最大射程增加12%"
       ]
     }
   },
   "siphonFurnace": {
     "description": {
       "general": [
-        "If the target is Poisoned, increases the damage of Toxic weapons by 10%",
-        "Increases Projectile Speed of Toxic Weapons by 12%",
-        "Increases Maximum Range of Toxic Weapons by 10%"
+        "如果目标处于中毒状态，则其受到的剧毒型武器伤害提升10%",
+        "剧毒型武器的炮弹速度增加12%",
+        "剧毒型武器的最大射程增加10%"
       ]
     }
   },
   "causticSpallStation": {
     "description": {
       "general": [
-        "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
-        "For every 1% increase in Projectile Speed of Weapons through any bonuses, increase Flooding Damage of those weapons by 1%",
-        "Increases damage to enemy ships with the Flooded effect by 10%"
+        "进水型武器对200米外的目标造成伤害，进水伤害提升13%，持续10秒",
+        "武器每通过增益炮弹速度提升1%，其进水伤害会提升1%",
+        "对带有进水效果的敌方船只造成的伤害增加10%"
       ]
     }
   },
   "leydenVaultArray": {
     "description": {
       "general": [
-        "For every 5m Area-of-Effect Radius of the weapon, increase weapon damage as Electric Damage by 2%",
-        "Reduces Reload Time of Electric Weapons by 6%",
-        "Increases Damage to enemy ships with the Stormstruck effect by 8%"
+        "武器每拥有5米范围效果半径，武器伤害就会转化为电击伤害并提升2%",
+        "电击型武器的装填时间减少6%",
+        "对带有被电击效果的敌方船只造成的伤害增加8%"
       ]
     }
   },
   "cascadeCoilBench": {
     "description": {
       "general": [
-        "Increases weapon damage of Sea Fire by 13%",
-        "Increases Secondary damage of Sea Fire by 15%"
+        "海洋之火的武器伤害增加13%",
+        "海洋之火的次要伤害增加15%"
       ]
     }
   },
   "curareCrushingBench": {
     "description": {
       "general": [
-        "Increases Charge rate of the Poisoned status effect on a target by 8%",
-        "Increases duration of the Poisoned effect on enemy ships by 8%"
+        "将敌方目标上中毒状态效果的充能速度提升8%",
+        "敌方船只的中毒效果持续时间增加8%"
       ]
     }
   },
   "infectious": {
-    "name": "Infectious",
+    "name": "传染",
     "description": {
-      "general": "Hitting the same target 8 times deals 13% Toxic damage to nearby enemies within 150m. Weapon damage increases by 1% for each subsequent hit on the same target"
+      "general": "命中同一目标8次后，可对其附近的13%米范围内的敌人造成150毒药伤害。每对同一目标连续命中一次，武器伤害提升1%。"
     }
   },
   "lancerSeaFire": {
@@ -2938,27 +2938,27 @@
     }
   },
   "virulent": {
-    "name": "Virulent",
+    "name": "猛毒",
     "description": {
-      "general": "50% of Toxic damage reduces Maximum Brace Strength for 10s. If the target is Poisoned, Toxic damage is increased by 75%"
+      "general": "使最大防御强度降低毒药伤害量的50%，持续10秒、。如果目标已中毒，则毒药伤害提升75%。"
     }
   },
   "contagion": {
-    "name": "Contagion",
+    "name": "蔓延",
     "description": {
-      "general": "When armed, afflicts target with the Gaseous status effect for 4s, which deals 300 Poison damage per second to all enemies in 150m from the target. Effect can be stacked up to 8 times"
+      "general": "装填炮弹后，对目标施加持续4秒的账期状态效果，可对目标150米范围内的所有敌人每秒造成300剧毒伤害。该效果最多叠加8层。"
     }
   },
   "perforator": {
-    "name": "Perforator",
+    "name": "穿透大师",
     "description": {
-      "general": "Hitting a Weakpoint deals 150% of Flooding damage as an extra burst of Severe Damage. If a target is Flooded, the extra burst damage is increased to 200%"
+      "general": "命中弱点会在严重伤害的基础上额外造成一次150%进水伤害。如果目标已经进水，则额外伤害提升至200%。"
     }
   },
   "countdown": {
-    "name": "Countdown",
+    "name": "倒计时",
     "description": {
-      "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. The chance increases by 15% with each additional target hit, limited to 5 targets at 75% chance"
+      "general": "命中目标后，有15%几率引发一次延迟爆炸（4秒后在65米爆破范围内造成2500伤害）。每额外命中一次目标，该效果的触发几率提升15%（最多对5个目标生效，相应触发几率上线为75%）。"
     }
   }
 }

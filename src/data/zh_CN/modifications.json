@@ -309,7 +309,7 @@
   },
   "acrid": {
     "name": "Acrid",
-    "description": "Every hit deals an extra burst of %s-%s Toxic Damage"
+    "description": "每次命中额外造成%s-%s点剧毒伤害"
   },
   "noxious": {
     "name": "Noxious",
@@ -412,14 +412,14 @@
     "description": "Using a Restoration Kit grants %s-%s% reduction to all Secondary Damage for 5 seconds"
   },
   "supreme": {
-    "name": "Supreme",
+    "name": "最大值",
     "description": "Increases the damage of special attacks launched from the Armor by %s-%s%"
   },
   "steelIntegration": {
     "name": "Steel Integration",
     "description": [
       "Every 1% of Piercing and Explosive resistance adds %s-%s Armor",
-      "Adds 5% Piercing and Explosive resistance"
+      "添加 5% 穿透和爆炸抗性"
     ]
   },
   "coalesce": {
