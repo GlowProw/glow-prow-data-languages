@@ -1,0 +1,476 @@
+{
+  "laBastide": {
+    "name": "La Bastide",
+    "description": {
+      "general": ""
+    }
+  },
+  "oostenCapital": {
+    "name": "Oosten Capital",
+    "description": {
+      "general": ""
+    }
+  },
+  "sunyCapital": {
+    "name": "Suny Capital",
+    "description": {
+      "general": ""
+    }
+  },
+  "teninaTown": {
+    "name": "Tenina Town",
+    "description": {
+      "general": ""
+    }
+  },
+  "ankohonana": {
+    "name": "Ankohonana",
+    "description": {
+      "general": ""
+    }
+  },
+  "jiwe": {
+    "name": "Jiwé",
+    "description": {
+      "general": ""
+    }
+  },
+  "sainteAnne": {
+    "name": "Den Saint Anne",
+    "description": {
+      "general": ""
+    }
+  },
+  "telokPenjarah": {
+    "name": "Den Telok Penjarah",
+    "description": {
+      "general": ""
+    }
+  },
+  "fonderieRoyale": {
+    "name": "Fonderie Royale",
+    "description": {
+      "general": ""
+    }
+  },
+  "duisterEastFoundry": {
+    "name": "Duister East Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "duisterWestFoundry": {
+    "name": "Duister West Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "duisterNorthFoundry": {
+    "name": "Duister North Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "trisulaFoundry": {
+    "name": "Trisula Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "ladaFoundry": {
+    "name": "Lada Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "kotaLamaFoundry": {
+    "name": "Kota Lama Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "southDamaiFoundry": {
+    "name": "South Damai Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "sunyFoundry": {
+    "name": "Suny Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "sadjoaFoundry": {
+    "name": "Sadjoa Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "tambyFoundry": {
+    "name": "Tamby Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "pembeFoundry": {
+    "name": "Pembe Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "jiweFoundry": {
+    "name": "Jiwé Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "wawuviFoundry": {
+    "name": "Wawuvi Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "mumaliFoundry": {
+    "name": "Mumali Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "northDamaiFoundry": {
+    "name": "North Damai Foundry",
+    "description": {
+      "general": ""
+    }
+  },
+  "duBoisLumberyard": {
+    "name": "Du Bois Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "laarSouthLumbery": {
+    "name": "Laar South Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "laarWestLumbery": {
+    "name": "Laar West Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "suburLumberyard": {
+    "name": "Subur Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "kencurLumberyard": {
+    "name": "Kencur Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "suntLumberyard": {
+    "name": "Sunt Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "tankazoLumberyard": {
+    "name": "Tankazo Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "tsifoLumberyard": {
+    "name": "Tsifo Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "kambiLumberyard": {
+    "name": "Kambi Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "harufuLumberyard": {
+    "name": "Harufu Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "rondavelsLumberyard": {
+    "name": "Rondavels Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "kotaLamaLumberyard": {
+    "name": "Kota Lama Lumberyard",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortDuLys": {
+    "name": "Fort Du Lys",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortDuister": {
+    "name": "Fort Duister",
+    "description": {
+      "general": ""
+    }
+  },
+  "megafortOosten": {
+    "name": "Megafort Oosten",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortPremie": {
+    "name": "Fort Premie",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortPrakoso": {
+    "name": "Fort Prakoso",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortHarimau": {
+    "name": "Fort Harimau",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortGranbie": {
+    "name": "Fort Granbie",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortDuBout": {
+    "name": "Fort Du Bout",
+    "description": {
+      "general": ""
+    }
+  },
+  "grandFort": {
+    "name": "Grand Fort",
+    "description": {
+      "general": ""
+    }
+  },
+  "bukitCandi": {
+    "name": "Outpost Bukit Candi",
+    "description": {
+      "general": ""
+    }
+  },
+  "theOubliette": {
+    "name": "Outpost The Oubliette",
+    "description": {
+      "general": ""
+    }
+  },
+  "grandeFalaise": {
+    "name": "Outpost Grande Falaise",
+    "description": {
+      "general": ""
+    }
+  },
+  "dutchmansCamp": {
+    "name": "Outpost Dutchman's Camp",
+    "description": {
+      "general": ""
+    }
+  },
+  "kokokTerapung": {
+    "name": "Outpost Kokok Terapung",
+    "description": {
+      "general": ""
+    }
+  },
+  "returnFleetBight": {
+    "name": "Outpost Return Fleet Bight",
+    "description": {
+      "general": ""
+    }
+  },
+  "threeBrothers": {
+    "name": "Outpost Three Brothers",
+    "description": {
+      "general": ""
+    }
+  },
+  "moyenneCrique": {
+    "name": "Outpost Moyenne Crique",
+    "description": {
+      "general": ""
+    }
+  },
+  "ileMichel": {
+    "name": "Outpost Île Michel",
+    "description": {
+      "general": ""
+    }
+  },
+  "theForgottenCandi": {
+    "name": "Outpost The Forgotten Candi",
+    "description": {
+      "general": ""
+    }
+  },
+  "ruinedLighthouse": {
+    "name": "Outpost The Ruined Lighthouse",
+    "description": {
+      "general": ""
+    }
+  },
+  "parujarsCry": {
+    "name": "Outpost Parujar's Cry",
+    "description": {
+      "general": ""
+    }
+  },
+  "karstLookout": {
+    "name": "Outpost Karst Lookout",
+    "description": {
+      "general": ""
+    }
+  },
+  "khmoyEstate": {
+    "name": "Outpost Khmoy Estate",
+    "description": {
+      "general": ""
+    }
+  },
+  "lostCityOfPrei": {
+    "name": "Outpost Lost City of Prei",
+    "description": {
+      "general": ""
+    }
+  },
+  "ruinsOfLukKhun": {
+    "name": "Outpost Ruins of Luk Khun",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortLouis": {
+    "name": "Outpost Fort Louis",
+    "description": {
+      "general": ""
+    }
+  },
+  "royalBurialGround": {
+    "name": "Outpost Royal Burial Ground",
+    "description": {
+      "general": ""
+    }
+  },
+  "sacredTree": {
+    "name": "Outpost Sacred Tree",
+    "description": {
+      "general": ""
+    }
+  },
+  "varonaFalls": {
+    "name": "Outpost Vorona Falls",
+    "description": {
+      "general": ""
+    }
+  },
+  "lanitra": {
+    "name": "Outpost Lanitra",
+    "description": {
+      "general": ""
+    }
+  },
+  "dragonsBack": {
+    "name": "Outpost Dragon's Back",
+    "description": {
+      "general": ""
+    }
+  },
+  "pillarTomb": {
+    "name": "Outpost Pillar Tomb",
+    "description": {
+      "general": ""
+    }
+  },
+  "theNavigatorsCross": {
+    "name": "Outpost The Navigator's Cross",
+    "description": {
+      "general": ""
+    }
+  },
+  "sunkenGoldmine": {
+    "name": "Outpost Sunken Goldmine",
+    "description": {
+      "general": ""
+    }
+  },
+  "poachersCache": {
+    "name": "Outpost Poacher's Cache",
+    "description": {
+      "general": ""
+    }
+  },
+  "kaaMangrove": {
+    "name": "Outpost Kaa Mangrove",
+    "description": {
+      "general": ""
+    }
+  },
+  "eldersCave": {
+    "name": "Outpost Elder's Cave",
+    "description": {
+      "general": ""
+    }
+  },
+  "greatUkuta": {
+    "name": "Outpost Great Ukuta",
+    "description": {
+      "general": ""
+    }
+  },
+  "kelelawarChamber": {
+    "name": "Outpost Kelelawar Chamber",
+    "description": {
+      "general": ""
+    }
+  },
+  "motherOfShipwrecks": {
+    "name": "Outpost Mother of Shipwrecks",
+    "description": {
+      "general": ""
+    }
+  },
+  "rangnokCave": {
+    "name": "Outpost Rangnok Cave",
+    "description": {
+      "general": ""
+    }
+  },
+  "theNecropolis": {
+    "name": "Outpost The Necropolis",
+    "description": {
+      "general": ""
+    }
+  },
+  "theWolvesHollow": {
+    "name": "The Wolves' Hollow",
+    "description": {
+      "general": ""
+    }
+  }
+}

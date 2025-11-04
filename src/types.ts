@@ -1,21 +1,22 @@
-export interface LData {
+export interface LanguageMapData {
     [key: string]: any;
 }
 
 export interface LanguageData {
-    ships: LData
-    items: LData
-    calendar: LData
-    materials: LData
-    factions: LData
-    modifications: LData
-    perks: LData
-    seasons: LData
-    locations: LData
-    ultimates: LData
-    ranks: LData
-    cosmetics: LData
-    events: LData
-    worldEvents: LData,
-    empireSkills: LData
+    ships: LanguageMapData
+    items: LanguageMapData
+    calendar: LanguageMapData
+    materials: LanguageMapData
+    factions: LanguageMapData
+    modifications: LanguageMapData
+    perks: LanguageMapData
+    seasons: LanguageMapData
+    locations: LanguageMapData
+    ultimates: LanguageMapData
+    ranks: LanguageMapData
+    cosmetics: LanguageMapData
+    events: LanguageMapData
+    worldEvents: LanguageMapData,
+    empireSkills: LanguageMapData,
+    mapLocations: LanguageMapData
 }

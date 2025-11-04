@@ -1,0 +1,188 @@
+{
+  "laBastide": {
+    "name": "La Bastide",
+    "description": {
+      "general": ""
+    }
+  },
+  "poachersCache": {
+    "name": "Outpost Poacher's Cache",
+    "description": {
+      "general": ""
+    }
+  },
+  "moyenneCrique": {
+    "name": "Outpost Moyenne Crique",
+    "description": {
+      "general": ""
+    }
+  },
+  "royalBurialGround": {
+    "name": "Outpost Royal Burial Ground",
+    "description": {
+      "general": ""
+    }
+  },
+  "lanitra": {
+    "name": "Outpost Lanitra",
+    "description": {
+      "general": ""
+    }
+  },
+  "theNavigatorsCross": {
+    "name": "Outpost The Navigator's Cross",
+    "description": {
+      "general": ""
+    }
+  },
+  "eldersCave": {
+    "name": "Outpost Elder's Cave",
+    "description": {
+      "general": ""
+    }
+  },
+  "dragonsBack": {
+    "name": "Outpost Dragon's Back",
+    "description": {
+      "general": ""
+    }
+  },
+  "kaaMangrove": {
+    "name": "Outpost Kaa Mangrove",
+    "description": {
+      "general": ""
+    }
+  },
+  "motherOfShipwrecks": {
+    "name": "Outpost Mother of Shipwrecks",
+    "description": {
+      "general": ""
+    }
+  },
+  "dutchmansCamp": {
+    "name": "Outpost Dutchman's Camp",
+    "description": {
+      "general": ""
+    }
+  },
+  "sunkenGoldmine": {
+    "name": "Outpost Sunken Goldmine",
+    "description": {
+      "general": ""
+    }
+  },
+  "fortLouis": {
+    "name": "Outpost Fort Louis",
+    "description": {
+      "general": ""
+    }
+  },
+  "voronaFalls": {
+    "name": "Outpost Vorona Falls",
+    "description": {
+      "general": ""
+    }
+  },
+  "threeBrothers": {
+    "name": "Outpost Three Brothers",
+    "description": {
+      "general": ""
+    }
+  },
+  "greatUkuta": {
+    "name": "Outpost Great Ukuta",
+    "description": {
+      "general": ""
+    }
+  },
+  "pillarTomb": {
+    "name": "Outpost Pillar Tomb",
+    "description": {
+      "general": ""
+    }
+  },
+  "theNecropolis": {
+    "name": "Outpost The Necropolis",
+    "description": {
+      "general": ""
+    }
+  },
+  "theForgottonCandi": {
+    "name": "Outpost The Forgotton Candi",
+    "description": {
+      "general": ""
+    }
+  },
+  "theRuinedLighthouse": {
+    "name": "Outpost The Ruined Lighthouse",
+    "description": {
+      "general": ""
+    }
+  },
+  "larstLookout": {
+    "name": "Outpost Karst Lookout",
+    "description": {
+      "general": ""
+    }
+  },
+  "telokPenjarah": {
+    "name": "Den Telok Penjarah",
+    "description": {
+      "general": ""
+    }
+  },
+  "saintAnne": {
+    "name": "Den Saint Anne",
+    "description": {
+      "general": ""
+    }
+  },
+  "bukkitCandi": {
+    "name": "Outpost Bukkit Candi",
+    "description": {
+      "general": ""
+    }
+  },
+  "ruinsOfLukKhun": {
+    "name": "Outpost Ruins of Luk Khun",
+    "description": {
+      "general": ""
+    }
+  },
+  "khmoyEstate": {
+    "name": "Outpost Khmoy Estate",
+    "description": {
+      "general": ""
+    }
+  },
+  "parujarsCry": {
+    "name": "Outpost Parujar's Cry",
+    "description": {
+      "general": ""
+    }
+  },
+  "rangnokCave": {
+    "name": "Outpost Rangnok Cave",
+    "description": {
+      "general": ""
+    }
+  },
+  "kelelawarChamber": {
+    "name": "Outpost Kelelawar Chamber",
+    "description": {
+      "general": ""
+    }
+  },
+  "kokokTerapung": {
+    "name": "Outpost Kokok Terapung",
+    "description": {
+      "general": ""
+    }
+  },
+  "sacredTree": {
+    "name": "Outpost Sacred Tree",
+    "description": {
+      "general": ""
+    }
+  }
+}

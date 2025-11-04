@@ -25,3 +25,5 @@ files:
     translation: /src/data/%locale_with_underscore%/empireSkills.json
   - source: /src/data/en_US/worldEvents.json
     translation: /src/data/%locale_with_underscore%/worldEvents.json
+  - source: /src/data/en_US/mapLocations.json
+    translation: /src/data/%locale_with_underscore%/mapLocations.json
