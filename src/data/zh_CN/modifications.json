@@ -308,32 +308,32 @@
     "description": "命中最大射程的70%或更远距离也会使维修量提升%s-%s%"
   },
   "acrid": {
-    "name": "Acrid",
+    "name": "刺激毒素",
     "description": "每次命中额外造成%s-%s点剧毒伤害"
   },
   "noxious": {
-    "name": "Noxious",
-    "description": "Adds %s-%s% damage as Toxic Damage"
+    "name": "毒害",
+    "description": "施加%s-%s的剧毒伤害"
   },
   "direToxic": {
-    "name": "Dire Toxic",
-    "description": "Hits ignore %s-%s% of the target's Toxic resistance"
+    "name": "猛烈毒素",
+    "description": "击中时无视目标%s-%s%的剧毒型抗性"
   },
   "amplifiedToxic": {
-    "name": "Amplified Toxic",
-    "description": "Increases existing Toxic Damage by %s-%s%"
+    "name": "强化毒素",
+    "description": "将现有剧毒伤害提升%s-%s%"
   },
   "antidotes": {
-    "name": "Antidotes",
-    "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
+    "name": "解毒剂",
+    "description": "命中目标后，可使目标的中毒状态效果累积减少%s-%s%"
   },
   "armored": {
-    "name": "Armored",
-    "description": "Increases Armor by %s-%s"
+    "name": "配备装甲",
+    "description": "装甲提升%s-%s"
   },
   "rugged": {
-    "name": "Rugged",
-    "description": "Reduces incoming damage by %s-%s while Bracing"
+    "name": "坚固",
+    "description": "防御时遭受伤害降低%s-%s"
   },
   "fireResistant": {
     "name": "Fire Resistant",
