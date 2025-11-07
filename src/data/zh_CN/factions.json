@@ -3,13 +3,13 @@
     "name": "皇家公司"
   },
   "dutchMerchantCompany": {
-    "name": "荷兰商人公司"
+    "name": "荷兰商社"
   },
   "britishTradingAlliance": {
     "name": "不列颠贸易同盟"
   },
   "confederationOfUngwana": {
-    "name": "昂瓦纳联盟"
+    "name": "乌瓜纳联邦"
   },
   "clanOfFara": {
     "name": "法拉氏族"
@@ -24,7 +24,7 @@
     "name": "凤凰之爪"
   },
   "dragonsClaw": {
-    "name": "龙爪帮"
+    "name": "龙爪"
   },
   "privateers": {
     "name": "私掠者"
@@ -33,7 +33,7 @@
     "name": "暗影军团"
   },
   "dominionOfRempah": {
-    "name": "伦帕赫领"
+    "name": "任帕自治领"
   },
   "fleetOfPestilence": {
     "name": "瘟疫舰队"
@@ -51,10 +51,10 @@
     "name": "无赖帮"
   },
   "theHelm": {
-    "name": "舵手会"
+    "name": "海舵会"
   },
   "theHelmEmpire": {
-    "name": "头盔帝国"
+    "name": "海舵社帝国"
   },
   "scavengers": {
     "name": "拾荒者"
