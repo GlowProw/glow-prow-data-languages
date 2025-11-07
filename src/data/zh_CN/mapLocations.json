@@ -36,13 +36,13 @@
     }
   },
   "sainteAnne": {
-    "name": "Den Saint Anne",
+    "name": "圣安妮",
     "description": {
       "general": ""
     }
   },
   "telokPenjarah": {
-    "name": "Den Telok Penjarah",
+    "name": "特洛克·佩尼亚拉老巢",
     "description": {
       "general": ""
     }
@@ -276,43 +276,43 @@
     }
   },
   "theOubliette": {
-    "name": "Outpost The Oubliette",
+    "name": "活人墓前哨站",
     "description": {
       "general": ""
     }
   },
   "grandeFalaise": {
-    "name": "Outpost Grande Falaise",
+    "name": "大悬崖前哨站",
     "description": {
       "general": ""
     }
   },
   "dutchmansCamp": {
-    "name": "Outpost Dutchman's Camp",
+    "name": "荷兰人营地前哨站",
     "description": {
       "general": ""
     }
   },
   "kokokTerapung": {
-    "name": "Outpost Kokok Terapung",
+    "name": "科科克·特拉蓬前哨站",
     "description": {
       "general": ""
     }
   },
   "returnFleetBight": {
-    "name": "Outpost Return Fleet Bight",
+    "name": "返航舰队湾前哨站",
     "description": {
       "general": ""
     }
   },
   "threeBrothers": {
-    "name": "Outpost Three Brothers",
+    "name": "三兄弟前哨站",
     "description": {
       "general": ""
     }
   },
   "moyenneCrique": {
-    "name": "Outpost Moyenne Crique",
+    "name": "莫耶纳海湾前哨站",
     "description": {
       "general": ""
     }
@@ -330,139 +330,139 @@
     }
   },
   "ruinedLighthouse": {
-    "name": "Outpost The Ruined Lighthouse",
+    "name": "残破灯塔前哨站",
     "description": {
       "general": ""
     }
   },
   "parujarsCry": {
-    "name": "Outpost Parujar's Cry",
+    "name": "帕鲁加之嚎前哨站",
     "description": {
       "general": ""
     }
   },
   "karstLookout": {
-    "name": "Outpost Karst Lookout",
+    "name": "喀斯特瞭望台前哨站",
     "description": {
       "general": ""
     }
   },
   "khmoyEstate": {
-    "name": "Outpost Khmoy Estate",
+    "name": "克莫伊庄园前哨站",
     "description": {
       "general": ""
     }
   },
   "lostCityOfPrei": {
-    "name": "Outpost Lost City of Prei",
+    "name": "普雷失落之城前哨站",
     "description": {
       "general": ""
     }
   },
   "ruinsOfLukKhun": {
-    "name": "Outpost Ruins of Luk Khun",
+    "name": "卢坤遗迹前哨站",
     "description": {
       "general": ""
     }
   },
   "fortLouis": {
-    "name": "Outpost Fort Louis",
+    "name": "路易斯堡前哨站",
     "description": {
       "general": ""
     }
   },
   "royalBurialGround": {
-    "name": "Outpost Royal Burial Ground",
+    "name": "皇家墓地前哨站",
     "description": {
       "general": ""
     }
   },
   "sacredTree": {
-    "name": "Outpost Sacred Tree",
+    "name": "圣树前哨站",
     "description": {
       "general": ""
     }
   },
   "varonaFalls": {
-    "name": "Outpost Vorona Falls",
+    "name": "沃罗纳瀑布前哨站",
     "description": {
       "general": ""
     }
   },
   "lanitra": {
-    "name": "Outpost Lanitra",
+    "name": "拉尼特拉前哨站",
     "description": {
       "general": ""
     }
   },
   "dragonsBack": {
-    "name": "Outpost Dragon's Back",
+    "name": "龙背前哨站",
     "description": {
       "general": ""
     }
   },
   "pillarTomb": {
-    "name": "Outpost Pillar Tomb",
+    "name": "石柱陵墓前哨站",
     "description": {
       "general": ""
     }
   },
   "theNavigatorsCross": {
-    "name": "Outpost The Navigator's Cross",
+    "name": "航海家十字路口前哨站",
     "description": {
       "general": ""
     }
   },
   "sunkenGoldmine": {
-    "name": "Outpost Sunken Goldmine",
+    "name": "沉没金矿前哨站",
     "description": {
       "general": ""
     }
   },
   "poachersCache": {
-    "name": "Outpost Poacher's Cache",
+    "name": "盗猎者藏身处前哨站",
     "description": {
       "general": ""
     }
   },
   "kaaMangrove": {
-    "name": "Outpost Kaa Mangrove",
+    "name": "卡亚红树林前哨站",
     "description": {
       "general": ""
     }
   },
   "eldersCave": {
-    "name": "Outpost Elder's Cave",
+    "name": "长者洞穴前哨站",
     "description": {
       "general": ""
     }
   },
   "greatUkuta": {
-    "name": "Outpost Great Ukuta",
+    "name": "大乌库塔前哨站",
     "description": {
       "general": ""
     }
   },
   "kelelawarChamber": {
-    "name": "Outpost Kelelawar Chamber",
+    "name": "克勒拉瓦商会前哨站",
     "description": {
       "general": ""
     }
   },
   "motherOfShipwrecks": {
-    "name": "Outpost Mother of Shipwrecks",
+    "name": "沉船之母前哨站",
     "description": {
       "general": ""
     }
   },
   "rangnokCave": {
-    "name": "Outpost Rangnok Cave",
+    "name": "朗诺洞穴前哨站",
     "description": {
       "general": ""
     }
   },
   "theNecropolis": {
-    "name": "Outpost The Necropolis",
+    "name": "墓地前哨站",
     "description": {
       "general": ""
     }
