@@ -2487,9 +2487,9 @@
     }
   },
   "megafortCache": {
-    "name": "大型要塞储藏箱",
+    "name": "大型要塞箱",
     "description": {
-      "general": "从Megafort Wolvenhol夺取的巨型战利品的破坏者"
+      "general": "从狼穴夺取的巨型战利品的破坏者"
     }
   },
   "teulingsMaterialsChest": {
@@ -2580,39 +2580,39 @@
     }
   },
   "freemansLetter": {
-    "name": "Freeman's Letter",
+    "name": "弗里曼的信件",
     "description": {
-      "general": "A letter bearing good tidings, penned by the infamous Captain Uricko Freeman himself."
+      "general": "一封带来好消息的信，由恶名昭彰的乌里科·弗里曼船长本人亲笔撰写。"
     }
   },
   "hubacShipComponents": {
-    "name": "Hubac Ship Components",
+    "name": "胡巴茨船只部件",
     "description": {
-      "general": "The metal shimmers under the sun, as though it feels itself comprised of a special blend of materials. Definitely Hubac in origin."
+      "general": "金属在阳光下闪闪发光，仿佛它感觉自己是由特殊材料混合而成。毫无疑问是出自于胡巴茨氏之手。"
     }
   },
   "mysteriousInsignia": {
-    "name": "Mysterious Insignia",
+    "name": "神秘标记",
     "description": {
-      "general": "A token etched with an unfamiliar insignia, found with a letter addressed to the Hubac Twins. Its mark is tied to a shadowy figure supplying weapons to the megacorporations."
+      "general": "一枚刻有陌生标记的代币，附在寄给胡巴茨兄弟的信中。该标记与一名为超巨公司供应武器的神秘人物有关。"
     }
   },
   "zhangsPlea": {
-    "name": "Zhang's Plea",
+    "name": "提督的恳求",
     "description": {
-      "general": "A letter from Commander Zhang to Li Tian Ning seemingly before they arrived in the Indian Ocean."
+      "general": "张提督在抵达印度洋之前写给李天宁的一封信。"
     }
   },
   "seaPeopleTome": {
-    "name": "Sea People Tome",
+    "name": "海民古籍",
     "description": {
-      "general": "The translated text details an ancient ritual that might be able to weaken Vikram's shadowy influence."
+      "general": "这段译文描述了一种古老的仪式，或许能够削弱维克拉姆那神秘莫测的暗影能力。"
     }
   },
   "shadowbeastsHorn": {
-    "name": "Shadowbeast's Horn",
+    "name": "皮肤",
     "description": {
-      "general": "A horn of a great, celestial creature"
+      "general": "皮肤介绍"
     }
   },
   "royalSterilizationTent": {
@@ -2646,19 +2646,19 @@
     }
   },
   "darktideChest": {
-    "name": "Darktide Chest",
+    "name": "暗潮宝箱",
     "description": {
-      "general": "A waterlogged chest from the drowned depths."
+      "general": "吸饱了水的宝箱，来自幽深海渊。"
     }
   },
   "ascendedHellgateSerpentChest": {
-    "name": "Ascended Hellgate Serpent Chest",
+    "name": "晋阶型地狱之门巨蛇宝箱",
     "description": {
-      "general": "Contains an Ascended Hellgate Serpent"
+      "general": "内含一件晋阶型地狱之门巨蛇"
     }
   },
   "ascendedDarktideLullabyEventCache": {
-    "name": "Ascended Event Cache (Darktide Lullaby)",
+    "name": "晋阶型事件武器贮藏箱",
     "description": {
       "general": "内含一件进阶型事件武器。"
     }
@@ -2682,9 +2682,9 @@
     }
   },
   "tianNingsImperialCloak": {
-    "name": "Tian Ning's Imperial Cloak",
+    "name": "天宁的御用斗篷",
     "description": {
-      "general": "Fine silk flows like a majestic serpent gliding through the clouds."
+      "general": "由上等丝绸制成，质感丝滑，仿佛威严的巨龙在云间优雅游动。"
     }
   },
   "laPestesHead": {
@@ -2724,9 +2724,9 @@
     }
   },
   "flaskOfClearLiquid": {
-    "name": "Flask of Clear Liquid",
+    "name": "清澈液体之瓶",
     "description": {
-      "general": "The liquid shimmers like the nectar of gods."
+      "general": "液体闪闪发光，犹如神之甘露。"
     }
   },
   "gildedCompass": {
@@ -2766,87 +2766,87 @@
     }
   },
   "stinkpotStation": {
-    "name": "Stinkpot Station",
+    "name": "恶臭弹站",
     "description": {
-      "general": "The grim laboratories of La Peste churn out noxious bombs filled with sulfur and antimony."
+      "general": "可强化剧毒型武器并提升中毒状态效果。这些有毒炸弹充斥着硫磺和锑，由拉佩斯特的各个简陋实验室大量生产。"
     }
   },
   "sheetingWinchConsole": {
-    "name": "Sheeting Winch Console",
+    "name": "调帆绞车控制台",
     "description": {
-      "general": "DMC-styled capstan-powered winches used for swift trimming and agile maneuvers."
+      "general": "提升武器伤害和航行速度。此绞盘驱动式绞车由荷兰商社设计，可实现快速调整船帆与灵活操控。"
     }
   },
   "gimbalRingStores": {
-    "name": "Gimbal Ring Stores",
+    "name": "常平环仓",
     "description": {
-      "general": "Compagnie-designed trunnion-mounted rings level guns through pitch and roll."
+      "general": "可提升半加农炮类武器的射程和炮弹速度。此炮耳架设式环由皇家公司设计，可使半加农炮在船只俯仰和横滚中保持水平。"
     }
   },
   "siphonFurnace": {
-    "name": "Siphon Furnace",
+    "name": "汲毒熔炉",
     "description": {
-      "general": "Used by the Ungwana to heat and hurl caustic oils brewed from belladonna and arsenic."
+      "general": "可提升剧毒型武器的射程和其炮弹速度。乌瓜纳人用其在加热后投掷由颠茄和砒霜调制的腐蚀性油液。"
     }
   },
   "causticSpallStation": {
-    "name": "Caustic Spall Station",
+    "name": "腐蚀溅液站",
     "description": {
-      "general": "Designed by the Fara to rupture hulls and rot internal beams."
+      "general": "加强进水伤害和进水状态效果。珐拉氏族为破坏船身与腐蚀内部船梁而打造的陈设。"
     }
   },
   "leydenVaultArray": {
-    "name": "Leyden Vault Array",
+    "name": "莱顿储能阵列",
     "description": {
-      "general": "Glass and foil-lined jars from the remains of the Shadowbeast wired to unleash high-voltage arcs."
+      "general": "可加强闪电型武器并提升雷暴状态效果。由影龙遗骸制成的箔纸衬里玻璃罐子，可在导电后释放高压电弧。"
     }
   },
   "cascadeCoilBench": {
-    "name": "Cascade Coil Bench",
+    "name": "串联线圈台",
     "description": {
-      "general": "Copper coils are wound around flame nozzles, igniting secondary bursts of naptha and sulfur dust."
+      "general": "可提升海洋之火武器的射程和伤害输出。其喷火嘴上缠绕着铜线圈，可使石脑油和硫磺粉尘发生二次爆炸。"
     }
   },
   "curareCrushingBench": {
-    "name": "Curare Crushing Bench",
+    "name": "箭毒碾制台",
     "description": {
-      "general": "Basins of curare paste with paralytic toxins, packed into splintered shot."
+      "general": "可提升中毒状态效果的持续时间和充能速度。将含麻痹毒素的箭毒膏容器装入碎片弹中即可制成。"
     }
   },
   "virulentAccord": {
-    "name": "Virulent Accord",
+    "name": "猛毒契约",
     "description": {
-      "general": "Born of pact and poison, the first flames are always lit by friends turned foes."
+      "general": "这件致命武器可向附近敌人释放毒气。战争之火诞自契约与毒药，向来由作为昔日盟友的敌人点燃。"
     }
   },
   "heavenlyThunder": {
-    "name": "Heavenly Thunder",
+    "name": "天雷",
     "description": {
-      "general": "When Tianlei speaks, the sea listens, the storm obeys."
+      "general": "这件武器会在充能后发射闪电，可连锁攻击多个目标。天雷震震，海洋俯首，风暴也须听令。"
     }
   },
   "theRotmouth": {
-    "name": "The Rotmouth",
+    "name": "腐烂之口",
     "description": {
-      "general": "Each bark is a pestilent cough from the Plague King's maw."
+      "general": "这件武器受到了诅咒，可在命中目标后削弱防御强度并对中毒目标造成额外伤害。它每一次发射，都仿佛瘟疫之王咳嗽着散播瘟疫。"
     }
   },
   "blightbringer": {
-    "name": "Blightbringer",
+    "name": "祸害使者",
     "description": {
-      "general": "Each charge is said to carry a volatile mix from the bilge-forges of La Peste himself."
+      "general": "这件追击武器会在命中后留下毒性痕迹并产生毒云。据说每枚弹药中都装有拉佩斯特本人亲手炼制的易爆混合物。"
     }
   },
   "theDrownedOne": {
-    "name": "The Drowned One",
+    "name": "溺者",
     "description": {
-      "general": "The Sea People believe its aim is guided by those who were lost at sea."
+      "general": "这件远程武器可在命中弱点后施加进水状态效果并造成严重伤害。海民相信用其瞄准时会受到海上迷途者的指引。"
     }
   },
   "frostwail": {
-    "name": "Frostwail",
+    "name": "霜啸",
     "description": {
-      "general": "Some say the screams are from those trapped within the Dark Beyond."
+      "general": "延迟炮弹，可在命中后爆炸，对爆破范围内的目标造成毁灭性伤害。据说其尖锐爆炸声来自黑暗彼岸的受困者。"
     }
   },
   "sloopOfWarUpgrade": {
