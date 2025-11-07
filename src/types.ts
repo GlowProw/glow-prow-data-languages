@@ -5,6 +5,7 @@ export interface LanguageMapData {
 export interface LanguageData {
     ships: LanguageMapData
     items: LanguageMapData
+    commodities: LanguageMapData
     calendar: LanguageMapData
     materials: LanguageMapData
     factions: LanguageMapData

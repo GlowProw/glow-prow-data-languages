@@ -1,0 +1,290 @@
+{
+  "lambaCloth": {
+    "name": "兰巴布",
+    "description": "来自红岛的传统服装。对合适的买家而言具有价值。由海洋之民生产，用于在该地区交易。"
+  },
+  "uncutGarnet": {
+    "name": "未切割石榴石",
+    "description": "深红色暗示了它的价值。作为宝石被许多人珍视。由海洋之民生产，用于从该地区出口。"
+  },
+  "fineSeaPeopleRelic": {
+    "name": "精良海洋之民遗物",
+    "description": "来自海洋之民的珍贵物品。可以卖得好价钱。"
+  },
+  "capitalSeaPeopleRelic": {
+    "name": "极品海洋之民遗物",
+    "description": "来自海洋之民的无价物品。可以卖出天价。"
+  },
+  "cloves": {
+    "name": "丁香",
+    "description": "丁香是干燥的花蕾，既用作香料，也用作药材。由法拉在红岛地区生产和交易。"
+  },
+  "frankincense": {
+    "name": "乳香",
+    "description": "从生长在阿拉伯海峡地区的灌木中获得的芳香树脂。东西方都在各种仪式中焚烧它。由法拉生产，用于出口到本地区之外。"
+  },
+  "uncutSapphire": {
+    "name": "未切割蓝宝石",
+    "description": "一种在红岛可以找到的粗糙但珍贵的蓝色宝石。由法拉挖掘出来，用于在印度洋以外地区交易。"
+  },
+  "fineFaraRelic": {
+    "name": "精良法拉遗物",
+    "description": "来自法拉的珍贵物品。可以卖得好价钱。"
+  },
+  "capitalFaraRelic": {
+    "name": "极品法拉遗物",
+    "description": "来自法拉的无价物品。可以卖出天价。"
+  },
+  "snuff": {
+    "name": "鼻烟",
+    "description": "在鉴赏家手中，它能因其风味带来愉悦。由温格瓦纳生产，用于在该地区交易。"
+  },
+  "ivory": {
+    "name": "象牙",
+    "description": "一种无价的商品，因其美丽和可制作的物品范围而受到工匠的珍视。由温格瓦纳生产，用于出口到本地区之外。"
+  },
+  "uncutDiamond": {
+    "name": "未切割钻石",
+    "description": "受到许多人珍视，这种商品因其在合适人选手中的美丽和价格而具有价值。由温格瓦纳生产，用于出口到本地区之外。"
+  },
+  "fineUngwanaRelic": {
+    "name": "精良温格瓦纳遗物",
+    "description": "来自温格瓦纳的珍贵物品。可以卖得好价钱。"
+  },
+  "capitalUngwanaRelic": {
+    "name": "极品温格瓦纳遗物",
+    "description": "来自温格瓦纳的无价物品。可以卖出天价。"
+  },
+  "spice": {
+    "name": "香料",
+    "description": "磨碎的香料，因其烹饪和医疗效用而备受重视。曾有人为之发动战争。由仁霸生产，用于从该地区出口。"
+  },
+  "batik": {
+    "name": "蜡染布",
+    "description": "由仁霸制造的复杂染色布匹。生产用于在该地区交易。"
+  },
+  "uncutRuby": {
+    "name": "未切割红宝石",
+    "description": "一种火红色的未加工宝石，可镶嵌在贵族的拐杖或黑帮头目的戒指上。由仁霸生产，用于从该地区出口。"
+  },
+  "fineRempahRelic": {
+    "name": "精良仁霸遗物",
+    "description": "来自仁霸的珍贵物品。可以卖得好价钱。"
+  },
+  "capitalRempahRelic": {
+    "name": "极品仁霸遗物",
+    "description": "来自仁霸的无价物品。可以卖出天价。"
+  },
+  "ale": {
+    "name": "麦芽酒",
+    "description": "让人喝醉的东西。海盗最喜爱的饮料。"
+  },
+  "tobacco": {
+    "name": "烟草",
+    "description": "来自西印度群岛植物的干叶。高度成瘾性，作为休闲毒品被吸食、咀嚼或鼻吸，并被错误地认为对健康有益。由联合公司生产，用于出口到本地区之外。"
+  },
+  "ambergris": {
+    "name": "龙涎香",
+    "description": "在红岛附近岸上或海上漂浮发现，龙涎香是一种用于香水业的芳香物质，是抹香鲸消化巨型鱿鱼的副产品。由联合公司生产，用于出口到本地区之外。"
+  },
+  "vanilla": {
+    "name": "香草",
+    "description": "一种用于调味和医药的甜香料。由联合公司生产，用于出口到本地区之外。"
+  },
+  "wine": {
+    "name": "葡萄酒",
+    "description": "一种经典的酒精饮料，由发酵葡萄制成，深受各大洲人们的喜爱。由联合公司进口，用于在该地区交易。"
+  },
+  "brandy": {
+    "name": "白兰地",
+    "description": "一种从葡萄酒蒸馏并在木桶中陈酿的烈酒，木桶赋予其独特的风味和香气。由联合公司进口，用于在该地区交易。"
+  },
+  "ornatePistols": {
+    "name": "华丽手枪",
+    "description": "军官和喜欢炫耀财富的海盗所渴望的手枪。"
+  },
+  "militaryCompagnieRelic": {
+    "name": "联合公司军事遗物",
+    "description": "来自联合公司的防御工事部件。可以卖出天价。"
+  },
+  "fineCompagnieRelic": {
+    "name": "精良联合公司遗物",
+    "description": "来自联合公司的珍贵物品。可以卖得好价钱。"
+  },
+  "basicCompagnieRelic": {
+    "name": "普通联合公司遗物",
+    "description": "来自联合公司的物品。可以卖个不错的价钱。"
+  },
+  "capitalCompagnieRelic": {
+    "name": "极品联合公司遗物",
+    "description": "来自联合公司的无价物品。可以卖出天价。"
+  },
+  "nutmeg": {
+    "name": "肉豆蔻",
+    "description": "一种稀有树木的果实，仅生长在东印度群岛。肉豆蔻是一种无价的香料，由荷兰贸易公司生产，用于在该地区交易。"
+  },
+  "cacao": {
+    "name": "可可",
+    "description": "一种广泛用于各种食品和饮料的流行豆类，从欧洲进口。对合适的买家具有价值。由荷兰贸易公司生产，用于在该地区交易。"
+  },
+  "camphor": {
+    "name": "樟脑",
+    "description": "一种芳香物质，存在于东印度群岛燃烧树木产生的蒸汽中。它既用于香水业，也用作药材。由荷兰贸易公司生产，用于在该地区交易。"
+  },
+  "gin": {
+    "name": "金酒",
+    "description": "最初由欧洲的僧侣和炼金师作为一种药用酒创造。由荷兰贸易公司进口，用于在该地区交易。"
+  },
+  "painting": {
+    "name": "油画",
+    "description": "一幅美丽的帆布油画，用红木框装裱。这将从合适的买家那里获得合适的价钱。由荷兰贸易公司进口，用于在该地区交易。"
+  },
+  "militaryDmcRelic": {
+    "name": "荷兰贸易公司军事遗物",
+    "description": "来自荷兰贸易公司的防御工事部件。可以卖出天价。"
+  },
+  "fineDmcRelic": {
+    "name": "精良荷兰贸易公司遗物",
+    "description": "来自荷兰贸易公司的珍贵物品。可以卖得好价钱。"
+  },
+  "capitalDmcRelic": {
+    "name": "极品荷兰贸易公司遗物",
+    "description": "来自荷兰贸易公司的无价物品。可以卖出天价。"
+  },
+  "rum": {
+    "name": "朗姆酒",
+    "description": "由糖蜜蒸馏而成。真正是海盗的首选饮料。由斯库洛克进口，用于在该地区交易。"
+  },
+  "cannonPowder": {
+    "name": "火炮火药",
+    "description": "这种化学混合物的巨大爆炸力意味着你的敌人不会只是带着 bruised ego 离开。由斯库洛克进口，用于在该地区交易。"
+  },
+  "firearms": {
+    "name": "火器",
+    "description": "一批非法获取的武器，可以增强任何海盗的军火库。由斯库洛克进口，用于在该地区交易。"
+  },
+  "ginseng": {
+    "name": "人参",
+    "description": "世界上最著名的草药之一。拉赫玛因其药用价值而经常使用。由拉赫玛进口，用于在该地区交易。"
+  },
+  "jade": {
+    "name": "玉石",
+    "description": "来自东方的珍贵矿物，在某些文化中被制成珠宝和装饰品佩戴。由拉赫玛进口，用于在该地区交易。"
+  },
+  "porcelain": {
+    "name": "瓷器",
+    "description": "源自远东的无价陶瓷制品。由拉赫玛进口，用于在该地区交易。"
+  },
+  "poppy": {
+    "name": "罂粟",
+    "description": "在直落宾杰拉实验室精炼成蓝莲花鸦片。"
+  },
+  "sugarCane": {
+    "name": "甘蔗",
+    "description": "在圣安妮的赫尔姆办公室精炼成白骷髅朗姆酒。"
+  },
+  "juniperBerries": {
+    "name": "杜松子",
+    "description": "在圣安妮的赫尔姆办公室精炼成白骷髅金酒。"
+  },
+  "tobaccoLeaves": {
+    "name": "烟叶",
+    "description": "在直落宾杰拉的赫尔姆办公室精炼成黑鼻烟。"
+  },
+  "rawImperialJade": {
+    "name": "原始帝王玉",
+    "description": "帝王玉的原始形态，一种来自东方的贵重违禁品。在直落宾杰拉办公室精炼成帝王玉。"
+  },
+  "blackSnuff": {
+    "name": "黑鼻烟",
+    "description": "由赫尔姆成员从烟叶精炼而成的高品质黑鼻烟。"
+  },
+  "blueLotusOpium": {
+    "name": "蓝莲花鸦片",
+    "description": "由赫尔姆成员从罂粟精炼而成的高品质鸦片。"
+  },
+  "whiteSkullRum": {
+    "name": "白骷髅朗姆酒",
+    "description": "由赫尔姆成员从甘蔗精炼而成的高品质白朗姆酒。"
+  },
+  "whiteSkullGin": {
+    "name": "白骷髅金酒",
+    "description": "由赫尔姆成员从杜松子精炼而成的高品质白金酒。"
+  },
+  "imperialJade": {
+    "name": "帝王玉",
+    "description": "帝王玉是一种来自远东（也称为中原）的珍贵、价值连城的玉石。"
+  },
+  "silverSnuff": {
+    "name": "银鼻烟",
+    "description": "由赫尔姆成员从黑鼻烟获得的最高品质白鼻烟。"
+  },
+  "blackLotusOpium": {
+    "name": "黑莲花鸦片",
+    "description": "由赫尔姆成员从蓝莲花鸦片获得的最高品质鸦片。"
+  },
+  "goldSkullRum": {
+    "name": "金骷髅朗姆酒",
+    "description": "由赫尔姆成员从白骷髅朗姆酒获得的最高品质金朗姆酒。"
+  },
+  "goldSkullGin": {
+    "name": "金骷髅金酒",
+    "description": "由赫尔姆成员从白骷髅金酒获得的最高品质金金酒。"
+  },
+  "carvedImperialJade": {
+    "name": "帝王玉雕",
+    "description": "一件来自东方的帝王玉艺术雕刻，备受收藏家觊觎。可从帝王玉和赫尔姆成员处获得。"
+  },
+  "copperBars": {
+    "name": "铜锭",
+    "description": "一种来自欧洲的重要高级金属，通过将铜精炼至最高纯度而成。使其适用于战争用途。"
+  },
+  "gildmarks": {
+    "name": "基尔德马克",
+    "description": "由未知材料制成的薄片，印有平衡与死亡的符号。对于不知情者，它们是新奇玩意；对于知情者，它们来之不易。"
+  },
+  "helmLeaseOpen": {
+    "name": "赫尔姆租约（开放）",
+    "description": "一份由赫尔姆联系人盖章的无限制所有权证书，适用于您选择的任何制造厂。"
+  },
+  "crystalizedTaintedWood": {
+    "name": "晶化腐化木",
+    "description": "传闻来自萨萨努尔，这种木材因石化作用和永恒的时间流逝而硬化。"
+  },
+  "sigilFlare": {
+    "name": "印记信号弹",
+    "description": "一种装饰华丽的信号弹，点燃时会发出明亮的光芒。这是无誉者呼叫致幻剂补给的信号。"
+  },
+  "roseWater": {
+    "name": "玫瑰水",
+    "description": "爱情、共情、吸引力和女性气质的风味。"
+  },
+  "soothingBalm": {
+    "name": "舒缓软膏",
+    "description": "一种芳香的油膏，保证能缓解疼痛和酸痛。"
+  },
+  "shipInABottle": {
+    "name": "瓶中船",
+    "description": "一个瓶中的精细船只微缩模型。"
+  },
+  "luxuryDice": {
+    "name": "奢华骰子",
+    "description": "一套异国情调的骰子，标记着对随机性的热情。"
+  },
+  "phoenixPouch": {
+    "name": "凤凰袋",
+    "description": "一个设计复杂的刺绣小袋，内装未知物质。曾属于凤凰之爪的首领。"
+  },
+  "pulsingSchaduwRemnant": {
+    "name": "脉动暗影残骸",
+    "description": "暗影号的碎片，由维克拉姆的力量驱动。"
+  },
+  "grainFlare": {
+    "name": "谷物信号弹",
+    "description": "高粱与爆炸物紧密包裹成一体。引爆它会招致私酿者的愤怒。"
+  },
+  "jasmineIncenseFlare": {
+    "name": "茉莉线香信号弹",
+    "description": "点燃时，会散发出令人不适却又愉悦的香气。"
+  }
+}
