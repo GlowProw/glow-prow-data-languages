@@ -7,6 +7,8 @@ files:
     translation: /src/data/%locale_with_underscore%/item.json
   - source: /src/data/en_US/commodities.json
     translation: /src/data/%locale_with_underscore%/commodities.json
+  - source: /src/data/en_US/cosmetics.json
+    translation: /src/data/%locale_with_underscore%/cosmetics.json
   - source: /src/data/en_US/calendar.json
     translation: /src/data/%locale_with_underscore%/calendar.json
   - source: /src/data/en_US/factions.json
@@ -29,3 +31,5 @@ files:
     translation: /src/data/%locale_with_underscore%/worldEvents.json
   - source: /src/data/en_US/mapLocations.json
     translation: /src/data/%locale_with_underscore%/mapLocations.json
+  - source: /src/data/en_US/sets.json
+    translation: /src/data/%locale_with_underscore%/sets.json
