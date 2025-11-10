@@ -2823,7 +2823,7 @@
     }
   },
   "plaguebringer": {
-    "name": "Plaguebringer",
+    "name": "瘟疫使者",
     "description": {
       "general": [
         "攻击受到中毒状态效果影响的敌方船只时，每次连续命中都会使中毒状态效果的伤害和持续时间分别提升6%（最多30%）和20%（最多100%）。武器每命中一次，都有几率在一个中毒目标300米内引发爆炸，对敌人造成1000剧毒伤害。剧毒型武器伤害提升20%，中毒充能速度提升150%。",
@@ -2832,25 +2832,25 @@
     }
   },
   "spite": {
-    "name": "Spite",
+    "name": "恶意",
     "description": {
       "general": "攻击受到中毒状态效果影响的敌方船只时，敌方船只会每秒对附近300米范围内的目标造成50剧毒伤害，持续10秒。来自收到中毒状态效果影响的目标的伤害降低30%。"
     }
   },
   "resurgence": {
-    "name": "Resurgence",
+    "name": "复生",
     "description": {
       "general": "击杀目标后，最大防御强度提升100%，持续11秒，并立即回复60%防御强度和25%船身生命值。该效果冷却时间为60秒。"
     }
   },
   "windcaller": {
-    "name": "Windcaller",
+    "name": "风使",
     "description": {
       "general": "防御时，加速度和转向速度每秒提升2%。防御结束后，加速度和转向速度的提升效果持续6秒。在此期间，航行速度提升14%。"
     }
   },
   "immunity": {
-    "name": "Immunity",
+    "name": "免疫",
     "description": {
       "general": "将中毒状态效果穿透防御强度对船身生命值造成的伤害减少50%，并使中毒状态效果的持续时间减少25%。"
     }
@@ -2934,7 +2934,7 @@
   "lancerSeaFire": {
     "name": "枪骑兵",
     "description": {
-      "general": "Fires a streak of lightning that can chain up to 4 targets in proximity. Increases damage by 1% per 10m of weapon range. Adds 75m to weapon range"
+      "general": "可发射一道闪电，连锁命中附近最多4个目标。每10米武器射程可使伤害提升1%。武器射程增加75米。"
     }
   },
   "virulent": {

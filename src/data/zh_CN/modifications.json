@@ -336,106 +336,106 @@
     "description": "防御时遭受伤害降低%s-%s"
   },
   "fireResistant": {
-    "name": "Fire Resistant",
-    "description": "Increases Fire Resistance by %s-%s%"
+    "name": "火焰抗性",
+    "description": "火焰伤害抗性提升%s-%s%"
   },
   "floodingResistant": {
-    "name": "Flooding Resistant",
-    "description": "Increases Flooding Resistance by %s-%s%"
+    "name": "进水抗性",
+    "description": "进水伤害抗性提升%s-%s%"
   },
   "piercingResistant": {
-    "name": "Piercing Resistant",
-    "description": "Increases Piercing Resistance by %s-%s%"
+    "name": "穿透抗性",
+    "description": "穿透伤害抗性提升%s-%s%"
   },
   "explosiveResistant": {
-    "name": "Explosive Resistant",
-    "description": "Increases Explosive Resistance by %s-%s%"
+    "name": "爆炸抗性",
+    "description": "爆炸伤害抗性提升%s-%s%"
   },
   "electricResistant": {
-    "name": "Electric Resistant",
-    "description": "Increases Electric Resistance by %s-%s%"
+    "name": "电击抗性",
+    "description": "电击伤害抗性提升%s-%s%"
   },
   "toxicResistant": {
     "name": "毒素抗性",
-    "description": "Increases Toxic Resistance by %s-%s%"
+    "description": "剧毒伤害抗性提升%s-%s%"
   },
   "tearingResistant": {
-    "name": "Tearing Resistant",
-    "description": "Increases Tearing Resistance by %s-%s%"
+    "name": "穿透抗性",
+    "description": "穿透伤害抗性提升%s-%s%"
   },
   "stout": {
-    "name": "Stout",
-    "description": "Increases Hull Health by %s-%s"
+    "name": "结实",
+    "description": "船身生命值提升%s-%s"
   },
   "strength": {
-    "name": "Strength",
-    "description": "Increases Brace Strength by %s-%s"
+    "name": "强劲",
+    "description": "防御强度提升%s-%s"
   },
   "vigor": {
-    "name": "Vigor",
-    "description": "Increases Crew Stamina by %s-%s"
+    "name": "活力",
+    "description": "最大船员体力提升%s-%s"
   },
   "ironclad": {
     "name": "钢铁甲壳",
-    "description": "Increases Armor by %s-%s%"
+    "description": "装甲提升%s-%s%"
   },
   "stalwart": {
-    "name": "Stalwart",
-    "description": "Increases Hull Health by %s-%s%"
+    "name": "伟岸",
+    "description": "船身生命值提升%s-%s%"
   },
   "fortitude": {
-    "name": "Fortitude",
-    "description": "Increases Brace Strength by %s-%s%"
+    "name": "毅力",
+    "description": "防御强度提升%s-%s%"
   },
   "maintenance": {
-    "name": "Maintenance",
-    "description": "Repairs %s-%s Hull Health per second"
+    "name": "维护",
+    "description": "每秒恢复%s-%s船身生命值"
   },
   "determination": {
-    "name": "Determination",
-    "description": "Increases Brace Strength Recovery by %s-%s% per second"
+    "name": "决心",
+    "description": "防御强度恢复速度提升%s-%s%"
   },
   "barbarian": {
-    "name": "Barbarian",
-    "description": "When Hull Health is below 25%, increases Weapon damage by %s-%s%"
+    "name": "野蛮人",
+    "description": "当船体生命值低于25%时，武器伤害提升 %s-%s%"
   },
   "survivor": {
-    "name": "Survivor",
-    "description": "When Hull Health drops below 25%, repairs %s-%s% Hull Health over 10 seconds. This effect has a 30 second cooldown"
+    "name": "幸存者",
+    "description": "船身生命值下降到25%以下时，在10秒内恢复%s-%s%船身生命值。该效果有30秒的冷却时间"
   },
   "craftsman": {
-    "name": "Craftsman",
-    "description": "Increases Repair Amount of Repair Kits by %s-%s%"
+    "name": "工匠",
+    "description": "修理用品的维修量提升%s-%s%"
   },
   "resilience": {
-    "name": "Resilience",
-    "description": "Using a Restoration Kit grants %s-%s% reduction to all Secondary Damage for 5 seconds"
+    "name": "坚韧",
+    "description": "使用恢复用品会使所有次要伤害降低%s-%s%，持续5秒"
   },
   "supreme": {
     "name": "最大值",
-    "description": "Increases the damage of special attacks launched from the Armor by %s-%s%"
+    "description": "装甲发动的特殊攻击伤害提升%s-%s%"
   },
   "steelIntegration": {
-    "name": "Steel Integration",
+    "name": "坚韧一体",
     "description": [
-      "Every 1% of Piercing and Explosive resistance adds %s-%s Armor",
+      "每拥有1%穿透型和爆炸型抗性，装甲提升%s-%s。穿透型和爆炸型抗性提升5%（本词条存在于官中翻译但不存在与英文数据中，可能不生效）。",
       "添加 5% 穿透和爆炸抗性"
     ]
   },
   "coalesce": {
-    "name": "Coalesce",
-    "description": "%s-%s% chance that 50% of damage braced restores Hull Health. This effect only occurs after bracing ends"
+    "name": "愈合",
+    "description": "%s-%s%几率使防御伤害的50%恢复船身生命值。该效果仅在防御结束后发生。"
   },
   "watcher": {
-    "name": "Watcher",
-    "description": "Any damage taken while Bracing has a %s-%s% chance of being reduced by 1750"
+    "name": "守望者",
+    "description": "处于防御状态时，收到的伤害有%s-%s%几率降低1750。"
   },
   "respite": {
-    "name": "Respite",
-    "description": "When Bracing damage, there's a %s-%s% chance to repair 500 Hull Health and 100 Severe Damage per second for the net 5 seconds. This effect has a cooldown of 10 seconds"
+    "name": "间歇之机",
+    "description": "防御伤害时，由%s-%s%几率在接下来的5秒内，每秒恢复500船身生命值和100严重伤害，该效果冷却时间为10秒。"
   },
   "jester": {
-    "name": "Jester",
-    "description": "Upon being afflicted with Taunted, increase Armor Rating and Brace Strength Recovery by %s-%s% for 15 seconds"
+    "name": "弄臣",
+    "description": "受到被嘲讽影响后，装甲级别和防御强度回复提升%s-%s，持续15秒"
   }
 }
