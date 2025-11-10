@@ -2748,21 +2748,21 @@
     }
   },
   "tondraDra": {
-    "name": "Tondra-dra",
+    "name": "血灾",
     "description": {
-      "general": "The raiders of the Red Isle have always believed their ships bled the shade of their soil, before biting back."
+      "general": "击杀敌方目标可恢复防御强度和船身生命值。红岛的掠夺者们始终坚信，他们的战船会流出与故土同色的鲜血，并以此信念奋勇反击。"
     }
   },
   "rivotrasGrace": {
-    "name": "Rivotra's Grace",
+    "name": "风的恩泽",
     "description": {
-      "general": "To the Sea People, the wind has always brought the best protection to their sails."
+      "general": "轻型装甲，可提升船只灵活性。对海民而言，风一直是他们船帆最好的守护者。"
     }
   },
   "sumuSunder": {
-    "name": "Sumu Sunder",
+    "name": "破雾",
     "description": {
-      "general": "To master a fever, one must first break it -- for the ship lords off the Coast of Africa, poison can be the sternest teacher."
+      "general": "减少中毒状态效果的持续时间和作用。不破其势，不得其力--对于非洲海岸的海上霸主来说，毒药就是最严厉的老师。"
     }
   },
   "stinkpotStation": {
