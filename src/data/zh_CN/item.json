@@ -2568,7 +2568,7 @@
     }
   },
   "elDoradoCosmeticsChest": {
-    "name": "El Dorado Cosmetics Chest",
+    "name": "El Dorado化妆品宝箱",
     "description": {
       "general": "An opulent chest which may contain cosmetics that are part of El Dorado Set"
     }
@@ -2736,7 +2736,7 @@
     }
   },
   "zhangsClaw": {
-    "name": "Zhang's Claw",
+    "name": "提督之爪",
     "description": {
       "general": "The arm of the Commander itself. The metal is still warm to the touch, its fingers specked with blood."
     }
