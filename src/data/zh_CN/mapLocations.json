@@ -1,6 +1,6 @@
 {
   "laBastide": {
-    "name": "La Bastide",
+    "name": "不破堡垒",
     "description": {
       "general": ""
     }
@@ -18,13 +18,13 @@
     }
   },
   "teninaTown": {
-    "name": "Tenina Town",
+    "name": "特尼那城",
     "description": {
       "general": ""
     }
   },
   "ankohonana": {
-    "name": "Ankohonana",
+    "name": "安科霍纳那",
     "description": {
       "general": ""
     }
@@ -48,13 +48,13 @@
     }
   },
   "guerande": {
-    "name": "Guérande",
+    "name": "盖朗德",
     "description": {
       "general": "Compagnie Royale settlement"
     }
   },
   "sainteAmelie": {
-    "name": "Sainte-Amélie",
+    "name": "圣艾米莉",
     "description": {
       "general": "Compagnie Royale settlement"
     }
@@ -108,19 +108,19 @@
     }
   },
   "palisadeBay": {
-    "name": "Palisade Bay",
+    "name": "断崖湾",
     "description": {
-      "general": "Sea People settlement"
+      "general": "茨弗"
     }
   },
   "sitrana": {
-    "name": "Sitrana",
+    "name": "锡特拉纳",
     "description": {
       "general": "Clan of Fara settlement"
     }
   },
   "shijavu": {
-    "name": "Shijavu",
+    "name": "西加乌",
     "description": {
       "general": "Clan of Fara settlement"
     }
@@ -144,13 +144,13 @@
     }
   },
   "kusini": {
-    "name": "Kusini",
+    "name": "南方之地",
     "description": {
       "general": "Confederation of Ungwana settlement"
     }
   },
   "bandari": {
-    "name": "Bandari",
+    "name": "班得瑞",
     "description": {
       "general": "Confederation of Ungwana settlement"
     }
@@ -162,19 +162,19 @@
     }
   },
   "laColonie": {
-    "name": "La Colonie",
+    "name": "殖民之地",
     "description": {
       "general": "Compagnie Royale settlement"
     }
   },
   "portDesMines": {
-    "name": "Port des Mines",
+    "name": "矿山港",
     "description": {
       "general": "Compagnie Royale settlement"
     }
   },
   "fondDeLaBaie": {
-    "name": "Fond-de-la-Baie",
+    "name": "海床之湾",
     "description": {
       "general": "Compagnie Royale settlement"
     }
@@ -192,7 +192,7 @@
     }
   },
   "fonderieRoyale": {
-    "name": "Fonderie Royale",
+    "name": "皇家铸造厂",
     "description": {
       "general": ""
     }
@@ -246,13 +246,13 @@
     }
   },
   "sadjoaFoundry": {
-    "name": "Sadjoa Foundry",
+    "name": "萨加铸造厂",
     "description": {
       "general": ""
     }
   },
   "tambyFoundry": {
-    "name": "Tamby Foundry",
+    "name": "谭比铸造厂",
     "description": {
       "general": ""
     }
@@ -276,7 +276,7 @@
     }
   },
   "mumaliFoundry": {
-    "name": "Mumali Foundry",
+    "name": "姆马里铸造厂",
     "description": {
       "general": ""
     }
@@ -288,7 +288,7 @@
     }
   },
   "duBoisLumberyard": {
-    "name": "Du Bois Lumberyard",
+    "name": "杜波依斯伐木场",
     "description": {
       "general": ""
     }
@@ -330,7 +330,7 @@
     }
   },
   "tsifoLumberyard": {
-    "name": "Tsifo Lumberyard",
+    "name": "茨弗伐木场",
     "description": {
       "general": ""
     }
@@ -348,7 +348,7 @@
     }
   },
   "rondavelsLumberyard": {
-    "name": "Rondavels Lumberyard",
+    "name": "茅屋伐木场",
     "description": {
       "general": ""
     }
@@ -402,19 +402,19 @@
     }
   },
   "laCordeWeaver": {
-    "name": "La Corde Weaver",
+    "name": "绳索织坊",
     "description": {
       "general": "Compagnie Royale weaver"
     }
   },
   "pilotBayWeaver": {
-    "name": "Pilot Bay Weaver",
+    "name": "领航湾织坊",
     "description": {
       "general": "Compagnie Royale weaver"
     }
   },
   "fortDuLys": {
-    "name": "Fort Du Lys",
+    "name": "杜里要塞",
     "description": {
       "general": ""
     }
@@ -456,13 +456,13 @@
     }
   },
   "fortDuBout": {
-    "name": "Fort Du Bout",
+    "name": "终焉要塞",
     "description": {
       "general": ""
     }
   },
   "grandFort": {
-    "name": "Grand Fort",
+    "name": "宏伟要塞",
     "description": {
       "general": ""
     }
@@ -474,13 +474,13 @@
     }
   },
   "theOubliette": {
-    "name": "活人墓前哨站",
+    "name": "密牢",
     "description": {
       "general": ""
     }
   },
   "grandeFalaise": {
-    "name": "大悬崖前哨站",
+    "name": "大法莱斯",
     "description": {
       "general": ""
     }
@@ -492,7 +492,7 @@
     }
   },
   "kokokTerapung": {
-    "name": "科科克·特拉蓬前哨站",
+    "name": "科柯提拉庞",
     "description": {
       "general": ""
     }
@@ -510,7 +510,7 @@
     }
   },
   "moyenneCrique": {
-    "name": "莫耶纳海湾前哨站",
+    "name": "匀溪",
     "description": {
       "general": ""
     }
@@ -594,7 +594,7 @@
     }
   },
   "dragonsBack": {
-    "name": "龙背前哨站",
+    "name": "龙脊岛",
     "description": {
       "general": ""
     }
