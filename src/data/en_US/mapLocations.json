@@ -47,6 +47,150 @@
       "general": ""
     }
   },
+  "guerande": {
+    "name": "Guérande",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "sainteAmelie": {
+    "name": "Sainte-Amélie",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "laar": {
+    "name": "Laar",
+    "description": {
+      "general": "Dutch Merchant Company settlement"
+    }
+  },
+  "kampongSubur": {
+    "name": "Kampong Subur",
+    "description": {
+      "general": "Dutch Merchant Company settlement"
+    }
+  },
+  "kencur": {
+    "name": "Kencur",
+    "description": {
+      "general": "Dominion of Rempah settlement"
+    }
+  },
+  "kotaLama": {
+    "name": "Kota Lama",
+    "description": {
+      "general": "Dominion of Rempah settlement"
+    }
+  },
+  "damai": {
+    "name": "Damai",
+    "description": {
+      "general": "Dominion of Rempah settlement"
+    }
+  },
+  "sangdad": {
+    "name": "Sangdad",
+    "description": {
+      "general": "Dominion of Rempah settlement"
+    }
+  },
+  "hovohovo": {
+    "name": "Hovohovo",
+    "description": {
+      "general": "Clan of Fara settlement"
+    }
+  },
+  "tanjona": {
+    "name": "Tanjona",
+    "description": {
+      "general": "Clan of Fara settlement"
+    }
+  },
+  "palisadeBay": {
+    "name": "Palisade Bay",
+    "description": {
+      "general": "Sea People settlement"
+    }
+  },
+  "sitrana": {
+    "name": "Sitrana",
+    "description": {
+      "general": "Clan of Fara settlement"
+    }
+  },
+  "shijavu": {
+    "name": "Shijavu",
+    "description": {
+      "general": "Clan of Fara settlement"
+    }
+  },
+  "mchanga": {
+    "name": "Mchanga",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "pembe": {
+    "name": "Pembe",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "wavuviIsland": {
+    "name": "Wavuvi Island",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "kusini": {
+    "name": "Kusini",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "bandari": {
+    "name": "Bandari",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "harufu": {
+    "name": "Harufu",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "laColonie": {
+    "name": "La Colonie",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "portDesMines": {
+    "name": "Port des Mines",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "fondDeLaBaie": {
+    "name": "Fond-de-la-Baie",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "granbie": {
+    "name": "Granbie",
+    "description": {
+      "general": "Dutch Merchant Company settlement"
+    }
+  },
+  "laDa": {
+    "name": "LaDa",
+    "description": {
+      "general": "Dutch Merchant Company settlement"
+    }
+  },
   "fonderieRoyale": {
     "name": "Fonderie Royale",
     "description": {
@@ -213,6 +357,60 @@
     "name": "Kota Lama Lumberyard",
     "description": {
       "general": ""
+    }
+  },
+  "kencurWeaver": {
+    "name": "Kencur Weaver",
+    "description": {
+      "general": "Dominion of Rempah weaver"
+    }
+  },
+  "southSunyWeaver": {
+    "name": "South Suny Weaver",
+    "description": {
+      "general": "Dominion of Rempah weaver"
+    }
+  },
+  "northSunyWeaver": {
+    "name": "North Suny Weaver",
+    "description": {
+      "general": "Dominion of Rempah weaver"
+    }
+  },
+  "raofiaWeaver": {
+    "name": "Raofia Weaver",
+    "description": {
+      "general": "Clan of Fara weaver"
+    }
+  },
+  "lambaWeaver": {
+    "name": "Lamba Weaver",
+    "description": {
+      "general": "Sea People weaver"
+    }
+  },
+  "jiweWeaver": {
+    "name": "Jiwe Weaver",
+    "description": {
+      "general": "Confederation of Ungwana weaver"
+    }
+  },
+  "harufuWeaver": {
+    "name": "Harufu Weaver",
+    "description": {
+      "general": "Confederation of Ungwana weaver"
+    }
+  },
+  "laCordeWeaver": {
+    "name": "La Corde Weaver",
+    "description": {
+      "general": "Compagnie Royale weaver"
+    }
+  },
+  "pilotBayWeaver": {
+    "name": "Pilot Bay Weaver",
+    "description": {
+      "general": "Compagnie Royale weaver"
     }
   },
   "fortDuLys": {
