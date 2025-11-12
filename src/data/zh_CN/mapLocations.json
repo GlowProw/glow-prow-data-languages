@@ -1,36 +1,36 @@
 {
   "laBastide": {
-    "name": "La Bastide",
+    "name": "不破堡垒",
     "description": {
       "general": ""
     }
   },
   "oostenCapital": {
-    "name": "Oosten Capital",
+    "name": "东海湾首府",
     "description": {
       "general": ""
     }
   },
   "sunyCapital": {
-    "name": "Suny Capital",
+    "name": "桑尼首府",
     "description": {
       "general": ""
     }
   },
   "teninaTown": {
-    "name": "Tenina Town",
+    "name": "特尼那城",
     "description": {
       "general": ""
     }
   },
   "ankohonana": {
-    "name": "Ankohonana",
+    "name": "安科霍纳那",
     "description": {
       "general": ""
     }
   },
   "jiwe": {
-    "name": "Jiwé",
+    "name": "坚石城",
     "description": {
       "general": ""
     }
@@ -47,134 +47,278 @@
       "general": ""
     }
   },
+  "guerande": {
+    "name": "盖朗德",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "sainteAmelie": {
+    "name": "圣艾米莉",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "laar": {
+    "name": "拉尔",
+    "description": {
+      "general": "Dutch Merchant Company settlement"
+    }
+  },
+  "kampongSubur": {
+    "name": "萨博村",
+    "description": {
+      "general": "Dutch Merchant Company settlement"
+    }
+  },
+  "kencur": {
+    "name": "沙姜地",
+    "description": {
+      "general": "Dominion of Rempah settlement"
+    }
+  },
+  "kotaLama": {
+    "name": "老城",
+    "description": {
+      "general": "Dominion of Rempah settlement"
+    }
+  },
+  "damai": {
+    "name": "达万",
+    "description": {
+      "general": "Dominion of Rempah settlement"
+    }
+  },
+  "sangdad": {
+    "name": "桑代德",
+    "description": {
+      "general": "Dominion of Rempah settlement"
+    }
+  },
+  "hovohovo": {
+    "name": "霍沃霍沃",
+    "description": {
+      "general": "Clan of Fara settlement"
+    }
+  },
+  "tanjona": {
+    "name": "丹戎",
+    "description": {
+      "general": "Clan of Fara settlement"
+    }
+  },
+  "palisadeBay": {
+    "name": "断崖湾",
+    "description": {
+      "general": "茨弗"
+    }
+  },
+  "sitrana": {
+    "name": "锡特拉纳",
+    "description": {
+      "general": "Clan of Fara settlement"
+    }
+  },
+  "shijavu": {
+    "name": "西加乌",
+    "description": {
+      "general": "Clan of Fara settlement"
+    }
+  },
+  "mchanga": {
+    "name": "群沙之地",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "pembe": {
+    "name": "彭贝",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "wavuviIsland": {
+    "name": "渔人岛",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "kusini": {
+    "name": "南方之地",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "bandari": {
+    "name": "班得瑞",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "harufu": {
+    "name": "哈路弗",
+    "description": {
+      "general": "Confederation of Ungwana settlement"
+    }
+  },
+  "laColonie": {
+    "name": "殖民之地",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "portDesMines": {
+    "name": "矿山港",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "fondDeLaBaie": {
+    "name": "海床之湾",
+    "description": {
+      "general": "Compagnie Royale settlement"
+    }
+  },
+  "granbie": {
+    "name": "格兰比",
+    "description": {
+      "general": "Dutch Merchant Company settlement"
+    }
+  },
+  "laDa": {
+    "name": "拉达",
+    "description": {
+      "general": "Dutch Merchant Company settlement"
+    }
+  },
   "fonderieRoyale": {
-    "name": "Fonderie Royale",
+    "name": "皇家铸造厂",
     "description": {
       "general": ""
     }
   },
   "duisterEastFoundry": {
-    "name": "Duister East Foundry",
+    "name": "东黑影铸造厂",
     "description": {
       "general": ""
     }
   },
   "duisterWestFoundry": {
-    "name": "Duister West Foundry",
+    "name": "西黑影铸造厂",
     "description": {
       "general": ""
     }
   },
   "duisterNorthFoundry": {
-    "name": "Duister North Foundry",
+    "name": "北黑影铸造厂",
     "description": {
       "general": ""
     }
   },
   "trisulaFoundry": {
-    "name": "Trisula Foundry",
+    "name": "三叉铸造厂",
     "description": {
       "general": ""
     }
   },
   "ladaFoundry": {
-    "name": "Lada Foundry",
+    "name": "拉达铸造厂",
     "description": {
       "general": ""
     }
   },
   "kotaLamaFoundry": {
-    "name": "Kota Lama Foundry",
+    "name": "老城铸造厂",
     "description": {
       "general": ""
     }
   },
   "southDamaiFoundry": {
-    "name": "South Damai Foundry",
+    "name": "南达迈铸造厂",
     "description": {
       "general": ""
     }
   },
   "sunyFoundry": {
-    "name": "Suny Foundry",
+    "name": "桑尼铸造厂",
     "description": {
       "general": ""
     }
   },
   "sadjoaFoundry": {
-    "name": "Sadjoa Foundry",
+    "name": "萨加铸造厂",
     "description": {
       "general": ""
     }
   },
   "tambyFoundry": {
-    "name": "Tamby Foundry",
+    "name": "谭比铸造厂",
     "description": {
       "general": ""
     }
   },
   "pembeFoundry": {
-    "name": "Pembe Foundry",
+    "name": "彭贝铸造厂",
     "description": {
       "general": ""
     }
   },
   "jiweFoundry": {
-    "name": "Jiwé Foundry",
+    "name": "坚石城铸造厂",
     "description": {
       "general": ""
     }
   },
   "wawuviFoundry": {
-    "name": "Wawuvi Foundry",
+    "name": "瓦乌维铸造厂",
     "description": {
       "general": ""
     }
   },
   "mumaliFoundry": {
-    "name": "Mumali Foundry",
+    "name": "姆马里铸造厂",
     "description": {
       "general": ""
     }
   },
   "northDamaiFoundry": {
-    "name": "North Damai Foundry",
+    "name": "北达迈铸造厂",
     "description": {
       "general": ""
     }
   },
   "duBoisLumberyard": {
-    "name": "Du Bois Lumberyard",
+    "name": "杜波依斯伐木场",
     "description": {
       "general": ""
     }
   },
   "laarSouthLumbery": {
-    "name": "Laar South Lumberyard",
+    "name": "南拉尔伐木场",
     "description": {
       "general": ""
     }
   },
   "laarWestLumbery": {
-    "name": "Laar West Lumberyard",
+    "name": "西拉尔伐木场",
     "description": {
       "general": ""
     }
   },
   "suburLumberyard": {
-    "name": "Subur Lumberyard",
+    "name": "萨博伐木场",
     "description": {
       "general": ""
     }
   },
   "kencurLumberyard": {
-    "name": "Kencur Lumberyard",
+    "name": "沙姜地铸造厂",
     "description": {
       "general": ""
     }
   },
   "suntLumberyard": {
-    "name": "Sunt Lumberyard",
+    "name": "桑尼伐木场",
     "description": {
       "general": ""
     }
@@ -186,121 +330,175 @@
     }
   },
   "tsifoLumberyard": {
-    "name": "Tsifo Lumberyard",
+    "name": "茨弗伐木场",
     "description": {
       "general": ""
     }
   },
   "kambiLumberyard": {
-    "name": "Kambi Lumberyard",
+    "name": "坎比伐木场",
     "description": {
       "general": ""
     }
   },
   "harufuLumberyard": {
-    "name": "Harufu Lumberyard",
+    "name": "哈路弗伐木场",
     "description": {
       "general": ""
     }
   },
   "rondavelsLumberyard": {
-    "name": "Rondavels Lumberyard",
+    "name": "茅屋伐木场",
     "description": {
       "general": ""
     }
   },
   "kotaLamaLumberyard": {
-    "name": "Kota Lama Lumberyard",
+    "name": "老城伐木场",
     "description": {
       "general": ""
     }
   },
+  "kencurWeaver": {
+    "name": "沙姜地织坊",
+    "description": {
+      "general": "Dominion of Rempah weaver"
+    }
+  },
+  "southSunyWeaver": {
+    "name": "南桑尼织坊",
+    "description": {
+      "general": "Dominion of Rempah weaver"
+    }
+  },
+  "northSunyWeaver": {
+    "name": "北桑尼织坊",
+    "description": {
+      "general": "Dominion of Rempah weaver"
+    }
+  },
+  "raofiaWeaver": {
+    "name": "Raofia Weaver",
+    "description": {
+      "general": "Clan of Fara weaver"
+    }
+  },
+  "lambaWeaver": {
+    "name": "Lamba Weaver",
+    "description": {
+      "general": "Sea People weaver"
+    }
+  },
+  "jiweWeaver": {
+    "name": "坚石城织访",
+    "description": {
+      "general": "乌瓜纳坚石城织访"
+    }
+  },
+  "harufuWeaver": {
+    "name": "哈路弗织访",
+    "description": {
+      "general": "乌瓜纳坚石城织访"
+    }
+  },
+  "laCordeWeaver": {
+    "name": "绳索织坊",
+    "description": {
+      "general": "Compagnie Royale weaver"
+    }
+  },
+  "pilotBayWeaver": {
+    "name": "领航湾织坊",
+    "description": {
+      "general": "Compagnie Royale weaver"
+    }
+  },
   "fortDuLys": {
-    "name": "Fort Du Lys",
+    "name": "杜里要塞",
     "description": {
       "general": ""
     }
   },
   "fortDuister": {
-    "name": "Fort Duister",
+    "name": "黑暗要塞",
     "description": {
       "general": ""
     }
   },
   "megafortOosten": {
-    "name": "Megafort Oosten",
+    "name": "东海湾超巨要塞",
     "description": {
       "general": ""
     }
   },
   "fortPremie": {
-    "name": "Fort Premie",
+    "name": "高首要塞",
     "description": {
       "general": ""
     }
   },
   "fortPrakoso": {
-    "name": "Fort Prakoso",
+    "name": "普拉科索要塞",
     "description": {
       "general": ""
     }
   },
   "fortHarimau": {
-    "name": "Fort Harimau",
+    "name": "猛虎要塞",
     "description": {
       "general": ""
     }
   },
   "fortGranbie": {
-    "name": "Fort Granbie",
+    "name": "格兰比要塞",
     "description": {
       "general": ""
     }
   },
   "fortDuBout": {
-    "name": "Fort Du Bout",
+    "name": "终焉要塞",
     "description": {
       "general": ""
     }
   },
   "grandFort": {
-    "name": "Grand Fort",
+    "name": "宏伟要塞",
     "description": {
       "general": ""
     }
   },
   "bukitCandi": {
-    "name": "Outpost Bukit Candi",
+    "name": "圣殿山",
     "description": {
       "general": ""
     }
   },
   "theOubliette": {
-    "name": "活人墓前哨站",
+    "name": "密牢",
     "description": {
       "general": ""
     }
   },
   "grandeFalaise": {
-    "name": "大悬崖前哨站",
+    "name": "大法莱斯",
     "description": {
       "general": ""
     }
   },
   "dutchmansCamp": {
-    "name": "荷兰人营地前哨站",
+    "name": "荷兰人营地",
     "description": {
       "general": ""
     }
   },
   "kokokTerapung": {
-    "name": "科科克·特拉蓬前哨站",
+    "name": "科柯提拉庞",
     "description": {
       "general": ""
     }
   },
   "returnFleetBight": {
-    "name": "返航舰队湾前哨站",
+    "name": "回航海湾",
     "description": {
       "general": ""
     }
@@ -312,19 +510,19 @@
     }
   },
   "moyenneCrique": {
-    "name": "莫耶纳海湾前哨站",
+    "name": "匀溪",
     "description": {
       "general": ""
     }
   },
   "ileMichel": {
-    "name": "Outpost Île Michel",
+    "name": "米歇尔岛",
     "description": {
       "general": ""
     }
   },
   "theForgottenCandi": {
-    "name": "Outpost The Forgotten Candi",
+    "name": "被遗忘的圣殿",
     "description": {
       "general": ""
     }
@@ -348,19 +546,19 @@
     }
   },
   "khmoyEstate": {
-    "name": "克莫伊庄园前哨站",
+    "name": "诃莫伊庄园",
     "description": {
       "general": ""
     }
   },
   "lostCityOfPrei": {
-    "name": "普雷失落之城前哨站",
+    "name": "失落之城菩雷",
     "description": {
       "general": ""
     }
   },
   "ruinsOfLukKhun": {
-    "name": "卢坤遗迹前哨站",
+    "name": "鲁克坤遗址",
     "description": {
       "general": ""
     }
@@ -396,7 +594,7 @@
     }
   },
   "dragonsBack": {
-    "name": "龙背前哨站",
+    "name": "龙脊岛",
     "description": {
       "general": ""
     }
@@ -444,7 +642,7 @@
     }
   },
   "kelelawarChamber": {
-    "name": "克勒拉瓦商会前哨站",
+    "name": "克里拉瓦大殿",
     "description": {
       "general": ""
     }
@@ -456,13 +654,13 @@
     }
   },
   "rangnokCave": {
-    "name": "朗诺洞穴前哨站",
+    "name": "兰格诺克洞穴",
     "description": {
       "general": ""
     }
   },
   "theNecropolis": {
-    "name": "墓地前哨站",
+    "name": "大墓园",
     "description": {
       "general": ""
     }
