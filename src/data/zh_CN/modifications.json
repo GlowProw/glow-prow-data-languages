@@ -313,7 +313,7 @@
   },
   "noxious": {
     "name": "毒害",
-    "description": "施加%s-%s的剧毒伤害"
+    "description": "施加%s-%s%的剧毒伤害"
   },
   "direToxic": {
     "name": "猛烈毒素",

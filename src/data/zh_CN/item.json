@@ -1988,7 +1988,7 @@
     }
   },
   "urbansGreatGun": {
-    "name": "这门强大的火炮只需开火一次，便会爆发出毁灭性的齐射。它的威力足以撕裂船帆，重创敌人。",
+    "name": "厄本巨炮",
     "description": {
       "general": "这门强大的火炮只需开火一次，便会爆发出毁灭性的齐射。它的威力足以撕裂船帆，重创敌人。"
     }
@@ -2568,7 +2568,7 @@
     }
   },
   "elDoradoCosmeticsChest": {
-    "name": "El Dorado Cosmetics Chest",
+    "name": "El Dorado化妆品宝箱",
     "description": {
       "general": "An opulent chest which may contain cosmetics that are part of El Dorado Set"
     }
@@ -2736,7 +2736,7 @@
     }
   },
   "zhangsClaw": {
-    "name": "Zhang's Claw",
+    "name": "提督之爪",
     "description": {
       "general": "The arm of the Commander itself. The metal is still warm to the touch, its fingers specked with blood."
     }
