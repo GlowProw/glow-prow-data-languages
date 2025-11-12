@@ -30,7 +30,7 @@
     }
   },
   "jiwe": {
-    "name": "Jiwé",
+    "name": "坚石城",
     "description": {
       "general": ""
     }
@@ -126,7 +126,7 @@
     }
   },
   "mchanga": {
-    "name": "Mchanga",
+    "name": "群沙之地",
     "description": {
       "general": "Confederation of Ungwana settlement"
     }
@@ -138,7 +138,7 @@
     }
   },
   "wavuviIsland": {
-    "name": "Wavuvi Island",
+    "name": "渔人岛",
     "description": {
       "general": "Confederation of Ungwana settlement"
     }
@@ -156,7 +156,7 @@
     }
   },
   "harufu": {
-    "name": "Harufu",
+    "name": "哈路弗",
     "description": {
       "general": "Confederation of Ungwana settlement"
     }
@@ -258,19 +258,19 @@
     }
   },
   "pembeFoundry": {
-    "name": "Pembe Foundry",
+    "name": "彭贝铸造厂",
     "description": {
       "general": ""
     }
   },
   "jiweFoundry": {
-    "name": "Jiwé Foundry",
+    "name": "坚石城铸造厂",
     "description": {
       "general": ""
     }
   },
   "wawuviFoundry": {
-    "name": "Wawuvi Foundry",
+    "name": "瓦乌维铸造厂",
     "description": {
       "general": ""
     }
@@ -342,7 +342,7 @@
     }
   },
   "harufuLumberyard": {
-    "name": "Harufu Lumberyard",
+    "name": "哈路弗伐木场",
     "description": {
       "general": ""
     }
@@ -390,15 +390,15 @@
     }
   },
   "jiweWeaver": {
-    "name": "Jiwe Weaver",
+    "name": "坚石城织访",
     "description": {
-      "general": "Confederation of Ungwana weaver"
+      "general": "乌瓜纳坚石城织访"
     }
   },
   "harufuWeaver": {
-    "name": "Harufu Weaver",
+    "name": "哈路弗织访",
     "description": {
-      "general": "Confederation of Ungwana weaver"
+      "general": "乌瓜纳坚石城织访"
     }
   },
   "laCordeWeaver": {
