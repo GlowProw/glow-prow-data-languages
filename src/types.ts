@@ -20,5 +20,7 @@ export interface LanguageData {
     worldEvents: LanguageMapData,
     empireSkills: LanguageMapData,
     mapLocations: LanguageMapData
-    sets: LanguageMapData
+    sets: LanguageMapData,
+    regions: LanguageMapData,
+    territories: LanguageMapData
 }

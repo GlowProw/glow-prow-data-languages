@@ -16,6 +16,8 @@ import worldEvents_zh_CN from './data/zh_CN/worldEvents.json'
 import empireSkills_zh_CN from './data/zh_CN/empireSkills.json'
 import mapLocations_zh_CN from './data/zh_CN/mapLocations.json'
 import sets_zh_CN from './data/zh_CN/sets.json'
+import regions_zh_CN from './data/zh_CN/regions.json'
+import territories_zh_CN from './data/zh_CN/territories.json'
 
 import ships_zh_TW from './data/zh_TW/ships.json';
 import items_zh_TW from './data/zh_TW/item.json';
@@ -35,6 +37,8 @@ import worldEvents_zh_TW from './data/zh_TW/worldEvents.json'
 import empireSkills_zh_TW from './data/zh_TW/empireSkills.json'
 import mapLocations_zh_TW from './data/zh_TW/mapLocations.json'
 import sets_zh_TW from './data/zh_TW/sets.json'
+import regions_zh_TW from './data/zh_TW/regions.json'
+import territories_zh_TW from './data/zh_TW/territories.json'
 
 import ships_en_US from './data/en_US/ships.json';
 import items_en_US from './data/en_US/item.json';
@@ -54,6 +58,8 @@ import worldEvents_en_US from './data/en_US/worldEvents.json'
 import empireSkills_en_US from './data/en_US/empireSkills.json'
 import mapLocations_en_US from './data/en_US/mapLocations.json'
 import sets_en_US from './data/en_US/sets.json'
+import regions_en_US from './data/en_US/regions.json'
+import territories_en_US from './data/en_US/territories.json'
 
 import {LanguageData} from "./types";
 
@@ -75,7 +81,9 @@ export const zh_CN: LanguageData = {
     worldEvents: worldEvents_zh_CN,
     empireSkills: empireSkills_zh_CN,
     mapLocations: mapLocations_zh_CN,
-    sets: sets_zh_CN
+    sets: sets_zh_CN,
+    regions: regions_zh_CN,
+    territories: territories_zh_CN
 };
 
 export const zh_TW: LanguageData = {
@@ -96,7 +104,9 @@ export const zh_TW: LanguageData = {
     worldEvents: worldEvents_zh_TW,
     empireSkills: empireSkills_zh_TW,
     mapLocations: mapLocations_zh_TW,
-    sets: sets_zh_TW
+    sets: sets_zh_TW,
+    regions: regions_zh_TW,
+    territories: territories_zh_TW
 };
 
 export const en_US: LanguageData = {
@@ -117,7 +127,9 @@ export const en_US: LanguageData = {
     worldEvents: worldEvents_en_US,
     empireSkills: empireSkills_en_US,
     mapLocations: mapLocations_en_US,
-    sets: sets_en_US
+    sets: sets_en_US,
+    regions: regions_en_US,
+    territories: territories_en_US
 };
 
 export * from './types';
