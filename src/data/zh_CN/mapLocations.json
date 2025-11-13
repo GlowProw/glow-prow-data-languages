@@ -410,7 +410,7 @@
   "pilotBayWeaver": {
     "name": "领航湾织坊",
     "description": {
-      "general": "Compagnie Royale weaver"
+      "general": "{faction} 织坊"
     }
   },
   "fortDuLys": {
