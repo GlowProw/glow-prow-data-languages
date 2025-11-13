@@ -324,7 +324,7 @@
     }
   },
   "tankazoLumberyard": {
-    "name": "Tankazo Lumberyard",
+    "name": "坦卡佐伐木场",
     "description": {
       "general": ""
     }
@@ -378,13 +378,13 @@
     }
   },
   "raofiaWeaver": {
-    "name": "Raofia Weaver",
+    "name": "拉奥菲亚织坊",
     "description": {
       "general": "Clan of Fara weaver"
     }
   },
   "lambaWeaver": {
-    "name": "Lamba Weaver",
+    "name": "兰巴织坊",
     "description": {
       "general": "Sea People weaver"
     }
@@ -528,7 +528,7 @@
     }
   },
   "ruinedLighthouse": {
-    "name": "残破灯塔前哨站",
+    "name": "灯塔遗址",
     "description": {
       "general": ""
     }
@@ -540,7 +540,7 @@
     }
   },
   "karstLookout": {
-    "name": "喀斯特瞭望台前哨站",
+    "name": "喀斯特瞭望台",
     "description": {
       "general": ""
     }
@@ -564,31 +564,31 @@
     }
   },
   "fortLouis": {
-    "name": "路易斯堡前哨站",
+    "name": "路易斯要塞",
     "description": {
       "general": ""
     }
   },
   "royalBurialGround": {
-    "name": "皇家墓地前哨站",
+    "name": "皇家墓园",
     "description": {
       "general": ""
     }
   },
   "sacredTree": {
-    "name": "圣树前哨站",
+    "name": "圣树",
     "description": {
       "general": ""
     }
   },
   "varonaFalls": {
-    "name": "沃罗纳瀑布前哨站",
+    "name": "沃罗纳瀑布",
     "description": {
       "general": ""
     }
   },
   "lanitra": {
-    "name": "拉尼特拉前哨站",
+    "name": "拉尼特拉",
     "description": {
       "general": ""
     }
@@ -600,13 +600,13 @@
     }
   },
   "pillarTomb": {
-    "name": "石柱陵墓前哨站",
+    "name": "石柱墓穴",
     "description": {
       "general": ""
     }
   },
   "theNavigatorsCross": {
-    "name": "航海家十字路口前哨站",
+    "name": "航海十字",
     "description": {
       "general": ""
     }
@@ -618,13 +618,13 @@
     }
   },
   "poachersCache": {
-    "name": "盗猎者藏身处前哨站",
+    "name": "偷猎者藏宝处",
     "description": {
       "general": ""
     }
   },
   "kaaMangrove": {
-    "name": "卡亚红树林前哨站",
+    "name": "卡亚红树林",
     "description": {
       "general": ""
     }
@@ -636,7 +636,7 @@
     }
   },
   "greatUkuta": {
-    "name": "大乌库塔前哨站",
+    "name": "乌库塔",
     "description": {
       "general": ""
     }
@@ -648,7 +648,7 @@
     }
   },
   "motherOfShipwrecks": {
-    "name": "沉船之母前哨站",
+    "name": "万船冢",
     "description": {
       "general": ""
     }
