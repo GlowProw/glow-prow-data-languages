@@ -236,7 +236,7 @@
   "theNestInfernal": {
     "name": "排料内传输器",
     "description": {
-      "general": "从这里可以看到头盔"
+      "general": "从这里可以看到海舵社"
     }
   },
   "courtlyClamshell": {
@@ -596,7 +596,7 @@
   "bespokedWheel": {
     "name": "高压轮子",
     "description": {
-      "general": "让你的血腥双手摆脱我的头盔、邪恶的狗！"
+      "general": "让你的血腥双手摆脱我的海舵社、邪恶的狗！"
     }
   },
   "centerpieceWheel": {
@@ -630,7 +630,7 @@
     }
   },
   "bloodGodsHelm": {
-    "name": "血上帝的头盔",
+    "name": "血上帝的海舵社",
     "description": {
       "general": "把他的渴和他会引导你向上"
     }
@@ -642,7 +642,7 @@
     }
   },
   "clansHelm": {
-    "name": "闪光头盔",
+    "name": "闪光海舵社",
     "description": {
       "general": "带有看起来像折磨骨头的手指"
     }
@@ -1034,7 +1034,7 @@
   "binarySystem": {
     "name": "二进制系统",
     "description": {
-      "general": "手和头盔；水道和风"
+      "general": "手和海舵社；水道和风"
     }
   },
   "ashShade": {
@@ -4118,7 +4118,7 @@
   "necklaceFromTheAbyss": {
     "name": "来自深渊的 Necklace",
     "description": {
-      "general": "头盔成员相互了解的勋章"
+      "general": "海舵社成员相互了解的勋章"
     }
   },
   "pencuriBandana": {
@@ -4688,7 +4688,7 @@
   "topFromTheAbyss": {
     "name": "从深渊上方",
     "description": {
-      "general": "给头盔成员的专用金币"
+      "general": "给海舵社成员的专用金币"
     }
   },
   "imaraTop": {
@@ -5384,7 +5384,7 @@
   "inkFromTheAbyss": {
     "name": "来自深渊的墨水",
     "description": {
-      "general": "头盔中最忠于职守的成员在其身体上印上这个徽章。"
+      "general": "海舵社中最忠于职守的成员在其身体上印上这个徽章。"
     }
   },
   "keepingScore": {
@@ -8526,7 +8526,7 @@
     }
   },
   "blackBambooHelm": {
-    "name": "黑竹头盔",
+    "name": "黑竹海舵社",
     "description": {
       "general": "轻量和强度防止海洋喷射和箭头"
     }
@@ -8784,7 +8784,7 @@
     }
   },
   "honoraryHelm": {
-    "name": "名誉头盔",
+    "name": "名誉海舵社",
     "description": {
       "general": "作为挑战神的勇敢和有意的"
     }
@@ -9390,7 +9390,7 @@
     }
   },
   "verdantHelm": {
-    "name": "Verdant 头盔",
+    "name": "Verdant 海舵社",
     "description": {
       "general": "在战斗中和节日之后设置一个示例"
     }
@@ -11664,7 +11664,7 @@
     }
   },
   "hellKnightTop": {
-    "name": "头盔骑士",
+    "name": "海舵社骑士",
     "description": {
       "general": "几乎很好，只是残酷的"
     }
@@ -12234,7 +12234,7 @@
     }
   },
   "nineHells": {
-    "name": "九个头盔",
+    "name": "九个海舵社",
     "description": {
       "general": "他们都在等待你的敌人"
     }
@@ -12408,7 +12408,7 @@
     }
   },
   "murmillosHelm": {
-    "name": "Murmillo的头盔",
+    "name": "Murmillo的海舵社",
     "description": {
       "general": "来自不同年龄段的技能和勇敢的符号"
     }
@@ -15444,7 +15444,7 @@
     }
   },
   "handsOfHell": {
-    "name": "头盔之手",
+    "name": "海舵社之手",
     "description": {
       "general": "“一天他们会声称我。但不是今天。”"
     }
@@ -16692,7 +16692,7 @@
     }
   },
   "hellEntrenched": {
-    "name": "头盔",
+    "name": "海舵社",
     "description": {
       "general": "从目睹恐怖到变成恐怖。"
     }
@@ -16830,7 +16830,7 @@
     }
   },
   "toHellAndBack": {
-    "name": "回到头盔",
+    "name": "回到海舵社",
     "description": {
       "general": "为一个注定要摧毁的人"
     }
@@ -17280,7 +17280,7 @@
     }
   },
   "foulAsHell": {
-    "name": "作为头盔",
+    "name": "作为海舵社",
     "description": {
       "general": "它的存在本身就使得勇气消逝。"
     }
