@@ -1,0 +1,56 @@
+{
+  "cookery": {
+    "name": "Cookery"
+  },
+  "water": {
+    "name": "Water"
+  },
+  "piratesBonfire": {
+    "name": "Pirates Bonfire"
+  },
+  "helmLiaison": {
+    "name": "Helm Liaison"
+  },
+  "mailbox": {
+    "name": "Mailbox"
+  },
+  "smugglersNetwork": {
+    "name": "Smugglers Network"
+  },
+  "jobBoard": {
+    "name": "Job Board"
+  },
+  "bountyBoard": {
+    "name": "Bounty Board"
+  },
+  "warehouse": {
+    "name": "船仓"
+  },
+  "vanityAtelier": {
+    "name": "外观工坊"
+  },
+  "johnScurlocksOffice": {
+    "name": "John Scurlocks Office"
+  },
+  "hallowedGravestone": {
+    "name": "Hallowed Gravestone"
+  },
+  "factionBroker": {
+    "name": "Faction Broker"
+  },
+  "deathTides": {
+    "name": "Death Tides"
+  },
+  "refinery": {
+    "name": "Refinery"
+  },
+  "blacksmith": {
+    "name": "Blacksmith"
+  },
+  "shipwright": {
+    "name": "造船匠"
+  },
+  "carpenter": {
+    "name": "Carpenter"
+  }
+}
