@@ -33,3 +33,5 @@ files:
     translation: /src/data/%locale_with_underscore%/mapLocations.json
   - source: /src/data/en_US/sets.json
     translation: /src/data/%locale_with_underscore%/sets.json
+  - source: /src/data/en_US/npcs.json
+    translation: /src/data/%locale_with_underscore%/npcs.json

@@ -1,0 +1,56 @@
+{
+  "cookery": {
+    "name": "烹饪台"
+  },
+  "water": {
+    "name": "水"
+  },
+  "piratesBonfire": {
+    "name": "篝火"
+  },
+  "helmLiaison": {
+    "name": "海舵社联络员"
+  },
+  "mailbox": {
+    "name": "{location}邮箱"
+  },
+  "smugglersNetwork": {
+    "name": "{location}走私者网络"
+  },
+  "jobBoard": {
+    "name": "{location}工作板"
+  },
+  "bountyBoard": {
+    "name": "{location}悬赏板"
+  },
+  "warehouse": {
+    "name": "{location}仓库"
+  },
+  "vanityAtelier": {
+    "name": "{location}时装工作室"
+  },
+  "johnScurlocksOffice": {
+    "name": "圣安妮约翰·斯库洛克办公室"
+  },
+  "hallowedGravestone": {
+    "name": "{location}神圣墓碑"
+  },
+  "factionBroker": {
+    "name": "{location}派系经纪人"
+  },
+  "deathTides": {
+    "name": "{location}死亡潮汐"
+  },
+  "refinery": {
+    "name": "{location}精炼厂"
+  },
+  "blacksmith": {
+    "name": "铁匠"
+  },
+  "shipwright": {
+    "name": "{location}造船师"
+  },
+  "carpenter": {
+    "name": "{location}木匠"
+  }
+}
