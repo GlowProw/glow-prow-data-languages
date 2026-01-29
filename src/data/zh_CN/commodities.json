@@ -286,5 +286,13 @@
   "jasmineIncenseFlare": {
     "name": "茉莉香信号弹",
     "description": "点燃后，这种信号弹会散发出一种怪异却又宜人的香气。\n在世界事件浮标处使用此物品召唤悲泣之母。"
+  },
+  "azureFlare": {
+    "name": "Azure Flare",
+    "description": "This flare has a terrifying shimmer to it. Perhaps it has some connection to a greater curse..."
+  },
+  "hallowedFlare": {
+    "name": "Hallowed Flare",
+    "description": "This flare has an air that is disturbing yet whimsical. It almost seems to be cackling at you."
   }
 }
