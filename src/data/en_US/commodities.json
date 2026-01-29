@@ -286,5 +286,13 @@
   "jasmineIncenseFlare": {
     "name": "Jasmine Incense Flare",
     "description": "When lit, it gives off a sickly yet pleasant aroma."
+  },
+  "azureFlare": {
+    "name": "Azure Flare",
+    "description": "This flare has a terrifying shimmer to it. Perhaps it has some connection to a greater curse..."
+  },
+  "hallowedFlare": {
+    "name": "Hallowed Flare",
+    "description": "This flare has an air that is disturbing yet whimsical. It almost seems to be cackling at you."
   }
 }
