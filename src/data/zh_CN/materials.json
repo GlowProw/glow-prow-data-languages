@@ -13,7 +13,7 @@
   },
   "reapersToll": {
     "name": "死神之税",
-    "description": ""
+    "description": "一个奇怪的徽章，刻有邪恶的图案。有人声称它的表面在月光下会活过来。"
   },
   "gold": {
     "name": "金",
@@ -29,7 +29,7 @@
   },
   "azuriteGem": {
     "name": "蓝宝石原石",
-    "description": ""
+    "description": "这种宝石闪烁着令人不安的光泽，触感冰冷。如此冰冷，仿佛不仅仅是在吸走热量。"
   },
   "halfTaels": {
     "name": "半两银",
@@ -54,6 +54,10 @@
   "smugglersMark": {
     "name": "镀金马克",
     "description": ""
+  },
+  "eventPassPoints": {
+    "name": "通行证点数",
+    "description": "通过击败该活动的精英战舰积累活动点数，以解锁活动通行证中的奖励。"
   },
   "coconut": {
     "name": "椰子",

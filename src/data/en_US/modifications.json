@@ -323,8 +323,8 @@
     "name": "Amplified Toxic",
     "description": "Increases existing Toxic Damage by %s-%s%"
   },
-  "antidotes": {
-    "name": "Antidotes",
+  "antidote": {
+    "name": "Antidote",
     "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
   },
   "armored": {
@@ -362,6 +362,10 @@
   "tearingResistant": {
     "name": "Tearing Resistant",
     "description": "Increases Tearing Resistance by %s-%s%"
+  },
+  "resistAll": {
+    "name": "Resist All",
+    "description": "Increases All Secondary Damage Resistances by %s-%s%"
   },
   "stout": {
     "name": "Stout",

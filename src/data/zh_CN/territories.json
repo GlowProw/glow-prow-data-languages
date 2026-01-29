@@ -1,6 +1,6 @@
 {
   "islandsOfTheMoon": {
-    "name": "月之群岛"
+    "name": "月亮群岛"
   },
   "angayaCoast": {
     "name": "安加亚海岸"
@@ -9,22 +9,22 @@
     "name": "巨人飞跃"
   },
   "riverMouths": {
-    "name": "河口地区"
+    "name": "河口"
   },
   "rovaHill": {
     "name": "罗瓦山"
   },
   "reefSea": {
-    "name": "珊瑚礁海"
+    "name": "礁海"
   },
   "southwestPassage": {
-    "name": "西南通道"
+    "name": "西南航道"
   },
   "learntMensHill": {
-    "name": "智者之山"
+    "name": "学者山"
   },
   "noisyBe": {
-    "name": "喧嚣海滩"
+    "name": "喧闹湾"
   },
   "teninaCoast": {
     "name": "特尼纳海岸"
@@ -33,25 +33,25 @@
     "name": "圣安妮"
   },
   "bloodyChannel": {
-    "name": "血染海峡"
+    "name": "鲜血航道"
   },
   "ileRoyale": {
     "name": "皇家岛"
   },
   "portLHermine": {
-    "name": "埃尔米纳港"
+    "name": "莱尔米特港"
   },
   "baixioGrande": {
-    "name": "大浅滩"
+    "name": "贝肖格兰德"
   },
   "lEscale": {
-    "name": "莱斯卡尔"
+    "name": "莱斯卡勒"
   },
   "easternBasin": {
     "name": "东部盆地"
   },
   "centralBasin": {
-    "name": "中央盆地"
+    "name": "中部盆地"
   },
   "southernBasin": {
     "name": "南部盆地"
@@ -69,10 +69,10 @@
     "name": "布瓦瓦湖"
   },
   "jiwe": {
-    "name": "吉维"
+    "name": "吉韦"
   },
   "ziwaKubwa": {
-    "name": "兹瓦库布瓦"
+    "name": "济瓦库布瓦"
   },
   "harufu": {
     "name": "哈鲁夫"
@@ -81,25 +81,25 @@
     "name": "布里湖"
   },
   "sultaniIsland": {
-    "name": "苏丹尼岛"
+    "name": "苏丹岛"
   },
   "rondavels": {
-    "name": "朗达维尔"
+    "name": "龙达维尔"
   },
   "pilotBay": {
-    "name": "领航员湾"
+    "name": "领航湾"
   },
   "panyarJungle": {
     "name": "潘亚尔丛林"
   },
   "deltaOfSain": {
-    "name": "塞恩三角洲"
+    "name": "萨因三角洲"
   },
   "patamyarMountains": {
-    "name": "帕塔米尔山脉"
+    "name": "帕塔米亚山脉"
   },
   "sunyOutskirts": {
-    "name": "苏尼郊外"
+    "name": "苏尼郊区"
   },
   "berukSea": {
     "name": "贝鲁克海"
@@ -108,10 +108,10 @@
     "name": "奇乔姆尼亚丛林"
   },
   "deltaOfMe": {
-    "name": "米河三角洲"
+    "name": "米三角洲"
   },
   "kaongkangCoast": {
-    "name": "卡昂康海岸"
+    "name": "康康海岸"
   },
   "gulfOfNakh": {
     "name": "纳赫湾"
@@ -120,7 +120,7 @@
     "name": "哈里毛半岛"
   },
   "fortHarimau": {
-    "name": "哈里毛要塞"
+    "name": "哈里毛堡"
   },
   "telokPenjarah": {
     "name": "特洛克彭贾拉"
@@ -144,7 +144,7 @@
     "name": "洛加姆高地"
   },
   "musonStrait": {
-    "name": "穆松海峡"
+    "name": "穆森海峡"
   },
   "hutanRainforest": {
     "name": "胡坦雨林"
@@ -153,24 +153,24 @@
     "name": "胡坦高地"
   },
   "trisulaSea": {
-    "name": "特里斯拉海"
+    "name": "特里苏拉海"
   },
   "nagaSea": {
-    "name": "纳加海"
+    "name": "那迦海"
   },
   "cendonoStrait": {
     "name": "琴多诺海峡"
   },
   "trisulaCoast": {
-    "name": "特里斯拉海岸"
+    "name": "特里苏拉海岸"
   },
   "nagaCoast": {
-    "name": "纳加海岸"
+    "name": "那迦海岸"
   },
   "spiceIslands": {
     "name": "香料群岛"
   },
   "ringOfFire": {
-    "name": "火环"
+    "name": "火之环"
   }
 }

@@ -323,9 +323,9 @@
     "name": "强化毒素",
     "description": "将现有剧毒伤害提升%s-%s%"
   },
-  "antidotes": {
+  "antidote": {
     "name": "解毒剂",
-    "description": "命中目标后，可使目标的中毒状态效果累积减少%s-%s%"
+    "description": "命中时也会使目标的“中毒”状态效果累积值降低 %s-%s%"
   },
   "armored": {
     "name": "配备装甲",
@@ -362,6 +362,10 @@
   "tearingResistant": {
     "name": "穿透抗性",
     "description": "穿透伤害抗性提升%s-%s%"
+  },
+  "resistAll": {
+    "name": "全面抵抗",
+    "description": "增加所有次要伤害抗性 %s-%s%"
   },
   "stout": {
     "name": "结实",
