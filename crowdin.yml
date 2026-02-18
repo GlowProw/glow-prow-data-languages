@@ -5,6 +5,10 @@ files:
     translation: /src/data/%locale_with_underscore%/ships.json
   - source: /src/data/en_US/item.json
     translation: /src/data/%locale_with_underscore%/item.json
+  - source: /src/data/en_US/regions.json
+    translation: /src/data/%locale_with_underscore%/regions.json
+  - source: /src/data/en_US/territories.json
+    translation: /src/data/%locale_with_underscore%/territories.json
   - source: /src/data/en_US/commodities.json
     translation: /src/data/%locale_with_underscore%/commodities.json
   - source: /src/data/en_US/cosmetics.json
@@ -33,3 +37,5 @@ files:
     translation: /src/data/%locale_with_underscore%/mapLocations.json
   - source: /src/data/en_US/sets.json
     translation: /src/data/%locale_with_underscore%/sets.json
+  - source: /src/data/en_US/npcs.json
+    translation: /src/data/%locale_with_underscore%/npcs.json
