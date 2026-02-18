@@ -2278,7 +2278,7 @@
   "phoenixsTalonStrongbox": {
     "name": "凤凰爪号保险箱",
     "description": {
-      "general": "A tightly sealed strongbox containing items that once belonged to Li Tian Ning"
+      "general": "凤凰爪号保险箱"
     }
   },
   "ascensionChest": {
@@ -2883,7 +2883,7 @@
   "hauntedReapersCache": {
     "name": "Haunted Reaper's Cache",
     "description": {
-      "general": "An ornate chest containing unknown treasures. Some claim to have heard ghostly whispers from within."
+      "general": "一个装饰华丽的箱子，里面装着一些不为人知的珍宝。有人声称曾听到从里面传来的鬼魂般的低语声。"
     }
   },
   "gildedProtectorChest": {
@@ -2923,7 +2923,7 @@
     }
   },
   "seaOfKingdomsCosmeticsChest": {
-    "name": "Sea of Kingdoms Cosmetics Chest",
+    "name": "王国之海化妆品柜",
     "description": {
       "general": "An opulent chest which may contain cosmetics that are part of Sea of Kingdoms Set"
     }
@@ -2935,7 +2935,7 @@
     }
   },
   "ascendedFrostwailChest": {
-    "name": "Ascended Frostwail Chest",
+    "name": "寒霜宝箱",
     "description": {
       "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
     }
