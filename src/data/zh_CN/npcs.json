@@ -1,98 +1,56 @@
 {
   "cookery": {
-    "name": "烹饪台"
+    "name": "Cookery"
   },
   "water": {
-    "name": "水"
+    "name": "Water"
   },
   "piratesBonfire": {
-    "name": "篝火"
-  },
-  "azuriteLodestone": {
-    "name": "蓝铜磁石"
-  },
-  "woridTier": {
-    "name": "世界位阶"
-  },
-  "managerOfLePontMuet": {
-    "name": "雅妮塔 娜拉"
-  },
-  "sumugglersHideout": {
-    "name": "走私犯线人"
+    "name": "Pirates Bonfire"
   },
   "helmLiaison": {
-    "name": "海舵社联络员"
+    "name": "Helm Liaison"
   },
   "mailbox": {
-    "name": "邮箱 {location}"
+    "name": "Mailbox"
   },
   "smugglersNetwork": {
-    "name": "走私者网络 {location}"
-  },
-  "docks": {
-    "name": "码头 {location}"
-  },
-  "cache": {
-    "name": "藏匿点 {location}"
-  },
-  "liTianNing": {
-    "name": "李天宁 {location}"
-  },
-  "rempahTrader": {
-    "name": "香料商人 {location}"
-  },
-  "rogueTrader": {
-    "name": "不法商贩 {location}"
-  },
-  "vendor-overseasSmuggler": {
-    "name": "海外走私者 {location}"
-  },
-  "vendor-rempahWarrior": {
-    "name": "供应商 雷姆帕·沃里尔"
-  },
-  "overseasSmuggler": {
-    "name": "海外走私者"
+    "name": "Smugglers Network"
   },
   "jobBoard": {
-    "name": "任务板 {location}"
+    "name": "Job Board"
   },
   "bountyBoard": {
-    "name": "悬赏板 {location}"
+    "name": "Bounty Board"
   },
   "warehouse": {
-    "name": "仓库 {location}"
-  },
-  "hawker": {
-    "name": "小贩 {location}"
-  },
-  "commodityTrader": {
-    "name": "杂货商人 {location}"
+    "name": "船仓"
   },
   "vanityAtelier": {
-    "name": "时装工作室 {location}"
+    "name": "外观工坊"
   },
   "johnScurlocksOffice": {
-    "name": "圣安妮约翰·斯库洛克办公室"
+    "name": "John Scurlocks Office"
   },
   "hallowedGravestone": {
-    "name": "神圣墓碑 {location}"
+    "name": "Hallowed Gravestone"
   },
   "factionBroker": {
-    "name": "派系经纪人 {location}"
+    "name": "Faction Broker"
   },
   "deathTides": {
-    "name": "死亡潮汐"
+    "name": "Death Tides"
   },
   "refinery": {
-    "name": "精炼厂 {location}"
+    "name": "Refinery"
   },
   "blacksmith": {
-    "name": "铁匠"
+    "name": "Blacksmith"
   },
   "shipwright": {
-    "name": "造船师 {location}"
+    "name": "造船匠"
   },
   "carpenter": {
-    "name": "木匠 {location}"
+    "name": "Carpenter"
   }
 }

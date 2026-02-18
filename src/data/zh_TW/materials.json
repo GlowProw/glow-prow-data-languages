@@ -9,11 +9,11 @@
   },
   "sovereigns": {
     "name": "Sovereigns",
-    "description": ""
+    "description": "Awarded for completing high-level activities and used to purchase unique items."
   },
   "reapersToll": {
     "name": "Reaper's Toll",
-    "description": ""
+    "description": "A strange medallion with a sinister engraving. Some claim its face comes to life under the moonlight."
   },
   "gold": {
     "name": "Gold",
@@ -29,11 +29,11 @@
   },
   "azuriteGem": {
     "name": "Azurite Gem",
-    "description": ""
+    "description": "This gem gleams with an unsettling sheen and feels cold to the touch. So cold it seems to be sapping more than just heat."
   },
   "halfTaels": {
     "name": "Half-Taels",
-    "description": ""
+    "description": "These gold coins are sought after by many. Defeat the sea monsters and the Nian to acquire this newfound currency."
   },
   "silverLions": {
     "name": "Silver Lions",
@@ -41,7 +41,7 @@
   },
   "bloodiedDoubloon": {
     "name": "Bloodied Doubloon",
-    "description": ""
+    "description": "A coin of silver taken from the hands of a turncoat who paid dearly for offering their services to the megacorps."
   },
   "heartfeltWish": {
     "name": "Heartfelt Wish",
@@ -54,6 +54,10 @@
   "smugglersMark": {
     "name": "Smuggler's Mark",
     "description": ""
+  },
+  "eventPassPoints": {
+    "name": "Event Pass Points",
+    "description": "Accumulate event points by defeating Elite Warships from this event to unlock rewards in the Event Pass."
   },
   "coconut": {
     "name": "Coconut",

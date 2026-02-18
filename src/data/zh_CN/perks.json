@@ -1483,7 +1483,10 @@
   "evolved": {
     "name": "更新换代",
     "description": {
-      "general": "辅助武器的伤害和维修量提升15%"
+      "general": [
+        "With non-offensive Auxiliary Weapons equipped, restores own Severe Damage by 0.4% and Brace Strength by 2% per second",
+        "With offensive Auxiliary Weapons equipped, increases Weapon Damage by 20%, as well as for nearby friendly ships"
+      ]
     }
   },
   "brigUpgrade": {

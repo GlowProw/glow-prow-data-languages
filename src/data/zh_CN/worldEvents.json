@@ -1,5 +1,5 @@
 {
-  "anguishFromTheAbyss": "深渊的苦痛",
+  "anguishFromTheAbyss": "深渊悲鸣",
   "tidesOfTerror": "恐怖之潮",
   "theMizerja": "米泽贾",
   "theOpwelling": "涌升流",
@@ -8,7 +8,7 @@
   "anAllianceOfConvenience": "权宜同盟",
   "theRempahResupply": "任帕补给",
   "guidedByGuile": "诡计指引",
-  "symphonieMortelle": "致命交响曲",
+  "symphonieMortelle": "死亡交响",
   "verseOfVengeance": "复仇诗篇",
   "verseOfRemorse": "悔恨诗篇",
   "riskTheRisingTide": "冒着涨潮的危险",
@@ -19,8 +19,8 @@
   "easternExchange": "东方交易",
   "flamesOfTheDragon": "龙之焰",
   "theGloriousPhoenix": "荣耀凤凰",
-  "theSerpentsWrath": "毒蛇之怒",
-  "flamesOfThePhoenix": "凤凰之焰",
+  "theSerpentsWrath": "怒蛇之愤",
+  "flamesOfThePhoenix": "凤凰烈焰",
   "baitAndSwitch": "诱饵与调包",
   "stolenTreasures": "失窃宝藏",
   "curseOfTheSchaduw": "暗影的诅咒",
@@ -71,5 +71,8 @@
   "warCargo": "战争货物",
   "warConvoy": "战争护卫队",
   "opstuwing": "激增",
-  "soleilImperial": "帝国太阳号"
+  "soleilImperial": "帝国太阳号",
+  "kraken": "Kraken",
+  "theDrowningPlague": "The Drowning Plague",
+  "jawsOfRetribution": "Jaws of Retribution"
 }

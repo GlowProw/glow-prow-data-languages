@@ -2861,5 +2861,246 @@
       "6": "将扁嘴帆艇从5级升至6级。",
       "7": "将扁嘴帆艇从6级升至7级。"
     }
+  },
+  "ascendedRequiemOfTheLostEventCache": {
+    "name": "Ascended Event Cache (Requiem of the Lost)",
+    "description": {
+      "general": "内含一件进阶型事件武器。"
+    }
+  },
+  "ascendedTheDrownedOneChest": {
+    "name": "Ascended The Drowned One Chest",
+    "description": {
+      "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+    }
+  },
+  "exoticArmorAscendedCache": {
+    "name": "Exotic Armor Ascended Cache",
+    "description": {
+      "general": "A collection of Exotic Armor that will be ascended upon opening"
+    }
+  },
+  "hauntedReapersCache": {
+    "name": "Haunted Reaper's Cache",
+    "description": {
+      "general": "一个装饰华丽的箱子，里面装着一些不为人知的珍宝。有人声称曾听到从里面传来的鬼魂般的低语声。"
+    }
+  },
+  "gildedProtectorChest": {
+    "name": "Gilded Protector Chest",
+    "description": {
+      "general": "A chest containing Ascended Armor, a boon for one who hunts deadly monsters from the abyss."
+    }
+  },
+  "slayersChest": {
+    "name": "Slayer's Chest",
+    "description": {
+      "general": "A chest that may contain Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+    }
+  },
+  "gildedSlayersChest": {
+    "name": "Gilded Slayer's Chest",
+    "description": {
+      "general": "A chest containing Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+    }
+  },
+  "laPestesLockerMythic": {
+    "name": "La Peste's Locker (Mythic)",
+    "description": {
+      "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+    }
+  },
+  "emeraldSkullTalisman": {
+    "name": "Emerald Skull Talisman",
+    "description": {
+      "general": "An emerald unearthed from the depths of Africa and shaped into a fine crystal by Ungwana craftsmen. Believed to aid the cursed by easing the pain of the blight."
+    }
+  },
+  "eerieRing": {
+    "name": "Eerie Ring",
+    "description": {
+      "general": "A rusted ring set with an ominous-looking ruby, bright scarlet as blood against stone. Looking into the pulsing red gem stirs up a sense of anguish in your heart."
+    }
+  },
+  "seaOfKingdomsCosmeticsChest": {
+    "name": "王国之海化妆品柜",
+    "description": {
+      "general": "An opulent chest which may contain cosmetics that are part of Sea of Kingdoms Set"
+    }
+  },
+  "harbingersStrongbox": {
+    "name": "Harbinger's Strongbox",
+    "description": {
+      "general": "蔚蓝舰队精英船只的保险箱，似乎能吸收周围热量。"
+    }
+  },
+  "ascendedFrostwailChest": {
+    "name": "寒霜宝箱",
+    "description": {
+      "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+    }
+  },
+  "ascendedAzureSolsticeEventCache": {
+    "name": "Ascended Event Cache (Azure Solstice)",
+    "description": {
+      "general": "内含一件进阶型事件武器。"
+    }
+  },
+  "watersOfGowaSetChest": {
+    "name": "Waters of Gowa Set Chest",
+    "description": {
+      "general": "An opulent chest which may contain cosmetics that are part of the Waters of Gowa Set"
+    }
+  },
+  "corvetteUpgrade": {
+    "name": "Corvette Upgrade",
+    "description": {
+      "general": "Ship upgrade for the Corvette.",
+      "1": "将扁嘴帆艇从0级升至1级。",
+      "2": "将扁嘴帆艇从1级升至2级。",
+      "3": "将扁嘴帆艇从2级升至3级。",
+      "4": "将扁嘴帆艇从3级升至4级。",
+      "5": "将扁嘴帆艇从4级升至5级。",
+      "6": "将扁嘴帆艇从5级升至6级。",
+      "7": "将扁嘴帆艇从6级升至7级。"
+    }
+  },
+  "foundingCelebratoryChest": {
+    "name": "Founding Celebratory Chest",
+    "description": {
+      "general": "A chest to celebrate the challenges conquered during the Founding."
+    }
+  },
+  "krakenInkGlands": {
+    "name": "Kraken Ink Glands",
+    "description": {
+      "general": "Toxic glands from the Kraken, filled with corrosive venom strong enough to burn through hull and and flesh"
+    }
+  },
+  "krakenChest": {
+    "name": "Mysterious Chest (Kraken)",
+    "description": {
+      "general": "这箱子里藏着什么宝贝呢？"
+    }
+  },
+  "livingBastion": {
+    "name": "Living Bastion",
+    "description": {
+      "general": "Armor Rating increases while not taking damage. Its surface shifts subtly, as if breathing, with cracked plating and faded gold veins glowing faintly from accumulated stacks."
+    }
+  },
+  "mantleOfTheDeep": {
+    "name": "Mantle of the Deep",
+    "description": {
+      "general": "Reduces damage taken by Sea Monster attacks. Crafted from the salvaged hides of deep-dwelling leviathans by the keepers of balance beneath the waves."
+    }
+  },
+  "tidesReprieve": {
+    "name": "Tide's Reprieve",
+    "description": {
+      "general": "Activates a pulse that restores Hull Health to allies. Crafted from the rugged iron plates and heavy rivets of empires past."
+    }
+  },
+  "invertedFlagRack": {
+    "name": "Inverted Flag Rack",
+    "description": {
+      "general": "Increases Weapon Damage to Taunted targets. Sends a clear message to any foes who approach: \"Your flag has fallen. You're next.\""
+    }
+  },
+  "apothecaryToolBench": {
+    "name": "Apothecary Tool Bench",
+    "description": {
+      "general": "Enhances defense against the Poisened Status Effect while the ship is sailing. Assembled by a Rempah herbalist. Contains antidotes for jellyfish stings and fermented seaweed poisoning."
+    }
+  },
+  "anatomyCabinet": {
+    "name": "Anatomy Cabinet",
+    "description": {
+      "general": "Enhances Brace Strength against Sea Monster attacks. Some swear the knowledge within has saved many from the jaws of death."
+    }
+  },
+  "blubberWorks": {
+    "name": "Blubber Works",
+    "description": {
+      "general": "Reduces Reload Time of broadside weapons after dealing damage to Sea Monsters. The Sea People believe the essence of a creature can be used to influence or harm another."
+    }
+  },
+  "drowningCabinet": {
+    "name": "Drowning Cabinet",
+    "description": {
+      "general": "Increases Flooding Weapon Damage for targets with Severe Damage. Enterprising pirates have modified the design to force floodwaters deeper and faster into enemy hulls."
+    }
+  },
+  "ballistaMountSmithy": {
+    "name": "Ballista Mount Smithy",
+    "description": {
+      "general": "Enhances Ballista Weapons and increases damage to Ruptured targets. Modeled after the siege mounts once used in the fortified city of Galle, Ceylon."
+    }
+  },
+  "blightmaw": {
+    "name": "Blightmaw",
+    "description": {
+      "general": "Designed by the plague-warped minds of La Peste's alchemists. Fires shells laced with toxins that cling to enemy hulls, corroding their defenses and making them more vulnerable to subsequent attacks."
+    }
+  },
+  "stormtongue": {
+    "name": "Stormtongue",
+    "description": {
+      "general": "Repeatedly fires lightning and explosive projectiles. Its barrel is etched with stormcall glyphs and sigils of the phoenix."
+    }
+  },
+  "reachwarden": {
+    "name": "Reachwarden",
+    "description": {
+      "general": "Engineered for long-range support. Fires crystalline-tipped projectiles for restorative pulses to allies."
+    }
+  },
+  "celestialBoom": {
+    "name": "Celestial Boom",
+    "description": {
+      "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
+    }
+  },
+  "woundcaller": {
+    "name": "Woundcaller",
+    "description": {
+      "general": "Upon impact, its payload releases a pulse of maddening resonance, an ancient frequency said to echo the death cries of fallen beasts. Those struck are seized by a violent frenzy, often damaging their own hulls as they lash out blindly."
+    }
+  },
+  "cloudbinder": {
+    "name": "Cloudbinder",
+    "description": {
+      "general": "Each bolt inscribed with stormcall glyphs and stabilized by jade capacitors, allowing the weapon to arc across multiple enemies. The more targets linked, the more volatile the storm, crackling with celestial wrath."
+    }
+  },
+  "foundersCache": {
+    "name": "Founder's Cache",
+    "description": {
+      "general": "An ornate chest containing spoils from formidable foes of seasons past."
+    }
+  },
+  "zamaharibuChest": {
+    "name": "Mysterious Chest (Zamaharibu)",
+    "description": {
+      "general": "这箱子里藏着什么宝贝呢？"
+    }
+  },
+  "megaLestariChest": {
+    "name": "Mysterious Chest (Mega Lestari)",
+    "description": {
+      "general": "这箱子里藏着什么宝贝呢？"
+    }
+  },
+  "zamaharibusEye": {
+    "name": "Zamaharibu's Eye",
+    "description": {
+      "general": "Plucked from the eye socket of an age-old beast. Its unflinching gaze instills primal fear in you, as though you were being hunted like prey."
+    }
+  },
+  "megaLestarisEye": {
+    "name": "Mega Lestari's Eye",
+    "description": {
+      "general": "Taken from the head of an elusive master predator, unmatched in ferocity"
+    }
   }
 }
