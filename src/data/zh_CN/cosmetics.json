@@ -20218,5 +20218,1289 @@
     "description": {
       "general": "Too bad you have to sully yourself for silver"
     }
+  },
+  "flameScourge": {
+    "name": "Flame Scourge",
+    "description": {
+      "general": "Fire and water, heed the call"
+    }
+  },
+  "motherOfTeeth": {
+    "name": "Mother of Teeth",
+    "description": {
+      "general": "Worn by those who've faced the abyss and lived"
+    }
+  },
+  "fangscript": {
+    "name": "Fangscript",
+    "description": {
+      "general": "Read only by the marked"
+    }
+  },
+  "voidcaller": {
+    "name": "Voidcaller",
+    "description": {
+      "general": "Torn by storms, blessed by silence"
+    }
+  },
+  "krakensReach": {
+    "name": "Kraken's Reach",
+    "description": {
+      "general": "Beyond fear, into the realm of monsters"
+    }
+  },
+  "fangcoil": {
+    "name": "Fangcoil",
+    "description": {
+      "general": "It uncoils from the deep, shaped for the kill"
+    }
+  },
+  "depthdweller": {
+    "name": "Depthdweller",
+    "description": {
+      "general": "Cloaked in shadow, hardened by the hunt"
+    }
+  },
+  "divineSlayer": {
+    "name": "Divine Slayer",
+    "description": {
+      "general": "A name whispered by beasts and men"
+    }
+  },
+  "hidePiercer": {
+    "name": "Hide Piercer",
+    "description": {
+      "general": "\"Looks like a hungry little fella, don't he?\""
+    }
+  },
+  "velvetViper": {
+    "name": "Velvet Viper",
+    "description": {
+      "general": "The softest touch hides the sharpest fangs"
+    }
+  },
+  "coiledDeceit": {
+    "name": "Coiled Deceit",
+    "description": {
+      "general": "Silk threads twist. A serpent waits. The kiss is fatal."
+    }
+  },
+  "perfumedDeath": {
+    "name": "Perfumed Death",
+    "description": {
+      "general": "Deep emerald. Traces of incense. Whispers to the fold."
+    }
+  },
+  "gildedVenom": {
+    "name": "Gilded Venom",
+    "description": {
+      "general": "Midnight lacquer. A sheen like oil. Death wears a noble face."
+    }
+  },
+  "forsakenOne": {
+    "name": "Forsaken One",
+    "description": {
+      "general": "Feels good to get stabbed in the back"
+    }
+  },
+  "rageAndRevenge": {
+    "name": "Rage and Revenge",
+    "description": {
+      "general": "To cover your old wounds"
+    }
+  },
+  "marooned": {
+    "name": "Marooned",
+    "description": {
+      "general": "\"Color me resentful...\""
+    }
+  },
+  "skeweredLoyalty": {
+    "name": "Skewered Loyalty",
+    "description": {
+      "general": "Tell the world of your betrayal"
+    }
+  },
+  "daggersInTheBack": {
+    "name": "Daggers in the Back",
+    "description": {
+      "general": "\"Can't even bloody spell coup d'état!\""
+    }
+  },
+  "leftForDead": {
+    "name": "Left for Dead",
+    "description": {
+      "general": "This is what happens when you don't feed your crew"
+    }
+  },
+  "skullyWullies": {
+    "name": "Skully Wullies",
+    "description": {
+      "general": "Held together by pure vengeance"
+    }
+  },
+  "guttedGlitter": {
+    "name": "Gutted Glitter",
+    "description": {
+      "general": "A painful (but sparkly) warning"
+    }
+  },
+  "ghostly": {
+    "name": "Ghostly",
+    "description": {
+      "general": "One eye, one paw and nice cursed lives"
+    }
+  },
+  "wickedGreen": {
+    "name": "Wicked Green",
+    "description": {
+      "general": "For captains with infectious style"
+    }
+  },
+  "swampRot": {
+    "name": "Swamp Rot",
+    "description": {
+      "general": "Boggy and beautiful"
+    }
+  },
+  "spinOSin": {
+    "name": "Spin O' Sin",
+    "description": {
+      "general": "Goes round, squeals loud, smells worse"
+    }
+  },
+  "decayingDignity": {
+    "name": "Decaying Dignity",
+    "description": {
+      "general": "Being this rotten deserves a crest"
+    }
+  },
+  "seaMouldDeluxe": {
+    "name": "Sea Mould Deluxe",
+    "description": {
+      "general": "Stained with 100% organic fungus"
+    }
+  },
+  "greenwreck": {
+    "name": "Greenwreck",
+    "description": {
+      "general": "A lively shade of dead wood"
+    }
+  },
+  "emeraldFury": {
+    "name": "Emerald Fury",
+    "description": {
+      "general": "Like a green spectre in the night"
+    }
+  },
+  "inkClouds": {
+    "name": "Ink Clouds",
+    "description": {
+      "general": "Stained with the guts of slain sea beasts"
+    }
+  },
+  "krakensMight": {
+    "name": "Kraken's Might",
+    "description": {
+      "general": "Cast your foes into the abyss"
+    }
+  },
+  "depthsworn": {
+    "name": "Depthsworn",
+    "description": {
+      "general": "Feared by all, forged in the deep"
+    }
+  },
+  "aBehemothsCall": {
+    "name": "A Behemoth's Call",
+    "description": {
+      "general": "A tentacled beacon of misery"
+    }
+  },
+  "lostAtSea": {
+    "name": "Lost at Sea",
+    "description": {
+      "general": "A touch of ink and blood"
+    }
+  },
+  "deadbeast": {
+    "name": "Deadbeast",
+    "description": {
+      "general": "For dark waters and darker hearts"
+    }
+  },
+  "slithersweet": {
+    "name": "Slithersweet",
+    "description": {
+      "general": "\"Them suckers be feisty!\""
+    }
+  },
+  "lordOftheWake": {
+    "name": "Lord of the Wake",
+    "description": {
+      "general": "A gorgeous cloak that blinds whoever dares to look"
+    }
+  },
+  "huntHeeled": {
+    "name": "Hunt-Heeled",
+    "description": {
+      "general": "The hunt never ends, just changes tides"
+    }
+  },
+  "sandyBottoms": {
+    "name": "Sandy Bottoms",
+    "description": {
+      "general": "\"Dust them off, will ya?\""
+    }
+  },
+  "heartOfTheBeast": {
+    "name": "Heart of the Beast",
+    "description": {
+      "general": "You too can be the Kraken's emotional support human"
+    }
+  },
+  "aBehemothsDream": {
+    "name": "A Behemoth's Dream",
+    "description": {
+      "general": "Swallowed by the depths and spat back out"
+    }
+  },
+  "krakensKiss": {
+    "name": "Kraken's Kiss",
+    "description": {
+      "general": "For those who enjoy getting the life sucked out of them"
+    }
+  },
+  "squidGrip": {
+    "name": "Squid Grip",
+    "description": {
+      "general": "Fashioned from pure Kraken hide"
+    }
+  },
+  "tentacleTrinkets": {
+    "name": "Tentacle Trinkets",
+    "description": {
+      "general": "Magic charms to lure the ol' beastie from the deep"
+    }
+  },
+  "inkGaze": {
+    "name": "Ink Gaze",
+    "description": {
+      "general": "\"I've seen the monster, I swear!\""
+    }
+  },
+  "leftToDie": {
+    "name": "Left to Die",
+    "description": {
+      "general": "Fashioned from the back-skin of betrayers"
+    }
+  },
+  "wrathwrap": {
+    "name": "Wrathwrap",
+    "description": {
+      "general": "May your anger never go unfelt"
+    }
+  },
+  "spectreOfVengeance": {
+    "name": "Spectre of Vengeance",
+    "description": {
+      "general": "\"You can run, you can hide, but you can't escape my style.\""
+    }
+  },
+  "seaRotten": {
+    "name": "Sea Rotten",
+    "description": {
+      "general": "Better dead than sailing with cowards"
+    }
+  },
+  "redTide": {
+    "name": "Red Tide",
+    "description": {
+      "general": "They took your ship but left you with a mean neck scarf"
+    }
+  },
+  "sadPants": {
+    "name": "Sad Pants",
+    "description": {
+      "general": "Made from a flour sack and ship rope. Perfect to wallow in."
+    }
+  },
+  "rippedSoles": {
+    "name": "Ripped Soles",
+    "description": {
+      "general": "The good thing is -- spite keeps you standing"
+    }
+  },
+  "frayedAndForsworn": {
+    "name": "Frayed and Forsworn",
+    "description": {
+      "general": "A deep neckline so you can get stabbed in the heart"
+    }
+  },
+  "betrayalsGleam": {
+    "name": "Betrayal's Gleam",
+    "description": {
+      "general": "Hard to hang what won't stay dead"
+    }
+  },
+  "theShadeless": {
+    "name": "The Shadeless",
+    "description": {
+      "general": "A coronation in all but name"
+    }
+  },
+  "gunpowderGarnet": {
+    "name": "Gunpowder Garnet",
+    "description": {
+      "general": "Smooth as ambition and stolen tribute"
+    }
+  },
+  "regentsResolve": {
+    "name": "Regent's Resolve",
+    "description": {
+      "general": "Swirls for those who rule without crowns"
+    }
+  },
+  "lostHeir": {
+    "name": "Lost Heir",
+    "description": {
+      "general": "Laurels won, swords crossed"
+    }
+  },
+  "milesTheMenace": {
+    "name": "Miles the Menace",
+    "description": {
+      "general": "\"Yarrr! He always be stealing me nuts!\""
+    }
+  },
+  "crownOfBlades": {
+    "name": "Crown of Blades",
+    "description": {
+      "general": "Glory forged in blood, worn by those who conquer"
+    }
+  },
+  "bannerOfRenown": {
+    "name": "Banner of Renown",
+    "description": {
+      "general": "Stripes of power mark your place above all"
+    }
+  },
+  "ironDominion": {
+    "name": "Iron Dominion",
+    "description": {
+      "general": "The sea bends to steel and unyielding resolve"
+    }
+  },
+  "stormsCrest": {
+    "name": "Storm's Crest",
+    "description": {
+      "general": "Darkness unfurls, proclaiming your rule"
+    }
+  },
+  "captainFancyfoot": {
+    "name": "Captain Fancyfoot",
+    "description": {
+      "general": "Because wood's for deckhands!"
+    }
+  },
+  "eveOfTheTides": {
+    "name": "Eve of the Tides",
+    "description": {
+      "general": "Never let the tides or your heart, fall first"
+    }
+  },
+  "invisibleSandals": {
+    "name": "Invisible Sandals",
+    "description": {
+      "general": "Be careful not to lose them"
+    }
+  },
+  "daggered": {
+    "name": "Daggered",
+    "description": {
+      "general": "\"There be sharp thingies in them pockets!\""
+    }
+  },
+  "firstTemptation": {
+    "name": "First Temptation",
+    "description": {
+      "general": "Gifted once, taken twice"
+    }
+  },
+  "forbiddenPlume": {
+    "name": "Forbidden Plume",
+    "description": {
+      "general": "Tilted just so, to disarm before the draw"
+    }
+  },
+  "covenant": {
+    "name": "Covenant",
+    "description": {
+      "general": "A promise written in silk and gold"
+    }
+  },
+  "reefMud": {
+    "name": "Reef Mud",
+    "description": {
+      "general": "A touch of ink and seaweed forest"
+    }
+  },
+  "kelpAndWood": {
+    "name": "Kelp and Wood",
+    "description": {
+      "general": "May the souls of ancient beasts carry you far"
+    }
+  },
+  "predatorsFury": {
+    "name": "Predator's Fury",
+    "description": {
+      "general": "\"Hark! Something stirs beneath the waves!\""
+    }
+  },
+  "slithermark": {
+    "name": "Slithermark",
+    "description": {
+      "general": "A ghastly imprint, a herald of terror"
+    }
+  },
+  "whatDwellsBeneath": {
+    "name": "What Dwells Beneath",
+    "description": {
+      "general": "Etchings to accompany you to the deep"
+    }
+  },
+  "anAncientsCall": {
+    "name": "An Ancient's Call",
+    "description": {
+      "general": "These enchanted tentacle bones occasionally stir to life"
+    }
+  },
+  "sacredHunter": {
+    "name": "Sacred Hunter",
+    "description": {
+      "general": "A hard-won title, respected by all"
+    }
+  },
+  "crackleclaw": {
+    "name": "Crackleclaw",
+    "description": {
+      "general": "Your First Mate thinks they're gnarly"
+    }
+  },
+  "tentacledTidings": {
+    "name": "Tentacled Tidings",
+    "description": {
+      "general": "Etchings to accompany you to the deep"
+    }
+  },
+  "murkyWaters": {
+    "name": "Murky Waters",
+    "description": {
+      "general": "The color of pure Kraken slime"
+    }
+  },
+  "aLegendsEnd": {
+    "name": "A Legend's End",
+    "description": {
+      "general": "Only a few live to bear the mark"
+    }
+  },
+  "bonyBill": {
+    "name": "Bony Bill",
+    "description": {
+      "general": "Will tell your fortune in exchange for fishy treats"
+    }
+  },
+  "opulentFanfare": {
+    "name": "Opulent Fanfare",
+    "description": {
+      "general": "Somestimes, you have to toot your own horn"
+    }
+  },
+  "bleachedBone": {
+    "name": "Bleached Bone",
+    "description": {
+      "general": "Salt-eaten. Pale as corpses in the deep."
+    }
+  },
+  "leviathansLure": {
+    "name": "Leviathan's Lure",
+    "description": {
+      "general": "Primordial. The ocean's lungs. Every breath carries dread."
+    }
+  },
+  "anchorfang": {
+    "name": "Anchorfang",
+    "description": {
+      "general": "Iron and tooth entwined. A symbol of dominion, or doom."
+    }
+  },
+  "mawscript": {
+    "name": "Mawscript",
+    "description": {
+      "general": "Jagged lines. A warning etched. Few live to read it."
+    }
+  },
+  "barnaclesAndChains": {
+    "name": "Barnacles and Chains",
+    "description": {
+      "general": "Something to tip you off the edge"
+    }
+  },
+  "lastRestraint": {
+    "name": "Last Restraint",
+    "description": {
+      "general": "Held down for eternity"
+    }
+  },
+  "boundCurses": {
+    "name": "Bound Curses",
+    "description": {
+      "general": "\"Who says you can't glow while drowning?\""
+    }
+  },
+  "oneLastBreath": {
+    "name": "One Last Breath",
+    "description": {
+      "general": "Waterproof, even at the bottom of the ocean"
+    }
+  },
+  "moistSails": {
+    "name": "Moist Sails",
+    "description": {
+      "general": "Dyed in rotten seaweed"
+    }
+  },
+  "shipShackled": {
+    "name": "Ship Shackled",
+    "description": {
+      "general": "A chorus of chains"
+    }
+  },
+  "cryOfTheDeep": {
+    "name": "Cry of the Deep",
+    "description": {
+      "general": "For those who deserve the depths"
+    }
+  },
+  "sunkenFiend": {
+    "name": "Sunken Fiend",
+    "description": {
+      "general": "Truly, a fate well deserved"
+    }
+  },
+  "coralAndBone": {
+    "name": "Coral and Bone",
+    "description": {
+      "general": "Pretty things to go down with"
+    }
+  },
+  "griefmaiden": {
+    "name": "Griefmaiden",
+    "description": {
+      "general": "Please don't ask her to smile"
+    }
+  },
+  "gildlocked": {
+    "name": "Gildlocked",
+    "description": {
+      "general": "A mournful tome of romantic poetry"
+    }
+  },
+  "gloomwake": {
+    "name": "Gloomwake",
+    "description": {
+      "general": "A cursed share, just for you"
+    }
+  },
+  "velvetVeil": {
+    "name": "Velvet Veil",
+    "description": {
+      "general": "\"May you face nothing but loss and misery!\""
+    }
+  },
+  "lovelost": {
+    "name": "Lovelost",
+    "description": {
+      "general": "Embroidered with wrath"
+    }
+  },
+  "truthkeeper": {
+    "name": "Truthkeeper",
+    "description": {
+      "general": "For the double-crosser you truly are"
+    }
+  },
+  "eyesOfFury": {
+    "name": "Eyes of Fury",
+    "description": {
+      "general": "\"Look kindly upon her.\""
+    }
+  },
+  "deadwakeWheel": {
+    "name": "Deadwake",
+    "description": {
+      "general": "Helmed by the dead, dredged by the hollowed"
+    }
+  },
+  "jaeger": {
+    "name": "Jaeger",
+    "description": {
+      "general": "The name whispered before the strike"
+    }
+  },
+  "hookmaw": {
+    "name": "Hookmaw",
+    "description": {
+      "general": "Grips the prow with steel and spite"
+    }
+  },
+  "boundlessTrail": {
+    "name": "Boundless Trail",
+    "description": {
+      "general": "Burnished steel, from the boundless chase"
+    }
+  },
+  "stalkweave": {
+    "name": "Stalkweave",
+    "description": {
+      "general": "Crimson cloth, marked by golden prey"
+    }
+  },
+  "spikemark": {
+    "name": "Spikemark",
+    "description": {
+      "general": "Hunt without mercy"
+    }
+  },
+  "jaegersPursuit": {
+    "name": "Jaeger's Pursuit",
+    "description": {
+      "general": "Draped in spoils, bound by the thrill of the hunt"
+    }
+  },
+  "trenchbound": {
+    "name": "Trenchbound",
+    "description": {
+      "general": "A thrilling descent to the sea's darkest depths"
+    }
+  },
+  "wailingWaders": {
+    "name": "Wailing Waders",
+    "description": {
+      "general": "The weight of the deep clings to your heels"
+    }
+  },
+  "waterlogged": {
+    "name": "Waterlogged",
+    "description": {
+      "general": "Always remember where you last sank"
+    }
+  },
+  "tricorneOfRuin": {
+    "name": "Tricorne of Ruin",
+    "description": {
+      "general": "Never breaches the chaos above"
+    }
+  },
+  "seaweedsClasp": {
+    "name": "Seaweed's Clasp",
+    "description": {
+      "general": "Woven from study deep-sea plants"
+    }
+  },
+  "tidebinders": {
+    "name": "Tidebinders",
+    "description": {
+      "general": "Drag your foes into the abyss"
+    }
+  },
+  "watchersGaze": {
+    "name": "Watcher's Gaze",
+    "description": {
+      "general": "The abyss takes your sight, but gives you its gaze"
+    }
+  },
+  "theDrownedCreed": {
+    "name": "The Drowned Creed",
+    "description": {
+      "general": "The sea sings its own scripture"
+    }
+  },
+  "huntersBindings": {
+    "name": "Hunter's Bindings",
+    "description": {
+      "general": "Ready to take down man or beast"
+    }
+  },
+  "bonebreakersVow": {
+    "name": "Bonebreaker's Vow",
+    "description": {
+      "general": "Worn tight, so nothing slips. Neither prey, nor nerve."
+    }
+  },
+  "theBlindHunt": {
+    "name": "The Blind Hunt",
+    "description": {
+      "general": "You don't need both eyes to see fear"
+    }
+  },
+  "skinnersTricorne": {
+    "name": "Skinner's Tricorne",
+    "description": {
+      "general": "Keeps the sun out and the stench in"
+    }
+  },
+  "fangOfDominion": {
+    "name": "Fang of Dominion",
+    "description": {
+      "general": "\"The sea made me a pirate. The wilds made their master.\""
+    }
+  },
+  "trophyStriders": {
+    "name": "Trophy Striders",
+    "description": {
+      "general": "Hide tough enough to outlast the hunt"
+    }
+  },
+  "trackmarked": {
+    "name": "Trackmarked",
+    "description": {
+      "general": "For silent steps across the trail"
+    }
+  },
+  "warlordsHide": {
+    "name": "Warlord's Hide",
+    "description": {
+      "general": "Layered in fur and leather -- warmth, armor, and warning alike"
+    }
+  },
+  "savageScript": {
+    "name": "Savage Script",
+    "description": {
+      "general": "Each mark in remembrance of your kills"
+    }
+  },
+  "keeperOfCoin": {
+    "name": "Keeper of Coin",
+    "description": {
+      "general": "Gold can either buy loyalty, or bury it"
+    }
+  },
+  "fortunesHold": {
+    "name": "Fortune's Hold",
+    "description": {
+      "general": "Valor and riches are but a grasp away"
+    }
+  },
+  "masterOfShadows": {
+    "name": "Master of Shadows",
+    "description": {
+      "general": "Soft whispers of a cursed past"
+    }
+  },
+  "boldBrass": {
+    "name": "Bold Brass",
+    "description": {
+      "general": "Twirl fate and foe around your finger"
+    }
+  },
+  "moonlitTricorne": {
+    "name": "Moonlit Tricorne",
+    "description": {
+      "general": "Memories of moonlight kills and ark water"
+    }
+  },
+  "silkTouch": {
+    "name": "Silk Touch",
+    "description": {
+      "general": "Even a rogue enjoys sophistication"
+    }
+  },
+  "quiltedStrides": {
+    "name": "Quilted Strides",
+    "description": {
+      "general": "A unique mix of quilted leather and gold filigree"
+    }
+  },
+  "gallantborn": {
+    "name": "Gallantborn",
+    "description": {
+      "general": "For fine steps across ballrooms and ship decks"
+    }
+  },
+  "theBaronOfBaroque": {
+    "name": "The Baron of Baroque",
+    "description": {
+      "general": "A truly opulent piece of clothing"
+    }
+  },
+  "ahoy": {
+    "name": "Ahoy!",
+    "description": {
+      "general": "\"Nice ta meet ya, Cully!\""
+    }
+  },
+  "theChasmsCall": {
+    "name": "The Chasm's Call",
+    "description": {
+      "general": "Noble colors for a noble beast"
+    }
+  },
+  "amethystBrine": {
+    "name": "Amethyst Brine",
+    "description": {
+      "general": "Salty shades of purple"
+    }
+  },
+  "deathsHandEmblem": {
+    "name": "Death's Hand Emblem",
+    "description": {
+      "general": "A dangerous omen amongst the waves"
+    }
+  },
+  "suckerswirl": {
+    "name": "Suckerswirl",
+    "description": {
+      "general": "Twisted tentacles to surround your sails"
+    }
+  },
+  "hardfoot": {
+    "name": "Hardfoot",
+    "description": {
+      "general": "Solid under pressure, just like its owner"
+    }
+  },
+  "hauteMagnifique": {
+    "name": "Haute Magnifique",
+    "description": {
+      "general": "\"Ooh, fancy symbol, that!\""
+    }
+  },
+  "cobaltCorsair": {
+    "name": "Cobalt Corsair",
+    "description": {
+      "general": "For sails that catch wind and glory"
+    }
+  },
+  "crownmetal": {
+    "name": "Crownmetal",
+    "description": {
+      "general": "Tempered and burnished for war"
+    }
+  },
+  "nobleflame": {
+    "name": "Nobleflame",
+    "description": {
+      "general": "Gilded in royal filigree"
+    }
+  },
+  "lionsRoar": {
+    "name": "Lion's Roar",
+    "description": {
+      "general": "A show of might, a true king of the seas"
+    }
+  },
+  "flameWind": {
+    "name": "Flame Wind",
+    "description": {
+      "general": "Set the skies afire"
+    }
+  },
+  "zwartGoud": {
+    "name": "Zwart Goud",
+    "description": {
+      "general": "Brace the waves in black and gold"
+    }
+  },
+  "helmBanier": {
+    "name": "Helm Banier",
+    "description": {
+      "general": "A daring display of Dutch power"
+    }
+  },
+  "brassbound": {
+    "name": "Brassbound",
+    "description": {
+      "general": "A burnished hull for those who never bend"
+    }
+  },
+  "twoFacedGrin": {
+    "name": "Two-Faced Grin",
+    "description": {
+      "general": "Flags raised, bonus bared, loyalty sold dear"
+    }
+  },
+  "crimsonCreed": {
+    "name": "Crimson Creed",
+    "description": {
+      "general": "For pirates who pledge only to themselves"
+    }
+  },
+  "intricateSchemes": {
+    "name": "Intricate Schemes",
+    "description": {
+      "general": "Flourishes for those who play both sides"
+    }
+  },
+  "sunShimmer": {
+    "name": "Sun Shimmer",
+    "description": {
+      "general": "Pure gold dust and pride"
+    }
+  },
+  "streetCinch": {
+    "name": "Street Cinch",
+    "description": {
+      "general": "\"You hold your gun here, your coin here, and your nerve here.\""
+    }
+  },
+  "docksideDeals": {
+    "name": "Dockside Deals",
+    "description": {
+      "general": "\"He thought I'd shake on it. I did -- after I took his finger.\""
+    }
+  },
+  "dingleDangles": {
+    "name": "Dingle Dangles",
+    "description": {
+      "general": "Repurposed brass rolled in gold dust"
+    }
+  },
+  "cutpursesLuck": {
+    "name": "Cutpurse's Luck",
+    "description": {
+      "general": "\"Pure gold, warm from another's pocket.\""
+    }
+  },
+  "theOldGuard": {
+    "name": "The Old Guard",
+    "description": {
+      "general": "\"Every scar under this brim's got a story.\""
+    }
+  },
+  "strungPromises": {
+    "name": "Strung Promises",
+    "description": {
+      "general": "\"He swore he'd find me agin. I swore I wouldn't wait that long.\""
+    }
+  },
+  "bilgeRatsCut": {
+    "name": "Bilge Rat's Cut",
+    "description": {
+      "general": "\"They laughed at the patchwork. Then, I took their throats.\""
+    }
+  },
+  "dockrunners": {
+    "name": "Dockrunners",
+    "description": {
+      "general": "\"Swift enough to chase a purse. Silent enough to make a kill.\""
+    }
+  },
+  "scrappySuede": {
+    "name": "Scrappy Suede",
+    "description": {
+      "general": "Messy but magnificent"
+    }
+  },
+  "netherworld": {
+    "name": "Netherworld",
+    "description": {
+      "general": "Dead flames glow the brightest"
+    }
+  },
+  "burningMist": {
+    "name": "Burning Mist",
+    "description": {
+      "general": "Sin and singed edges"
+    }
+  },
+  "graveyardWind": {
+    "name": "Graveyard Wind",
+    "description": {
+      "general": "Cracked sails that whisper words of the dead"
+    }
+  },
+  "soulReaper": {
+    "name": "Soul Reaper",
+    "description": {
+      "general": "\"poor things are barely hanging on!\""
+    }
+  },
+  "hellfiresShine": {
+    "name": "Hellfire's Shine",
+    "description": {
+      "general": "\"A classy upgrade fer yer rotten hull!\""
+    }
+  },
+  "twinforged": {
+    "name": "Twinforged",
+    "description": {
+      "general": "Twice the hell to raise"
+    }
+  },
+  "boneglint": {
+    "name": "Boneglint",
+    "description": {
+      "general": "A ghostly turn of fortune"
+    }
+  },
+  "crownedDeepskin": {
+    "name": "Crowned Deepskin",
+    "description": {
+      "general": "Born of sky, sea, and fire, it bows to none"
+    }
+  },
+  "gildscroll": {
+    "name": "Gildscroll",
+    "description": {
+      "general": "Unfurls like a royal decree"
+    }
+  },
+  "bloodiedWings": {
+    "name": "Bloodied Wings",
+    "description": {
+      "general": "Blackened cloth, stitched with wrath and gold"
+    }
+  },
+  "throatReaver": {
+    "name": "Throat Reaver",
+    "description": {
+      "general": "Grips the tide, hungers for the kill"
+    }
+  },
+  "emberwake": {
+    "name": "Emberwake",
+    "description": {
+      "general": "Forged in flame, polished with conquest"
+    }
+  },
+  "crimsonRiot": {
+    "name": "Crimson Riot",
+    "description": {
+      "general": "Crimson-lit, carved to conquer"
+    }
+  },
+  "beaconOfFury": {
+    "name": "Beacon of Fury",
+    "description": {
+      "general": "Wings of fire, carved with fury, crowned in flight"
+    }
+  },
+  "chomperfin": {
+    "name": "Chomperfin",
+    "description": {
+      "general": "This little guy has the most legendary battle squeak"
+    }
+  },
+  "endslash": {
+    "name": "Endslash",
+    "description": {
+      "general": "Heads will roll"
+    }
+  },
+  "daggerpoint": {
+    "name": "Daggerpoint",
+    "description": {
+      "general": "Etched in the ashes of your enemies"
+    }
+  },
+  "goldenGuillotine": {
+    "name": "Golden Guillotine",
+    "description": {
+      "general": "A bit of razzle, dazzle, and death"
+    }
+  },
+  "broadaxeEddy": {
+    "name": "Broadaxe Eddy",
+    "description": {
+      "general": "The nicest guy around, really"
+    }
+  },
+  "aSanguineEnd": {
+    "name": "A Sanguine End",
+    "description": {
+      "general": "The sea runs red with destruction"
+    }
+  },
+  "executioner": {
+    "name": "Executioner",
+    "description": {
+      "general": "\"Get to the chopping block, now!\""
+    }
+  },
+  "cerberusCall": {
+    "name": "Cerberus Call",
+    "description": {
+      "general": "Always hungry for the hunt"
+    }
+  },
+  "wolfmark": {
+    "name": "Wolfmark",
+    "description": {
+      "general": "A rather beastly trim"
+    }
+  },
+  "umberhide": {
+    "name": "Umberhide",
+    "description": {
+      "general": "There might be some fur on this one"
+    }
+  },
+  "theDamnedOnes": {
+    "name": "The Damned Ones",
+    "description": {
+      "general": "Three very good bois"
+    }
+  },
+  "rustyBones": {
+    "name": "Rusty Bones",
+    "description": {
+      "general": "The color of guts and glory"
+    }
+  },
+  "hellHound": {
+    "name": "Hell Hound",
+    "description": {
+      "general": "\"Bitey, bitey!\""
+    }
+  },
+  "moltenFang": {
+    "name": "Molten Fang",
+    "description": {
+      "general": "Steer your way to hell"
+    }
+  },
+  "crownAndPistols": {
+    "name": "Crown and Pistols",
+    "description": {
+      "general": "Regal steel and crossed promises"
+    }
+  },
+  "writOfBlood": {
+    "name": "Writ of Blood",
+    "description": {
+      "general": "Filigree flourishes mask the truth. Every scroll signed in red."
+    }
+  },
+  "burgundyBetrayal": {
+    "name": "Burgundy Betrayal",
+    "description": {
+      "general": "Wine-dark. Rich as a feast."
+    }
+  },
+  "sovereignsTarnish": {
+    "name": "Sovereign's Tarnish",
+    "description": {
+      "general": "A sheen dulled by salt and smoke"
+    }
+  },
+  "brineAndBone": {
+    "name": "Brine and Bone",
+    "description": {
+      "general": "Stiffened by brine, edges crusted with mirror-dust"
+    }
+  },
+  "saltyVisions": {
+    "name": "Salty Visions",
+    "description": {
+      "general": "Forged from cursed silver"
+    }
+  },
+  "candleBehindGlass": {
+    "name": "Candle Behind Glass",
+    "description": {
+      "general": "A pale flame. A memory of midnight."
+    }
+  },
+  "theGildedRemnant": {
+    "name": "The Gilded Remnant",
+    "description": {
+      "general": "Silver leaf and indigo leather, lacquered by the abyss"
+    }
+  },
+  "promiseUnkept": {
+    "name": "Promise Unkept",
+    "description": {
+      "general": "Weathered lace and tear-streaked satin"
+    }
+  },
+  "claspOfAnOath": {
+    "name": "Clasp of An Oath",
+    "description": {
+      "general": "Silvered leather, cracked and shining. Grips like a promise."
+    }
+  },
+  "deathsHeadHand": {
+    "name": "死者头部",
+    "description": {
+      "general": "A ring of tarnished silver, fuses to the wearer's finger"
+    }
+  },
+  "drownedLedgers": {
+    "name": "Drowned Ledgers",
+    "description": {
+      "general": "Pockets of silt, candle-fat, and old accounts"
+    }
+  },
+  "theProfamedCourt": {
+    "name": "The Profaned Court",
+    "description": {
+      "general": "Polished black, cracked like a parched seabed"
+    }
+  },
+  "lordsDefiance": {
+    "name": "Lord's Defiance",
+    "description": {
+      "general": "Feathers for the court, steel for the storm."
+    }
+  },
+  "duellistsMark": {
+    "name": "Duellist's Mark",
+    "description": {
+      "general": "\"He struck first. I struck last.\""
+    }
+  },
+  "theCorsairsVesture": {
+    "name": "The Corsair's Vesture",
+    "description": {
+      "general": "A gentleman doesn't dress down for mutiny"
+    }
+  },
+  "challengersTotem": {
+    "name": "Challenger's Totem",
+    "description": {
+      "general": "\"My family's mark, and proof I survived them.\""
+    }
+  },
+  "gentlemansGrip": {
+    "name": "Gentleman's Grip",
+    "description": {
+      "general": "\"A steady hand for brandy or blade.\""
+    }
+  },
+  "duelingSash": {
+    "name": "Dueling Sash",
+    "description": {
+      "general": "\"A nobleman's belt once. Now it holds grudges.\""
+    }
+  },
+  "roguesBreeches": {
+    "name": "Rogue's Breeches",
+    "description": {
+      "general": "\"Tailored in London. Torn in Nassau. Fitted for the future.\""
+    }
+  },
+  "gallantSteps": {
+    "name": "Gallant Steps",
+    "description": {
+      "general": "Some habits die harder than kings"
+    }
+  },
+  "nightBark": {
+    "name": "Night Bark",
+    "description": {
+      "general": "A worthy upgrade for a true pirate metalhead"
+    }
   }
 }
