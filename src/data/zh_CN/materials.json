@@ -13,7 +13,7 @@
   },
   "reapersToll": {
     "name": "死神之税",
-    "description": "A strange medallion with a sinister engraving. Some claim its face comes to life under the moonlight."
+    "description": "一个奇怪的徽章，刻有邪恶的图案。有人声称它的表面在月光下会活过来。"
   },
   "gold": {
     "name": "金",
@@ -29,7 +29,7 @@
   },
   "azuriteGem": {
     "name": "蓝宝石原石",
-    "description": "This gem gleams with an unsettling sheen and feels cold to the touch. So cold it seems to be sapping more than just heat."
+    "description": "这种宝石闪烁着令人不安的光泽，触感冰冷。如此冰冷，仿佛不仅仅是在吸走热量。"
   },
   "halfTaels": {
     "name": "半两银",
@@ -56,8 +56,8 @@
     "description": ""
   },
   "eventPassPoints": {
-    "name": "Event Pass Points",
-    "description": "Accumulate event points by defeating Elite Warships from this event to unlock rewards in the Event Pass."
+    "name": "通行证点数",
+    "description": "通过击败该活动的精英战舰积累活动点数，以解锁活动通行证中的奖励。"
   },
   "coconut": {
     "name": "椰子",
