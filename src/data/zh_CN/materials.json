@@ -52,7 +52,11 @@
     "description": "这种精神的强度已经超越了顶层。它的丰富和含油的材质穿透了它的玻璃封装。"
   },
   "smugglersMark": {
-    "name": "镀金马克",
+    "name": "走私者马克",
+    "description": ""
+  },
+  "charcoal": {
+    "name": "木炭",
     "description": ""
   },
   "eventPassPoints": {
