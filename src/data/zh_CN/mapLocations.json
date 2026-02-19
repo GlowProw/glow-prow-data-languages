@@ -1,33 +1,51 @@
 {
-  "anyoneOutpost": {
-    "name": "任何前哨战"
-  },
-  "anyoneDen": {
-    "name": "任何窝点"
-  },
   "laBastide": {
-    "name": "不破堡垒"
+    "name": "不破堡垒",
+    "description": {
+      "general": ""
+    }
   },
   "oostenCapital": {
-    "name": "东海湾首府"
+    "name": "东海湾首府",
+    "description": {
+      "general": ""
+    }
   },
   "sunyCapital": {
-    "name": "桑尼首府"
+    "name": "桑尼首府",
+    "description": {
+      "general": ""
+    }
   },
   "teninaTown": {
-    "name": "特尼那城"
+    "name": "特尼那城",
+    "description": {
+      "general": ""
+    }
   },
   "ankohonana": {
-    "name": "安科霍纳那"
+    "name": "安科霍纳那",
+    "description": {
+      "general": ""
+    }
   },
   "jiwe": {
-    "name": "坚石城"
+    "name": "坚石城",
+    "description": {
+      "general": ""
+    }
   },
   "sainteAnne": {
-    "name": "圣安妮"
+    "name": "圣安妮",
+    "description": {
+      "general": ""
+    }
   },
   "telokPenjarah": {
-    "name": "落草湾"
+    "name": "特洛克·佩尼亚拉老巢",
+    "description": {
+      "general": ""
+    }
   },
   "guerande": {
     "name": "盖朗德",
@@ -174,88 +192,172 @@
     }
   },
   "fonderieRoyale": {
-    "name": "皇家铸造厂"
+    "name": "皇家铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "duisterEastFoundry": {
-    "name": "东黑影铸造厂"
+    "name": "东黑影铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "duisterWestFoundry": {
-    "name": "西黑影铸造厂"
+    "name": "西黑影铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "duisterNorthFoundry": {
-    "name": "北黑影铸造厂"
+    "name": "北黑影铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "trisulaFoundry": {
-    "name": "三叉铸造厂"
+    "name": "三叉铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "ladaFoundry": {
-    "name": "拉达铸造厂"
+    "name": "拉达铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "kotaLamaFoundry": {
-    "name": "老城铸造厂"
+    "name": "老城铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "southDamaiFoundry": {
-    "name": "南达迈铸造厂"
+    "name": "南达迈铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "sunyFoundry": {
-    "name": "桑尼铸造厂"
+    "name": "桑尼铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "sadjoaFoundry": {
-    "name": "萨加铸造厂"
+    "name": "萨加铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "tambyFoundry": {
-    "name": "谭比铸造厂"
+    "name": "谭比铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "pembeFoundry": {
-    "name": "彭贝铸造厂"
+    "name": "彭贝铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "jiweFoundry": {
-    "name": "坚石城铸造厂"
+    "name": "坚石城铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "wawuviFoundry": {
-    "name": "瓦乌维铸造厂"
+    "name": "瓦乌维铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "mumaliFoundry": {
-    "name": "姆马里铸造厂"
+    "name": "姆马里铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "northDamaiFoundry": {
-    "name": "北达迈铸造厂"
+    "name": "北达迈铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "duBoisLumberyard": {
-    "name": "杜波依斯伐木场"
+    "name": "杜波依斯伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "laarSouthLumbery": {
-    "name": "南拉尔伐木场"
+    "name": "南拉尔伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "laarWestLumbery": {
-    "name": "西拉尔伐木场"
+    "name": "西拉尔伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "suburLumberyard": {
-    "name": "萨博伐木场"
+    "name": "萨博伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "kencurLumberyard": {
-    "name": "沙姜地铸造厂"
+    "name": "沙姜地铸造厂",
+    "description": {
+      "general": ""
+    }
   },
   "suntLumberyard": {
-    "name": "桑尼伐木场"
+    "name": "桑尼伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "tankazoLumberyard": {
-    "name": "坦卡佐伐木场"
+    "name": "坦卡佐伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "tsifoLumberyard": {
-    "name": "茨弗伐木场"
+    "name": "茨弗伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "kambiLumberyard": {
-    "name": "坎比伐木场"
+    "name": "坎比伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "harufuLumberyard": {
-    "name": "哈路弗伐木场"
+    "name": "哈路弗伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "rondavelsLumberyard": {
-    "name": "茅屋伐木场"
+    "name": "茅屋伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "kotaLamaLumberyard": {
-    "name": "老城伐木场"
+    "name": "老城伐木场",
+    "description": {
+      "general": ""
+    }
   },
   "kencurWeaver": {
     "name": "沙姜地织坊",
@@ -312,132 +414,261 @@
     }
   },
   "fortDuLys": {
-    "name": "杜里要塞"
+    "name": "杜里要塞",
+    "description": {
+      "general": ""
+    }
   },
   "fortDuister": {
-    "name": "黑暗要塞"
+    "name": "黑暗要塞",
+    "description": {
+      "general": ""
+    }
   },
   "megafortOosten": {
-    "name": "东海湾超巨要塞"
+    "name": "东海湾超巨要塞",
+    "description": {
+      "general": ""
+    }
   },
   "fortPremie": {
-    "name": "高首要塞"
+    "name": "高首要塞",
+    "description": {
+      "general": ""
+    }
   },
   "fortPrakoso": {
-    "name": "普拉科索要塞"
+    "name": "普拉科索要塞",
+    "description": {
+      "general": ""
+    }
   },
   "fortHarimau": {
-    "name": "猛虎要塞"
+    "name": "猛虎要塞",
+    "description": {
+      "general": ""
+    }
   },
   "fortGranbie": {
-    "name": "格兰比要塞"
+    "name": "格兰比要塞",
+    "description": {
+      "general": ""
+    }
   },
   "fortDuBout": {
-    "name": "终焉要塞"
+    "name": "终焉要塞",
+    "description": {
+      "general": ""
+    }
   },
   "grandFort": {
-    "name": "宏伟要塞"
+    "name": "宏伟要塞",
+    "description": {
+      "general": ""
+    }
   },
   "bukitCandi": {
-    "name": "圣殿山"
+    "name": "圣殿山",
+    "description": {
+      "general": ""
+    }
   },
   "theOubliette": {
-    "name": "密牢"
+    "name": "密牢",
+    "description": {
+      "general": ""
+    }
   },
   "grandeFalaise": {
-    "name": "大法莱斯"
+    "name": "大法莱斯",
+    "description": {
+      "general": ""
+    }
   },
   "dutchmansCamp": {
-    "name": "荷兰人营地"
+    "name": "荷兰人营地",
+    "description": {
+      "general": ""
+    }
   },
   "kokokTerapung": {
-    "name": "科柯提拉庞"
+    "name": "科柯提拉庞",
+    "description": {
+      "general": ""
+    }
   },
   "returnFleetBight": {
-    "name": "回航海湾"
+    "name": "回航海湾",
+    "description": {
+      "general": ""
+    }
   },
   "threeBrothers": {
-    "name": "三兄弟前哨站"
+    "name": "三兄弟前哨站",
+    "description": {
+      "general": ""
+    }
   },
   "moyenneCrique": {
-    "name": "匀溪"
+    "name": "匀溪",
+    "description": {
+      "general": ""
+    }
   },
   "ileMichel": {
-    "name": "米歇尔岛"
+    "name": "米歇尔岛",
+    "description": {
+      "general": ""
+    }
   },
   "theForgottenCandi": {
-    "name": "被遗忘的圣殿"
+    "name": "被遗忘的圣殿",
+    "description": {
+      "general": ""
+    }
   },
   "ruinedLighthouse": {
-    "name": "灯塔遗址"
+    "name": "灯塔遗址",
+    "description": {
+      "general": ""
+    }
   },
   "parujarsCry": {
-    "name": "帕鲁加之嚎前哨站"
+    "name": "帕鲁加之嚎前哨站",
+    "description": {
+      "general": ""
+    }
   },
   "karstLookout": {
-    "name": "喀斯特瞭望台"
+    "name": "喀斯特瞭望台",
+    "description": {
+      "general": ""
+    }
   },
   "khmoyEstate": {
-    "name": "诃莫伊庄园"
+    "name": "诃莫伊庄园",
+    "description": {
+      "general": ""
+    }
   },
   "lostCityOfPrei": {
-    "name": "失落之城菩雷"
+    "name": "失落之城菩雷",
+    "description": {
+      "general": ""
+    }
   },
   "ruinsOfLukKhun": {
-    "name": "鲁克坤遗址"
+    "name": "鲁克坤遗址",
+    "description": {
+      "general": ""
+    }
   },
   "fortLouis": {
-    "name": "路易斯要塞"
+    "name": "路易斯要塞",
+    "description": {
+      "general": ""
+    }
   },
   "royalBurialGround": {
-    "name": "皇家墓园"
+    "name": "皇家墓园",
+    "description": {
+      "general": ""
+    }
   },
   "sacredTree": {
-    "name": "圣树"
+    "name": "圣树",
+    "description": {
+      "general": ""
+    }
   },
   "varonaFalls": {
-    "name": "沃罗纳瀑布"
+    "name": "沃罗纳瀑布",
+    "description": {
+      "general": ""
+    }
   },
   "lanitra": {
-    "name": "拉尼特拉"
+    "name": "拉尼特拉",
+    "description": {
+      "general": ""
+    }
   },
   "dragonsBack": {
-    "name": "龙脊岛"
+    "name": "龙脊岛",
+    "description": {
+      "general": ""
+    }
   },
   "pillarTomb": {
-    "name": "石柱墓穴"
+    "name": "石柱墓穴",
+    "description": {
+      "general": ""
+    }
   },
   "theNavigatorsCross": {
-    "name": "航海十字"
+    "name": "航海十字",
+    "description": {
+      "general": ""
+    }
   },
   "sunkenGoldmine": {
-    "name": "沉没金矿前哨站"
+    "name": "沉没金矿前哨站",
+    "description": {
+      "general": ""
+    }
   },
   "poachersCache": {
-    "name": "偷猎者藏宝处"
+    "name": "偷猎者藏宝处",
+    "description": {
+      "general": ""
+    }
   },
   "kaaMangrove": {
-    "name": "卡亚红树林"
+    "name": "卡亚红树林",
+    "description": {
+      "general": ""
+    }
   },
   "eldersCave": {
-    "name": "长者洞穴前哨站"
+    "name": "长者洞穴前哨站",
+    "description": {
+      "general": ""
+    }
   },
   "greatUkuta": {
-    "name": "乌库塔"
+    "name": "乌库塔",
+    "description": {
+      "general": ""
+    }
   },
   "kelelawarChamber": {
-    "name": "克里拉瓦大殿"
+    "name": "克里拉瓦大殿",
+    "description": {
+      "general": ""
+    }
   },
   "motherOfShipwrecks": {
-    "name": "万船冢"
+    "name": "万船冢",
+    "description": {
+      "general": ""
+    }
   },
   "rangnokCave": {
-    "name": "兰格诺克洞穴"
+    "name": "兰格诺克洞穴",
+    "description": {
+      "general": ""
+    }
   },
   "theNecropolis": {
-    "name": "大墓园"
+    "name": "大墓园",
+    "description": {
+      "general": ""
+    }
   },
   "theWolvesHollow": {
-    "name": "狼穴"
+    "name": "狼穴",
+    "description": {
+      "general": ""
+    }
   }
 }
