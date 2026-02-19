@@ -2487,9 +2487,9 @@
     }
   },
   "megafortCache": {
-    "name": "大型要塞箱",
+    "name": "大型要塞贮藏箱",
     "description": {
-      "general": "从狼穴夺取的巨型战利品的破坏者"
+      "general": "超巨公司之间战阵的战利品，掠夺取大型要塞“狼穴”"
     }
   },
   "teulingsMaterialsChest": {
@@ -2905,7 +2905,7 @@
     }
   },
   "laPestesLockerMythic": {
-    "name": "La Peste 的锁定器 (Mythic)",
+    "name": "瘟疫的锁箱（神话级）",
     "description": {
       "general": "除了快乐、难过或两者都能得到什么奖励？"
     }
@@ -2917,7 +2917,7 @@
     }
   },
   "eerieRing": {
-    "name": "Eerie Ring",
+    "name": "诡异之环",
     "description": {
       "general": "一种可怕的卢布，用鲜明的伤疤与石头相撞。 看一看那些正在拉动的红宝石会在你的心中激起一种痛苦感。"
     }
@@ -2941,28 +2941,28 @@
     }
   },
   "ascendedAzureSolsticeEventCache": {
-    "name": "转生事件缓存 (Azure Solstice)",
+    "name": "转生事件保险箱 (蔚蓝冬至)",
     "description": {
       "general": "内含一件进阶型事件武器。"
     }
   },
   "watersOfGowaSetChest": {
-    "name": "Gowa集宝箱的Waters",
+    "name": "戈瓦之水套装宝箱",
     "description": {
-      "general": "一个富裕的箱子，它可能包含属于Gowa集水体的化妆品"
+      "general": "一座华美的箱柜，内藏属于戈瓦之水套装的化妆品"
     }
   },
   "corvetteUpgrade": {
-    "name": "Corvette 升级",
+    "name": "科维特升级",
     "description": {
-      "general": "Corvette的船只升级.",
-      "1": "将扁嘴帆艇从0级升至1级。",
-      "2": "将扁嘴帆艇从1级升至2级。",
-      "3": "将扁嘴帆艇从2级升至3级。",
-      "4": "将扁嘴帆艇从3级升至4级。",
-      "5": "将扁嘴帆艇从4级升至5级。",
-      "6": "将扁嘴帆艇从5级升至6级。",
-      "7": "将扁嘴帆艇从6级升至7级。"
+      "general": "科维特的船只升级。",
+      "1": "将科维特从0级升至1级。",
+      "2": "将科维特从1级升至2级。",
+      "3": "将科维特从2级升至3级。",
+      "4": "将科维特从3级升至4级。",
+      "5": "将科维特从4级升至5级。",
+      "6": "将科维特从5级升至6级。",
+      "7": "将科维特从6级升至7级。"
     }
   },
   "foundingCelebratoryChest": {
@@ -2984,93 +2984,93 @@
     }
   },
   "livingBastion": {
-    "name": "活地下室",
+    "name": "以身铸城",
     "description": {
-      "general": "装甲评分在不伤害的情况下增加。 它的表面向下平滑，好像呼吸，用破碎的板条块和淡化的金条纹从累积的堆栈中粗略地闪烁。"
+      "general": "未受到伤害时，装甲级别会得到提升。其表面细微的起伏如同呼吸，斑驳的镀层与褪色的金纹在层叠间隐隐发光。"
     }
   },
   "mantleOfTheDeep": {
     "name": "深海斗篷",
     "description": {
-      "general": "减少受到海怪攻击所造成的伤害。由水下平衡守护者回收的深海巨兽的皮毛精心制成。"
+      "general": "降低海怪攻击造成的伤害。用从深海巨兽身上剥取的兽皮制成，出自波涛之下维系平衡的守护者之手。"
     }
   },
   "tidesReprieve": {
-    "name": "暂停时间",
+    "name": "潮汐庇护",
     "description": {
-      "general": "激活一个把船体恢复给盟友的脉冲。从废旧铁板和重型帝国制造。"
+      "general": "激活脉冲，为盟友恢复船身生命值。由昔日帝国的粗犷铁板与厚重铆钉锻造而成。"
     }
   },
   "invertedFlagRack": {
-    "name": "反转旗标",
+    "name": "倒挂旗架",
     "description": {
-      "general": "增加武器对无武器目标的伤害。向接近“你的旗帜已经坠落，你是下一个”的敌人发出明确的信息。"
+      "general": "对被嘲讽敌人的武器伤害提升。向任何胆敢靠近的敌人发出明确警告：“你们的旗帜已经倒下，接下来就是亲尝苦果“。"
     }
   },
   "apothecaryToolBench": {
-    "name": "远地点工具台",
+    "name": "药剂工具台",
     "description": {
-      "general": "在船舶航行时加强防卫，防备中毒状态效应。 由一名留言草药组装。含有喷鱼刺和发酵海草中毒的解毒剂。"
+      "general": "船只航行时对中毒状态效果的防御提升。由一名任帕草药师配制而成。内含针对水母蜇伤以及发酵海藻中毒的解毒剂。"
     }
   },
   "anatomyCabinet": {
-    "name": "解部标本柜",
+    "name": "解剖标本柜",
     "description": {
-      "general": "增强打击海怪物攻击的力量。一些知识使许多人免于死亡之苦。"
+      "general": "对海怪攻击的防御强度增强。有人坚信，其中蕴含的知识曾让许多人死里逃生。"
     }
   },
   "blubberWorks": {
-    "name": "Blubber Works",
+    "name": "鲸脂工坊",
     "description": {
-      "general": "在海神遭受破坏后，减少宽带武器的重装时间。 海洋人民认为，生物的本质可以用来影响或伤害他人。"
+      "general": "对海怪造成伤害后使舷侧炮的装填时间降低。海民相信，生物的精华可以用于影响或伤害他人。"
     }
   },
   "drowningCabinet": {
-    "name": "Drowning Cabinet",
+    "name": "溺水匣子",
     "description": {
-      "general": "对遭受严重损害的目标增加水下武器伤害。骑乘海盗改变了设计，迫使洪水更深、更快地进入敌人的船上。"
+      "general": "受到严重伤害的目标受进水型武器伤害提升。机智的海盗们改良了设计，使水能够够快、更多地流进敌人的船舱。"
     }
   },
   "ballistaMountSmithy": {
-    "name": "Ballista Mount Smithy",
+    "name": "弩炮架工坊",
     "description": {
-      "general": "提升Ballista武器并增加破碎目标的伤害。在锡兰加里市加固后的围栏登陆后模拟。"
+      "general": "增强弩炮武器并使对受损目标造成的伤害提升。其设计原型源自锡兰加勒古城所使用的攻城架。"
     }
   },
   "blightmaw": {
-    "name": "Blightmaw",
+    "name": "疫害之噬",
     "description": {
-      "general": "由La Peste的炼金术师的灵魂设计。 发射的炮弹中毒素充斥于敌军高地，腐蚀他们的防御能力，使他们更容易遭受随后的袭击。"
+      "general": "由拉佩斯特手下醉心于瘟疫的的炼金术士们设计。发射的炮弹包裹着毒素，能附着在敌舰船体上，腐蚀其防御，使其更难抵御后续攻击。"
     }
   },
   "stormtongue": {
-    "name": "风暴语言",
+    "name": "风暴之舌",
     "description": {
-      "general": "反复点燃闪电弹和爆炸性射弹。其枪管用暴风玻璃和光线的喷嘴。"
+      "general": "连续发射闪电弹和爆破弹。炮管上镌刻着召唤风暴的符文与凤凰的印记。"
     }
   },
   "reachwarden": {
-    "name": "达赫瓦登省",
+    "name": "远望卫士",
     "description": {
-      "general": "专为远程支持而设计。为盟友提供雷达晶状抛射弹。"
+      "general": "专为远距离辅助设计。能发射尖端镶嵌晶体的射弹，为盟友提供恢复脉冲。"
     }
   },
   "celestialBoom": {
-    "name": "天波姆",
+    "name": "天穹绽放",
     "description": {
-      "general": "保护拥有修理火箭的盟友。“真正的力量不是摧毁，而是保养的力量。”"
+      "general": "发射密集的修复火箭以守护盟友。“真正的力量不在于毁灭，而在于守护的能力。\""
     }
   },
   "woundcaller": {
-    "name": "受伤者",
+    "name": "唤疮者",
     "description": {
-      "general": "撞击后，其有效载荷释放出一脉冲共振的脉冲，这是一种古老的频率，据说反映出落下的野兽的死亡号召力。 那些被袭击的人被疯狂地抓住，往往在他们盲目冲撞时破坏他们自己的帽子。"
+      "general": "命中时，其弹头能释放出令人发狂的共鸣脉冲，据传，这古老的频率是野兽们濒死时嘶吼的回响。被击中的船只会陷入癫狂状态，在盲目冲撞中损毁自身船体。"
     }
   },
   "cloudbinder": {
-    "name": "云二进制程序",
+    "name": "缚云者",
     "description": {
-      "general": "每一只螺钉上风暴的玻璃，由射电容器稳定下来，使武器能够穿过多个敌人。 相关目标越多，风暴就越动荡，天体撞击。"
+      "general": "每枚弹头上都镌刻着召唤风暴的符文，且带有玉石电容器，使武器能够在多个敌人之间穿梭。连接的目标越多，风暴就越狂烈，如同天穹的怒火轰隆作响。"
     }
   },
   "foundersCache": {
@@ -3080,25 +3080,25 @@
     }
   },
   "zamaharibuChest": {
-    "name": "神秘宝箱 (Zamaharibu)",
+    "name": "神秘宝箱 (扎玛哈里布)",
     "description": {
       "general": "这箱子里藏着什么宝贝呢？"
     }
   },
   "megaLestariChest": {
-    "name": "神秘宝箱 (超级大师)",
+    "name": "神秘宝箱 (梅加·莱斯塔里)",
     "description": {
       "general": "这箱子里藏着什么宝贝呢？"
     }
   },
   "zamaharibusEye": {
-    "name": "Zamaharibu的眼镜",
+    "name": "扎玛哈里布之眼",
     "description": {
       "general": "从一个古老的野兽的套接字中塞进。其无情的洞穴在你中注入了原始的恐惧，好像你正在像猎物一样被猎物。"
     }
   },
   "megaLestarisEye": {
-    "name": "Mega Lestari的眼镜",
+    "name": "莱斯塔里之眼",
     "description": {
       "general": "从一个难以捉摸的主食头部取走，凶猛无比。"
     }
