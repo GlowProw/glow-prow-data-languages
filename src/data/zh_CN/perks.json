@@ -1484,8 +1484,8 @@
     "name": "更新换代",
     "description": {
       "general": [
-        "With non-offensive Auxiliary Weapons equipped, restores own Severe Damage by 0.4% and Brace Strength by 2% per second",
-        "With offensive Auxiliary Weapons equipped, increases Weapon Damage by 20%, as well as for nearby friendly ships"
+        "装备非攻击性辅助武器时，每秒恢复自身0.4%的重伤值和2%的支撑强度",
+        "装备进攻性辅助武器后，武器伤害提高 20%，对附近友军舰船的伤害也提高 20%"
       ]
     }
   },
@@ -2613,7 +2613,7 @@
       "6": [
         "将基础船只等级提升至8",
         "防御强度回复增加12.5%",
-        "Adds 'Resolve' perk"
+        "新增「八面玲珑」能力"
       ],
       "7": [
         "将基础船只等级提升至9",
@@ -2812,7 +2812,7 @@
     "description": {
       "general": [
         "连续受击12次后获得大洋之盾状态效果，持续30秒，冷却60秒。",
-        "大洋之盾：提升18%防御强度。武器伤害的3%会在敌人身上累计被嘲讽状态效果。",
+        "海军的守卫能增加18%，3%的武器伤害能够建立对敌人的无人状态效果。",
         "防御时将船员体力消耗降低14%"
       ]
     }
