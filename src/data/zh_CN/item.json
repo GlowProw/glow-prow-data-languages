@@ -2096,7 +2096,7 @@
     }
   },
   "rodeMaangodinChest": {
-    "name": "神秘宝箱(赤月亮女神)",
+    "name": "神秘宝箱(红月亮女神)",
     "description": {
       "general": "这箱子里藏着什么宝贝呢？"
     }
@@ -2526,19 +2526,19 @@
     }
   },
   "jokaKubwaTreasureChest": {
-    "name": "宝箱(Joka Kubwa)",
+    "name": "宝箱(乔卡·库布瓦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "dianSinagaTreasureChest": {
-    "name": "宝箱(Dian Sinaga)",
+    "name": "宝箱(迪安·西纳加)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "dirkAnkerenTreasureChest": {
-    "name": "宝箱(Dirk Ankeren)",
+    "name": "宝箱(迪尔克·安克伦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
@@ -2556,13 +2556,13 @@
     }
   },
   "ahPakTreasureChest": {
-    "name": "宝箱(Ah Pak)",
+    "name": "宝箱(阿帕克)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "mizerjaTreasureChest": {
-    "name": "宝箱(Mizerja)",
+    "name": "宝箱(米泽尔亚)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
