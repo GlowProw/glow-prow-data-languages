@@ -1170,7 +1170,7 @@
     }
   },
   "rustShade": {
-    "name": "铁锈阴影",
+    "name": "铁锈红色",
     "description": {
       "general": "将你的船体涂成铁锈色"
     }
@@ -1404,7 +1404,7 @@
     }
   },
   "rustDye": {
-    "name": "铁锈染料",
+    "name": "铁锈红染料",
     "description": {
       "general": "将你的船帆染成铁锈色"
     }
