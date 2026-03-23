@@ -2324,9 +2324,9 @@
     }
   },
   "deathTidesChest": {
-    "name": "死亡潮汐宝箱",
+    "name": "死亡之潮宝箱",
     "description": {
-      "general": "匿名赞助人赠送的宝箱。"
+      "general": "不明赞助人赠送的宝箱。"
     }
   },
   "poseidonsBrew": {
@@ -2550,7 +2550,7 @@
     }
   },
   "tangenaRabeTreasureChest": {
-    "name": "宝箱(Tangena Rabe)",
+    "name": "宝箱(迪尔克·安克伦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
