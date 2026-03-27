@@ -3102,5 +3102,59 @@
     "description": {
       "general": "从一个难以捉摸的主食头部取走，凶猛无比。"
     }
+  },
+  "torpedoes": {
+    "name": "鱼雷",
+    "description": {
+      "general": "适用于任意鱼雷发射器武器的弹药"
+    }
+  },
+  "oilCanisters": {
+    "name": "油罐",
+    "description": {
+      "general": "适用于任意海洋之火武器的弹药"
+    }
+  },
+  "mortarBombs": {
+    "name": "迫击炮炮弹",
+    "description": {
+      "general": "适用于任意迫击炮类武器的弹药"
+    }
+  },
+  "ballistaBolts": {
+    "name": "弩炮弩箭",
+    "description": {
+      "general": "适用于任意弩炮类武器的弹药"
+    }
+  },
+  "cannonballs": {
+    "name": "大炮炮弹",
+    "description": {
+      "general": "适用于任意大炮类武器的弹药"
+    }
+  },
+  "bombardBombs": {
+    "name": "射石炮炮弹",
+    "description": {
+      "general": "适用于任意射石炮类武器的弹药"
+    }
+  },
+  "rockets": {
+    "name": "火箭",
+    "description": {
+      "general": "适用于任意火箭发射器类武器的弹药"
+    }
+  },
+  "buoyShells": {
+    "name": "浮标炮弹",
+    "description": {
+      "general": "适用于任意弹射武器的弹药"
+    }
+  },
+  "fallenCaptainsChest": {
+    "name": "陨落船长的宝箱",
+    "description": {
+      "general": "内含船只外观的宝箱，曾展于一名为斯科洛克效力的海盗。\n里面的红帆与斯科洛克那块脏污的地毯出奇地相似。"
+    }
   }
 }
