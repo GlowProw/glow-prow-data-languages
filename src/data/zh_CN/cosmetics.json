@@ -1158,7 +1158,7 @@
     }
   },
   "thickPriceToPay": {
-    "name": "沉重的代价",
+    "name": "付出沉重代价",
     "description": {
       "general": "希望不会太沉重..."
     }
@@ -1440,7 +1440,7 @@
     }
   },
   "bloodWithWine": {
-    "name": "血配酒",
+    "name": "美酒鲜血",
     "description": {
       "general": "暴力优先，酒在后。"
     }
@@ -1902,7 +1902,7 @@
     }
   },
   "parleyWithBones": {
-    "name": "与骨头谈判",
+    "name": "白骨谈判",
     "description": {
       "general": "好的意图是用遗骸排列的"
     }
