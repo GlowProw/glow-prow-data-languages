@@ -2302,7 +2302,7 @@
   "mutuallyAssuredSetChest": {
     "name": "相互保证套装箱",
     "description": {
-      "general": "匿名赞助人赠送的宝箱。"
+      "general": "不明赞助人赠送的宝箱。"
     }
   },
   "serpentsDueSetChest": {
