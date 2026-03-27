@@ -2096,7 +2096,7 @@
     }
   },
   "rodeMaangodinChest": {
-    "name": "神秘宝箱(赤月亮女神)",
+    "name": "神秘宝箱(红月亮女神)",
     "description": {
       "general": "这箱子里藏着什么宝贝呢？"
     }
@@ -2302,7 +2302,7 @@
   "mutuallyAssuredSetChest": {
     "name": "相互保证套装箱",
     "description": {
-      "general": "匿名赞助人赠送的宝箱。"
+      "general": "不明赞助人赠送的宝箱。"
     }
   },
   "serpentsDueSetChest": {
@@ -2324,9 +2324,9 @@
     }
   },
   "deathTidesChest": {
-    "name": "死亡潮汐宝箱",
+    "name": "死亡之潮宝箱",
     "description": {
-      "general": "匿名赞助人赠送的宝箱。"
+      "general": "不明赞助人赠送的宝箱。"
     }
   },
   "poseidonsBrew": {
@@ -2526,19 +2526,19 @@
     }
   },
   "jokaKubwaTreasureChest": {
-    "name": "宝箱(Joka Kubwa)",
+    "name": "宝箱(乔卡·库布瓦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "dianSinagaTreasureChest": {
-    "name": "宝箱(Dian Sinaga)",
+    "name": "宝箱(迪安·西纳加)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "dirkAnkerenTreasureChest": {
-    "name": "宝箱(Dirk Ankeren)",
+    "name": "宝箱(迪尔克·安克伦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
@@ -2550,19 +2550,19 @@
     }
   },
   "tangenaRabeTreasureChest": {
-    "name": "宝箱(Tangena Rabe)",
+    "name": "宝箱(迪尔克·安克伦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "ahPakTreasureChest": {
-    "name": "宝箱(Ah Pak)",
+    "name": "宝箱(阿帕克)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "mizerjaTreasureChest": {
-    "name": "宝箱(Mizerja)",
+    "name": "宝箱(米泽尔亚)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
@@ -3074,9 +3074,9 @@
     }
   },
   "foundersCache": {
-    "name": "创始人宝库",
+    "name": "创立者贮藏箱",
     "description": {
-      "general": "一个华丽的箱子，里面装着过去几个季节里战胜的强敌所缴获的战利品。"
+      "general": "一个华美的箱子，藏有数年间无数强敌留下的战利品。"
     }
   },
   "zamaharibuChest": {
