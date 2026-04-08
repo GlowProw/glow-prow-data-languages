@@ -2898,7 +2898,7 @@
     "description": {
       "general": [
         "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
-        "For every 1% increase in Projectile Speed of Weapons through any bonuses, increase Flooding Damage of those weapons by 1%",
+        "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1%",
         "Increases damage to enemy ships with the Flooded effect by 10%"
       ]
     }
@@ -3106,15 +3106,6 @@
       ]
     }
   },
-  "celestialBoom": {
-    "name": "Celestial Boom",
-    "description": {
-      "general": [
-        "Consecutive hits repair 5% for each projectile",
-        "Consecutive hits on the same target also restores Brace Strength by 2% per hit"
-      ]
-    }
-  },
   "chargedBarb": {
     "name": "Charged Barb",
     "description": {
@@ -3128,6 +3119,25 @@
     "name": "Impale",
     "description": {
       "general": "This weapon can be charged to pierce through enemies, dealing damage as it pierces. Damage decreases per hit"
+    }
+  },
+  "redSunrise": {
+    "name": "Red Sunrise",
+    "description": {
+      "general": [
+        "Hits have a 15% chance to trigger Taunted on the target. Targets that are already Taunted will become afflicted with Unlucky Taunt",
+        "Unlucky Taunt inflicts 250 damage per second and can be stacked up to 5 times",
+        "Armed Bonus: Hits have 50% chance to trigger Taunted"
+      ]
+    }
+  },
+  "savingSalvo": {
+    "name": "Saving Salvo",
+    "description": {
+      "general": [
+        "Consecutive hits repair 5% for each projectile",
+        "Consecutive hits on the same target also restores Brace Strength by 2% per hit"
+      ]
     }
   }
 }
