@@ -2306,9 +2306,9 @@
     }
   },
   "serpentsDueSetChest": {
-    "name": "蛇债套装箱",
+    "name": "巨蛇应得之物套装宝箱",
     "description": {
-      "general": "匿名赞助人赠送的宝箱。"
+      "general": "不明赞助人赠送的宝箱。"
     }
   },
   "divineInterventionSetChest": {
