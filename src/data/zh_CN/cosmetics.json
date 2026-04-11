@@ -1080,7 +1080,7 @@
     }
   },
   "shadeOfVinegar": {
-    "name": "醋的阴影",
+    "name": "醋酸暗影",
     "description": {
       "general": "你带着痛苦的决心直到最后"
     }
@@ -1752,7 +1752,7 @@
     }
   },
   "yourSkullTheirHome": {
-    "name": "你的皮肤，他们的家",
+    "name": "你的颅骨，它们的家",
     "description": {
       "general": "他们所需要的只是一个洞穴。"
     }
@@ -2256,7 +2256,7 @@
     }
   },
   "serpentineResolve": {
-    "name": "蛇之决心",
+    "name": "巨蛇決心",
     "description": {
       "general": "这条蛇想要它应得的东西，无论是通过嘶嘶声还是毒牙"
     }
