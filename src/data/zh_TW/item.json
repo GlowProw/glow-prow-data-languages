@@ -3156,5 +3156,95 @@
     "description": {
       "general": "A chest containing ship cosmetics that once belonged to a pirate working for Scurlock.\nThe red sails inside holds an uncanny resemblance to\nScurlock's stained rug."
     }
+  },
+  "bedarChest": {
+    "name": "Bedar Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Bedar, as well as customizing any ships in the Indian Ocean or Death Tides\nObtaining this chest will grant the Tearing Culverin, Iron Husk, Rope Locker and more for you to get started with customizing your ships."
+    }
+  },
+  "cutterChest": {
+    "name": "Cutter Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Cutter, as well as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Repair Long Gun, Layered Scales, First Aid Station, and more that specialize in repairing allies."
+    }
+  },
+  "hulkChest": {
+    "name": "Hulk Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Hulk, as well as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Scurlock's Chasers, La Forteresse, Megaphone, and more that specialize in withstanding damage."
+    }
+  },
+  "sloopChest": {
+    "name": "Sloop Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Sloop, as well as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Rahma's Ambition, Iron Husk, Long Gun Grinder, and more that specialize in dealing explosive damage"
+    }
+  },
+  "padewakangChest": {
+    "name": "Padewakang Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Padewakang, as well as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Mans Meg, Gamba Kabe, Munitions Mixer, and more that that specialize in dealing explosive damage."
+    }
+  },
+  "snowChest": {
+    "name": "Snow Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Snow, as well as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Tearing Culverin, The Bastion, Iron Capstan, and more that specialize in withstanding damage."
+    }
+  },
+  "brigantineChest": {
+    "name": "Brigantine Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Brigantine, as well as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Carronade, Abyssal, War Drums, and more that specialize in chasing and ramming enemies."
+    }
+  },
+  "sambukChest": {
+    "name": "Sambuk Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Sambuk, as well as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Blue Spectre, Gamba Kobe, Teuling's Guidance, and more that specialize in setting enemies on fire."
+    }
+  },
+  "ascendedChche": {
+    "name": "Ascended Chest",
+    "description": {
+      "general": "A collection of items that will be ascended upon opening the cache"
+    }
+  },
+  "barqueChest": {
+    "name": "Barque Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Barque, as wall as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant Twin-winch Ballista, Black Prince, Rigging Station, and more that specialize in repairing allies."
+    }
+  },
+  "battleJunkChest": {
+    "name": "Battle Junk Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Battle Junk, as well as customizing any ships in the Indian Ocean or Death Tides,\nObtaining this chest will grant the Divine Thunder, Rhapsody of the Deep, Chained Links, and more that specialize in withstanding damage."
+    }
+  },
+  "garudaChest": {
+    "name": "Garuda Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Garuda, as well as customizing any ships in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Poison Long Gun, Immortal Vessel, Gunner's Quadrant, and more that specialize in precision attacks."
+    }
+  },
+  "schoonerChest": {
+    "name": "Schooner Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Schooner, as well as customizing any ship in the Indian Ocean or Death Tides.\nObtaining this chest will grant the (Naga's Call) weapon, armor, (Bilgefire Barrels) furniture, and more for you to get started with customizing your ships."
+    }
+  },
+  "frigateChest": {
+    "name": "Frigate Chest",
+    "description": {
+      "general": "A special chest containing multiple weapons, armor, and furniture, suited for the Frigate, as well as customizing any ship in the Indian Ocean or Death Tides.\nObtaining this chest will grant the Faulse Ise weapon, Nova Arma armor, Drowned One's Toll furniture and more, for you to get started with customizing your ships."
+    }
+  },
+  "sloopOfWarChest": {
+    "name": "Sloop Of War Chest",
+    "description": {
+      "general": "A special chest containing weapons, armor, and furniture, suited for the Sloop-of-war, as well as customizing any ship in the Indian Ocean or Death Tides."
+    }
   }
 }
