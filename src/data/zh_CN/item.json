@@ -2096,7 +2096,7 @@
     }
   },
   "rodeMaangodinChest": {
-    "name": "神秘宝箱(赤月亮女神)",
+    "name": "神秘宝箱(红月亮女神)",
     "description": {
       "general": "这箱子里藏着什么宝贝呢？"
     }
@@ -2302,13 +2302,13 @@
   "mutuallyAssuredSetChest": {
     "name": "相互保证套装箱",
     "description": {
-      "general": "匿名赞助人赠送的宝箱。"
+      "general": "不明赞助人赠送的宝箱。"
     }
   },
   "serpentsDueSetChest": {
-    "name": "蛇债套装箱",
+    "name": "巨蛇应得之物套装宝箱",
     "description": {
-      "general": "匿名赞助人赠送的宝箱。"
+      "general": "不明赞助人赠送的宝箱。"
     }
   },
   "divineInterventionSetChest": {
@@ -2324,9 +2324,9 @@
     }
   },
   "deathTidesChest": {
-    "name": "死亡潮汐宝箱",
+    "name": "死亡之潮宝箱",
     "description": {
-      "general": "匿名赞助人赠送的宝箱。"
+      "general": "不明赞助人赠送的宝箱。"
     }
   },
   "poseidonsBrew": {
@@ -2526,19 +2526,19 @@
     }
   },
   "jokaKubwaTreasureChest": {
-    "name": "宝箱(Joka Kubwa)",
+    "name": "宝箱(乔卡·库布瓦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "dianSinagaTreasureChest": {
-    "name": "宝箱(Dian Sinaga)",
+    "name": "宝箱(迪安·西纳加)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "dirkAnkerenTreasureChest": {
-    "name": "宝箱(Dirk Ankeren)",
+    "name": "宝箱(迪尔克·安克伦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
@@ -2550,19 +2550,19 @@
     }
   },
   "tangenaRabeTreasureChest": {
-    "name": "宝箱(Tangena Rabe)",
+    "name": "宝箱(迪尔克·安克伦)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "ahPakTreasureChest": {
-    "name": "宝箱(Ah Pak)",
+    "name": "宝箱(阿帕克)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "mizerjaTreasureChest": {
-    "name": "宝箱(Mizerja)",
+    "name": "宝箱(米泽尔亚)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
@@ -3074,9 +3074,9 @@
     }
   },
   "foundersCache": {
-    "name": "创始人宝库",
+    "name": "创立者贮藏箱",
     "description": {
-      "general": "一个华丽的箱子，里面装着过去几个季节里战胜的强敌所缴获的战利品。"
+      "general": "一个华美的箱子，藏有数年间无数强敌留下的战利品。"
     }
   },
   "zamaharibuChest": {
@@ -3104,57 +3104,147 @@
     }
   },
   "torpedoes": {
-    "name": "鱼雷",
+    "name": "Torpedoes",
     "description": {
-      "general": "适用于任意鱼雷发射器武器的弹药"
+      "general": "Ammunition for any Torpedo Launcher Weapon."
     }
   },
   "oilCanisters": {
-    "name": "油罐",
+    "name": "Oil Canisters",
     "description": {
-      "general": "适用于任意海洋之火武器的弹药"
+      "general": "Ammunition for any SeaFire Weapon."
     }
   },
   "mortarBombs": {
-    "name": "迫击炮炮弹",
+    "name": "Mortar Bombs",
     "description": {
-      "general": "适用于任意迫击炮类武器的弹药"
+      "general": "Ammunition for any Mortar Weapon."
     }
   },
   "ballistaBolts": {
-    "name": "弩炮弩箭",
+    "name": "Ballista Bolts",
     "description": {
-      "general": "适用于任意弩炮类武器的弹药"
+      "general": "Ammunition for any Ballista Weapon."
     }
   },
   "cannonballs": {
-    "name": "大炮炮弹",
+    "name": "Cannonballs",
     "description": {
-      "general": "适用于任意大炮类武器的弹药"
+      "general": "Ammunition for any Cannon Weapon."
     }
   },
   "bombardBombs": {
-    "name": "射石炮炮弹",
+    "name": "Bombard Bombs",
     "description": {
-      "general": "适用于任意射石炮类武器的弹药"
+      "general": "Ammunition for any Bombard Weapon."
     }
   },
   "rockets": {
-    "name": "火箭",
+    "name": "Rockets",
     "description": {
-      "general": "适用于任意火箭发射器类武器的弹药"
+      "general": "Ammunition for any Rocket Launcher Weapon."
     }
   },
   "buoyShells": {
-    "name": "浮标炮弹",
+    "name": "Buoy Shells",
     "description": {
-      "general": "适用于任意弹射武器的弹药"
+      "general": "Ammunition for any Springloader Weapon."
     }
   },
   "fallenCaptainsChest": {
     "name": "陨落船长的宝箱",
     "description": {
-      "general": "内含船只外观的宝箱，曾展于一名为斯科洛克效力的海盗。\n里面的红帆与斯科洛克那块脏污的地毯出奇地相似。"
+      "general": "一个装有船舶皮肤的宝箱，这些装饰品曾属于为斯卡洛克工作的海盗。\n里面的红色船帆与斯卡洛克那块斑驳的地毯有着诡异的相似之处。"
+    }
+  },
+  "bedarChest": {
+    "name": "扁嘴帆艇宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合扁嘴帆艇的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取撕裂型长炮、钢铁外甲、绳索柜等适用于自定义船只的物品。"
+    }
+  },
+  "cutterChest": {
+    "name": "短桅帆船宝箱",
+    "description": {
+      "general": "这个特宝箱内含适合短桅帆船的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取维修型长管炮、多层鳞甲、急救站等适用于维修盟友的物品。"
+    }
+  },
+  "hulkChest": {
+    "name": "囤货艇宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合货艇的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取斯科洛克的追逐者、不柘堡垒、扩音器等适用于承受伤害的物品。"
+    }
+  },
+  "sloopChest": {
+    "name": "单桅炮艇宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合单桅炮艇的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取拉赫玛的野心、钢铁外甲、磨床（长管炮）等适用于造成爆炸伤害的物品。"
+    }
+  },
+  "padewakangChest": {
+    "name": "巴得瓦康船宝箱",
+    "description": {
+      "general": "这个特宝箱内含适合巴得瓦康船的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取蒙斯梅格炮、钢巴神户、弹药混合器等适用于造成爆炸伤害的物品。"
+    }
+  },
+  "snowChest": {
+    "name": "尖首货船宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合尖首货船的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取撕裂型长炮、堡垒、铁绞盘等适用于承受伤害的物品。"
+    }
+  },
+  "brigantineChest": {
+    "name": "双桅帆船宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合双桅帆船的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取白炮、深渊、战鼓等适用于追击与撞击敌船的物品。"
+    }
+  },
+  "sambukChest": {
+    "name": "桑布克船宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合桑布克船的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取蓝色幽灵、钢巴神户、图林的指引等适用于点燃敌人的物品。"
+    }
+  },
+  "ascendedChche": {
+    "name": "晋阶型贮藏箱",
+    "description": {
+      "general": "内含一系列物品，这些物品可在该贮藏箱打开后晋阶"
+    }
+  },
+  "barqueChest": {
+    "name": "三桅帆船宝箱",
+    "description": {
+      "general": "这个特宝箱内含适合三桅帆船的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取双绞弩炮、黑王子、索具台等适用于维修盟友的物品。"
+    }
+  },
+  "battleJunkChest": {
+    "name": "座腙宝箱",
+    "description": {
+      "general": "这个特宝箱内含适合座踪的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取神雷、深海狂想曲、连锁链接等适用于承受伤害的\n物品。"
+    }
+  },
+  "garudaChest": {
+    "name": "迦楼罗宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合迦楼罗舰的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取剧毒型长管炮、不朽舰船、炮手四分仪等适用于精准攻击的物品。"
+    }
+  },
+  "schoonerChest": {
+    "name": "纵帆船宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合纵帆船的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取武器（娜迦之召）、装甲、陈设（舱底火药桶）等\n适用于自定义船只的物品。"
+    }
+  },
+  "frigateChest": {
+    "name": "护卫舰宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合护卫舰的多件武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。\n获得该宝箱后，可获取武器铁片炮、装甲新星甲、陈设溺水者的钟声等适用于自定义船只的物品。"
+    }
+  },
+  "sloopOfWarChest": {
+    "name": "战争单桅炮艇宝箱",
+    "description": {
+      "general": "这个特殊宝箱内含适合单桅炮艇的武器、装甲和陈设，它们也可以用来自定义印度洋和死亡之潮中的任意船只。"
     }
   }
 }
