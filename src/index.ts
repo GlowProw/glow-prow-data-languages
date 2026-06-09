@@ -1,5 +1,6 @@
 import ships_zh_CN from './data/zh_CN/ships.json';
-import items_zh_CN from './data/zh_CN/item.json';
+import items_zh_CN from './data/zh_CN/items.json';
+import items_ammunition_zh_CN from './data/zh_CN/items_ammunition.json';
 import commodities_zh_CN from './data/zh_CN/commodities.json'
 import calendar_zh_CN from './data/zh_CN/calendar.json'
 import materials_zh_CN from './data/zh_CN/materials.json'
@@ -19,10 +20,10 @@ import sets_zh_CN from './data/zh_CN/sets.json'
 import regions_zh_CN from './data/zh_CN/regions.json'
 import territories_zh_CN from './data/zh_CN/territories.json'
 import npcs_zh_CN from './data/zh_CN/npcs.json'
-import treasureMaps_zh_CN from './data/zh_CN/treasureMaps.json'
 
 import ships_zh_TW from './data/zh_TW/ships.json';
-import items_zh_TW from './data/zh_TW/item.json';
+import items_zh_TW from './data/zh_TW/items.json';
+import items_ammunition_zh_TW from './data/zh_TW/items_ammunition.json';
 import commodities_zh_TW from './data/zh_TW/commodities.json'
 import calendar_zh_TW from './data/zh_TW/calendar.json'
 import materials_zh_TW from './data/zh_TW/materials.json'
@@ -45,7 +46,8 @@ import npcs_zh_TW from './data/zh_TW/npcs.json'
 import treasureMaps_zh_TW from './data/zh_TW/treasureMaps.json'
 
 import ships_en_US from './data/en_US/ships.json';
-import items_en_US from './data/en_US/item.json';
+import items_en_US from './data/en_US/items.json';
+import items_ammunition_en_US from './data/en_US/items_ammunition.json';
 import commodities_en_US from './data/en_US/commodities.json'
 import calendar_en_US from './data/en_US/calendar.json'
 import materials_en_US from './data/en_US/materials.json'
@@ -71,7 +73,7 @@ import {LanguageData} from "./types";
 
 export const zh_CN: LanguageData = {
     ships: ships_zh_CN,
-    items: items_zh_CN,
+    items: {...items_zh_CN, ...items_ammunition_zh_CN},
     commodities: commodities_zh_CN,
     calendar: calendar_zh_CN,
     materials: materials_zh_CN,
@@ -96,7 +98,7 @@ export const zh_CN: LanguageData = {
 
 export const zh_TW: LanguageData = {
     ships: ships_zh_TW,
-    items: items_zh_TW,
+    items: {...items_zh_TW, ...items_ammunition_zh_TW},
     commodities: commodities_zh_TW,
     calendar: calendar_zh_TW,
     materials: materials_zh_TW,
@@ -121,7 +123,7 @@ export const zh_TW: LanguageData = {
 
 export const en_US: LanguageData = {
     ships: ships_en_US,
-    items: items_en_US,
+    items: {...items_en_US, ...items_ammunition_en_US},
     commodities: commodities_en_US,
     calendar: calendar_en_US,
     materials: materials_en_US,
