@@ -1,10 +1,9 @@
-preserve_hierarchy: true
-
+preserve_hierarchy: 1
 files:
   - source: /src/data/en_US/ships.json
     translation: /src/data/%locale_with_underscore%/ships.json
-  - source: /src/data/en_US/item.json
-    translation: /src/data/%locale_with_underscore%/item.json
+  - source: /src/data/en_US/items.json
+    translation: /src/data/%locale_with_underscore%/items.json
   - source: /src/data/en_US/regions.json
     translation: /src/data/%locale_with_underscore%/regions.json
   - source: /src/data/en_US/territories.json
@@ -39,3 +38,5 @@ files:
     translation: /src/data/%locale_with_underscore%/sets.json
   - source: /src/data/en_US/npcs.json
     translation: /src/data/%locale_with_underscore%/npcs.json
+  - source: /src/data/en_US/items_ammunition.json
+    translation: /src/data/%locale_with_underscore%/items_ammunition.json
