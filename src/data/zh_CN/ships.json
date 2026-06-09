@@ -106,5 +106,11 @@
     "description": {
       "general": "擅长掌控和指挥战斗节奏的舰船。深受法兰西王家海防队船长及渴望制霸海域的海盗们青睐。"
     }
+  },
+  "galleon": {
+    "name": "Galleon",
+    "description": {
+      "general": "A ship reforged to excel in close-ranger slaughter and dominance. Spanish in origin, it is coveted by pirates and companies alike, and commandeered by only the boldest captains."
+    }
   }
 }
