@@ -2082,7 +2082,7 @@
     }
   },
   "theMiscreant": {
-    "name": "theMiscreant",
+    "name": "The Miscreant",
     "description": {
       "general": "Made off with the treasure, ye did us foul"
     }
@@ -6912,7 +6912,7 @@
     }
   },
   "rippedSkirt": {
-    "name": "Ripped Skirt",
+    "name": "Briny Bottoms",
     "description": {
       "general": "Still does its job, no?"
     }
@@ -8330,7 +8330,7 @@
   "peacock": {
     "name": "Peacock",
     "description": {
-      "general": "What good are riches if there'#s no one to see its splendor?"
+      "general": "What good are riches if there's no one to see its splendor?"
     }
   },
   "bourgeoisieGarbs": {
@@ -16614,7 +16614,7 @@
     }
   },
   "eyeOnThePrizeWheel": {
-    "name": "Eye on the Prize Wheel",
+    "name": "Eye on the Prize",
     "description": {
       "general": "Never lose sight of what you're playing for"
     }
@@ -22808,7 +22808,7 @@
   "verdantMenace": {
     "name": "Verdant Menace",
     "description": {
-      "general": "ATones of forest and gold to brave the wind"
+      "general": "Tones of forest and gold to brave the wind"
     }
   },
   "gildedGloom": {
@@ -23133,6 +23133,156 @@
     "name": "Captain of the Deep",
     "description": {
       "general": "For the one who faces what others fear"
+    }
+  },
+  "flagonsUp": {
+    "name": "Flagons Up",
+    "description": {
+      "general": "\"Raise yer cup to chaos, matey.\""
+    }
+  },
+  "skimwing": {
+    "name": "Skimwing",
+    "description": {
+      "general": "Death comes swift and quiet"
+    }
+  },
+  "lanunBracelet": {
+    "name": "Lanun Bracelet",
+    "description": {
+      "general": "The spray of salt and call of the tides entice the Rempah"
+    }
+  },
+  "lanunGarment": {
+    "name": "Lanun Garment",
+    "description": {
+      "general": "The chaos of Rahma's war has also led to opportunity, for those Rempah willing to seize it"
+    }
+  },
+  "lanunManchette": {
+    "name": "Lanun Manchette",
+    "description": {
+      "general": "Rempah fertility cults revered snakes as deities of the waters, bringing fortune and favor"
+    }
+  },
+  "coxswainBelt": {
+    "name": "Coxswain Belt",
+    "description": {
+      "general": "\"Holds my sarong in place. Lets me steer. What more does a tradesman of the Rempah need?\""
+    }
+  },
+  "lanunNeckwear": {
+    "name": "Lanun Neckwear",
+    "description": {
+      "general": "Rempah accessory draped around the neck. So ragged as to be unrecognizable."
+    }
+  },
+  "lanunBottoms": {
+    "name": "Lanun Bottoms",
+    "description": {
+      "general": "Even other Rempah vessels were not spared the predations of the Orang Lanun"
+    }
+  },
+  "corsairsPeak": {
+    "name": "Corsair's Peak",
+    "description": {
+      "general": "Plunder in style"
+    }
+  },
+  "shadyLeggings": {
+    "name": "Shady Leggings",
+    "description": {
+      "general": "Protect the cargo. Don't get spotted."
+    }
+  },
+  "kinolyForearms": {
+    "name": "Kinoly Forearms",
+    "description": {
+      "general": "The fists of the Fara King's guard are ever clenched with the promise of violence"
+    }
+  },
+  "kinolyGarment": {
+    "name": "Kinoly Garment",
+    "description": {
+      "general": "The Fara believe that the neglected spirits of their ancestors rise as vengeful ghosts"
+    }
+  },
+  "kinolyBelt": {
+    "name": "Kinoly Belt",
+    "description": {
+      "general": "Threads of lamba ripple like seagrass in a storm. The Fara shall endure."
+    }
+  },
+  "hovaBelt": {
+    "name": "Hova Belt",
+    "description": {
+      "general": "A belt worn by the free men and women of Fara society"
+    }
+  },
+  "covenantOfCraft": {
+    "name": "Covenant of Craft",
+    "description": {
+      "general": "The mark of a craftsman, bearing both wisdom and sharp steel"
+    }
+  },
+  "alQisas": {
+    "name": "Al Qisas",
+    "description": {
+      "general": "Trouble looms on the water, and fury boils in her veins"
+    }
+  },
+  "heartlock": {
+    "name": "Heartlock",
+    "description": {
+      "general": "Where secrets rest and grudges grow"
+    }
+  },
+  "quietKills": {
+    "name": "Quiet Kills",
+    "description": {
+      "general": "\"If they notice this color, it's already too late for 'em.\""
+    }
+  },
+  "silentWinds": {
+    "name": "Silent Winds",
+    "description": {
+      "general": "Deathly silent, unless you let one rip"
+    }
+  },
+  "stopYappin": {
+    "name": "Stop Yappin'",
+    "description": {
+      "general": "\"Yer doin' me head in!\""
+    }
+  },
+  "razorfinPlate": {
+    "name": "Razorfin Plate",
+    "description": {
+      "general": "Slice through your foes to rule the seas"
+    }
+  },
+  "creedOfShadows": {
+    "name": "Creed of Shadows",
+    "description": {
+      "general": "All for the Brotherhood"
+    }
+  },
+  "forTheBrotherhood": {
+    "name": "For the Brotherhood",
+    "description": {
+      "general": "An unseen hand decides fate"
+    }
+  },
+  "rebelsCause": {
+    "name": "Rebel's Cause",
+    "description": {
+      "general": "What does a pirate truly covet?"
+    }
+  },
+  "assassinsEyes": {
+    "name": "Assassin's Eyes",
+    "description": {
+      "general": "A faithful friend who sees what you cannot"
     }
   }
 }
