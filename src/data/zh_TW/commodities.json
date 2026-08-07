@@ -276,7 +276,7 @@
     "description": "An embroidered pouch of intricate design, filled with an unknown substance. Belonged to the leader of the Phoenix's Talon."
   },
   "pulsingSchaduwRemnant": {
-    "name": "Pulsing Schaduw Remnant",
+    "name": "Vivid Schaduw Remnant",
     "description": "Debris of the Schaduw, powered by Vikram's influence."
   },
   "grainFlare": {
@@ -294,5 +294,17 @@
   "hallowedFlare": {
     "name": "Hallowed Flare",
     "description": "This flare has an air that is disturbing yet whimsical. It almost seems to be cackling at you."
+  },
+  "nianFlare": {
+    "name": "Nian Flare",
+    "description": "Anchored coins coiled onto the beast, fate destined to be sealed by its greed."
+  },
+  "encryptedMooncake": {
+    "name": "Encrypted Mooncake",
+    "description": "An encrypted message is hidden within this delicate mooncake."
+  },
+  "cipherMooncake": {
+    "name": "Cipher Mooncake",
+    "description": "A re-encrypted mooncake needs to be handled carefully."
   }
 }
