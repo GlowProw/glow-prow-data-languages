@@ -276,7 +276,7 @@
     "description": "一个绣着精致图案的荷包，不知里面装着什么。翔凤首领之物。"
   },
   "pulsingSchaduwRemnant": {
-    "name": "鲜艳的暗影号残骸",
+    "name": "Vivid Schaduw Remnant",
     "description": "受维克莱姆力量所操控的暗影号残骸。\n用于挑战暗影领主维克莱姆●拉詹。"
   },
   "grainFlare": {
@@ -294,5 +294,17 @@
   "hallowedFlare": {
     "name": "神圣信号弹",
     "description": "这种信号弹带有一种令人不安却又异想天开的气息。它似乎在嘲笑你。"
+  },
+  "nianFlare": {
+    "name": "Nian Flare",
+    "description": "Anchored coins coiled onto the beast, fate destined to be sealed by its greed."
+  },
+  "encryptedMooncake": {
+    "name": "Encrypted Mooncake",
+    "description": "An encrypted message is hidden within this delicate mooncake."
+  },
+  "cipherMooncake": {
+    "name": "Cipher Mooncake",
+    "description": "A re-encrypted mooncake needs to be handled carefully."
   }
 }
