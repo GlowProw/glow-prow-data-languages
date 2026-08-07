@@ -5,60 +5,60 @@
   "huntingSpear": {
     "name": "Hunting Spear",
     "description": {
-      "general": "A spear to take down animals or sharks.",
       "2": "An improved spear that can quickly take down animals or sharks.",
       "3": "An improved spear that can quickly take down animals or sharks even faster.",
       "4": "An improved spear that does more damage to wildlife.",
-      "5": "A fully improved spear that does even more damage to wildlife."
+      "5": "A fully improved spear that does even more damage to wildlife.",
+      "general": "A spear to take down animals or sharks."
     }
   },
   "crowbar": {
     "name": "Crowbar",
     "description": {
-      "general": "Scavenges shipwrecks.",
       "2": "Scavenges shipwrecks faster. Ideal for medium shipwrecks.",
       "3": "Scavenges shipwrecks even faster. Ideal for large shipwrecks.",
       "4": "A tool that is used for harvesting shipwrecks of any size while producing more yield.",
-      "5": "A better tool that is used for harvesting shipwrecks of any size while producing more yield."
+      "5": "A better tool that is used for harvesting shipwrecks of any size while producing more yield.",
+      "general": "Scavenges shipwrecks."
     }
   },
   "spyglass": {
     "name": "Spyglass",
     "description": {
-      "general": "A spyglass.",
       "1": "A basic spyglass with one zoom level.",
       "2": "An improved spyglass with an additional zoom level as it has two lenses in it.",
-      "3": "A more improved spyglass that can see much further away as it has three lenses in it."
+      "3": "A more improved spyglass that can see much further away as it has three lenses in it.",
+      "general": "A spyglass."
     }
   },
   "sickle": {
     "name": "Sickle",
     "description": {
-      "general": "Allows harvesting from plants.",
       "2": "Harvests plants with slightly increased efficiency.",
       "3": "Harvests plants with moderately increased efficiency.",
       "4": "Harvests plants with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
-      "5": "Harvests plants with significant increased efficiency. Grants the opportunity for an extra bonus yield."
+      "5": "Harvests plants with significant increased efficiency. Grants the opportunity for an extra bonus yield.",
+      "general": "Allows harvesting from plants."
     }
   },
   "saw": {
     "name": "Saw",
     "description": {
-      "general": "Allows harvesting from trees.",
       "2": "Harvests trees with slightly increased efficiency.",
       "3": "Harvests trees with moderately increased efficiency.",
       "4": "Harvests trees with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
-      "5": "Harvests trees with significant increased efficiency. Grants the opportunity for an extra bonus yield."
+      "5": "Harvests trees with significant increased efficiency. Grants the opportunity for an extra bonus yield.",
+      "general": "Allows harvesting from trees."
     }
   },
   "pickaxe": {
     "name": "Pickaxe",
     "description": {
-      "general": "Allows harvesting from deposits.",
       "2": "Harvests deposits with slightly increased efficiency.",
       "3": "Harvests deposits with moderately increased efficiency.",
       "4": "Harvests deposits with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
-      "5": "Harvests deposits with significant increased efficiency. Grants the opportunity for an extra bonus yield."
+      "5": "Harvests deposits with significant increased efficiency. Grants the opportunity for an extra bonus yield.",
+      "general": "Allows harvesting from deposits."
     }
   },
   "cannonballCrate": {
@@ -370,19 +370,19 @@
   "repairKit": {
     "name": "Repair Kit",
     "description": {
-      "general": "Mends a amount of the ship's hull",
       "1": "Mends a minimal amount of the ship's hull.",
       "2": "Mends a modest amount of the ship's hull.",
-      "3": "Mends a moderate amount of the ship's hull."
+      "3": "Mends a moderate amount of the ship's hull.",
+      "general": "Mends a amount of the ship's hull"
     }
   },
   "enhancedRepairKit": {
     "name": "Enhanced Repair Kit",
     "description": {
-      "general": "Mends a percentage of the ship's hull",
       "1": "Mends a modest percentage of the ship's hull.",
       "2": "Mends a moderate percentage of the ship's hull.",
-      "3": "Mends a greater percentage of the ship's hull."
+      "3": "Mends a greater percentage of the ship's hull.",
+      "general": "Mends a percentage of the ship's hull"
     }
   },
   "restorationKit": {
@@ -1084,170 +1084,170 @@
   "bedarUpgrade": {
     "name": "Bedar Upgrade",
     "description": {
-      "general": "Ship upgrade for the Bedar.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Bedar."
     }
   },
   "hulkUpgrade": {
     "name": "Hulk Upgrade",
     "description": {
-      "general": "Ship upgrade for the Hulk.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Hulk."
     }
   },
   "cutterUpgrade": {
     "name": "Cutter Upgrade",
     "description": {
-      "general": "Ship upgrade for the Cutter.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Cutter."
     }
   },
   "bargeUpgrade": {
     "name": "Barge Upgrade",
     "description": {
-      "general": "Ship upgrade for the Barge.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Barge."
     }
   },
   "sloopUpgrade": {
     "name": "Sloop Upgrade",
     "description": {
-      "general": "Ship upgrade for the Sloop.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Sloop."
     }
   },
   "padewakangUpgrade": {
     "name": "Padewakang Upgrade",
     "description": {
-      "general": "Ship upgrade for the Padewakang.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Padewakang."
     }
   },
   "snowUpgrade": {
     "name": "Snow Upgrade",
     "description": {
-      "general": "Ship upgrade for the Snow.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Snow."
     }
   },
   "brigantineUpgrade": {
     "name": "Brigantine Upgrade",
     "description": {
-      "general": "Ship upgrade for the Brigantine.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Brigantine."
     }
   },
   "sambukUpgrade": {
     "name": "Sambuk Upgrade",
     "description": {
-      "general": "Ship upgrade for the Sambuk.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Sambuk."
     }
   },
   "barqueUpgrade": {
     "name": "Barque Upgrade",
     "description": {
-      "general": "Ship upgrade for the Barque.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Barque."
     }
   },
   "brigUpgrade": {
     "name": "Brig Upgrade",
     "description": {
-      "general": "Ship upgrade for the Brig.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Brig."
     }
   },
   "battleJunkUpgrade": {
     "name": "Battle Junk Upgrade",
     "description": {
-      "general": "Ship upgrade for the Battle Junk.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Battle Junk."
     }
   },
   "garudaUpgrade": {
     "name": "Garuda Upgrade",
     "description": {
-      "general": "Ship upgrade for the Garuda.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Garuda."
     }
   },
   "boatswainsToll": {
@@ -1355,65 +1355,65 @@
   "deluxeBallistaBoltCrate": {
     "name": "Deluxe Ballista Bolt Crate",
     "description": {
-      "general": "Contains ballista bolts that can be used in Ballista weapons",
       "1": "Contains 40 ballista bolts that can be used in Ballista weapons",
-      "2": "Contains 60 ballista bolts that can be used in Ballista weapons"
+      "2": "Contains 60 ballista bolts that can be used in Ballista weapons",
+      "general": "Contains ballista bolts that can be used in Ballista weapons"
     }
   },
   "deluxeSeaFireOilCrate": {
     "name": "Deluxe Sea Fire Oil Crate",
     "description": {
-      "general": "Contains oil canisters that can be used in Sea Fire weapons",
       "1": "Contains 120 oil canisters that can be used in Sea Fire weapons",
-      "2": "Contains 180 oil canisters that can be used in Sea Fire weapons"
+      "2": "Contains 180 oil canisters that can be used in Sea Fire weapons",
+      "general": "Contains oil canisters that can be used in Sea Fire weapons"
     }
   },
   "deluxeCannonballCrate": {
     "name": "Deluxe Cannonball Crate",
     "description": {
-      "general": "Contains cannonballs that can be used in Cannon weapons",
       "1": "Contains 200 cannonballs that can be used in Cannon weapons",
-      "2": "Contains 300 cannonballs that can be used in Cannon weapons"
+      "2": "Contains 300 cannonballs that can be used in Cannon weapons",
+      "general": "Contains cannonballs that can be used in Cannon weapons"
     }
   },
   "deluxeMortarBombCrate": {
     "name": "Deluxe Mortar Bomb Crate",
     "description": {
-      "general": "Contains mortar bombs that can be used in Mortar weapons",
       "1": "Contains 40 mortar bombs that can be used in Mortar weapons",
-      "2": "Contains 60 mortar bombs that can be used in Mortar weapons"
+      "2": "Contains 60 mortar bombs that can be used in Mortar weapons",
+      "general": "Contains mortar bombs that can be used in Mortar weapons"
     }
   },
   "deluxeRocketCrate": {
     "name": "Deluxe Rocket Crate",
     "description": {
-      "general": "Contains rockets that can be used in Rocket Launcher weapons",
       "1": "Contains 200 rockets that can be used in Rocket Launcher weapons",
-      "2": "Contains 300 rockets that can be used in Rocket Launcher weapons"
+      "2": "Contains 300 rockets that can be used in Rocket Launcher weapons",
+      "general": "Contains rockets that can be used in Rocket Launcher weapons"
     }
   },
   "deluxeBuoyShellsCrate": {
     "name": "Deluxe Buoy Shells Crate",
     "description": {
-      "general": "Contains buoy shells that can be used in Springloader weapons",
       "1": "Contains 40 buoy shells that can be used in Springloader weapons",
-      "2": "Contains 60 buoy shells that can be used in Springloader weapons"
+      "2": "Contains 60 buoy shells that can be used in Springloader weapons",
+      "general": "Contains buoy shells that can be used in Springloader weapons"
     }
   },
   "deluxeBombardBombCrate": {
     "name": "Deluxe Bombard Bomb Crate",
     "description": {
-      "general": "Contains bombard bombs that can be used in Bombard weapons",
       "1": "Contains 120 bombard bombs that can be used in Bombard weapons",
-      "2": "Contains 180 bombard bombs that can be used in Bombard weapons"
+      "2": "Contains 180 bombard bombs that can be used in Bombard weapons",
+      "general": "Contains bombard bombs that can be used in Bombard weapons"
     }
   },
   "deluxeTorpedoCrate": {
     "name": "Deluxe Torpedo Crate",
     "description": {
-      "general": "Contains torpedoes that can be used in Torpedo Launcher weapons",
       "1": "Contains 120 torpedoes that can be used in Torpedo Launcher weapons",
-      "2": "Contains 180 torpedoes that can be used in Torpedo Launcher weapons"
+      "2": "Contains 180 torpedoes that can be used in Torpedo Launcher weapons",
+      "general": "Contains torpedoes that can be used in Torpedo Launcher weapons"
     }
   },
   "whiteJade": {
@@ -1887,14 +1887,14 @@
   "schoonerUpgrade": {
     "name": "Schooner Upgrade",
     "description": {
-      "general": "Ship upgrade for the Schooner.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Schooner."
     }
   },
   "titansCuirass": {
@@ -2344,14 +2344,14 @@
   "frigateUpgrade": {
     "name": "Frigate Upgrade",
     "description": {
-      "general": "Ship upgrade for the Frigate.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Frigate."
     }
   },
   "thunderDragonCannon": {
@@ -2507,22 +2507,22 @@
   "teulingsArmorChest": {
     "name": "Teuling's Armor Chest",
     "description": {
-      "general": "Contains a random Smuggler Pass Armor.",
-      "1": "Contains a random Smuggler Pass Armor from Year 1."
+      "1": "Contains a random Smuggler Pass Armor from Year 1.",
+      "general": "Contains a random Smuggler Pass Armor."
     }
   },
   "teulingsFurnitureChest": {
     "name": "Teuling's Furniture Chest",
     "description": {
-      "general": "Contains a random Smuggler Pass Furniture.",
-      "1": "Contains a random Smuggler Pass Furniture from Year 1."
+      "1": "Contains a random Smuggler Pass Furniture from Year 1.",
+      "general": "Contains a random Smuggler Pass Furniture."
     }
   },
   "teulingsWeaponChest": {
     "name": "Teuling's Weapon Chest",
     "description": {
-      "general": "Contains a random Smuggler Pass Weapon.",
-      "1": "Contains a random Smuggler Pass Weapon from Year 1."
+      "1": "Contains a random Smuggler Pass Weapon from Year 1.",
+      "general": "Contains a random Smuggler Pass Weapon."
     }
   },
   "jokaKubwaTreasureChest": {
@@ -2852,14 +2852,14 @@
   "sloopOfWarUpgrade": {
     "name": "Sloop of War Upgrade",
     "description": {
-      "general": "Ship upgrade for the Sloop of War.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Sloop of War."
     }
   },
   "ascendedRequiemOfTheLostEventCache": {
@@ -2955,14 +2955,14 @@
   "corvetteUpgrade": {
     "name": "Corvette Upgrade",
     "description": {
-      "general": "Ship upgrade for the Corvette.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Corvette."
     }
   },
   "foundingCelebratoryChest": {
@@ -3124,14 +3124,14 @@
   "galleonUpgrade": {
     "name": "Galleon Upgrade",
     "description": {
-      "general": "Ship upgrade for the Galleon.",
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
       "3": "Upgrades the ship level from 2 to 3.",
       "4": "Upgrades the ship level from 3 to 4.",
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
-      "7": "Upgrades the ship level from 6 to 7."
+      "7": "Upgrades the ship level from 6 to 7.",
+      "general": "Ship upgrade for the Galleon."
     }
   },
   "hullcarver": {
