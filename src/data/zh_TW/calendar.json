@@ -1,182 +1,271 @@
 {
-  "oathsOfWar": {
-    "description": "As tensions rise in the Indian Ocean, hostile factions engage in fierce conflicts to compete for dominance. Empires defend their positions with impregnable fortresses and deploy powerful capital ships, aiming to crush all opposition and ultimately seize hegemony.",
-    "data": {
-      "phoenixStorm": {
-        "name": "Phoenix Storm",
-        "description": "Seasonal Boss\nFace Li Tianning and her warship"
-      },
-      "theRageOfTheDragon": {
-        "name": "Rage of the Dragon"
-      },
-      "theShadowDragonHasArrived": {
-        "name": "Shadow Dragon's Arrival"
-      },
-      "ferventBootleggerNickname": {
-        "name": "Fervent Bootlegger",
-        "description": "Limited-time Event"
-      },
-      "witchHunter": {
-        "name": "Witch Hunter"
-      },
-      "theKingOfPlagues": {
-        "name": "King of Plagues"
-      },
-      "chasingDestinyMelodicSilence": {
-        "name": "Chasing Destiny: Melodic Silence",
-        "description": "Elite Warship Returns"
-      },
-      "sufferingShip": {
-        "name": "S.S. Suffering",
-        "description": "Elite Warship"
-      },
-      "doubleSilverCoins": {
-        "name": "Double Silver Coins",
-        "description": "Weekend Event"
-      },
-      "revengeOfTheBeast": {
-        "name": "Beast's Revenge",
-        "description": "Sea Monster"
-      },
-      "mahayama": {
-        "name": "Mahayama",
-        "description": "Seasonal Boss"
-      },
-      "gloryUponOnesShoulders": {
-        "name": "Glory Upon Shoulders",
-        "description": "Limited-time Event"
-      },
-      "eightRupees": {
-        "name": "Eight Reales",
-        "description": "Weekend Event"
-      },
-      "shroudingTheSunAndTerrifyingShadows": {
-        "name": "Sun-Shrouding Terror",
-        "description": "Seasonal Boss"
-      },
-      "fromTheAbyss": {
-        "name": "From the Abyss",
-        "description": "Elite Warship"
-      },
-      "doubleGoldMark": {
-        "name": "Double Gold Mark",
-        "description": "Weekend Event"
-      },
-      "mistyRequiem": {
-        "name": "Misty Requiem",
-        "description": "Limited-time Event"
-      },
-      "ghostlyGapingMouth": {
-        "name": "Ghostly Gaping Maw",
-        "description": "Sea Monster"
-      },
-      "enmityAndAnger": {
-        "name": "Enmity and Wrath",
-        "description": "Sea Monster"
-      },
-      "toothEnhancementBonus": {
-        "name": "Fang Enhancement Bonus",
-        "description": "Weekend Event"
-      },
-      "royalSunray": {
-        "name": "Royal Sunray",
-        "description": "Elite Warship"
-      },
-      "decayedFortress": {
-        "name": "Decayed Fortress",
-        "description": "Returning Boss"
-      },
-      "impulse": {
-        "name": "Impulse",
-        "description": "Elite Warship"
-      }
+    "crimsonWaters": {
+        "description": "The crimson tide rises, and with it, the most ruthless pirates, fearsome sea monsters, and legendary warships the Indian Ocean has ever seen. Battle through the Darktide, face formidable Seasonal Bosses, and claim your glory on these blood-soaked waters.",
+        "data": {
+            "darktideLullaby": {
+                "name": "Darktide Lullaby",
+                "description": "Time-Limited Event\nDefeat Darktide Roamers for rewards"
+            },
+            "factionWar": {
+                "name": "Faction War",
+                "description": "Faction War"
+            },
+            "commanderZhang": {
+                "name": "Commander Zhang",
+                "description": "Seasonal Boss"
+            },
+            "philippeLaPeste": {
+                "name": "Philippe La Peste",
+                "description": "Seasonal Boss"
+            },
+            "theSoleilRoyal": {
+                "name": "The Soleil Royal",
+                "description": "Elite Warship"
+            },
+            "infamyBoost": {
+                "name": "Infamy Boost",
+                "description": "Special Weekend Event"
+            },
+            "vikramRajan": {
+                "name": "Vikram Rajan",
+                "description": "Seasonal Boss"
+            },
+            "jonasVanderkill": {
+                "name": "Jonas Vanderkill",
+                "description": "Elite Warship"
+            },
+            "darktideBoost": {
+                "name": "Darktide Boost",
+                "description": "Special Weekend Event"
+            },
+            "theKraken": {
+                "name": "The Kraken",
+                "description": "Sea Monster"
+            },
+            "elderShadowbeast": {
+                "name": "Elder Shadowbeast",
+                "description": "Seasonal Boss"
+            },
+            "gloryAdornedResynced": {
+                "name": "Glory Adorned: Resynced",
+                "description": "Time-Limited Event"
+            },
+            "abyssalEnvoy": {
+                "name": "Abyssal Envoy",
+                "description": "New Elite Warship"
+            },
+            "piecesOfEightBoost": {
+                "name": "Pieces of Eight Boost",
+                "description": "Special Event"
+            },
+            "gildmarksBoost": {
+                "name": "Gildmarks Boost",
+                "description": "Special Event"
+            },
+            "smugglerBoost": {
+                "name": "Smuggler Boost",
+                "description": "Special Event"
+            },
+            "theRovingLost": {
+                "name": "The Roving Lost",
+                "description": "Time-Limited Event"
+            },
+            "zamaharibu": {
+                "name": "Zamaharibu",
+                "description": "Sea Monster"
+            },
+            "rovingLostBoost": {
+                "name": "Roving Lost Boost",
+                "description": "Special Event"
+            },
+            "theOpwelling": {
+                "name": "The Opwelling",
+                "description": "Elite Warship"
+            },
+            "helmBoost": {
+                "name": "Helm Boost",
+                "description": "Special Event"
+            }
+        }
+    },
+    "oathsOfWar": {
+        "description": "As tensions rise in the Indian Ocean, hostile factions engage in fierce conflicts to compete for dominance. Empires defend their positions with impregnable fortresses and deploy powerful capital ships, aiming to crush all opposition and ultimately seize hegemony.",
+        "data": {
+            "phoenixStorm": {
+                "name": "Phoenix Storm",
+                "description": "Seasonal Boss\nFace Li Tianning and her warship"
+            },
+            "theRageOfTheDragon": {
+                "name": "Rage of the Dragon"
+            },
+            "theShadowDragonHasArrived": {
+                "name": "Shadow Dragon's Arrival"
+            },
+            "ferventBootleggerNickname": {
+                "name": "Fervent Bootlegger",
+                "description": "Limited-time Event"
+            },
+            "witchHunter": {
+                "name": "Witch Hunter"
+            },
+            "theKingOfPlagues": {
+                "name": "King of Plagues"
+            },
+            "chasingDestinyMelodicSilence": {
+                "name": "Chasing Destiny: Melodic Silence",
+                "description": "Elite Warship Returns"
+            },
+            "sufferingShip": {
+                "name": "S.S. Suffering",
+                "description": "Elite Warship"
+            },
+            "doubleSilverCoins": {
+                "name": "Double Silver Coins",
+                "description": "Weekend Event"
+            },
+            "revengeOfTheBeast": {
+                "name": "Beast's Revenge",
+                "description": "Sea Monster"
+            },
+            "mahayama": {
+                "name": "Mahayama",
+                "description": "Seasonal Boss"
+            },
+            "gloryUponOnesShoulders": {
+                "name": "Glory Upon Shoulders",
+                "description": "Limited-time Event"
+            },
+            "eightRupees": {
+                "name": "Eight Reales",
+                "description": "Weekend Event"
+            },
+            "shroudingTheSunAndTerrifyingShadows": {
+                "name": "Sun-Shrouding Terror",
+                "description": "Seasonal Boss"
+            },
+            "fromTheAbyss": {
+                "name": "From the Abyss",
+                "description": "Elite Warship"
+            },
+            "doubleGoldMark": {
+                "name": "Double Gold Mark",
+                "description": "Weekend Event"
+            },
+            "mistyRequiem": {
+                "name": "Misty Requiem",
+                "description": "Limited-time Event"
+            },
+            "ghostlyGapingMouth": {
+                "name": "Ghostly Gaping Maw",
+                "description": "Sea Monster"
+            },
+            "enmityAndAnger": {
+                "name": "Enmity and Wrath",
+                "description": "Sea Monster"
+            },
+            "toothEnhancementBonus": {
+                "name": "Fang Enhancement Bonus",
+                "description": "Weekend Event"
+            },
+            "royalSunray": {
+                "name": "Royal Sunray",
+                "description": "Elite Warship"
+            },
+            "decayedFortress": {
+                "name": "Decayed Fortress",
+                "description": "Returning Boss"
+            },
+            "impulse": {
+                "name": "Impulse",
+                "description": "Elite Warship"
+            }
+        }
+    },
+    "gutsAndGlory": {
+        "description": "As the Faction War rages on, where will your loyalties lie? Pick a side: Dutch Merchant Company or French Compagnie Royale. Win territories, earn war assets, and fight for ultimate victory in Guts and Glory. ",
+        "data": {
+            "factionWar": {
+                "name": "Faction War",
+                "description": "New Feature\nParticipate in the war between the Dutch Trading Company and the Royal Company to earn rewards"
+            },
+            "drowningPlague": {
+                "name": "Drowning Plague",
+                "description": ""
+            },
+            "theGreatShadow": {
+                "name": "The Great Shadow",
+                "description": ""
+            },
+            "theRovingLost": {
+                "name": "The Roving Lost",
+                "description": ""
+            },
+            "gloryAdored": {
+                "name": "Glory Adored",
+                "description": "Limited-time Event"
+            },
+            "rewardBoost": {
+                "name": "Reward Boost",
+                "description": "Special Event"
+            },
+            "theMizerja": {
+                "name": "The Mizerja",
+                "description": "Elite Warship"
+            },
+            "theShadowBeasts": {
+                "name": "The Shadow Beasts",
+                "description": "Celestial Dragon Eclipses the Sun"
+            },
+            "theSerpentsWrath": {
+                "name": "The Serpent's Wrath",
+                "description": "Season Boss"
+            },
+            "gildMarksBoost": {
+                "name": "Gild Marks Boost",
+                "description": "Special Event"
+            },
+            "revenantsFury": {
+                "name": "Revenant's Fury",
+                "description": "Sea Monster"
+            },
+            "reaversRevenge": {
+                "name": "Reaver's Revenge",
+                "description": "Sea Monster"
+            },
+            "theSoleilRoyal": {
+                "name": "The Soleil Royal",
+                "description": "Elite Warship"
+            },
+            "helmRoost": {
+                "name": "Helm Roost",
+                "description": "Special Event"
+            },
+            "smugglerBoost": {
+                "name": "Smuggler Boost",
+                "description": "Special Event"
+            },
+            "theWolfHunter": {
+                "name": "The Wolf Hunter",
+                "description": "Elite Warship"
+            },
+            "azureSolstice": {
+                "name": "Azure Solstice",
+                "description": "Limited-time Event"
+            },
+            "theOpwelling": {
+                "name": "The Opwelling",
+                "description": "Elite Warship"
+            },
+            "gloryAdorned": {
+                "name": "Glory Adorned",
+                "description": "Limited-time Event"
+            }
+        }
+    },
+    "eyeOfTheBeast": {
+        "description": "And from that cesspit, something ancient and clearly pissed off is waking. It tears every poor soul within its reach limb from limb.\n\nBut you won’t face it empty-handed.\n\nThe long-awaited Corvette finally sails into the Indian Ocean. It is your strongest chance against whatever horror is coming up from below."
+    },
+    "shatteredSeas": {
+        "description": "So, Captain, are you ready to brave the Shattered Seas?"
     }
-  },
-  "gutsAndGlory": {
-    "description": "As the Faction War rages on, where will your loyalties lie? Pick a side: Dutch Merchant Company or French Compagnie Royale. Win territories, earn war assets, and fight for ultimate victory in Guts and Glory. ",
-    "data": {
-      "factionWar": {
-        "name": "Faction War",
-        "description": "New Feature\nParticipate in the war between the Dutch Trading Company and the Royal Company to earn rewards"
-      },
-      "drowningPlague": {
-        "name": "Drowning Plague",
-        "description": ""
-      },
-      "theGreatShadow": {
-        "name": "The Great Shadow",
-        "description": ""
-      },
-      "theRovingLost": {
-        "name": "The Roving Lost",
-        "description": ""
-      },
-      "gloryAdored": {
-        "name": "Glory Adored",
-        "description": "Limited-time Event"
-      },
-      "rewardBoost": {
-        "name": "Reward Boost",
-        "description": "Special Event"
-      },
-      "theMizerja": {
-        "name": "The Mizerja",
-        "description": "Elite Warship"
-      },
-      "theShadowBeasts": {
-        "name": "The Shadow Beasts",
-        "description": "Celestial Dragon Eclipses the Sun"
-      },
-      "theSerpentsWrath": {
-        "name": "The Serpent's Wrath",
-        "description": "Season Boss"
-      },
-      "gildMarksBoost": {
-        "name": "Gild Marks Boost",
-        "description": "Special Event"
-      },
-      "revenantsFury": {
-        "name": "Revenant's Fury",
-        "description": "Sea Monster"
-      },
-      "reaversRevenge": {
-        "name": "Reaver's Revenge",
-        "description": "Sea Monster"
-      },
-      "theSoleilRoyal": {
-        "name": "The Soleil Royal",
-        "description": "Elite Warship"
-      },
-      "helmRoost": {
-        "name": "Helm Roost",
-        "description": "Special Event"
-      },
-      "smugglerBoost": {
-        "name": "Smuggler Boost",
-        "description": "Special Event"
-      },
-      "theWolfHunter": {
-        "name": "The Wolf Hunter",
-        "description": "Elite Warship"
-      },
-      "azureSolstice": {
-        "name": "Azure Solstice",
-        "description": "Limited-time Event"
-      },
-      "theOpwelling": {
-        "name": "The Opwelling",
-        "description": "Elite Warship"
-      },
-      "gloryAdorned": {
-        "name": "Glory Adorned",
-        "description": "Limited-time Event"
-      }
-    }
-  },
-  "eyeOfTheBeast": {
-    "description": "And from that cesspit, something ancient and clearly pissed off is waking. It tears every poor soul within its reach limb from limb.\n\nBut you won’t face it empty-handed.\n\nThe long-awaited Corvette finally sails into the Indian Ocean. It is your strongest chance against whatever horror is coming up from below."
-  },
-  "shatteredSeas": {
-    "description": "So, Captain, are you ready to brave the Shattered Seas?"
-  }
 }
