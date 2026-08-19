@@ -1,182 +1,271 @@
 {
-  "oathsOfWar": {
-    "description": "随着印度洋局势的紧张，敌对派系之间为了争夺主导地位展开了激烈的冲突。各帝国以坚不可摧的堡垒捍卫自己的阵地，并派遣强大的大型战舰，意图粉碎一切敌对势力，最终夺取霸权。",
-    "data": {
-      "phoenixStorm": {
-        "name": "凤凰风暴",
-        "description": "赛季首领\n直面黎天宁和她的战船"
-      },
-      "theRageOfTheDragon": {
-        "name": "飞龙之怒"
-      },
-      "theShadowDragonHasArrived": {
-        "name": "影龙降临"
-      },
-      "ferventBootleggerNickname": {
-        "name": "狂热私酒贩号",
-        "description": "限时活动"
-      },
-      "witchHunter": {
-        "name": "猎狼人"
-      },
-      "theKingOfPlagues": {
-        "name": "瘟疫之王"
-      },
-      "chasingDestinyMelodicSilence": {
-        "name": "追命靡音",
-        "description": "精英战船再临"
-      },
-      "sufferingShip": {
-        "name": "疼苦号",
-        "description": "精英战船"
-      },
-      "doubleSilverCoins": {
-        "name": "双倍硬币",
-        "description": "周末活动"
-      },
-      "revengeOfTheBeast": {
-        "name": "凶兽复仇",
-        "description": "海怪"
-      },
-      "mahayama": {
-        "name": "摩诃影",
-        "description": "赛季首领"
-      },
-      "gloryUponOnesShoulders": {
-        "name": "荣耀加身",
-        "description": "限时活动"
-      },
-      "eightRupees": {
-        "name": "八里亚尔",
-        "description": "周末活动"
-      },
-      "shroudingTheSunAndTerrifyingShadows": {
-        "name": "蔽日骇影",
-        "description": "赛季首领"
-      },
-      "fromTheAbyss": {
-        "name": "来自深渊",
-        "description": "精英战船"
-      },
-      "doubleGoldMark": {
-        "name": "双倍镀金马克",
-        "description": "周末活动"
-      },
-      "mistyRequiem": {
-        "name": "暗潮安魂曲",
-        "description": "限时活动"
-      },
-      "ghostlyGapingMouth": {
-        "name": "亡魂巨口",
-        "description": "海怪"
-      },
-      "enmityAndAnger": {
-        "name": "怨仇怒火",
-        "description": "海怪"
-      },
-      "toothEnhancementBonus": {
-        "name": "獠牙加成",
-        "description": "周末活动"
-      },
-      "royalSunray": {
-        "name": "皇家烈阳号",
-        "description": "精英战船"
-      },
-      "decayedFortress": {
-        "name": "破败堡垒",
-        "description": "回归首领"
-      },
-      "impulse": {
-        "name": "冲动号",
-        "description": "精英战船"
-      }
+    "crimsonWaters": {
+        "description": "猩红浪潮汹涌而来，随之而来的是印度洋有史以来最凶残的海盗、最可怖的海怪和最传奇的战舰。穿越暗潮，迎战强大的赛季首领，在血染的海域中赢得你的荣耀。",
+        "data": {
+            "darktideLullaby": {
+                "name": "暗潮安魂曲",
+                "description": "限时活动\n击败暗潮漂泊者，获取奖励"
+            },
+            "factionWar": {
+                "name": "阵营战争",
+                "description": "阵营战争"
+            },
+            "commanderZhang": {
+                "name": "张提督",
+                "description": "赛季首领"
+            },
+            "philippeLaPeste": {
+                "name": "菲力浦·拉佩斯特",
+                "description": "赛季首领"
+            },
+            "theSoleilRoyal": {
+                "name": "皇家烈阳号",
+                "description": "精英战船"
+            },
+            "infamyBoost": {
+                "name": "恶名加成",
+                "description": "周末活动"
+            },
+            "vikramRajan": {
+                "name": "维克莱姆·拉詹",
+                "description": "赛季首领"
+            },
+            "jonasVanderkill": {
+                "name": "乔纳斯·范德基尔",
+                "description": "精英战船"
+            },
+            "darktideBoost": {
+                "name": "暗潮加成",
+                "description": "特别周末活动"
+            },
+            "theKraken": {
+                "name": "克拉肯",
+                "description": "海怪"
+            },
+            "elderShadowbeast": {
+                "name": "上古影龙",
+                "description": "赛季首领"
+            },
+            "gloryAdornedResynced": {
+                "name": "荣耀加身：记忆重置",
+                "description": "限时活动"
+            },
+            "abyssalEnvoy": {
+                "name": "深渊使者号",
+                "description": "新精英战船"
+            },
+            "piecesOfEightBoost": {
+                "name": "海舵社币加成",
+                "description": "特别周末活动"
+            },
+            "gildmarksBoost": {
+                "name": "镀金马克加成",
+                "description": "特别活动"
+            },
+            "smugglerBoost": {
+                "name": "走私贩加成",
+                "description": "特别活动"
+            },
+            "theRovingLost": {
+                "name": "彷徨游魂",
+                "description": "限时活动"
+            },
+            "zamaharibu": {
+                "name": "萨马哈利布",
+                "description": "海怪"
+            },
+            "rovingLostBoost": {
+                "name": "彷徨游魂加成",
+                "description": "特别活动"
+            },
+            "theOpwelling": {
+                "name": "冲动号",
+                "description": "精英战船"
+            },
+            "helmBoost": {
+                "name": "海舵社加成",
+                "description": "特别活动"
+            }
+        }
+    },
+    "oathsOfWar": {
+        "description": "随着印度洋局势的紧张，敌对派系之间为了争夺主导地位展开了激烈的冲突。各帝国以坚不可摧的堡垒捍卫自己的阵地，并派遣强大的大型战舰，意图粉碎一切敌对势力，最终夺取霸权。",
+        "data": {
+            "phoenixStorm": {
+                "name": "凤凰风暴",
+                "description": "赛季首领\n直面黎天宁和她的战船"
+            },
+            "theRageOfTheDragon": {
+                "name": "飞龙之怒"
+            },
+            "theShadowDragonHasArrived": {
+                "name": "影龙降临"
+            },
+            "ferventBootleggerNickname": {
+                "name": "狂热私酒贩号",
+                "description": "限时活动"
+            },
+            "witchHunter": {
+                "name": "猎狼人"
+            },
+            "theKingOfPlagues": {
+                "name": "瘟疫之王"
+            },
+            "chasingDestinyMelodicSilence": {
+                "name": "追命靡音",
+                "description": "精英战船再临"
+            },
+            "sufferingShip": {
+                "name": "疼苦号",
+                "description": "精英战船"
+            },
+            "doubleSilverCoins": {
+                "name": "双倍硬币",
+                "description": "周末活动"
+            },
+            "revengeOfTheBeast": {
+                "name": "凶兽复仇",
+                "description": "海怪"
+            },
+            "mahayama": {
+                "name": "摩诃影",
+                "description": "赛季首领"
+            },
+            "gloryUponOnesShoulders": {
+                "name": "荣耀加身",
+                "description": "限时活动"
+            },
+            "eightRupees": {
+                "name": "八里亚尔",
+                "description": "周末活动"
+            },
+            "shroudingTheSunAndTerrifyingShadows": {
+                "name": "蔽日骇影",
+                "description": "赛季首领"
+            },
+            "fromTheAbyss": {
+                "name": "来自深渊",
+                "description": "精英战船"
+            },
+            "doubleGoldMark": {
+                "name": "双倍镀金马克",
+                "description": "周末活动"
+            },
+            "mistyRequiem": {
+                "name": "暗潮安魂曲",
+                "description": "限时活动"
+            },
+            "ghostlyGapingMouth": {
+                "name": "亡魂巨口",
+                "description": "海怪"
+            },
+            "enmityAndAnger": {
+                "name": "怨仇怒火",
+                "description": "海怪"
+            },
+            "toothEnhancementBonus": {
+                "name": "獠牙加成",
+                "description": "周末活动"
+            },
+            "royalSunray": {
+                "name": "皇家烈阳号",
+                "description": "精英战船"
+            },
+            "decayedFortress": {
+                "name": "破败堡垒",
+                "description": "回归首领"
+            },
+            "impulse": {
+                "name": "冲动号",
+                "description": "精英战船"
+            }
+        }
+    },
+    "gutsAndGlory": {
+        "description": "系战争愈演愈烈，你的忠诚将属于哪一方？选择一方：荷兰商业公司或法国皇家公司。征服领土，获取战争资产，在“勇气与荣耀”中争夺最终胜利。",
+        "data": {
+            "factionWar": {
+                "name": "阵营战争",
+                "description": "新功能\n参与荷兰商社与皇家公司之间的战争，获取奖励"
+            },
+            "drowningPlague": {
+                "name": "没顶恶疫",
+                "description": ""
+            },
+            "theGreatShadow": {
+                "name": "蔽日骇影",
+                "description": ""
+            },
+            "theRovingLost": {
+                "name": "彷徨游魂",
+                "description": ""
+            },
+            "gloryAdored": {
+                "name": "荣耀加身",
+                "description": "限时活动"
+            },
+            "rewardBoost": {
+                "name": "奖励加成",
+                "description": "特别活动"
+            },
+            "theMizerja": {
+                "name": "苦痛号",
+                "description": "精英战船"
+            },
+            "theShadowBeasts": {
+                "name": "影龙降临",
+                "description": "天龙蔽日"
+            },
+            "theSerpentsWrath": {
+                "name": "飞龙之怒",
+                "description": "赛季首领"
+            },
+            "gildMarksBoost": {
+                "name": "镀金马克加成",
+                "description": "特别活动"
+            },
+            "revenantsFury": {
+                "name": "亡魂怒火",
+                "description": "海怪"
+            },
+            "reaversRevenge": {
+                "name": "凶兽复仇",
+                "description": "海怪"
+            },
+            "theSoleilRoyal": {
+                "name": "皇家烈阳号",
+                "description": "精英战船"
+            },
+            "helmRoost": {
+                "name": "海舵社加成",
+                "description": "特别活动"
+            },
+            "smugglerBoost": {
+                "name": "走私贩点数加成",
+                "description": "特别活动"
+            },
+            "theWolfHunter": {
+                "name": "猎狼人",
+                "description": "精英战船"
+            },
+            "azureSolstice": {
+                "name": "蔚蓝至日",
+                "description": "限时活动"
+            },
+            "theOpwelling": {
+                "name": "冲动号",
+                "description": "精英战船"
+            },
+            "gloryAdorned": {
+                "name": "荣耀加身",
+                "description": "限时活动"
+            }
+        }
+    },
+    "eyeOfTheBeast": {
+        "description": "腐烂的尸体，扭曲的船只，荷兰和皇家正在将这些海域变成一片血染的荒原。从那粪坑里，某种古老而愤怒的东西正在苏醒。它将触及范围内所有可怜的灵魂撕成碎片。\n但你不会空手而归。\n万众期待的克尔维特号终于驶入印度洋。它是你对抗来自下方任何恐怖威胁的最有力武器。"
+    },
+    "shatteredSeas": {
+        "description": "船长，你准备好勇闯破碎之海了吗？"
     }
-  },
-  "gutsAndGlory": {
-    "description": "系战争愈演愈烈，你的忠诚将属于哪一方？选择一方：荷兰商业公司或法国皇家公司。征服领土，获取战争资产，在“勇气与荣耀”中争夺最终胜利。",
-    "data": {
-      "factionWar": {
-        "name": "阵营战争",
-        "description": "新功能\n参与荷兰商社与皇家公司之间的战争，获取奖励"
-      },
-      "drowningPlague": {
-        "name": "没顶恶疫",
-        "description": ""
-      },
-      "theGreatShadow": {
-        "name": "蔽日骇影",
-        "description": ""
-      },
-      "theRovingLost": {
-        "name": "彷徨游魂",
-        "description": ""
-      },
-      "gloryAdored": {
-        "name": "荣耀加身",
-        "description": "限时活动"
-      },
-      "rewardBoost": {
-        "name": "奖励加成",
-        "description": "特别活动"
-      },
-      "theMizerja": {
-        "name": "苦痛号",
-        "description": "精英战船"
-      },
-      "theShadowBeasts": {
-        "name": "影龙降临",
-        "description": "天龙蔽日"
-      },
-      "theSerpentsWrath": {
-        "name": "飞龙之怒",
-        "description": "赛季首领"
-      },
-      "gildMarksBoost": {
-        "name": "镀金马克加成",
-        "description": "特别活动"
-      },
-      "revenantsFury": {
-        "name": "亡魂怒火",
-        "description": "海怪"
-      },
-      "reaversRevenge": {
-        "name": "凶兽复仇",
-        "description": "海怪"
-      },
-      "theSoleilRoyal": {
-        "name": "皇家烈阳号",
-        "description": "精英战船"
-      },
-      "helmRoost": {
-        "name": "海舵社加成",
-        "description": "特别活动"
-      },
-      "smugglerBoost": {
-        "name": "走私贩点数加成",
-        "description": "特别活动"
-      },
-      "theWolfHunter": {
-        "name": "猎狼人",
-        "description": "精英战船"
-      },
-      "azureSolstice": {
-        "name": "蔚蓝至日",
-        "description": "限时活动"
-      },
-      "theOpwelling": {
-        "name": "冲动号",
-        "description": "精英战船"
-      },
-      "gloryAdorned": {
-        "name": "荣耀加身",
-        "description": "限时活动"
-      }
-    }
-  },
-  "eyeOfTheBeast": {
-    "description": "腐烂的尸体，扭曲的船只，荷兰和皇家正在将这些海域变成一片血染的荒原。从那粪坑里，某种古老而愤怒的东西正在苏醒。它将触及范围内所有可怜的灵魂撕成碎片。\n但你不会空手而归。\n万众期待的克尔维特号终于驶入印度洋。它是你对抗来自下方任何恐怖威胁的最有力武器。"
-  },
-  "shatteredSeas": {
-    "description": "船长，你准备好勇闯破碎之海了吗？"
-  }
 }
