@@ -5,60 +5,60 @@
   "huntingSpear": {
     "name": "狩猎矛",
     "description": {
-      "general": "用于捕鱼和狩猎动物的基本长矛，投掷得当的话，甚至能赶走鲨鱼。",
       "2": "经改良的长矛，可快速击杀动物或鲨鱼。",
       "3": "经改良的长矛，可更快速地击杀动物或鲨鱼。",
       "4": "经改良的长矛，可提升对野生动物造成的伤害。",
-      "5": "经全面改良的长矛，可进一步提升对野生动物造成的伤害。"
+      "5": "经全面改良的长矛，可进一步提升对野生动物造成的伤害。",
+      "general": "用于捕鱼和狩猎动物的基本长矛，投掷得当的话，甚至能赶走鲨鱼。"
     }
   },
   "crowbar": {
     "name": "撬棍",
     "description": {
-      "general": "用于搜刮船骸以获取宝藏。",
       "2": "提升船骸搜刮速度。最适合用于搜刮中型船骸。",
       "3": "进一步提升船骸搜刮速度。最适合用于搜刮大型船骸。",
       "4": "可用于搜刮任何规模船骸的工具，并可提升搜刮到的物品数量。",
-      "5": "可用于搜刮任何规模船骸的改良工具，并可以提升搜刮到的物品数量。"
+      "5": "可用于搜刮任何规模船骸的改良工具，并可以提升搜刮到的物品数量。",
+      "general": "用于搜刮船骸以获取宝藏。"
     }
   },
   "spyglass": {
     "name": "望远镜",
     "description": {
-      "general": "一个望远镜。",
       "1": "眺望远方的基本工具，但仅有一片镜片。",
       "2": "经改良的望远镜。拥有两片镜片，缩放程度上升了一个层次。",
-      "3": "经进一步改良的望远镜，拥有三片镜片，可以看到更远的地方。"
+      "3": "经进一步改良的望远镜，拥有三片镜片，可以看到更远的地方。",
+      "general": "一个望远镜。"
     }
   },
   "sickle": {
     "name": "镰刀",
     "description": {
-      "general": "可从植物中采集织物原料以用于制作。",
       "2": "采集植物的效率微微提高。",
       "3": "采集植物的效率适当提高。",
       "4": "植物采集的效率大幅提升。有机会获得额外产出。",
-      "5": "植物采集效率获得极大提升。有机会获得更高额外产出。"
+      "5": "植物采集效率获得极大提升。有机会获得更高额外产出。",
+      "general": "可从植物中采集织物原料以用于制作。"
     }
   },
   "saw": {
     "name": "锯子",
     "description": {
-      "general": "可砍伐树木来采集木材以用于制作。",
       "2": "采集木材的效率微微提高。",
       "3": "采集木材的效率适当提高。",
       "4": "木材采集的效率大幅提升。有机会获得额外产出。",
-      "5": "木材的采集效率获得极大提升。有机会获得更高产出。"
+      "5": "木材的采集效率获得极大提升。有机会获得更高产出。",
+      "general": "可砍伐树木来采集木材以用于制作。"
     }
   },
   "pickaxe": {
     "name": "十字镐",
     "description": {
-      "general": "可从矿藏中采集铁矿石以用于制作。",
       "2": "采集矿藏的效率微微提高。",
       "3": "采集矿藏的效率适当提高。",
       "4": "矿藏采集的效率大幅提升。有机会获得额外产出。",
-      "5": "矿藏的采集效率获得极大提升。有机会获得更高额外产出。"
+      "5": "矿藏的采集效率获得极大提升。有机会获得更高额外产出。",
+      "general": "可从矿藏中采集铁矿石以用于制作。"
     }
   },
   "cannonballCrate": {
@@ -370,19 +370,19 @@
   "repairKit": {
     "name": "修理物品",
     "description": {
-      "general": "修复部分船体耐久",
       "1": "可略微修复船身。",
       "2": "可小幅修复船身。",
-      "3": "可中幅修复船身。"
+      "3": "可中幅修复船身。",
+      "general": "修复部分船体耐久"
     }
   },
   "enhancedRepairKit": {
     "name": "强化修理物品",
     "description": {
-      "general": "按比例修复船体耐久",
       "1": "可小幅修复船身。",
       "2": "可适度修复船身。",
-      "3": "可大量修复船身。"
+      "3": "可大量修复船身。",
+      "general": "按比例修复船体耐久"
     }
   },
   "restorationKit": {
@@ -1084,170 +1084,170 @@
   "bedarUpgrade": {
     "name": "扁嘴帆艇升级",
     "description": {
-      "general": "扁嘴帆艇的升级组件。",
       "1": "将扁嘴帆艇从0级升至1级。",
       "2": "将扁嘴帆艇从1级升至2级。",
       "3": "将扁嘴帆艇从2级升至3级。",
       "4": "将扁嘴帆艇从3级升至4级。",
       "5": "将扁嘴帆艇从4级升至5级。",
       "6": "将扁嘴帆艇从5级升至6级。",
-      "7": "将扁嘴帆艇从6级升至7级。"
+      "7": "将扁嘴帆艇从6级升至7级。",
+      "general": "扁嘴帆艇的升级组件。"
     }
   },
   "hulkUpgrade": {
     "name": "囤货艇升级",
     "description": {
-      "general": "囤货艇的升级组件。",
       "1": "将囤货艇从0级升至1级。",
       "2": "将囤货艇从1级升至2级。",
       "3": "将囤货艇从2级升至3级。",
       "4": "将囤货艇从3级升至4级。",
       "5": "将囤货艇从4级升至5级。",
       "6": "将囤货艇从5级升至6级。",
-      "7": "将囤货艇从6级升至7级。"
+      "7": "将囤货艇从6级升至7级。",
+      "general": "囤货艇的升级组件。"
     }
   },
   "cutterUpgrade": {
     "name": "短桅帆船升级",
     "description": {
-      "general": "短桅帆船的升级组件。",
       "1": "将短桅帆船从0级升至1级。",
       "2": "将短桅帆船从1级升至2级。",
       "3": "将短桅帆船从2级升至3级。",
       "4": "将短桅帆船从3级升至4级。",
       "5": "将短桅帆船从4级升至5级。",
       "6": "将短桅帆船从5级升至6级。",
-      "7": "将短桅帆船从6级升至7级。"
+      "7": "将短桅帆船从6级升至7级。",
+      "general": "短桅帆船的升级组件。"
     }
   },
   "bargeUpgrade": {
     "name": "平底货艇升级",
     "description": {
-      "general": "平底货艇的升级组件。",
       "1": "将平底货艇从0级升至1级。",
       "2": "将平底货艇从1级升至2级。",
       "3": "将平底货艇从2级升至3级。",
       "4": "将平底货艇从3级升至4级。",
       "5": "将平底货艇从4级升至5级。",
       "6": "将平底货艇从5级升至6级。",
-      "7": "将平底货艇从6级升至7级。"
+      "7": "将平底货艇从6级升至7级。",
+      "general": "平底货艇的升级组件。"
     }
   },
   "sloopUpgrade": {
     "name": "单桅船升级",
     "description": {
-      "general": "单桅炮艇的升级组件。",
       "1": "将单桅船从0级升至1级。",
       "2": "将单桅船从1级升至2级。",
       "3": "将单桅船从2级升至3级。",
       "4": "将单桅船从3级升至4级。",
       "5": "将单桅船从4级升至5级。",
       "6": "将单桅船从5级升至6级。",
-      "7": "将单桅船从6级升至7级。"
+      "7": "将单桅船从6级升至7级。",
+      "general": "单桅炮艇的升级组件。"
     }
   },
   "padewakangUpgrade": {
     "name": "巴得瓦康船升级",
     "description": {
-      "general": "巴得瓦康船的升级组件。",
       "1": "将巴得瓦康船从0级升至1级。",
       "2": "将巴得瓦康船从1级升至2级。",
       "3": "将巴得瓦康船从2级升至3级。",
       "4": "将巴得瓦康船从3级升至4级。",
       "5": "将巴得瓦康船从4级升至5级。",
       "6": "将巴得瓦康船从5级升至6级。",
-      "7": "将巴得瓦康船从6级升至7级。"
+      "7": "将巴得瓦康船从6级升至7级。",
+      "general": "巴得瓦康船的升级组件。"
     }
   },
   "snowUpgrade": {
     "name": "尖首货船升级",
     "description": {
-      "general": "尖首货船的升级组件。",
       "1": "将尖首货船从0级升至1级。",
       "2": "将尖首货船从1级升至2级。",
       "3": "将尖首货船从2级升至3级。",
       "4": "将尖首货船从3级升至4级。",
       "5": "将尖首货船从4级升至5级。",
       "6": "将尖首货船从5级升至6级。",
-      "7": "将尖首货船从6级升至7级。"
+      "7": "将尖首货船从6级升至7级。",
+      "general": "尖首货船的升级组件。"
     }
   },
   "brigantineUpgrade": {
     "name": "双桅帆船升级",
     "description": {
-      "general": "双桅帆船的升级组件。",
       "1": "将双桅帆船从0级升至1级。",
       "2": "将双桅帆船从1级升至2级。",
       "3": "将双桅帆船从2级升至3级。",
       "4": "将双桅帆船从3级升至4级。",
       "5": "将双桅帆船从4级升至5级。",
       "6": "将双桅帆船从5级升至6级。",
-      "7": "将双桅帆船从6级升至7级。"
+      "7": "将双桅帆船从6级升至7级。",
+      "general": "双桅帆船的升级组件。"
     }
   },
   "sambukUpgrade": {
     "name": "桑布克船升级",
     "description": {
-      "general": "桑布克船的升级组件。",
       "1": "将桑布克船从0级升至1级。",
       "2": "将桑布克船从1级升至2级。",
       "3": "将桑布克船从2级升至3级。",
       "4": "将桑布克船从3级升至4级。",
       "5": "将桑布克船从4级升至5级。",
       "6": "将桑布克船从5级升至6级。",
-      "7": "将桑布克船从6级升至7级。"
+      "7": "将桑布克船从6级升至7级。",
+      "general": "桑布克船的升级组件。"
     }
   },
   "barqueUpgrade": {
     "name": "三桅帆船升级",
     "description": {
-      "general": "三桅帆船的升级组件。",
       "1": "将三桅帆船从0级升至1级。",
       "2": "将三桅帆船从1级升至2级。",
       "3": "将三桅帆船从2级升至3级。",
       "4": "将三桅帆船从3级升至4级。",
       "5": "将三桅帆船从4级升至5级。",
       "6": "将三桅帆船从5级升至6级。",
-      "7": "将三桅帆船从6级升至7级。"
+      "7": "将三桅帆船从6级升至7级。",
+      "general": "三桅帆船的升级组件。"
     }
   },
   "brigUpgrade": {
     "name": "双桅帆船升级",
     "description": {
-      "general": "双桅帆船的升级组件。",
       "1": "将双桅帆船从0级升至1级。",
       "2": "将双桅帆船从1级升至2级。",
       "3": "将双桅帆船从2级升至3级。",
       "4": "将双桅帆船从3级升至4级。",
       "5": "将双桅帆船从4级升至5级。",
       "6": "将双桅帆船从5级升至6级。",
-      "7": "将双桅帆船从6级升至7级。"
+      "7": "将双桅帆船从6级升至7级。",
+      "general": "双桅帆船的升级组件。"
     }
   },
   "battleJunkUpgrade": {
     "name": "座䑸升级",
     "description": {
-      "general": "座䑸的升级组件。",
       "1": "将座䑸从0级升至1级。",
       "2": "将座䑸从1级升至2级。",
       "3": "将座䑸从2级升至3级。",
       "4": "将座䑸从3级升至4级。",
       "5": "将座䑸从4级升至5级。",
       "6": "将座䑸从5级升至6级。",
-      "7": "将座䑸从6级升至7级。"
+      "7": "将座䑸从6级升至7级。",
+      "general": "座䑸的升级组件。"
     }
   },
   "garudaUpgrade": {
     "name": "迦楼罗升级",
     "description": {
-      "general": "迦楼罗的升级组件。",
       "1": "将迦楼罗从0级升至1级。",
       "2": "将迦楼罗从1级升至2级。",
       "3": "将迦楼罗从2级升至3级。",
       "4": "将迦楼罗从3级升至4级。",
       "5": "将迦楼罗从4级升至5级。",
       "6": "将迦楼罗从5级升至6级。",
-      "7": "将迦楼罗从6级升至7级。"
+      "7": "将迦楼罗从6级升至7级。",
+      "general": "迦楼罗的升级组件。"
     }
   },
   "boatswainsToll": {
@@ -1355,65 +1355,65 @@
   "deluxeBallistaBoltCrate": {
     "name": "豪华弩炮弩箭箱",
     "description": {
-      "general": "内含适用于弩炮类武器的弩箭。",
       "1": "内含40发适用于弩炮类武器的弩箭。",
-      "2": "内含60发适用于弩炮类武器的弩箭。"
+      "2": "内含60发适用于弩炮类武器的弩箭。",
+      "general": "内含适用于弩炮类武器的弩箭。"
     }
   },
   "deluxeSeaFireOilCrate": {
     "name": "豪华海洋之火油罐箱",
     "description": {
-      "general": "内含适用于海洋之火武器的油罐。",
       "1": "内含120罐适用于海洋之火武器的油罐。",
-      "2": "内含180罐适用于海洋之火武器的油罐。"
+      "2": "内含180罐适用于海洋之火武器的油罐。",
+      "general": "内含适用于海洋之火武器的油罐。"
     }
   },
   "deluxeCannonballCrate": {
     "name": "豪华大炮炮弹箱",
     "description": {
-      "general": "内含适用于大炮的炮弹。",
       "1": "内含200枚炮弹",
-      "2": "内含300发适用于大炮的炮弹。"
+      "2": "内含300发适用于大炮的炮弹。",
+      "general": "内含适用于大炮的炮弹。"
     }
   },
   "deluxeMortarBombCrate": {
     "name": "豪华迫击炮炮弹箱",
     "description": {
-      "general": "内含适用于迫击炮的炮弹。",
       "1": "内含40发适用于迫击炮的炮弹。",
-      "2": "内含60发适用于迫击炮的炮弹。"
+      "2": "内含60发适用于迫击炮的炮弹。",
+      "general": "内含适用于迫击炮的炮弹。"
     }
   },
   "deluxeRocketCrate": {
     "name": "豪华火箭箱",
     "description": {
-      "general": "内含适用于火箭发射器的火箭。",
       "1": "内含200发适用于火箭发射器的火箭。",
-      "2": "内含300发适用于火箭发射器的火箭。"
+      "2": "内含300发适用于火箭发射器的火箭。",
+      "general": "内含适用于火箭发射器的火箭。"
     }
   },
   "deluxeBuoyShellsCrate": {
     "name": "豪华浮标炮弹箱",
     "description": {
-      "general": "内含适用于弹射器的浮标炮弹。",
       "1": "内含40发适用于弹射器的浮标炮弹。",
-      "2": "内含60发适用于弹射器的浮标炮弹。"
+      "2": "内含60发适用于弹射器的浮标炮弹。",
+      "general": "内含适用于弹射器的浮标炮弹。"
     }
   },
   "deluxeBombardBombCrate": {
     "name": "豪华射石炮炮弹箱",
     "description": {
-      "general": "内含适用于射石炮的炮弹。",
       "1": "内含120发适用于射石炮的炮弹。",
-      "2": "内含180发适用于射石炮的炮弹。"
+      "2": "内含180发适用于射石炮的炮弹。",
+      "general": "内含适用于射石炮的炮弹。"
     }
   },
   "deluxeTorpedoCrate": {
     "name": "豪华鱼雷箱",
     "description": {
-      "general": "内含适用于鱼雷发射器的鱼雷。",
       "1": "内含120发适用于鱼雷发射器的鱼雷。",
-      "2": "内含180发适用于鱼雷发射器的鱼雷。"
+      "2": "内含180发适用于鱼雷发射器的鱼雷。",
+      "general": "内含适用于鱼雷发射器的鱼雷。"
     }
   },
   "whiteJade": {
@@ -1887,14 +1887,14 @@
   "schoonerUpgrade": {
     "name": "纵帆船升级",
     "description": {
-      "general": "纵帆船的升级组件。",
       "1": "将纵帆船从0级升至1级。",
       "2": "将纵帆船从1级升至2级。",
       "3": "将纵帆船从2级升至3级。",
       "4": "将纵帆船从3级升至4级。",
       "5": "将纵帆船从4级升至5级。",
       "6": "将纵帆船从5级升至6级。",
-      "7": "将纵帆船从6级升至7级。"
+      "7": "将纵帆船从6级升至7级。",
+      "general": "纵帆船的升级组件。"
     }
   },
   "titansCuirass": {
@@ -2344,14 +2344,14 @@
   "frigateUpgrade": {
     "name": "护卫舰升级",
     "description": {
-      "general": "护卫舰的升级组件。",
       "1": "将护卫舰从0级升至1级。",
       "2": "将护卫舰从1级升至2级。",
       "3": "将护卫舰从2级升至3级。",
       "4": "将护卫舰从3级升至4级。",
       "5": "将护卫舰从4级升至5级。",
       "6": "将护卫舰从5级升至6级。",
-      "7": "将护卫舰从6级升至7级。"
+      "7": "将护卫舰从6级升至7级。",
+      "general": "护卫舰的升级组件。"
     }
   },
   "thunderDragonCannon": {
@@ -2507,22 +2507,22 @@
   "teulingsArmorChest": {
     "name": "图林的装甲宝箱",
     "description": {
-      "general": "内含一件随机第一年走私贩通行证装甲。",
-      "1": "内含一件随机第一年走私贩通行证装甲。"
+      "1": "内含一件随机第一年走私贩通行证装甲。",
+      "general": "内含一件随机第一年走私贩通行证装甲。"
     }
   },
   "teulingsFurnitureChest": {
     "name": "图林的陈设宝箱",
     "description": {
-      "general": "包含一件随机走私者通行证陈设。",
-      "1": "内含一件随机第一年走私贩通行证陈设。"
+      "1": "内含一件随机第一年走私贩通行证陈设。",
+      "general": "包含一件随机走私者通行证陈设。"
     }
   },
   "teulingsWeaponChest": {
     "name": "图林的武器宝箱",
     "description": {
-      "general": "包含一件随机走私者通行证武器。",
-      "1": "内含一件随机第一年走私贩通行证武器。"
+      "1": "内含一件随机第一年走私贩通行证武器。",
+      "general": "包含一件随机走私者通行证武器。"
     }
   },
   "jokaKubwaTreasureChest": {
@@ -2852,14 +2852,14 @@
   "sloopOfWarUpgrade": {
     "name": "战争单桅炮艇升级",
     "description": {
-      "general": "战争单桅炮艇的升级组件",
       "1": "将散毒船从0级升至1级。",
       "2": "将散毒船从1级升至2级。",
       "3": "将散毒船从2级升至3级。",
       "4": "将散毒船从3级升至4级。",
       "5": "将散毒船从4级升至5级。",
       "6": "将散毒船从5级升至6级。",
-      "7": "将散毒船从6级升至7级。"
+      "7": "将散毒船从6级升至7级。",
+      "general": "战争单桅炮艇的升级组件"
     }
   },
   "ascendedRequiemOfTheLostEventCache": {
@@ -2955,14 +2955,14 @@
   "corvetteUpgrade": {
     "name": "科维特升级",
     "description": {
-      "general": "科维特的船只升级。",
       "1": "将科维特从0级升至1级。",
       "2": "将科维特从1级升至2级。",
       "3": "将科维特从2级升至3级。",
       "4": "将科维特从3级升至4级。",
       "5": "将科维特从4级升至5级。",
       "6": "将科维特从5级升至6级。",
-      "7": "将科维特从6级升至7级。"
+      "7": "将科维特从6级升至7级。",
+      "general": "科维特的船只升级。"
     }
   },
   "foundingCelebratoryChest": {
@@ -3124,14 +3124,14 @@
   "galleonUpgrade": {
     "name": "Galleon Upgrade",
     "description": {
-      "general": "Ship upgrade for the Galleon.",
       "1": "将扁嘴帆艇从0级升至1级。",
       "2": "将扁嘴帆艇从1级升至2级。",
       "3": "将扁嘴帆艇从2级升至3级。",
       "4": "将扁嘴帆艇从3级升至4级。",
       "5": "将扁嘴帆艇从4级升至5级。",
       "6": "将扁嘴帆艇从5级升至6级。",
-      "7": "将扁嘴帆艇从6级升至7级。"
+      "7": "将扁嘴帆艇从6级升至7级。",
+      "general": "Ship upgrade for the Galleon."
     }
   },
   "hullcarver": {
@@ -3234,6 +3234,127 @@
     "name": "Verdant Hunt's Chest",
     "description": {
       "general": "An opulent chest which may contain cosmetics from The Bohemian Set and Jade Prowler Set."
+    }
+  },
+  "cheese": {
+    "name": "Cheese",
+    "description": {
+      "general": "Aged to perfection and tough as barnacled hull wood, this hearty cheese wheel can keep a crew fed through the fiercest storms -- and doubles as a fine bargaining chip in shady ports."
+    }
+  },
+  "infernalArtificersBench": {
+    "name": "Infernal Artificer's Bench",
+    "description": {
+      "general": "A volatile workstation that enhances the application of Shell-Shocked and Ablaze status effects, reduces reload time for Explosive and Burning weapons, and amplifies damage against afflicted targets."
+    }
+  },
+  "hellshotSmithy": {
+    "name": "Hellshot Smithy",
+    "description": {
+      "general": "A forbidden shipboard forge, built to enhance the Ablaze status effect and spread Burning damage across enemy targets."
+    }
+  },
+  "stElmosChains": {
+    "name": "St. Elmo's Chains",
+    "description": {
+      "general": "A deadly fitting that enhances Lightning weapons, dealing significantly more electrical damage to Flooded targets."
+    }
+  },
+  "pyroclasm": {
+    "name": "Pyroclasm",
+    "description": {
+      "general": "A vicious raider's armor, forged in an obsession with fire. Bracing enemy attacks builds a fiery explosion that damages nearby targets and spreads flames."
+    }
+  },
+  "leDrac": {
+    "name": "Le Drac",
+    "description": {
+      "general": "Worn by those who charge first. Bracing hits builds an explosion that can be triggered by ramming a target."
+    }
+  },
+  "scorchSong": {
+    "name": "Scorch Song",
+    "description": {
+      "general": "A fiery weapon that triggers devastating explosions, ramping up damage with each hit."
+    }
+  },
+  "drowningHellion": {
+    "name": "Drowning Hellion",
+    "description": {
+      "general": "A hull-shredding Demi-cannon built to Flood enemy ships with impunity."
+    }
+  },
+  "anathema": {
+    "name": "Anathema",
+    "description": {
+      "general": "A vile weapon that spreads La Peste's toxins and blasts illness across enemy ships."
+    }
+  },
+  "drakonsJaws": {
+    "name": "Drakon's Jaws",
+    "description": {
+      "general": "An ingenious weapon that triggers burning blasts on impact, intensifying against Flooded targets."
+    }
+  },
+  "clawsOfTheDeep": {
+    "name": "Claws of the Deep",
+    "description": {
+      "general": "A precise perforator of ship hulls that tears holes through its targets to send them to their watery graves."
+    }
+  },
+  "hellfire": {
+    "name": "Hellfire",
+    "description": {
+      "general": "A heavy rocket weapon that burns away its target's Fire Mitigation with consecutive hits."
+    }
+  },
+  "junkUpgrade": {
+    "name": "Junk Upgrade",
+    "description": {
+      "1": "将扁嘴帆艇从0级升至1级。",
+      "2": "将扁嘴帆艇从1级升至2级。",
+      "3": "将扁嘴帆艇从2级升至3级。",
+      "4": "将扁嘴帆艇从3级升至4级。",
+      "5": "将扁嘴帆艇从4级升至5级。",
+      "6": "将扁嘴帆艇从5级升至6级。",
+      "7": "将扁嘴帆艇从6级升至7级。",
+      "general": "Ship upgrade for the Junk."
+    }
+  },
+  "ascendedDrakonsJawsChest": {
+    "name": "Ascended Drakon's Jaws Chest",
+    "description": {
+      "general": "Contains an Ascended Drakon's Jaws"
+    }
+  },
+  "dredgedArmoryCache": {
+    "name": "Dredged Armory Cache",
+    "description": {
+      "general": "A cached dredged from the depths with various weapons including ascended weapons"
+    }
+  },
+  "abyssalCache": {
+    "name": "Abyssal Cache",
+    "description": {
+      "general": "Contains Weapons with Chance for Basic Adept Mods"
+    }
+  },
+  "adeptCannonStrongbox": {
+    "name": "Adept Cannon Strongbox",
+    "description": {
+      "general": "Contains a Cannonball type weapon with a Basic Adept Mod"
+    }
+  },
+  "maelstromCannonStrongbox": {
+    "name": "Maelstrom Cannon Strongbox",
+    "description": {
+      "general": "Contains Cannonball type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+    }
+  },
+  "maelstromBallistaStrongbox": {
+    "name": "Maelstrom Ballista Strongbox",
+    "description": {
+      "general": "Contains Ballista type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
     }
   }
 }
