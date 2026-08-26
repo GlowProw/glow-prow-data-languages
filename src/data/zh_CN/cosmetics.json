@@ -2082,7 +2082,7 @@
     }
   },
   "theMiscreant": {
-    "name": "The Miscreant",
+    "name": "恶棍",
     "description": {
       "general": "带着宝藏逃跑，你对我们不仁"
     }
@@ -6912,7 +6912,7 @@
     }
   },
   "rippedSkirt": {
-    "name": "Briny Bottoms",
+    "name": "撕裂的裙子",
     "description": {
       "general": "仍然能发挥作用，不是吗？"
     }
@@ -8330,7 +8330,7 @@
   "peacock": {
     "name": "建立和平",
     "description": {
-      "general": "What good are riches if there's no one to see its splendor?"
+      "general": "如果没有人看到它的分裂会有什么财富？"
     }
   },
   "bourgeoisieGarbs": {
@@ -10404,9 +10404,9 @@
     }
   },
   "pointedFate": {
-    "name": "Long for Death",
+    "name": "点点数",
     "description": {
-      "general": "Better to die free than to be made an example of"
+      "general": "箭头标志着通往天或地狱的道路"
     }
   },
   "chaosSwirls": {
@@ -16614,7 +16614,7 @@
     }
   },
   "eyeOnThePrizeWheel": {
-    "name": "目光锁定奖品",
+    "name": "奖品轮上的眼光",
     "description": {
       "general": "永远不要忽视你正在玩的内容"
     }
@@ -20672,7 +20672,7 @@
   "whatDwellsBeneath": {
     "name": "地下住着什么",
     "description": {
-      "general": "Beige and grey to keep the beasties away"
+      "general": "陪伴你深入深处的蚀刻画"
     }
   },
   "anAncientsCall": {
@@ -21060,7 +21060,7 @@
     }
   },
   "deathsHandEmblem": {
-    "name": "死亡之手",
+    "name": "死神之手徽章",
     "description": {
       "general": "波涛之中，一个危险的预兆"
     }
