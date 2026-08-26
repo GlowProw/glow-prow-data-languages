@@ -1,50 +1,50 @@
 {
-  "torpedoes": {
-    "name": "鱼雷",
-    "description": {
-      "general": "适用于任意鱼雷发射器武器的弹药"
+    "torpedoes": {
+        "name": "鱼雷",
+        "description": {
+            "general": "火焰发射器武器的弹药。"
+        }
+    },
+    "oilCanisters": {
+        "name": "油罐",
+        "description": {
+            "general": "任何海火武器的弹药。"
+        }
+    },
+    "mortarBombs": {
+        "name": "迫击炮弹数",
+        "description": {
+            "general": "任何迫击炮武器的弹药。"
+        }
+    },
+    "ballistaBolts": {
+        "name": "弩箭",
+        "description": {
+            "general": "任何弹道导弹武器的弹药。"
+        }
+    },
+    "cannonballs": {
+        "name": "半加农跑道",
+        "description": {
+            "general": "任何大炮武器的弹药。"
+        }
+    },
+    "bombardBombs": {
+        "name": "炸弹",
+        "description": {
+            "general": "任何炸弹武器的弹药"
+        }
+    },
+    "rockets": {
+        "name": "火箭",
+        "description": {
+            "general": "任何火箭发射器武器的弹药。"
+        }
+    },
+    "buoyShells": {
+        "name": "浮标",
+        "description": {
+            "general": "任何浮标武器的弹药。"
+        }
     }
-  },
-  "oilCanisters": {
-    "name": "油罐",
-    "description": {
-      "general": "适用于任意海洋之火武器的弹药"
-    }
-  },
-  "mortarBombs": {
-    "name": "迫击炮炮弹",
-    "description": {
-      "general": "适用于任意迫击炮类武器的弹药"
-    }
-  },
-  "ballistaBolts": {
-    "name": "弩炮弩箭",
-    "description": {
-      "general": "适用于任意弩炮类武器的弹药"
-    }
-  },
-  "cannonballs": {
-    "name": "大炮炮弹",
-    "description": {
-      "general": "适用于任意大炮类武器的弹药"
-    }
-  },
-  "bombardBombs": {
-    "name": "射石炮炮弹",
-    "description": {
-      "general": "适用于任意射石炮类武器的弹药"
-    }
-  },
-  "rockets": {
-    "name": "火箭",
-    "description": {
-      "general": "适用于任意火箭发射器类武器的弹药"
-    }
-  },
-  "buoyShells": {
-    "name": "浮标炮弹",
-    "description": {
-      "general": "适用于任意弹射武器的弹药"
-    }
-  }
 }

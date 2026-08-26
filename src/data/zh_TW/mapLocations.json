@@ -1,674 +1,338 @@
 {
   "laBastide": {
-    "name": "La Bastide",
-    "description": {
-      "general": ""
-    }
+    "name": "La Bastide"
   },
   "oostenCapital": {
-    "name": "Oosten Capital",
-    "description": {
-      "general": ""
-    }
+    "name": "Oosten Capital"
   },
   "sunyCapital": {
-    "name": "Suny Capital",
-    "description": {
-      "general": ""
-    }
+    "name": "Suny Capital"
   },
   "teninaTown": {
-    "name": "Tenina Town",
-    "description": {
-      "general": ""
-    }
+    "name": "Tenina Town"
   },
   "ankohonana": {
-    "name": "Ankohonana",
-    "description": {
-      "general": ""
-    }
+    "name": "Ankohonana"
   },
   "jiwe": {
-    "name": "Jiwé",
-    "description": {
-      "general": ""
-    }
+    "name": "Jiwé"
   },
   "sainteAnne": {
-    "name": "Den Saint Anne",
-    "description": {
-      "general": ""
-    }
+    "name": "Den Saint Anne"
   },
   "telokPenjarah": {
-    "name": "Den Telok Penjarah",
-    "description": {
-      "general": ""
-    }
+    "name": "Den Telok Penjarah"
   },
   "guerande": {
-    "name": "Guérande",
-    "description": {
-      "general": "Compagnie Royale settlement"
-    }
+    "name": "Guérande"
   },
   "sainteAmelie": {
-    "name": "Sainte-Amélie",
-    "description": {
-      "general": "Compagnie Royale settlement"
-    }
+    "name": "Sainte-Amélie"
   },
   "laar": {
-    "name": "Laar",
-    "description": {
-      "general": "Dutch Merchant Company settlement"
-    }
+    "name": "Laar"
   },
   "kampongSubur": {
-    "name": "Kampong Subur",
-    "description": {
-      "general": "Dutch Merchant Company settlement"
-    }
+    "name": "Kampong Subur"
   },
   "kencur": {
-    "name": "Kencur",
-    "description": {
-      "general": "Dominion of Rempah settlement"
-    }
+    "name": "Kencur"
   },
   "kotaLama": {
-    "name": "Kota Lama",
-    "description": {
-      "general": "Dominion of Rempah settlement"
-    }
+    "name": "Kota Lama"
   },
   "damai": {
-    "name": "Damai",
-    "description": {
-      "general": "Dominion of Rempah settlement"
-    }
+    "name": "Damai"
   },
   "sangdad": {
-    "name": "Sangdad",
-    "description": {
-      "general": "Dominion of Rempah settlement"
-    }
+    "name": "Sangdad"
   },
   "hovohovo": {
-    "name": "Hovohovo",
-    "description": {
-      "general": "Clan of Fara settlement"
-    }
+    "name": "Hovohovo"
   },
   "tanjona": {
-    "name": "Tanjona",
-    "description": {
-      "general": "Clan of Fara settlement"
-    }
+    "name": "Tanjona"
   },
   "palisadeBay": {
-    "name": "Palisade Bay",
-    "description": {
-      "general": "Sea People settlement"
-    }
+    "name": "Palisade Bay"
   },
   "sitrana": {
-    "name": "Sitrana",
-    "description": {
-      "general": "Clan of Fara settlement"
-    }
+    "name": "Sitrana"
   },
   "shijavu": {
-    "name": "Shijavu",
-    "description": {
-      "general": "Clan of Fara settlement"
-    }
+    "name": "Shijavu"
   },
   "mchanga": {
-    "name": "Mchanga",
-    "description": {
-      "general": "Confederation of Ungwana settlement"
-    }
+    "name": "Mchanga"
   },
   "pembe": {
-    "name": "Pembe",
-    "description": {
-      "general": "Confederation of Ungwana settlement"
-    }
+    "name": "Pembe"
   },
   "wavuviIsland": {
-    "name": "Wavuvi Island",
-    "description": {
-      "general": "Confederation of Ungwana settlement"
-    }
+    "name": "Wavuvi Island"
   },
   "kusini": {
-    "name": "Kusini",
-    "description": {
-      "general": "Confederation of Ungwana settlement"
-    }
+    "name": "Kusini"
   },
   "bandari": {
-    "name": "Bandari",
-    "description": {
-      "general": "Confederation of Ungwana settlement"
-    }
+    "name": "Bandari"
   },
   "harufu": {
-    "name": "Harufu",
-    "description": {
-      "general": "Confederation of Ungwana settlement"
-    }
+    "name": "Harufu"
   },
   "laColonie": {
-    "name": "La Colonie",
-    "description": {
-      "general": "Compagnie Royale settlement"
-    }
+    "name": "La Colonie"
   },
   "portDesMines": {
-    "name": "Port des Mines",
-    "description": {
-      "general": "Compagnie Royale settlement"
-    }
+    "name": "Port des Mines"
   },
   "fondDeLaBaie": {
-    "name": "Fond-de-la-Baie",
-    "description": {
-      "general": "Compagnie Royale settlement"
-    }
+    "name": "Fond-de-la-Baie"
   },
   "granbie": {
-    "name": "Granbie",
-    "description": {
-      "general": "Dutch Merchant Company settlement"
-    }
+    "name": "Granbie"
   },
   "laDa": {
-    "name": "LaDa",
-    "description": {
-      "general": "Dutch Merchant Company settlement"
-    }
+    "name": "LaDa"
   },
   "fonderieRoyale": {
-    "name": "Fonderie Royale",
-    "description": {
-      "general": ""
-    }
+    "name": "Fonderie Royale"
   },
   "duisterEastFoundry": {
-    "name": "Duister East Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Duister East Foundry"
   },
   "duisterWestFoundry": {
-    "name": "Duister West Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Duister West Foundry"
   },
   "duisterNorthFoundry": {
-    "name": "Duister North Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Duister North Foundry"
   },
   "trisulaFoundry": {
-    "name": "Trisula Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Trisula Foundry"
   },
   "ladaFoundry": {
-    "name": "Lada Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Lada Foundry"
   },
   "kotaLamaFoundry": {
-    "name": "Kota Lama Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Kota Lama Foundry"
   },
   "southDamaiFoundry": {
-    "name": "South Damai Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "South Damai Foundry"
   },
   "sunyFoundry": {
-    "name": "Suny Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Suny Foundry"
   },
   "sadjoaFoundry": {
-    "name": "Sadjoa Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Sadjoa Foundry"
   },
   "tambyFoundry": {
-    "name": "Tamby Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Tamby Foundry"
   },
   "pembeFoundry": {
-    "name": "Pembe Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Pembe Foundry"
   },
   "jiweFoundry": {
-    "name": "Jiwé Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Jiwé Foundry"
   },
   "wawuviFoundry": {
-    "name": "Wawuvi Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Wawuvi Foundry"
   },
   "mumaliFoundry": {
-    "name": "Mumali Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "Mumali Foundry"
   },
   "northDamaiFoundry": {
-    "name": "North Damai Foundry",
-    "description": {
-      "general": ""
-    }
+    "name": "North Damai Foundry"
   },
   "duBoisLumberyard": {
-    "name": "Du Bois Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Du Bois Lumberyard"
   },
   "laarSouthLumbery": {
-    "name": "Laar South Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Laar South Lumberyard"
   },
   "laarWestLumbery": {
-    "name": "Laar West Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Laar West Lumberyard"
   },
   "suburLumberyard": {
-    "name": "Subur Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Subur Lumberyard"
   },
   "kencurLumberyard": {
-    "name": "Kencur Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Kencur Lumberyard"
   },
   "suntLumberyard": {
-    "name": "Sunt Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Sunt Lumberyard"
   },
   "tankazoLumberyard": {
-    "name": "Tankazo Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Tankazo Lumberyard"
   },
   "tsifoLumberyard": {
-    "name": "Tsifo Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Tsifo Lumberyard"
   },
   "kambiLumberyard": {
-    "name": "Kambi Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Kambi Lumberyard"
   },
   "harufuLumberyard": {
-    "name": "Harufu Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Harufu Lumberyard"
   },
   "rondavelsLumberyard": {
-    "name": "Rondavels Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Rondavels Lumberyard"
   },
   "kotaLamaLumberyard": {
-    "name": "Kota Lama Lumberyard",
-    "description": {
-      "general": ""
-    }
+    "name": "Kota Lama Lumberyard"
   },
   "kencurWeaver": {
-    "name": "Kencur Weaver",
-    "description": {
-      "general": "Dominion of Rempah weaver"
-    }
+    "name": "Kencur Weaver"
   },
   "southSunyWeaver": {
-    "name": "South Suny Weaver",
-    "description": {
-      "general": "Dominion of Rempah weaver"
-    }
+    "name": "South Suny Weaver"
   },
   "northSunyWeaver": {
-    "name": "North Suny Weaver",
-    "description": {
-      "general": "Dominion of Rempah weaver"
-    }
+    "name": "North Suny Weaver"
   },
   "raofiaWeaver": {
-    "name": "Raofia Weaver",
-    "description": {
-      "general": "Clan of Fara weaver"
-    }
+    "name": "Raofia Weaver"
   },
   "lambaWeaver": {
-    "name": "Lamba Weaver",
-    "description": {
-      "general": "Sea People weaver"
-    }
+    "name": "Lamba Weaver"
   },
   "jiweWeaver": {
-    "name": "Jiwe Weaver",
-    "description": {
-      "general": "Confederation of Ungwana weaver"
-    }
+    "name": "Jiwe Weaver"
   },
   "harufuWeaver": {
-    "name": "Harufu Weaver",
-    "description": {
-      "general": "Confederation of Ungwana weaver"
-    }
+    "name": "Harufu Weaver"
   },
   "laCordeWeaver": {
-    "name": "La Corde Weaver",
-    "description": {
-      "general": "Compagnie Royale weaver"
-    }
+    "name": "La Corde Weaver"
   },
   "pilotBayWeaver": {
-    "name": "Pilot Bay Weaver",
-    "description": {
-      "general": "Compagnie Royale weaver"
-    }
+    "name": "Pilot Bay Weaver"
   },
   "fortDuLys": {
-    "name": "Fort Du Lys",
-    "description": {
-      "general": ""
-    }
+    "name": "Fort Du Lys"
   },
   "fortDuister": {
-    "name": "Fort Duister",
-    "description": {
-      "general": ""
-    }
+    "name": "Fort Duister"
   },
   "megafortOosten": {
-    "name": "Megafort Oosten",
-    "description": {
-      "general": ""
-    }
+    "name": "Megafort Oosten"
   },
   "fortPremie": {
-    "name": "Fort Premie",
-    "description": {
-      "general": ""
-    }
+    "name": "Fort Premie"
   },
   "fortPrakoso": {
-    "name": "Fort Prakoso",
-    "description": {
-      "general": ""
-    }
+    "name": "Fort Prakoso"
   },
   "fortHarimau": {
-    "name": "Fort Harimau",
-    "description": {
-      "general": ""
-    }
+    "name": "Fort Harimau"
   },
   "fortGranbie": {
-    "name": "Fort Granbie",
-    "description": {
-      "general": ""
-    }
+    "name": "Fort Granbie"
   },
   "fortDuBout": {
-    "name": "Fort Du Bout",
-    "description": {
-      "general": ""
-    }
+    "name": "Fort Du Bout"
   },
   "grandFort": {
-    "name": "Grand Fort",
-    "description": {
-      "general": ""
-    }
+    "name": "Grand Fort"
   },
   "bukitCandi": {
-    "name": "Outpost Bukit Candi",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Bukit Candi"
   },
   "theOubliette": {
-    "name": "Outpost The Oubliette",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost The Oubliette"
   },
   "grandeFalaise": {
-    "name": "Outpost Grande Falaise",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Grande Falaise"
   },
   "dutchmansCamp": {
-    "name": "Outpost Dutchman's Camp",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Dutchman's Camp"
   },
   "kokokTerapung": {
-    "name": "Outpost Kokok Terapung",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Kokok Terapung"
   },
   "returnFleetBight": {
-    "name": "Outpost Return Fleet Bight",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Return Fleet Bight"
   },
   "threeBrothers": {
-    "name": "Outpost Three Brothers",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Three Brothers"
   },
   "moyenneCrique": {
-    "name": "Outpost Moyenne Crique",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Moyenne Crique"
   },
   "ileMichel": {
-    "name": "Outpost Île Michel",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Île Michel"
   },
   "theForgottenCandi": {
-    "name": "Outpost The Forgotten Candi",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost The Forgotten Candi"
   },
   "ruinedLighthouse": {
-    "name": "Outpost The Ruined Lighthouse",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost The Ruined Lighthouse"
   },
   "parujarsCry": {
-    "name": "Outpost Parujar's Cry",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Parujar's Cry"
   },
   "karstLookout": {
-    "name": "Outpost Karst Lookout",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Karst Lookout"
   },
   "khmoyEstate": {
-    "name": "Outpost Khmoy Estate",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Khmoy Estate"
   },
   "lostCityOfPrei": {
-    "name": "Outpost Lost City of Prei",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Lost City of Prei"
   },
   "ruinsOfLukKhun": {
-    "name": "Outpost Ruins of Luk Khun",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Ruins of Luk Khun"
   },
   "fortLouis": {
-    "name": "Outpost Fort Louis",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Fort Louis"
   },
   "royalBurialGround": {
-    "name": "Outpost Royal Burial Ground",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Royal Burial Ground"
   },
   "sacredTree": {
-    "name": "Outpost Sacred Tree",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Sacred Tree"
   },
   "varonaFalls": {
-    "name": "Outpost Vorona Falls",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Vorona Falls"
   },
   "lanitra": {
-    "name": "Outpost Lanitra",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Lanitra"
   },
   "dragonsBack": {
-    "name": "Outpost Dragon's Back",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Dragon's Back"
   },
   "pillarTomb": {
-    "name": "Outpost Pillar Tomb",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Pillar Tomb"
   },
   "theNavigatorsCross": {
-    "name": "Outpost The Navigator's Cross",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost The Navigator's Cross"
   },
   "sunkenGoldmine": {
-    "name": "Outpost Sunken Goldmine",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Sunken Goldmine"
   },
   "poachersCache": {
-    "name": "Outpost Poacher's Cache",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Poacher's Cache"
   },
   "kaaMangrove": {
-    "name": "Outpost Kaa Mangrove",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Kaa Mangrove"
   },
   "eldersCave": {
-    "name": "Outpost Elder's Cave",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Elder's Cave"
   },
   "greatUkuta": {
-    "name": "Outpost Great Ukuta",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Great Ukuta"
   },
   "kelelawarChamber": {
-    "name": "Outpost Kelelawar Chamber",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Kelelawar Chamber"
   },
   "motherOfShipwrecks": {
-    "name": "Outpost Mother of Shipwrecks",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Mother of Shipwrecks"
   },
   "rangnokCave": {
-    "name": "Outpost Rangnok Cave",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost Rangnok Cave"
   },
   "theNecropolis": {
-    "name": "Outpost The Necropolis",
-    "description": {
-      "general": ""
-    }
+    "name": "Outpost The Necropolis"
   },
   "theWolvesHollow": {
-    "name": "The Wolves' Hollow",
-    "description": {
-      "general": ""
-    }
+    "name": "The Wolves' Hollow"
   }
 }

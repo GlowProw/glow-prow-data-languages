@@ -1,3239 +1,3360 @@
 {
-  "other": {
-    "name": "其他"
-  },
-  "huntingSpear": {
-    "name": "狩猎矛",
-    "description": {
-      "general": "用于捕鱼和狩猎动物的基本长矛，投掷得当的话，甚至能赶走鲨鱼。",
-      "2": "经改良的长矛，可快速击杀动物或鲨鱼。",
-      "3": "经改良的长矛，可更快速地击杀动物或鲨鱼。",
-      "4": "经改良的长矛，可提升对野生动物造成的伤害。",
-      "5": "经全面改良的长矛，可进一步提升对野生动物造成的伤害。"
+    "other": {
+        "name": "其他"
+    },
+    "huntingSpear": {
+        "name": "狩猎矛",
+        "description": {
+            "2": "经改良的长矛，可快速击杀动物或鲨鱼。",
+            "3": "经改良的长矛，可更快速地击杀动物或鲨鱼。",
+            "4": "经改良的长矛，可提升对野生动物造成的伤害。",
+            "5": "经全面改良的长矛，可进一步提升对野生动物造成的伤害。",
+            "general": "用于捕鱼和狩猎动物的基本长矛，投掷得当的话，甚至能赶走鲨鱼。"
+        }
+    },
+    "crowbar": {
+        "name": "撬棍",
+        "description": {
+            "2": "提升船骸搜刮速度。最适合用于搜刮中型船骸。",
+            "3": "进一步提升船骸搜刮速度。最适合用于搜刮大型船骸。",
+            "4": "可用于搜刮任何规模船骸的工具，并可提升搜刮到的物品数量。",
+            "5": "可用于搜刮任何规模船骸的改良工具，并可以提升搜刮到的物品数量。",
+            "general": "用于搜刮船骸以获取宝藏。"
+        }
+    },
+    "spyglass": {
+        "name": "望远镜",
+        "description": {
+            "1": "眺望远方的基本工具，但仅有一片镜片。",
+            "2": "经改良的望远镜。拥有两片镜片，缩放程度上升了一个层次。",
+            "3": "经进一步改良的望远镜，拥有三片镜片，可以看到更远的地方。",
+            "general": "一个望远镜。"
+        }
+    },
+    "sickle": {
+        "name": "镰刀",
+        "description": {
+            "2": "采集植物的效率微微提高。",
+            "3": "采集植物的效率适当提高。",
+            "4": "植物采集的效率大幅提升。有机会获得额外产出。",
+            "5": "植物采集效率获得极大提升。有机会获得更高额外产出。",
+            "general": "可从植物中采集织物原料以用于制作。"
+        }
+    },
+    "saw": {
+        "name": "锯子",
+        "description": {
+            "2": "采集木材的效率微微提高。",
+            "3": "采集木材的效率适当提高。",
+            "4": "木材采集的效率大幅提升。有机会获得额外产出。",
+            "5": "木材的采集效率获得极大提升。有机会获得更高产出。",
+            "general": "可砍伐树木来采集木材以用于制作。"
+        }
+    },
+    "pickaxe": {
+        "name": "十字镐",
+        "description": {
+            "2": "采集矿藏的效率微微提高。",
+            "3": "采集矿藏的效率适当提高。",
+            "4": "矿藏采集的效率大幅提升。有机会获得额外产出。",
+            "5": "矿藏的采集效率获得极大提升。有机会获得更高额外产出。",
+            "general": "可从矿藏中采集铁矿石以用于制作。"
+        }
+    },
+    "cannonballCrate": {
+        "name": "大炮炮弹箱",
+        "description": {
+            "general": "内含100发适用于大炮的炮弹。"
+        }
+    },
+    "bombardBombCrate": {
+        "name": "射石炮炮弹箱",
+        "description": {
+            "general": "内含60发适用于射石炮的炮弹。"
+        }
+    },
+    "ballistaBoltCrate": {
+        "name": "弩炮弩箭箱",
+        "description": {
+            "general": "内含20发适用于弩炮类武器的弩箭。"
+        }
+    },
+    "seaFireOilCrate": {
+        "name": "海火油罐箱",
+        "description": {
+            "general": "内含60罐适用于海洋之火武器的油罐。"
+        }
+    },
+    "mortarBombCrate": {
+        "name": "迫击炮炮弹箱",
+        "description": {
+            "general": "内含20发适用于迫击炮的炮弹。"
+        }
+    },
+    "rocketCrate": {
+        "name": "火箭箱",
+        "description": {
+            "general": "内含100发适用于火箭发射器的火箭。"
+        }
+    },
+    "torpedoCrate": {
+        "name": "鱼雷箱",
+        "description": {
+            "general": "内含60发适用于鱼雷发射器的鱼雷。"
+        }
+    },
+    "ironHusk": {
+        "name": "钢铁外甲",
+        "description": {
+            "general": "由紧紧相扣的深色板材组成的原始结构。"
+        }
+    },
+    "layeredScales": {
+        "name": "多层鳞甲",
+        "description": {
+            "general": "皮革鳞片和铁质配件的简约组合。"
+        }
+    },
+    "laForteresse": {
+        "name": "不朽堡垒",
+        "description": {
+            "general": "提供对进水伤害的超强抗性以及对穿透伤害的优秀抗性。名副其实的海上要塞。"
+        }
+    },
+    "theBastion": {
+        "name": "堡垒",
+        "description": {
+            "general": "一座由木材编织而成的精巧堡垒。"
+        }
+    },
+    "gambaKobe": {
+        "name": "钢巴神户",
+        "description": {
+            "general": "降低进水状态效果造成的伤害，并提供对进水伤害的超强抗性。海民分层的船板设计能够封住船身上的缝隙。"
+        }
+    },
+    "kawaca": {
+        "name": "卡瓦卡战服",
+        "description": {
+            "general": "提供对冲撞进攻的超强抗性。其繁复的装饰与设计呼应着旧时伟岸的长艇。"
+        }
+    },
+    "blackPrince": {
+        "name": "黑王子",
+        "description": {
+            "general": "当船身生命值比较低时大幅降低伤害。玛格丽塔号标志性的外甲在艰难时刻有如雪中送炭。"
+        }
+    },
+    "ouroboros": {
+        "name": "衔尾蛇",
+        "description": {
+            "general": "在防御敌方火力后维修己方船只。据说是用神兽的皮锻造而成。"
+        }
+    },
+    "wailingWard": {
+        "name": "哀号牢房",
+        "description": {
+            "general": "可有效抵御带毒进攻。他的镀层渗入了抗毒素，这是只有瘟疫之王才知道的秘密配方。"
+        }
+    },
+    "wrathfulWard": {
+        "name": "怒火牢房",
+        "description": {
+            "general": "被击中时会释放致命的毒雾。带有菲利普·拉佩斯特的标记。"
+        }
+    },
+    "royalCustodian": {
+        "name": "皇家托管人",
+        "description": {
+            "general": "由任帕匠人打造，他们是拉赫马舰队的忠实保护者。"
+        }
+    },
+    "mortar": {
+        "name": "迫击炮",
+        "description": {
+            "general": "可发射毁灭性炮弹的巨型大炮能对大片区域造成巨大伤害。"
+        }
+    },
+    "leopold": {
+        "name": "猎豹",
+        "description": {
+            "general": "可发射榴霰弹的巨型大炮。能够有效在船身上撕开洞孔，使船只进水。"
+        }
+    },
+    "leFleau": {
+        "name": "瘟疫炮",
+        "description": {
+            "general": "发射腐烂射弹，其释放出的烟雾会对目标造成伤害并消耗船员体力。菲利普·拉佩斯的标志性火炮。"
+        }
+    },
+    "repairMortar": {
+        "name": "维修型迫击炮",
+        "description": {
+            "general": "发射巨大的粘合剂炮弹，维修受到伤害的友军船只，大范围修补破损的船身。"
+        }
+    },
+    "rocket": {
+        "name": "火箭",
+        "description": {
+            "general": "快速发射大量炽热火箭弹，只要瞄得足够准，就足以致命。"
+        }
+    },
+    "theTermitesRocket": {
+        "name": "白蚁",
+        "description": {
+            "general": "来自远东的火箭发射器具有更高的瞄准角度，能够更容易地攻击较高的建筑。可发热炽热火箭弹，对敌方工事造成更高伤害。"
+        }
+    },
+    "bombard": {
+        "name": "射石炮",
+        "description": {
+            "general": "发射破坏力强大的弹雨，对一定区域内的多名敌人造成伤害。"
+        }
+    },
+    "monsMeg": {
+        "name": "蒙斯梅格炮",
+        "description": {
+            "general": "这种大型苏格兰射石炮专门用于摧毁城墙。擅长破坏防御攻势。"
+        }
+    },
+    "dardanellesGun": {
+        "name": "达达尼尔炮",
+        "description": {
+            "general": "奥斯曼帝国的大型武器，威力惊人。所有火炮均可同时齐射，以造成最大程度的破坏。"
+        }
+    },
+    "fireBombard": {
+        "name": "火焰型射石炮",
+        "description": {
+            "general": "发射破坏力巨大的弹雨，对一定区域内的多名敌人造成伤害。配备燃烧弹，可以点燃目标。"
+        }
+    },
+    "repairBombard": {
+        "name": "维修型射石炮",
+        "description": {
+            "general": "发射在冲击下会膨胀的粘合剂包，维修受到伤害的友军船只，修补破损的船身。"
+        }
+    },
+    "torpedo": {
+        "name": "鱼雷",
+        "description": {
+            "general": "发射杀伤力巨大的鱼雷，装填（实际为移动一段距离）后可造成更大伤害，适合打击大型目标，无法瞄准建筑物。"
+        }
+    },
+    "shalei": {
+        "name": "爆炸型鱼雷",
+        "description": {
+            "general": "发射爆炸鱼雷，可对多名目标造成伤害。装填（实为移动一段距离）后鱼雷可造成更大伤害。无法瞄准建筑物。"
+        }
+    },
+    "rahmasAmbition": {
+        "name": "拉赫玛的野心",
+        "description": {
+            "general": "拉赫玛原始鱼雷设计的改良版。当多枚鱼雷同时命中时，破坏力会额外增强。"
+        }
+    },
+    "rahmasLegacy": {
+        "name": "拉赫玛的传承",
+        "description": {
+            "general": "拉赫玛原始鱼雷设计的改良版。当多枚鱼雷同时命中时，破坏力会额外增强。"
+        }
+    },
+    "ballista": {
+        "name": "弩炮",
+        "description": {
+            "general": "为追求精准度而设计的武器，可发射巨型弩箭。拉动弩炮时弩箭会产生更强大的攻击力，打出更远的射程。"
+        }
+    },
+    "greatSpringald": {
+        "name": "大型扭力弩炮",
+        "description": {
+            "general": "为追求精准度而设计的武器，可发射巨型弩箭。拉动弩炮时弩箭会产生更强大的攻击力，打出更远的射程。该特殊型号武器专为撕裂船帆而设计。"
+        }
+    },
+    "twinWinchBallista": {
+        "name": "双绞弩炮",
+        "description": {
+            "general": "配有双绞盘的弩炮，可进一步蓄力使弩箭的射程更远、伤害更高。"
+        }
+    },
+    "seaFire": {
+        "name": "海洋之火",
+        "description": {
+            "general": "短距离喷射液体火焰，焚烧目标效果极佳。"
+        }
+    },
+    "kallinikosFlame": {
+        "name": "加里尼科斯希腊火",
+        "description": {
+            "general": "短距离喷射液体火焰，焚烧目标效果极佳。其火焰会使敌方船只更容易受到船员进攻。"
+        }
+    },
+    "blueSpecter": {
+        "name": "蓝焰幽灵",
+        "description": {
+            "general": "起源神秘的武器能喷射蓝色的地狱火焰，火焰集中在一个目标上时，火势会愈加凶猛。"
+        }
+    },
+    "culverin": {
+        "name": "长炮",
+        "description": {
+            "general": "多功能大炮，具有良好的射程、伤害和装填速度。"
+        }
+    },
+    "tearingCulverin": {
+        "name": "撕裂型长炮",
+        "description": {
+            "general": "多功能大炮，具有良好的射程、伤害和装填速度。适合用来撕裂敌人的船帆，使其无法逃离或自卫。"
+        }
+    },
+    "basilisk": {
+        "name": "蛇怪",
+        "description": {
+            "general": "重型青铜长炮，以神话中凶猛致命的巨蛇命名。可使敌方船只更容易受到船员进攻。"
+        }
+    },
+    "longGun": {
+        "name": "长管炮",
+        "description": {
+            "general": "擅长摧毁远距离目标的长管炮。"
+        }
+    },
+    "fireLongGun": {
+        "name": "火焰型长管炮",
+        "description": {
+            "general": "擅长摧毁远距离目标的长管炮。配备的燃烧弹可点燃目标。"
+        }
+    },
+    "repairLongGun": {
+        "name": "维修型长管炮",
+        "description": {
+            "general": "发射装满粘合剂的炮弹，维修友军船只。"
+        }
+    },
+    "scurlocksChasers": {
+        "name": "斯科洛克的追逐者",
+        "description": {
+            "general": "为斯科洛特所钟爱的超远距离大炮。可以通过摧毁敌船桅杆并造成大量伤害来击垮敌船。"
+        }
+    },
+    "scurlocksLongNines": {
+        "name": "斯科洛克九式炮",
+        "description": {
+            "general": "为斯科洛特所钟爱的超远距离大炮。可以通过摧毁敌船桅杆并造成大量伤害来击垮敌船。"
+        }
+    },
+    "demicannon": {
+        "name": "半加农炮",
+        "description": {
+            "general": "发射致命弹片的中型大炮，在近距离战斗中可造成巨大伤害。"
+        }
+    },
+    "floodingDemicannon": {
+        "name": "进水型半加农炮",
+        "description": {
+            "general": "发射致命弹片的中型大炮，在近距离战斗中可造成巨大伤害。可在敌方船身上撕开洞孔，使敌方船只进水。"
+        }
+    },
+    "carronade": {
+        "name": "臼炮",
+        "description": {
+            "general": "一款革命性的轻型大炮，由卡伦钢铁厂设计推出。设计先进，可击穿船身，造成严重进水伤害。"
+        }
+    },
+    "zamzama": {
+        "name": "扎姆扎马",
+        "description": {
+            "general": "发射致命弹片的中型大炮，在近距离战斗中可造成巨大伤害。能使敌方船只更容易受到船员进攻。"
+        }
+    },
+    "repairKit": {
+        "name": "修理物品",
+        "description": {
+            "1": "可略微修复船身。",
+            "2": "可小幅修复船身。",
+            "3": "可中幅修复船身。",
+            "general": "修复部分船体耐久"
+        }
+    },
+    "enhancedRepairKit": {
+        "name": "强化修理物品",
+        "description": {
+            "1": "可小幅修复船身。",
+            "2": "可适度修复船身。",
+            "3": "可大量修复船身。",
+            "general": "按比例修复船体耐久"
+        }
+    },
+    "restorationKit": {
+        "name": "恢复用品",
+        "description": {
+            "general": "移除状态效果（燃烧、进水、船帆撕裂、雷暴、嘲讽、击穿、弹震）。"
+        }
+    },
+    "grilledBeef": {
+        "name": "烤牛肉",
+        "description": {
+            "general": "颇受欢迎的肉食菜肴，经过香料调味后穿在木棍上进行炙烤。"
+        }
+    },
+    "grilledCoconut": {
+        "name": "烤椰子",
+        "description": {
+            "general": "将这些椰球烤制金黄后，在表面裹上碎椰片。"
+        }
+    },
+    "grilledFish": {
+        "name": "烤鱼",
+        "description": {
+            "general": "适合任何一位水手的主食：将鱼戳在火焰上炙烤，看着它变得香脆多汁。"
+        }
+    },
+    "grilledCrocodile": {
+        "name": "烤鳄鱼",
+        "description": {
+            "general": "肉质紧实鲜嫩，味道温和，尝起来类似鱼肉。"
+        }
+    },
+    "grilledShark": {
+        "name": "烤鲨鱼",
+        "description": {
+            "general": "猎人鲨成了别人的盘中餐。经过炙烤的鲨鱼肉味道略微刺鼻，但饱腹感十足。"
+        }
+    },
+    "grilledMutton": {
+        "name": "烤羊肉",
+        "description": {
+            "general": "将柔软香嫩的羊肉用香料调味，然后慢烤，之后再煨煮数小时。"
+        }
+    },
+    "grilledChicken": {
+        "name": "烤鸡",
+        "description": {
+            "general": "烤至表皮金黄的整鸡。为疲惫海员准备的便饭。"
+        }
+    },
+    "grilledBread": {
+        "name": "烤面包",
+        "description": {
+            "general": "历史最悠久的菜肴之一，可追溯至农耕文明的起源。"
+        }
+    },
+    "grilledBanana": {
+        "name": "烤香蕉",
+        "description": {
+            "general": "经过烤制的大香蕉，是一种甜咸可口的零食。"
+        }
+    },
+    "grilledPrimeHippo": {
+        "name": "用优质烤河马",
+        "description": {
+            "general": "新鲜烤制的上等河马肉排，尝起来有点膻，但风味十足。"
+        }
+    },
+    "grilledPrimeCrocodile": {
+        "name": "优质烤鳄鱼",
+        "description": {
+            "general": "新鲜烤制的上等鳄鱼肉排，肉质紧实鲜嫩有嚼劲。"
+        }
+    },
+    "tylosaurusSteak": {
+        "name": "海王龙肉排",
+        "description": {
+            "general": "这是用某头蛰伏于非洲海岸的古老掠食者做的烤肉。口感筋道，味道微甜。"
+        }
+    },
+    "grilledScrewpine": {
+        "name": "烤露兜树果",
+        "description": {
+            "general": "这些甜糕饼内馅满是露兜树果，然后包着香兰叶烤制，赋予其一抹绿色。"
+        }
+    },
+    "grilledVegetables": {
+        "name": "烤蔬菜",
+        "description": {
+            "general": "将印度洋采集的草药、叶片与蔬菜揉在一起在火上烧烤，是一道简单而丰盛的美食。"
+        }
+    },
+    "grilledDurian": {
+        "name": "烤榴莲",
+        "description": {
+            "general": "将榴莲片晒干，然后炙烤。虽然气味浓烈，但这些碎片有着香甜的滋味，并带有烟熏味。"
+        }
+    },
+    "grilledHippo": {
+        "name": "烤河马",
+        "description": {
+            "general": "口味略带甘甜，肉质坚韧。"
+        }
+    },
+    "varyBeMenaka": {
+        "name": "油肉饭",
+        "description": {
+            "general": "配有大块肥肉的米饭。"
+        }
+    },
+    "godrogodro": {
+        "name": "香草椰子糕",
+        "description": {
+            "general": "将法式炖锅架在木炭上烤出的传统椰子糕。"
+        }
+    },
+    "trondroGasy": {
+        "name": "马达加斯加鱼肉饭",
+        "description": {
+            "general": "多汁的鱼肉与蔬菜共同烹煮后，搭配米饭一同食用。"
+        }
+    },
+    "ndiziNaNyama": {
+        "name": "香蕉炖鸡汤",
+        "description": {
+            "general": "非洲大香蕉搭配鸡肉一同炖煮，带有甜咸可口的。"
+        }
+    },
+    "ragout": {
+        "name": "炖肉",
+        "description": {
+            "general": "由多种肉类精心调味炖煮而成。"
+        }
+    },
+    "sateKambing": {
+        "name": "羊肉沙嗲",
+        "description": {
+            "general": "将羊肉调味后穿成串，然后在炭火上炙烤，口味甜咸多汁。"
+        }
+    },
+    "bitterballen": {
+        "name": "荷兰炸肉丸",
+        "description": {
+            "general": "将厚实的炖肉冷却，揉搓成球，然后裹上面包粉，最后烹制而成的肉丸。"
+        }
+    },
+    "ronakoho": {
+        "name": "鸡肉姜汤",
+        "description": {
+            "general": "整鸡搭配新鲜原料煮成的高汤。"
+        }
+    },
+    "mchuziWaKuharibu": {
+        "name": "咖喱库哈利布肉",
+        "description": {
+            "general": "库哈利布的肉，精心包裹在番茄和香料混合物内，然后在甜甜的椰奶中搭配当地根茎植物烘烤。"
+        }
+    },
+    "otakOtak": {
+        "name": "乌达",
+        "description": {
+            "general": "将鱼肉与各种香料混合，包裹进香蕉叶后再烘烤或炊蒸。"
+        }
+    },
+    "firstAidStation": {
+        "name": "急救站",
+        "description": {
+            "general": "物资充足的站台，可使船员在船身生命值较低时有工具维修船只与救治水手。"
+        }
+    },
+    "ironCapstan": {
+        "name": "铁绞盘",
+        "description": {
+            "general": "船只在停泊时可抵御敌方炮火，但同时也会成为活靶子。"
+        }
+    },
+    "ropeLocker": {
+        "name": "绳索柜",
+        "description": {
+            "general": "这些缆绳可加速船只航行，但前提是船员能够跟上节奏。它们曾为一位知名任帕女舵手所收藏。"
+        }
+    },
+    "scopingStation": {
+        "name": "观察站",
+        "description": {
+            "general": "加强对敌船的目标追踪，使船长能够精确命中敌船的弱点。"
+        }
+    },
+    "scrapperStation": {
+        "name": "搜刮者站",
+        "description": {
+            "general": "激励船员在成功击中敌船后维修船身。绝望的走私犯往往会在朝敌人投掷黄油刀后，趁乱在战斗中修补破洞。"
+        }
+    },
+    "signalGong": {
+        "name": "警报锣",
+        "description": {
+            "general": "尖锐的铿锵声可划开混乱，激励船员于激战中短时间更加奋力地拼杀。"
+        }
+    },
+    "warDrums": {
+        "name": "战鼓",
+        "description": {
+            "general": "敲击声震耳欲聋，可驱散恐惧并激发力量，使船员在战斗中更加高效地调整船帆。"
+        }
+    },
+    "megaphone": {
+        "name": "扩音器",
+        "description": {
+            "general": "强化船长的指令，使炮手在连续命中目标后能以更快速度装填。"
+        }
+    },
+    "munitionsMixer": {
+        "name": "弹药混合器",
+        "description": {
+            "general": "古老的炼金术典籍中早已记载完美的燃烧——或最缓慢的渗漏。在随意操作下，易爆化合物相互混合，可造成持久的燃烧和进水负面效果。"
+        }
+    },
+    "riggingStation": {
+        "name": "索具台",
+        "description": {
+            "general": "配备了应急工具，让船员能够在战斗中修补破洞，且船只即使在船身生命值较低时也能保持漂浮。"
+        }
+    },
+    "gunnersQuadrant": {
+        "name": "炮手四分仪",
+        "description": {
+            "general": "精准能力可战胜恐慌——船长可借此工具判断射程并把握射击时机，从而更频繁的命中敌船弱点。"
+        }
+    },
+    "waterTank": {
+        "name": "水箱",
+        "description": {
+            "general": "帮助船员在紧张状况下节省体力，并在船身生命值濒临崩溃时迅速恢复体力。"
+        }
+    },
+    "maintenanceForge": {
+        "name": "维护锻造厂",
+        "description": {
+            "general": "量身定制的熔炉，可专门用于维修受到严重伤害的船只。"
+        }
+    },
+    "doublePlankedHull": {
+        "name": "双层船体",
+        "description": {
+            "general": "船身上安装了强化板，使船身生命值增加。"
+        }
+    },
+    "boatswainsCall": {
+        "name": "水手长呼叫",
+        "description": {
+            "general": "尖锐的哨声穿透混乱的战场，使指令得以听见并执行。可提高船员进攻的伤害。"
+        }
+    },
+    "chainsLocker": {
+        "name": "链锁",
+        "description": {
+            "general": "专用锁链，用于破坏敌船的船帆，使其在更长时间内无法战斗。"
+        }
+    },
+    "joineryWorkshop": {
+        "name": "细木工车间",
+        "description": {
+            "general": "打磨维修型武器，提升其维修效果。此工坊配备了备用木板，钉子和配件，以便更快速展开维修。"
+        }
+    },
+    "gunpowderBench": {
+        "name": "火药工作台",
+        "description": {
+            "general": "增强燃烧效果，使火焰燃烧的更加猛烈。年迈的火药大师们声称他们的手艺习自乌瓜纳火祭司。"
+        }
+    },
+    "leadKettle": {
+        "name": "铅锅",
+        "description": {
+            "general": "专门装备可使炮弹更加沉重，从而延长敌人受到的进水效果。"
+        }
+    },
+    "spikedWarHorn": {
+        "name": "尖刺战争号角",
+        "description": {
+            "general": "他骇人的号声能令船员陷入狂暴，使其能够更加频繁的发动进攻。曾归一位臭名昭著的军阀所有，其战吼可震得舰队四散溃逃。"
+        }
+    },
+    "stickyFuelStation": {
+        "name": "粘性加油站",
+        "description": {
+            "general": "用于调配粘性燃料的专用站台。该燃料涂覆于弹药后，可使敌船受到更久的燃烧伤害。"
+        }
+    },
+    "storageCompartment": {
+        "name": "仓储隔间",
+        "description": {
+            "general": "提升货舱容量，使船只能装载更多战利品和补给。需要在高风险贸易中获取最大利润的走私范尤为青睐这一陈设。"
+        }
+    },
+    "toolSmithy": {
+        "name": "工具锻冶匠",
+        "description": {
+            "general": "提升自然资源采集效率。如果没有锋利的刀刃，再出色的伐木工也不过是拿根木棍的普通人。"
+        }
+    },
+    "flagPaintingStation": {
+        "name": "彩旗站",
+        "description": {
+            "general": "用于绘制侮辱性和淫秽图案的专用站台，可刺激敌人陷入狂暴状态。"
+        }
+    },
+    "volatileFuel": {
+        "name": "易爆燃料",
+        "description": {
+            "general": "增强燃烧效果，使敌船燃烧得更快。该燃料非常不稳定，需小心存放于严实的桶中。"
+        }
+    },
+    "leatherRopeGrips": {
+        "name": "皮绳握把",
+        "description": {
+            "general": "一套专门的滑轮和船帆系统，可更高效地调整船帆。"
+        }
+    },
+    "balancedMast": {
+        "name": "均衡桅杆",
+        "description": {
+            "general": "一种特殊船身部件，可平衡惯性增益与减益，从而提升船只的加速度和减速度。"
+        }
+    },
+    "sterileGalley": {
+        "name": "无菌厨房",
+        "description": {
+            "general": "用于给食物和消耗品保鲜的专用储藏室，可提高船员体力。"
+        }
+    },
+    "rumPantry": {
+        "name": "朗姆酒储藏室",
+        "description": {
+            "general": "使船员可尽情享用朗姆酒和其他美酒，有助于鼓舞士气与恢复体力。"
+        }
+    },
+    "lightenedMast": {
+        "name": "轻型桅杆",
+        "description": {
+            "general": "一种特殊船身部件，可减少惯性增益，从而提升船只的加速度。"
+        }
+    },
+    "longGunWorks": {
+        "name": "长管炮工事",
+        "description": {
+            "general": "用于改造长管炮弹药的专用站台，使其能够造成额外元素伤害。"
+        }
+    },
+    "demicannonWorks": {
+        "name": "半加农工事",
+        "description": {
+            "general": "用于改造半加农炮弹药的专用站台，使其能够造成额外元素伤害。"
+        }
+    },
+    "culverinWorks": {
+        "name": "长炮工事",
+        "description": {
+            "general": "用于改造炮弹的专用站台，使其能够造成额外元素伤害。"
+        }
+    },
+    "vatOfVolatiles": {
+        "name": "装有挥发物的桶",
+        "description": {
+            "general": "对建筑效果显著。一种来自非洲的特殊化学制剂，最初由乌瓜纳人用来摧毁皇家公司的塔楼。"
+        }
+    },
+    "ironCladdingStation": {
+        "name": "铁皮站",
+        "description": {
+            "general": "大幅提升冲撞伤害，使正面碰撞更具破坏力。常为爱将整艘船只用作武器的船长所用。"
+        }
+    },
+    "prismaticPowderFront": {
+        "name": "火药桶（船头）",
+        "description": {
+            "general": "可提升船头武器的伤害。该高级混合物使用的稀有火药提炼自天女的神秘丹炉。"
+        }
+    },
+    "prismaticPowderPort": {
+        "name": "火药桶（左舷）",
+        "description": {
+            "general": "提升舷侧武器的伤害，使舷侧攻击更具杀伤力。为战意凛然的炮手所使用，可确保每发炮弹都如重锤般狠狠地袭向敌船。"
+        }
+    },
+    "prismaticPowderStarboard": {
+        "name": "火药桶（右舷）",
+        "description": {
+            "general": "专门装满易爆剧烈火药的桶，可大幅提升右舷武器的伤害。"
+        }
+    },
+    "ballistaWorks": {
+        "name": "弩炮工事",
+        "description": {
+            "general": "用于改造弩炮箭矢的专用站台，使其能够造成额外元素伤害。"
+        }
+    },
+    "bombardWorks": {
+        "name": "射石炮工事",
+        "description": {
+            "general": "用于改造射石炮炮弹的专用站台，使其能够造成额外元素伤害。"
+        }
+    },
+    "flamethrowerWorks": {
+        "name": "海洋之火工事",
+        "description": {
+            "general": "用于改造海洋之火的专用站台，使其能够造成额外伤害。"
+        }
+    },
+    "maintainedArsenal": {
+        "name": "维护有加的武器库",
+        "description": {
+            "general": "用于改进和维修辅助武器的工具，可提升其伤害输出。"
+        }
+    },
+    "torpedoWorks": {
+        "name": "鱼雷工事",
+        "description": {
+            "general": "用于改造鱼雷的专用站台，使其能够造成额外元素伤害。"
+        }
+    },
+    "mortarWorks": {
+        "name": "迫击炮工事",
+        "description": {
+            "general": "用于改造迫击炮炮弹的专用站台，使其能够造成额外伤害。"
+        }
+    },
+    "rocketWorks": {
+        "name": "火箭工事",
+        "description": {
+            "general": "用于改造火箭的专用站台，使其能够造成额外元素伤害。"
+        }
+    },
+    "grindstoneBallista": {
+        "name": "磨床（弩炮）",
+        "description": {
+            "general": "用于打磨弩炮发射装置的专用站台，使其以更快速度射击。"
+        }
+    },
+    "grindstoneBombard": {
+        "name": "磨床（射石炮）",
+        "description": {
+            "general": "用于打磨射石炮炮管的专用站台，使其以更快速度射击。"
+        }
+    },
+    "grindstoneCulverin": {
+        "name": "磨床（大炮）",
+        "description": {
+            "general": "用于打磨武器炮管，提升初速，使弹药以更快速度飞行。"
+        }
+    },
+    "grindstoneLongGun": {
+        "name": "磨床（长管炮）",
+        "description": {
+            "general": "用于打磨大炮炮管的专用站台，使其以更快速度射击。"
+        }
+    },
+    "grindstoneTorpedo": {
+        "name": "磨床（鱼雷）",
+        "description": {
+            "general": "用于打磨鱼雷炮管的专用站台，可使鱼雷以更快速度在水中穿行。"
+        }
+    },
+    "grindstone": {
+        "name": "磨石",
+        "description": {
+            "general": "用于打磨武器炮管，提升初速，使弹药以更快速度飞行。"
+        }
+    },
+    "brazingFurnaceFlamethrower": {
+        "name": "铸炉（海洋之火）",
+        "description": {
+            "general": "用于打磨海洋之火武器发射装置的专用站台，使其炮弹射程提升。"
+        }
+    },
+    "brazingFurnace": {
+        "name": "钎焊炉",
+        "description": {
+            "general": "专为所有炮弹和武器增加射程而设计，同时可提升弹药混用的威力。"
+        }
+    },
+    "brazingFurnaceMortar": {
+        "name": "铸炉（迫击炮）",
+        "description": {
+            "general": "用于打磨迫击炮炮管的专用扇台，使其炮弹射程提升。"
+        }
+    },
+    "brazingFurnaceTorpedo": {
+        "name": "铸炉（鱼雷）",
+        "description": {
+            "general": "用于打磨鱼雷炮管的专用站台，使其炮弹射程提升。"
+        }
+    },
+    "brazingFurnaceRocket": {
+        "name": "铸炉（火箭）",
+        "description": {
+            "general": "用于打磨火箭炮管的专用站台，使其炮弹射程提升。"
+        }
+    },
+    "brazingFurnaceDemicannon": {
+        "name": "铸炉（半加农炮）",
+        "description": {
+            "general": "用于打磨半加农炮管的专用站台，使其炮弹射程提升。"
+        }
+    },
+    "powderHouseBombard": {
+        "name": "火药房（射石炮）",
+        "description": {
+            "general": "可增强射石炮炮弹威力的专用站台，使炮弹在命中时波及范围更广。"
+        }
+    },
+    "powderHouseMortar": {
+        "name": "火药房（迫击炮）",
+        "description": {
+            "general": "可增强迫击炮炮弹威力的专用站台，使炮弹在命中时波及范围更广。"
+        }
+    },
+    "laPotenceSchematics": {
+        "name": "绞刑架设计图",
+        "description": {
+            "general": "重点标示出绞刑架号的结构弱点。传闻菲力浦●拉佩斯特的恐怖战舰更像是幽灵而\n非实物，然而，即便是诅咒再深的船只也有其弱点。"
+        }
+    },
+    "fauleIlse": {
+        "name": "铁片炮",
+        "description": {
+            "general": "这门致命半加农发射的弹片会弹射到附近的目标。该庞然大物诞生自德国工艺，因可摧毁整支舰队的威力而声名远扬。"
+        }
+    },
+    "theWarhammer": {
+        "name": "战锤火箭",
+        "description": {
+            "general": "这种毁灭性武器能通过从高空发射大量爆炸性火箭来夷平战场。"
+        }
+    },
+    "endlessRequiem": {
+        "name": "无尽安魂曲",
+        "description": {
+            "general": "装填后，可发射拥有目标追踪能力的高度先进鱼雷。这些歪门邪道的玩意儿乃阿尔芒·胡巴茨和伯特兰·胡巴茨的独家武器，出了名的防不胜防。"
+        }
+    },
+    "laPiqure": {
+        "name": "瘟疫之蚀",
+        "description": {
+            "general": "拉佩斯特手下走狗使用的阴险武器，其发射的污秽炮弹会消耗敌方船员体力。"
+        }
+    },
+    "dummySpringloader": {
+        "name": "假弹射器",
+        "description": {
+            "general": "用木材和树脂制成的弹射器仿品，供船员在避免伤到肢体的情况下训练与提升武器装填速度。"
+        }
+    },
+    "fatanaStation": {
+        "name": "伐塔纳站",
+        "description": {
+            "general": "法拉人用来提升火箭火药威力的烹饪站，调制出的物品对建筑特别有效。"
+        }
+    },
+    "tuningStation": {
+        "name": "调试站",
+        "description": {
+            "general": "用于打磨鱼雷炮管的熔炉站，可提升鱼雷的杀伤力与速度。"
+        }
+    },
+    "stormwovenSymphony": {
+        "name": "风暴交响曲",
+        "description": {
+            "general": "释放破坏性的声波攻击，对周围敌人造成伤害。只有传奇的胡巴茨兄弟才拥有这样的金色板甲。"
+        }
+    },
+    "buccaneersOath": {
+        "name": "海匪之誓",
+        "description": {
+            "general": "击沉敌人后，增强进攻和防御能力。嗜血的海盗船长们的心爱之物。"
+        }
+    },
+    "mineSpringloader": {
+        "name": "水雷弹射器",
+        "description": {
+            "general": "部署撕裂者水雷浮标，这些浮标会释放致命水雷，是出其不意伏击敌人的完美利器。"
+        }
+    },
+    "infernalMaw": {
+        "name": "地狱巨口",
+        "description": {
+            "general": "部署海洋之火水雷浮标，该浮标可发射充满挥发性海洋之火液体的会爆炸水雷，是纵火狂的梦想武器。"
+        }
+    },
+    "littleGrace": {
+        "name": "小恩典",
+        "description": {
+            "general": "部署修补者浮标，该浮标可维修受损船身，是谨慎船长的首选。"
+        }
+    },
+    "abyssal": {
+        "name": "深渊",
+        "description": {
+            "general": "降低燃烧状态效果的持续时长，并提供对燃烧伤害的超强抗性。闪闪发光的银色骷髅头骨镶嵌在锃亮的钢材之上，能够抵挡最猛烈的火力。"
+        }
+    },
+    "buoyShellsCrate": {
+        "name": "浮标炮弹箱",
+        "description": {
+            "general": "内含20发适用于弹射器的浮标炮弹"
+        }
+    },
+    "leviathanArmor": {
+        "name": "利维坦号",
+        "description": {
+            "general": "可提升航行速度，提供更强的防御。并提供对弱点伤害的防护，由传奇巨兽的骸骨制作而成。"
+        }
+    },
+    "springloaderFurnace": {
+        "name": "铸炉（弹射器）",
+        "description": {
+            "general": "弹射器专用工坊，可扩大浮标的部署半径。"
+        }
+    },
+    "springloaderPowderhouse": {
+        "name": "火药房（浮标）",
+        "description": {
+            "general": "弹射器专用工坊，可扩大部署浮标的最大影响范围。"
+        }
+    },
+    "machinistStationRepair": {
+        "name": "机械师台(维修）",
+        "description": {
+            "general": "用于提升维修浮标效果的专用工坊。"
+        }
+    },
+    "raisedQuarterdeck": {
+        "name": "升高甲板",
+        "description": {
+            "general": "为了防止过量进水伤害对船只甲板进行改装。"
+        }
+    },
+    "buoyLocker": {
+        "name": "浮标柜",
+        "description": {
+            "general": "专门用于存放特制浮标的空间，允许同时装备更多浮标并提升其效果。"
+        }
+    },
+    "brouwersPowderhouse": {
+        "name": "布劳厄的炸药库",
+        "description": {
+            "general": "专门用于迫击炮升级的特殊工坊，可扩大及炮弹爆炸范围并提升装填速度。“屠夫将军”卡雷尔·布劳厄曾利用其征服东印度群岛。"
+        }
+    },
+    "compagnieScreens": {
+        "name": "皇家公司屏风",
+        "description": {
+            "general": "吊带夹板上方的连环网和拦截来袭炮弹并降低其伤害。皇家公司船只用他们来挡海鸥粪便。"
+        }
+    },
+    "medicineCabinet": {
+        "name": "药品柜",
+        "description": {
+            "general": "内含治疗各种疾病的对症医疗用品，可提高船员的战斗力。"
+        }
+    },
+    "compagnieSpiritsLocker": {
+        "name": "皇家公司酒柜",
+        "description": {
+            "general": "专门用于存放酒水的储物柜，与皇家公司战船十分相配，可使船员的战斗中保持高昂士气。"
+        }
+    },
+    "secretCache": {
+        "name": "秘密贮藏处",
+        "description": {
+            "general": "走私贩经常在船身和甲板上临时凿洞，这既能扩大货舱容量，又能防止违禁品被查获。"
+        }
+    },
+    "bombardMenuiserie": {
+        "name": "射石炮工艺",
+        "description": {
+            "general": "创自皇家公司射石炮工程师的工坊，可提升武器威力与对建筑的伤害。"
+        }
+    },
+    "rhapsodyOfTheDeep": {
+        "name": "深海狂想曲",
+        "description": {
+            "general": "在防御状态下抵消静水状态效果的所有伤害和影响，并强化对鱼雷的防御。只有皇家公司的准将才有资格使用如此精湛的工艺。"
+        }
+    },
+    "cursedBanner": {
+        "name": "诅咒旗帜",
+        "description": {
+            "general": "一面破损的旗帜，可激怒任何看到他的敌人。据说他曾属于一位传奇海上领主。"
+        }
+    },
+    "lemariMakanan": {
+        "name": "食品柜",
+        "description": {
+            "general": "任帕人用来在海上存放香料和食物的特殊储藏室，可提升船员体力恢复速度。"
+        }
+    },
+    "bedarUpgrade": {
+        "name": "扁嘴帆艇升级",
+        "description": {
+            "1": "将扁嘴帆艇从0级升至1级。",
+            "2": "将扁嘴帆艇从1级升至2级。",
+            "3": "将扁嘴帆艇从2级升至3级。",
+            "4": "将扁嘴帆艇从3级升至4级。",
+            "5": "将扁嘴帆艇从4级升至5级。",
+            "6": "将扁嘴帆艇从5级升至6级。",
+            "7": "将扁嘴帆艇从6级升至7级。",
+            "general": "扁嘴帆艇的升级组件。"
+        }
+    },
+    "hulkUpgrade": {
+        "name": "囤货艇升级",
+        "description": {
+            "1": "将囤货艇从0级升至1级。",
+            "2": "将囤货艇从1级升至2级。",
+            "3": "将囤货艇从2级升至3级。",
+            "4": "将囤货艇从3级升至4级。",
+            "5": "将囤货艇从4级升至5级。",
+            "6": "将囤货艇从5级升至6级。",
+            "7": "将囤货艇从6级升至7级。",
+            "general": "囤货艇的升级组件。"
+        }
+    },
+    "cutterUpgrade": {
+        "name": "短桅帆船升级",
+        "description": {
+            "1": "将短桅帆船从0级升至1级。",
+            "2": "将短桅帆船从1级升至2级。",
+            "3": "将短桅帆船从2级升至3级。",
+            "4": "将短桅帆船从3级升至4级。",
+            "5": "将短桅帆船从4级升至5级。",
+            "6": "将短桅帆船从5级升至6级。",
+            "7": "将短桅帆船从6级升至7级。",
+            "general": "短桅帆船的升级组件。"
+        }
+    },
+    "bargeUpgrade": {
+        "name": "平底货艇升级",
+        "description": {
+            "1": "将平底货艇从0级升至1级。",
+            "2": "将平底货艇从1级升至2级。",
+            "3": "将平底货艇从2级升至3级。",
+            "4": "将平底货艇从3级升至4级。",
+            "5": "将平底货艇从4级升至5级。",
+            "6": "将平底货艇从5级升至6级。",
+            "7": "将平底货艇从6级升至7级。",
+            "general": "平底货艇的升级组件。"
+        }
+    },
+    "sloopUpgrade": {
+        "name": "单桅船升级",
+        "description": {
+            "1": "将单桅船从0级升至1级。",
+            "2": "将单桅船从1级升至2级。",
+            "3": "将单桅船从2级升至3级。",
+            "4": "将单桅船从3级升至4级。",
+            "5": "将单桅船从4级升至5级。",
+            "6": "将单桅船从5级升至6级。",
+            "7": "将单桅船从6级升至7级。",
+            "general": "单桅炮艇的升级组件。"
+        }
+    },
+    "padewakangUpgrade": {
+        "name": "巴得瓦康船升级",
+        "description": {
+            "1": "将巴得瓦康船从0级升至1级。",
+            "2": "将巴得瓦康船从1级升至2级。",
+            "3": "将巴得瓦康船从2级升至3级。",
+            "4": "将巴得瓦康船从3级升至4级。",
+            "5": "将巴得瓦康船从4级升至5级。",
+            "6": "将巴得瓦康船从5级升至6级。",
+            "7": "将巴得瓦康船从6级升至7级。",
+            "general": "巴得瓦康船的升级组件。"
+        }
+    },
+    "snowUpgrade": {
+        "name": "尖首货船升级",
+        "description": {
+            "1": "将尖首货船从0级升至1级。",
+            "2": "将尖首货船从1级升至2级。",
+            "3": "将尖首货船从2级升至3级。",
+            "4": "将尖首货船从3级升至4级。",
+            "5": "将尖首货船从4级升至5级。",
+            "6": "将尖首货船从5级升至6级。",
+            "7": "将尖首货船从6级升至7级。",
+            "general": "尖首货船的升级组件。"
+        }
+    },
+    "brigantineUpgrade": {
+        "name": "双桅帆船升级",
+        "description": {
+            "1": "将双桅帆船从0级升至1级。",
+            "2": "将双桅帆船从1级升至2级。",
+            "3": "将双桅帆船从2级升至3级。",
+            "4": "将双桅帆船从3级升至4级。",
+            "5": "将双桅帆船从4级升至5级。",
+            "6": "将双桅帆船从5级升至6级。",
+            "7": "将双桅帆船从6级升至7级。",
+            "general": "双桅帆船的升级组件。"
+        }
+    },
+    "sambukUpgrade": {
+        "name": "桑布克船升级",
+        "description": {
+            "1": "将桑布克船从0级升至1级。",
+            "2": "将桑布克船从1级升至2级。",
+            "3": "将桑布克船从2级升至3级。",
+            "4": "将桑布克船从3级升至4级。",
+            "5": "将桑布克船从4级升至5级。",
+            "6": "将桑布克船从5级升至6级。",
+            "7": "将桑布克船从6级升至7级。",
+            "general": "桑布克船的升级组件。"
+        }
+    },
+    "barqueUpgrade": {
+        "name": "三桅帆船升级",
+        "description": {
+            "1": "将三桅帆船从0级升至1级。",
+            "2": "将三桅帆船从1级升至2级。",
+            "3": "将三桅帆船从2级升至3级。",
+            "4": "将三桅帆船从3级升至4级。",
+            "5": "将三桅帆船从4级升至5级。",
+            "6": "将三桅帆船从5级升至6级。",
+            "7": "将三桅帆船从6级升至7级。",
+            "general": "三桅帆船的升级组件。"
+        }
+    },
+    "brigUpgrade": {
+        "name": "双桅帆船升级",
+        "description": {
+            "1": "将双桅帆船从0级升至1级。",
+            "2": "将双桅帆船从1级升至2级。",
+            "3": "将双桅帆船从2级升至3级。",
+            "4": "将双桅帆船从3级升至4级。",
+            "5": "将双桅帆船从4级升至5级。",
+            "6": "将双桅帆船从5级升至6级。",
+            "7": "将双桅帆船从6级升至7级。",
+            "general": "双桅帆船的升级组件。"
+        }
+    },
+    "battleJunkUpgrade": {
+        "name": "座䑸升级",
+        "description": {
+            "1": "将座䑸从0级升至1级。",
+            "2": "将座䑸从1级升至2级。",
+            "3": "将座䑸从2级升至3级。",
+            "4": "将座䑸从3级升至4级。",
+            "5": "将座䑸从4级升至5级。",
+            "6": "将座䑸从5级升至6级。",
+            "7": "将座䑸从6级升至7级。",
+            "general": "座䑸的升级组件。"
+        }
+    },
+    "garudaUpgrade": {
+        "name": "迦楼罗升级",
+        "description": {
+            "1": "将迦楼罗从0级升至1级。",
+            "2": "将迦楼罗从1级升至2级。",
+            "3": "将迦楼罗从2级升至3级。",
+            "4": "将迦楼罗从3级升至4级。",
+            "5": "将迦楼罗从4级升至5级。",
+            "6": "将迦楼罗从5级升至6级。",
+            "7": "将迦楼罗从6级升至7级。",
+            "general": "迦楼罗的升级组件。"
+        }
+    },
+    "boatswainsToll": {
+        "name": "水手长的钟声",
+        "description": {
+            "general": "大型船哨，可激励船员更加奋勇地持久作战。"
+        }
+    },
+    "scupperStation": {
+        "name": "排水站",
+        "description": {
+            "general": "该加工站可在船只进水时防止船员体力过度消耗。"
+        }
+    },
+    "waterFlask": {
+        "name": "水壶",
+        "description": {
+            "general": "海盗的必备饮品。"
+        }
+    },
+    "waterBarrel": {
+        "name": "水桶",
+        "description": {
+            "general": "清新可口的饮用水。"
+        }
+    },
+    "teulingsCoffee": {
+        "name": "图林咖啡",
+        "description": {
+            "general": "用图林最爱的咖啡豆冲泡的咖啡。"
+        }
+    },
+    "zongZi": {
+        "name": "粽子",
+        "description": {
+            "general": "用香兰叶包裹大米制成的美味传统中国食品，也是鱼类的最爱。"
+        }
+    },
+    "teulingsSpecialSteakDinner": {
+        "name": "图林的特制牛排大餐",
+        "description": {
+            "general": "按照图林的口味准备的牛排和配菜。"
+        }
+    },
+    "mermaidsTears": {
+        "name": "美人鱼之泪",
+        "description": {
+            "general": "想亲近美人鱼，恐怕没有比这更好的办法"
+        }
+    },
+    "darkNStormy": {
+        "name": "黑暗风暴",
+        "description": {
+            "general": "能够放松身心，非常适合应对公海上的风暴"
+        }
+    },
+    "scallyGrog": {
+        "name": "斯卡利烈酒",
+        "description": {
+            "general": "为总督干杯！"
+        }
+    },
+    "bloodyAnnie": {
+        "name": "血腥安妮",
+        "description": {
+            "general": "一个给你的甜蜜提醒，因为海上总是孤独的"
+        }
+    },
+    "lestarisMeat": {
+        "name": "莱斯塔里肉",
+        "description": {
+            "general": "从海怪莱斯塔里身上获取的肉。"
+        }
+    },
+    "grilledLestariMeat": {
+        "name": "烤莱斯塔里肉",
+        "description": {
+            "general": "这是海怪莱斯塔里烤肉，味道很像鸡肉。"
+        }
+    },
+    "leatherFashioningStation": {
+        "name": "皮革站",
+        "description": {
+            "general": "鞣革板覆盖着船身外部，保护其免受火焰伤害。"
+        }
+    },
+    "lestariTrophy": {
+        "name": "莱斯塔里纪念物",
+        "description": {
+            "general": "野兽尸体的骇人雕像，其上长着可怕的牙齿。可激励船员挑战更大、更强的猎物。"
+        }
+    },
+    "hubacTuningRack": {
+        "name": "胡巴茨调试架",
+        "description": {
+            "general": "从胡巴茨兄弟战船残骸中缴获的专业装备。该装备采用了他们的战术，可提升鱼雷的武装与射程。"
+        }
+    },
+    "machinistStationMines": {
+        "name": "机械师台(水雷)",
+        "description": {
+            "general": "用于提升雷区浮标伤害输出的专用工坊。"
+        }
+    },
+    "deluxeBallistaBoltCrate": {
+        "name": "豪华弩炮弩箭箱",
+        "description": {
+            "1": "内含40发适用于弩炮类武器的弩箭。",
+            "2": "内含60发适用于弩炮类武器的弩箭。",
+            "general": "内含适用于弩炮类武器的弩箭。"
+        }
+    },
+    "deluxeSeaFireOilCrate": {
+        "name": "豪华海洋之火油罐箱",
+        "description": {
+            "1": "内含120罐适用于海洋之火武器的油罐。",
+            "2": "内含180罐适用于海洋之火武器的油罐。",
+            "general": "内含适用于海洋之火武器的油罐。"
+        }
+    },
+    "deluxeCannonballCrate": {
+        "name": "豪华大炮炮弹箱",
+        "description": {
+            "1": "内含200枚炮弹",
+            "2": "内含300发适用于大炮的炮弹。",
+            "general": "内含适用于大炮的炮弹。"
+        }
+    },
+    "deluxeMortarBombCrate": {
+        "name": "豪华迫击炮炮弹箱",
+        "description": {
+            "1": "内含40发适用于迫击炮的炮弹。",
+            "2": "内含60发适用于迫击炮的炮弹。",
+            "general": "内含适用于迫击炮的炮弹。"
+        }
+    },
+    "deluxeRocketCrate": {
+        "name": "豪华火箭箱",
+        "description": {
+            "1": "内含200发适用于火箭发射器的火箭。",
+            "2": "内含300发适用于火箭发射器的火箭。",
+            "general": "内含适用于火箭发射器的火箭。"
+        }
+    },
+    "deluxeBuoyShellsCrate": {
+        "name": "豪华浮标炮弹箱",
+        "description": {
+            "1": "内含40发适用于弹射器的浮标炮弹。",
+            "2": "内含60发适用于弹射器的浮标炮弹。",
+            "general": "内含适用于弹射器的浮标炮弹。"
+        }
+    },
+    "deluxeBombardBombCrate": {
+        "name": "豪华射石炮炮弹箱",
+        "description": {
+            "1": "内含120发适用于射石炮的炮弹。",
+            "2": "内含180发适用于射石炮的炮弹。",
+            "general": "内含适用于射石炮的炮弹。"
+        }
+    },
+    "deluxeTorpedoCrate": {
+        "name": "豪华鱼雷箱",
+        "description": {
+            "1": "内含120发适用于鱼雷发射器的鱼雷。",
+            "2": "内含180发适用于鱼雷发射器的鱼雷。",
+            "general": "内含适用于鱼雷发射器的鱼雷。"
+        }
+    },
+    "whiteJade": {
+        "name": "白玉",
+        "description": {
+            "general": "这种与众不同的火炮可以实现同时维修多艘船只的功能，深受海军和商船追捧。"
+        }
+    },
+    "thousandYearMonsoon": {
+        "name": "千年季风",
+        "description": {
+            "general": "如同百年风暴在海上肆虐，每一次爆炸都能造成严重伤害，使甲板下方进水，且龙骨和船身都无法修复。"
+        }
+    },
+    "crouchingTiger": {
+        "name": "赤虎咆哮",
+        "description": {
+            "general": "这个武器仿佛蓄势待发、怒气冲天的猛兽，其发射的炮弹中注入了熏香，可嘲讽吸入的敌人，使其陷入狂怒。"
+        }
+    },
+    "spitefulSpikesStation": {
+        "name": "尖刺站",
+        "description": {
+            "general": "定制弹药，可削弱敌人维修自己受损船只的能力。"
+        }
+    },
+    "emergencySails": {
+        "name": "紧急船帆",
+        "description": {
+            "general": "备用的船帆和索具，可根据需要展开，从而更快速度追击逃跑的敌人。"
+        }
+    },
+    "celestialDance": {
+        "name": "天舞",
+        "description": {
+            "general": "释放强力的闪电攻击，连锁攻击多个敌人。有人说，它是用天上的一只带翼野兽身上的部件锻造而成。"
+        }
+    },
+    "hongYiPao": {
+        "name": "红衣大炮",
+        "description": {
+            "general": "采用了葡萄牙设计的御用火炮，在炮弹中注入了来自远东的嘲讽性熏香，人吸入后会凶性大发。"
+        }
+    },
+    "heavensMandate": {
+        "name": "天命",
+        "description": {
+            "general": "这门精美的大炮打造自一头暗影怪兽的鳞片，可召唤雷击攻击你的敌人。"
+        }
+    },
+    "phoenixTalons": {
+        "name": "翔凤",
+        "description": {
+            "general": "喷涂出绚烂的死亡和喧嚣，同时释放十八下重击，激起地狱之火。"
+        }
+    },
+    "baneOfTenSuns": {
+        "name": "十日之灾",
+        "description": {
+            "general": "这种武器发射的机关弩箭可击穿多艘船只，仿佛神力劈开苍穹般威猛。"
+        }
+    },
+    "phoenixCrest": {
+        "name": "凤凰徽章",
+        "description": {
+            "general": "在恢复防御强度的同时嘲讽敌人。备受诡计多端、乐于激怒敌人（偶尔也激怒盟友）的船长们的青睐。"
+        }
+    },
+    "organHarvestingStation": {
+        "name": "开膛取肚站",
+        "description": {
+            "general": "可处理海怪肢体的骇人站台。由于海怪肢体易燃易爆，因此在船只遭受炮火攻击时，他们可提升火箭的杀伤力。"
+        }
+    },
+    "bracedGunwales": {
+        "name": "防御舷边",
+        "description": {
+            "general": "船只甲板上的加固栏杆，可更好地抵御来袭伤害。"
+        }
+    },
+    "heavenlyLance": {
+        "name": "神枪",
+        "description": {
+            "general": "发射闪亮鳞片，划开大海，对敌人造成电击伤害。"
+        }
+    },
+    "lestariStew": {
+        "name": "莱斯塔里炖菜",
+        "description": {
+            "general": "莱斯塔里的肉切成薄片，与新鲜蔬菜一起翻炒，配上米饭一起享用。"
+        }
+    },
+    "firstMatesLedger": {
+        "name": "大副账薄",
+        "description": {
+            "general": "一本皮革装订的册子。记载着可激励或震慑船员的可靠方法，可激发在遭受敌方船只进攻后维修严重伤害的能力。"
+        }
+    },
+    "kinckelsLaboratory": {
+        "name": "金克尔实验室",
+        "description": {
+            "general": "窃自荷兰商社将军亲信的计划，其中包含关于如何提升迫击炮威力的机密。"
+        }
+    },
+    "shellPackingStation": {
+        "name": "填弹台",
+        "description": {
+            "general": "装满金属、钉子、石块和碎玻璃的压缩炮弹，可增加射石炮炮弹的伤害范围。"
+        }
+    },
+    "densityFurnace": {
+        "name": "密度炉",
+        "description": {
+            "general": "重新锻造弹药中的金属，提升每发弹药的密度和威力，使其能够在敌船上打出更大的窟窿。"
+        }
+    },
+    "langrageBarrels": {
+        "name": "钉弹炮",
+        "description": {
+            "general": "装满废弃金属、钉子和其他杂物的小桶，可撕裂敌船船帆。"
+        }
+    },
+    "gearsWorkshop": {
+        "name": "齿轮工坊",
+        "description": {
+            "general": "作为弩炮锻造定制齿轮与弹簧的进攻站台，可缩短弩炮的装填与充能时间。"
+        }
+    },
+    "smokedCanisters": {
+        "name": "烟罐",
+        "description": {
+            "general": "以陶土预热燃料，增加海洋之火武器的弹药储备。"
+        }
+    },
+    "beamSupports": {
+        "name": "梁柱支架",
+        "description": {
+            "general": "额外的木梁和支柱可加固船只内部结构，提高船身生命值并提升船只装甲级别。"
+        }
+    },
+    "divineThunder": {
+        "name": "神雷",
+        "description": {
+            "general": "这件神秘武器会在击中弱点时释放雷击，仿佛远古神兽发出怒吼。"
+        }
+    },
+    "immortalVessel": {
+        "name": "不朽舰船",
+        "description": {
+            "general": "据说受到八仙赐福，在最危机的时刻能够保护船只，使其免于沉没。"
+        }
+    },
+    "voltasWard": {
+        "name": "伏特之盾",
+        "description": {
+            "general": "降低雷暴状态效果的强度，并提供对雷击伤害的超强抗性。船体中编有铜线，能将风暴的怒火转换成美丽且无害的闪光。"
+        }
+    },
+    "amberCoatingStation": {
+        "name": "琥珀站",
+        "description": {
+            "general": "涂覆有精致琥珀的弹药，可增强敌船受到的电击状态效果。"
+        }
+    },
+    "chargeStores": {
+        "name": "充电库",
+        "description": {
+            "general": "用于储存电能的基础电池，连接特定武器后，可造成更高电击伤害。"
+        }
+    },
+    "lotusMooncake": {
+        "name": "莲蓉月饼",
+        "description": {
+            "general": "一种顶部印有徽章的美味甜点，通常作为礼物送给家人和朋友。"
+        }
+    },
+    "hellepoort": {
+        "name": "地狱之门",
+        "description": {
+            "general": "这门神秘大炮可在以奇异效率修复你船只的同时摧毁敌船船身。据说它锻造于幽冥深渊。"
+        }
+    },
+    "freemansEmbrace": {
+        "name": "弗里曼的拥抱",
+        "description": {
+            "general": "一个装饰着极多镜子的神秘柜子。船员报告敌船会遭受与己方相同的折磨。"
+        }
+    },
+    "cannonballCarvingStation": {
+        "name": "发射雕刻站",
+        "description": {
+            "general": "用于在弹药上刻下各种侮辱性或粗俗话语的专用站台。可刺激敌方船员反击。"
+        }
+    },
+    "bloodyRed": {
+        "name": "猩红旗织",
+        "description": {
+            "general": "一面染血的大旗，可煽起复仇怒火，吸引敌人的仇恨。"
+        }
+    },
+    "plaguebringersWard": {
+        "name": "瘟疫使者的护佑",
+        "description": {
+            "general": "散发着化学品气味与禁忌炼金气息的专用站台。船员饮用其中的绿色液体后，会感觉精力充沛，且受到的带毒进攻伤害降低。"
+        }
+    },
+    "quickIgnitingPowder": {
+        "name": "速燃火药",
+        "description": {
+            "general": "装满特殊火药的木桶，火药撒在甲板或船帆上后会剧烈燃烧，可增强敌船受到的燃烧效果。"
+        }
+    },
+    "ballistaFurnace": {
+        "name": "铸炉（弩炮）",
+        "description": {
+            "general": "用于打磨弩炮发射装置的专用站台，使其弩箭射程提升。"
+        }
+    },
+    "nagasCall": {
+        "name": "娜迦之召",
+        "description": {
+            "general": "每一发炮火似乎都在增强其威力，每次发射后伤害都会提升。"
+        }
+    },
+    "agnisFury": {
+        "name": "阿耆尼之怒",
+        "description": {
+            "general": "这款武器可快速发射箭头燃火的飞镖，可将敌人化为灰烬。"
+        }
+    },
+    "eyeOfHeaven": {
+        "name": "天堂之眼",
+        "description": {
+            "general": "这款武器会发出震耳欲聋的雷鸣，随后从目标敌船处发射的电弧，袭向附近其他敌船。"
+        }
+    },
+    "blightkeeper": {
+        "name": "破灭掌控者",
+        "description": {
+            "general": "这款武器融合了工程技术与黑暗魔法，发射的浮标能生成保护罩，抵御敌船的炮火，并维修友方船只。"
+        }
+    },
+    "crimsonLotus": {
+        "name": "红莲",
+        "description": {
+            "general": "成功进行船员进攻后，提升舷侧武器伤害及体力恢复。这件装甲用于红莲铸造厂锻造而成。"
+        }
+    },
+    "pishacha": {
+        "name": "毕舍遮",
+        "description": {
+            "general": "每次冲撞敌船后，按冲撞比例恢复船身生命值。深受喜爱冲撞船体的海上领主们青睐。"
+        }
+    },
+    "tanashah": {
+        "name": "暴君",
+        "description": {
+            "general": "在防御时减缓状态效果的积累。由荷兰商社委托制造，作为其权威的标志。"
+        }
+    },
+    "painPiper": {
+        "name": "疼痛吹奏者",
+        "description": {
+            "general": "一种特殊的船长笛，用来使船员陷入狂暴状态，从而在保护他们免受报复的同时，使其船员进攻更具杀伤力。"
+        }
+    },
+    "drownedOnesToll": {
+        "name": "溺水者的钟声",
+        "description": {
+            "general": "动物头骨雕像，仿佛船长为了恢复船身生命值向诡异力量献祭自己（以及船员）的灵魂。"
+        }
+    },
+    "chainedLinks": {
+        "name": "连锁链接",
+        "description": {
+            "general": "钢丝网覆盖在船身侧面，保护弱点免受集火攻击。"
+        }
+    },
+    "teulingsGuidance": {
+        "name": "图林的指引",
+        "description": {
+            "general": "一张铺满蓝图和船只图纸的桌案，重点标示出敌船弱点，以便加以利用。"
+        }
+    },
+    "strangeElixir": {
+        "name": "诡异药剂",
+        "description": {
+            "general": "装有透明神秘液体的瓷器。船员在饮下该液体后，可提升生命力、体力，并能将投射物投掷到更远距离。"
+        }
+    },
+    "decoyDeck": {
+        "name": "诱饵甲板",
+        "description": {
+            "general": "用稻草人和空炮装饰船只的部分区域，吸引敌人注意力，并在伪装暴露时激怒敌人。"
+        }
+    },
+    "floatCollars": {
+        "name": "浮箍",
+        "description": {
+            "general": "芦苇束，有助于浮标在水面上漂浮更长时间。"
+        }
+    },
+    "mineClearingLocker": {
+        "name": "扫雷柜",
+        "description": {
+            "general": "装满末端挂着钩子的长杆的柜子，可提升避开敌方水雷浮标的几率。"
+        }
+    },
+    "devilsConcoction": {
+        "name": "恶魔配方",
+        "description": {
+            "general": "一碗碗猩红色邪恶混合物，用于涂覆在弹药上，使其点燃后燃烧的更加猛烈且更加持久。"
+        }
+    },
+    "debrisLocker": {
+        "name": "残骸柜",
+        "description": {
+            "general": "专门用于存放杂物的储物柜，这些杂物捆绑在一起用作额外的锚，可增强敌船受到的进水效果。"
+        }
+    },
+    "expandingCorkscrewStation": {
+        "name": "扩展螺旋台",
+        "description": {
+            "general": "用于为现成炮弹装配不规则金属片的专用站台，可提升进水伤害。"
+        }
+    },
+    "cannonballChargingStation": {
+        "name": "炮弹装填台",
+        "description": {
+            "general": "用于装填炮弹的专用站台，可削弱敌船装甲，并使其具有更高几率获得电击效果。"
+        }
+    },
+    "copperFasteningStation": {
+        "name": "铜加固站",
+        "description": {
+            "general": "用于制造相互连接的小型金属环的专用站台。这些金属环组成长链连接到电机武器上后，可提升电击伤害。"
+        }
+    },
+    "rifledBarrelWorkshop": {
+        "name": "膛线枪管工坊",
+        "description": {
+            "general": "用于在火炮炮管内凿膛线的专用站台，使炮弹获得“螺旋”效果，从而削弱敌船装甲，并使其具有更高几率获得进水效果。"
+        }
+    },
+    "highVelocityKegs": {
+        "name": "高速火药桶",
+        "description": {
+            "general": "优质黑火药桶，可使穿透型弹药获得更高伤害与更远射程。"
+        }
+    },
+    "nashkar": {
+        "name": "纳什卡尔",
+        "description": {
+            "general": "该武器的炮管表面刻有无人能懂的符文，可在战斗中召唤神秘力量。每击中敌船（特别是击中弱点）一次，都可维修你的船只。"
+        }
+    },
+    "dahaaka": {
+        "name": "达哈卡",
+        "description": {
+            "general": "鱼雷仿佛古老的水蛇般在波浪间穿梭，撕裂敌船船身并削弱其装甲。"
+        }
+    },
+    "rumFruitcake": {
+        "name": "朗姆水果蛋糕",
+        "description": {
+            "general": "用料奢侈的美味水果蛋糕，正是斯科洛克的最爱。"
+        }
+    },
+    "crocodileMeat": {
+        "name": "鳄鱼肉",
+        "description": {
+            "general": "几乎无法生食。"
+        }
+    },
+    "tylosaurusFlesh": {
+        "name": "海王龙血肉",
+        "description": {
+            "general": "这些肉来自一匹游荡在非洲海岸，以不幸船员为食的野兽。"
+        }
+    },
+    "fish": {
+        "name": "鱼肉",
+        "description": {
+            "general": "口感温和，肉质柔软。"
+        }
+    },
+    "durian": {
+        "name": "榴莲",
+        "description": {
+            "general": "气味强烈，长满尖刺的大型水果。"
+        }
+    },
+    "coconut": {
+        "name": "椰子",
+        "description": {
+            "general": "孤岛上的主食。"
+        }
+    },
+    "ndizi": {
+        "name": "香蕉",
+        "description": {
+            "general": "因甜美的口味而广受欢迎；其烹饪用的品种被称为大蕉。"
+        }
+    },
+    "rawChicken": {
+        "name": "生鸡肉",
+        "description": {
+            "general": "平淡黏腻。"
+        }
+    },
+    "flour": {
+        "name": "面粉",
+        "description": {
+            "general": "许多菜肴的重要原料。"
+        }
+    },
+    "rawMutton": {
+        "name": "生羊肉",
+        "description": {
+            "general": "将羊肉烹煮后能够去除其强烈的膻味。"
+        }
+    },
+    "rawVegetables": {
+        "name": "生蔬菜",
+        "description": {
+            "general": "口味平淡不张扬。"
+        }
+    },
+    "screwpine": {
+        "name": "露兜树果",
+        "description": {
+            "general": "这种水果在煮熟后，可以磨成营养丰富的可食用糊状物。"
+        }
+    },
+    "hippoMeat": {
+        "name": "河马肉",
+        "description": {
+            "general": "口味略苦，肉质坚韧。"
+        }
+    },
+    "sharkMeat": {
+        "name": "鲨鱼肉",
+        "description": {
+            "general": "酸味强烈，烹煮后口感会有所改善。"
+        }
+    },
+    "rawBeef": {
+        "name": "生牛肉",
+        "description": {
+            "general": "最好还是煮熟后再吃。"
+        }
+    },
+    "primeCrocodileMeat": {
+        "name": "优质鳄鱼肉",
+        "description": {
+            "general": "鳄鱼肉的最佳部位。"
+        }
+    },
+    "primeHippoMeat": {
+        "name": "优质河马肉",
+        "description": {
+            "general": "河马肉的最佳部位。"
+        }
+    },
+    "libertyCap": {
+        "name": "半裸盖菇",
+        "description": {
+            "general": "效力十分霸道，仅需一口就足以让人发狂。"
+        }
+    },
+    "schoonerUpgrade": {
+        "name": "纵帆船升级",
+        "description": {
+            "1": "将纵帆船从0级升至1级。",
+            "2": "将纵帆船从1级升至2级。",
+            "3": "将纵帆船从2级升至3级。",
+            "4": "将纵帆船从3级升至4级。",
+            "5": "将纵帆船从4级升至5级。",
+            "6": "将纵帆船从5级升至6级。",
+            "7": "将纵帆船从6级升至7级。",
+            "general": "纵帆船的升级组件。"
+        }
+    },
+    "titansCuirass": {
+        "name": "泰坦覆甲",
+        "description": {
+            "general": "降低弹震状态效果的强度，并提供对爆炸伤害的超强抗性。设计灵感来自于远古诸神的永恒力量。"
+        }
+    },
+    "heydensGuard": {
+        "name": "海登护甲",
+        "description": {
+            "general": "在防御状态下抵消燃烧状态效果的所有伤害，并强化对火焰型武器的防御。意在抵御乌瓜纳的熊熊怒火。"
+        }
+    },
+    "nocturneHeart": {
+        "name": "暗夜之心",
+        "description": {
+            "general": "船生生命值较高时提升武器伤害。深受出其不意、来去无踪的圣安妮掠夺者们青睐。"
+        }
+    },
+    "silverSentinel": {
+        "name": "亮银护甲",
+        "description": {
+            "general": "恰当防御，可抵消一定伤害，尤其在时机恰当的情况下。"
+        }
+    },
+    "divineWind": {
+        "name": "圣风",
+        "description": {
+            "general": "这门设石炮外表覆盖着犹如风暴般黑暗的鳞片，能在弹着数秒后召唤一道雷击，如同闪电般贯穿附近的敌人。"
+        }
+    },
+    "floodingBombard": {
+        "name": "进水型射石炮",
+        "description": {
+            "general": "发射破坏力强大的弹雨，对一定区域内的多名敌人造成伤害。擅长在敌方船身炸开巨大的洞口，使敌船进水。"
+        }
+    },
+    "tearingLongGun": {
+        "name": "撕裂型长管炮",
+        "description": {
+            "general": "擅长摧毁远距离目标的长管炮。能够高效撕裂敌人的船帆，使敌方船只无法动弹。"
+        }
+    },
+    "farscourge": {
+        "name": "远灾",
+        "description": {
+            "general": "这款武器由卑鄙无赖之徒锻造而成，可以远距离发起攻击，击穿船身并使甲板进水。该武器还擅长使船只更容易受到船员进攻。"
+        }
+    },
+    "langeKartouwe": {
+        "name": "长型卡图尔炮",
+        "description": {
+            "general": "这是一项荷兰工艺的奇迹，可发射爆炸性信号弹，引发延迟爆炸，其炮弹还可以对敌方工事造成更高伤害。"
+        }
+    },
+    "alecto": {
+        "name": "复仇女神",
+        "description": {
+            "general": "这架深红色的弩炮可以齐射三发弩箭，如果全部命中相同目标，将会引发大火，重创目标。"
+        }
+    },
+    "explosiveDemicannon": {
+        "name": "爆炸型半加农炮",
+        "description": {
+            "general": "该中型大炮在竞技与战斗中可对目标造成巨大伤害。其炮弹的震荡攻击可使敌方船员陷入弹震，短时间内无法发射武器。"
+        }
+    },
+    "piercingDemicannon": {
+        "name": "穿透型半加农炮",
+        "description": {
+            "general": "发射致命弹片的中型大炮，在近距离战斗中和造成巨大伤害。该大炮还可通过对目标船身施加击穿来弱化其装甲。"
+        }
+    },
+    "kleineKartouwe": {
+        "name": "小型卡图尔炮",
+        "description": {
+            "general": "别看这门青铜的火炮小巧，他可是致命杀器，能够发射爆炸性弹药，引发一次延迟爆炸。"
+        }
+    },
+    "fireCulverin": {
+        "name": "火焰型长炮",
+        "description": {
+            "general": "多功能大炮，具有良好的射程、伤害和装填速度。其燃烧弹可点燃目标。"
+        }
+    },
+    "brickbreaker": {
+        "name": "裂破",
+        "description": {
+            "general": "这种坚固的大炮可从其钢制炮弹发射擅长摧毁防御工事的爆炸性炮弹。"
+        }
+    },
+    "urbansGreatGun": {
+        "name": "厄本巨炮",
+        "description": {
+            "general": "这门强大的火炮只需开火一次，便会爆发出毁灭性的齐射。它的威力足以撕裂船帆，重创敌人。"
+        }
+    },
+    "bilgefireBarrels": {
+        "name": "舱底火药桶",
+        "description": {
+            "general": "“都给我狠狠的打，伙计们。把那些混蛋杀个片甲不留。”"
+        }
+    },
+    "emergencyLocker": {
+        "name": "应急保险箱",
+        "description": {
+            "general": "\"拿木槌和木板来！不然用你屁股堵那个洞。\""
+        }
+    },
+    "wyrmsBreathChurner": {
+        "name": "龙息喷洒器",
+        "description": {
+            "general": "\"糖、香料，和一切不太美好的事物。\""
+        }
+    },
+    "markOfTheWolf": {
+        "name": "饿狼印记",
+        "description": {
+            "general": "“恶狼在追杀我们。他的双眼穿透浓雾，紧紧盯着我们，就像死亡的凝视。”"
+        }
+    },
+    "fuseFusingStation": {
+        "name": "熔接站",
+        "description": {
+            "general": "“伙计们，这些火药头要保持干燥！别让敌人给点着了。”"
+        }
+    },
+    "ramrodWorkshop": {
+        "name": "撞杆工坊",
+        "description": {
+            "general": "“把手伸进去，祈祷你的朋友不会点燃引线吧。”"
+        }
+    },
+    "breechlockFurnace": {
+        "name": "铸炉（锁膛）",
+        "description": {
+            "general": "“哈！打得太漂亮了！从一头进去，从另一头出来！”"
+        }
+    },
+    "dynamicBallastControl": {
+        "name": "动态压舱物控制",
+        "description": {
+            "general": "\"可怜的吉姆。都叫他别在木材房里打盹了。\""
+        }
+    },
+    "mortarGrinder": {
+        "name": "磨床（迫击炮）",
+        "description": {
+            "general": "用于打磨迫击炮炮管的专用站台，使其以更快速度飞行。"
+        }
+    },
+    "infamyChest": {
+        "name": "恶名宝箱",
+        "description": {
+            "general": "匿名赞助人赠送的宝箱"
+        }
+    },
+    "kingpinChest": {
+        "name": "头目宝箱",
+        "description": {
+            "general": "匿名赞助人赠送的宝箱"
+        }
+    },
+    "silveryRaiderCache": {
+        "name": "古铜掠夺者藏货",
+        "description": {
+            "general": "对海盗的勇气和毅力的绝佳致敬，这一宝藏讲述了战斗与风雨中的故事。"
+        }
+    },
+    "gildedRaiderCache": {
+        "name": "镀金掠夺者藏货",
+        "description": {
+            "general": "这是繁荣和胜利的终极象征，是公海上名副其实的海盗的标志。"
+        }
+    },
+    "summerStashChest": {
+        "name": "夏日储藏箱",
+        "description": {
+            "general": "向雅妮塔上交冰块的奖励。"
+        }
+    },
+    "azureCache": {
+        "name": "蔚蓝储藏",
+        "description": {
+            "general": "蔚蓝舰队商船的储藏箱，似乎能吸收周围热量。"
+        }
+    },
+    "azureStrongbox": {
+        "name": "蔚蓝保险箱",
+        "description": {
+            "general": "蔚蓝舰队精英船只的保险箱，似乎能吸收周围热量。"
+        }
+    },
+    "ogreKingCosmeticsChest": {
+        "name": "食人魔王外观箱",
+        "description": {
+            "general": "可能包含食人魔王荣耀套装外观的华丽宝箱"
+        }
+    },
+    "rodeMaangodinChest": {
+        "name": "神秘宝箱(红月亮女神)",
+        "description": {
+            "general": "这箱子里藏着什么宝贝呢？"
+        }
+    },
+    "bloodiedStrongbox": {
+        "name": "血色保险箱",
+        "description": {
+            "general": "背弃同胞可不止要付出物质上的代价。"
+        }
+    },
+    "recoveredExeterChest": {
+        "name": "埃克塞特回收箱",
+        "description": {
+            "general": "从埃克塞特残骸回收的财宝箱。"
+        }
+    },
+    "aGiftInReturn": {
+        "name": "回礼",
+        "description": {
+            "general": "受赠者不会忘记这份心意馈赠的回礼。"
+        }
+    },
+    "maangodinChest": {
+        "name": "神秘宝箱(月亮女神)",
+        "description": {
+            "general": "这箱子里藏着什么宝贝呢？"
+        }
+    },
+    "reapersCache": {
+        "name": "死神储藏",
+        "description": {
+            "general": "藏有未知珍宝的华丽宝箱。"
+        }
+    },
+    "legacyCache": {
+        "name": "传承储藏",
+        "description": {
+            "general": "包含往季物品的稀有装备合集。"
+        }
+    },
+    "smugglersSupplies": {
+        "name": "走私者补给",
+        "description": {
+            "general": "含特林的特供物资、舵轮专用材料及大量银币。"
+        }
+    },
+    "soleilRoyalTreasureChest": {
+        "name": "皇家太阳号财宝箱",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "whiteAriaChest": {
+        "name": "白色咏叹调号宝箱",
+        "description": {
+            "general": "从伯特兰·胡巴茨的旗舰缴获的宝箱。"
+        }
+    },
+    "blackAriaChest": {
+        "name": "黑色咏叹调号宝箱",
+        "description": {
+            "general": "从阿尔芒·胡巴茨的旗舰缴获的宝箱。"
+        }
+    },
+    "chorusFleetStrongbox": {
+        "name": "合唱舰队保险箱",
+        "description": {
+            "general": "密封保险箱，内含曾属于于贝尔双子的物品。"
+        }
+    },
+    "nianStrongbox": {
+        "name": "年兽保险箱",
+        "description": {
+            "general": "来自利用年兽传说制造恐慌的船只，胜者得其战利品。"
+        }
+    },
+    "opwellingTreasureChest": {
+        "name": "涌潮财宝箱",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "vanderkillsLocker": {
+        "name": "范德基尔的锁箱",
+        "description": {
+            "general": "从臭名昭著的范德基尔那里夺来的箱子。"
+        }
+    },
+    "roninCosmeticsChest": {
+        "name": "浪人外观箱",
+        "description": {
+            "general": "可能包含浪人船套装外观的华丽宝箱"
+        }
+    },
+    "sengokuNightsCosmeticsChest": {
+        "name": "战国之夜外观箱",
+        "description": {
+            "general": "可能包含战国之夜套装外观的华丽宝箱"
+        }
+    },
+    "risenZamaharibuChest": {
+        "name": "神秘宝箱(复生萨马哈利布)",
+        "description": {
+            "general": "这箱子里藏着什么宝贝呢？"
+        }
+    },
+    "risenMegaLestariChest": {
+        "name": "神秘宝箱(复生莱斯塔里)",
+        "description": {
+            "general": "这箱子里藏着什么宝贝呢？"
+        }
+    },
+    "elderShadowbeastChest": {
+        "name": "神秘宝箱(上古影龙)",
+        "description": {
+            "general": "这箱子里藏着什么宝贝呢？"
+        }
+    },
+    "regattaChest": {
+        "name": "竞速赛宝箱",
+        "description": {
+            "general": "授予海上速度之王的奖励。"
+        }
+    },
+    "mooncakeRegattaChest": {
+        "name": "月饼竞速赛宝箱",
+        "description": {
+            "general": "授予海上速度之王的奖励。"
+        }
+    },
+    "vikramsStash": {
+        "name": "维克莱姆的锁箱",
+        "description": {
+            "general": "维克莱姆船上的一个箱子。内含数量较少的战利品。"
+        }
+    },
+    "vikramsLocker": {
+        "name": "维克莱姆的锁箱",
+        "description": {
+            "general": "维克莱姆船上的一个箱子。内含数量可观的战利品。"
+        }
+    },
+    "vikramsStrongbox": {
+        "name": "维克莱姆的保险箱",
+        "description": {
+            "general": "维克莱姆船上的一个沉重箱子。内含大量战利品。"
+        }
+    },
+    "silverPouch": {
+        "name": "一袋银币",
+        "description": {
+            "general": "含有少量银币。"
+        }
+    },
+    "silverBox": {
+        "name": "一盒银币",
+        "description": {
+            "general": "含有适量银币。"
+        }
+    },
+    "silverChest": {
+        "name": "一箱银币",
+        "description": {
+            "general": "含有大量银币。"
+        }
+    },
+    "commanderZhangsChest": {
+        "name": "张提督的宝箱",
+        "description": {
+            "general": "从张提督的旗舰上夺取的宝箱"
+        }
+    },
+    "phoenixsTalonChest": {
+        "name": "凤凰爪号宝箱",
+        "description": {
+            "general": "从凤凰爪号夺取的财宝箱"
+        }
+    },
+    "phoenixsTalonStrongbox": {
+        "name": "凤凰爪号保险箱",
+        "description": {
+            "general": "一个密封严实的保险箱，内藏李天宁生前遗物"
+        }
+    },
+    "ascensionChest": {
+        "name": "升华宝箱",
+        "description": {
+            "general": "用于装备升阶与重铸的高级材料。"
+        }
+    },
+    "materialsChest": {
+        "name": "材料宝箱",
+        "description": {
+            "general": "匿名赞助人赠送的宝箱。"
+        }
+    },
+    "darkDescentSetChest": {
+        "name": "黑暗降临套装箱",
+        "description": {
+            "general": "匿名赞助人赠送的宝箱。"
+        }
+    },
+    "mutuallyAssuredSetChest": {
+        "name": "相互保证套装箱",
+        "description": {
+            "general": "不明赞助人赠送的宝箱。"
+        }
+    },
+    "serpentsDueSetChest": {
+        "name": "巨蛇应得之物套装宝箱",
+        "description": {
+            "general": "不明赞助人赠送的宝箱。"
+        }
+    },
+    "divineInterventionSetChest": {
+        "name": "神圣干预套装箱",
+        "description": {
+            "general": "匿名赞助人赠送的宝箱。"
+        }
+    },
+    "ascendedCache": {
+        "name": "晋阶型贮藏箱",
+        "description": {
+            "general": "内含一系列物品，这些物品可在该贮藏箱打开后进阶。"
+        }
+    },
+    "deathTidesChest": {
+        "name": "死亡之潮宝箱",
+        "description": {
+            "general": "不明赞助人赠送的宝箱。"
+        }
+    },
+    "poseidonsBrew": {
+        "name": "波塞冬之饮",
+        "description": {
+            "general": "一种出乎意料提神的烈酒，可减弱海上热衰竭带来的不适。"
+        }
+    },
+    "largeSilverChest": {
+        "name": "一大箱银币",
+        "description": {
+            "general": "含有巨量银币。"
+        }
+    },
+    "frigateUpgrade": {
+        "name": "护卫舰升级",
+        "description": {
+            "1": "将护卫舰从0级升至1级。",
+            "2": "将护卫舰从1级升至2级。",
+            "3": "将护卫舰从2级升至3级。",
+            "4": "将护卫舰从3级升至4级。",
+            "5": "将护卫舰从4级升至5级。",
+            "6": "将护卫舰从5级升至6级。",
+            "7": "将护卫舰从6级升至7级。",
+            "general": "护卫舰的升级组件。"
+        }
+    },
+    "thunderDragonCannon": {
+        "name": "雷龙炮",
+        "description": {
+            "general": "伴随着炮口如七重雷鸣般的轰鸣，该武器在撕裂传翻的同时召唤闪电攻击。"
+        }
+    },
+    "ashbreaker": {
+        "name": "烬灭者",
+        "description": {
+            "general": "该射石炮得到了法拉祭司的赐福，其造成的燃烧伤害可加快破绽状态效果的累积速度。好斗的船长爱用其火焰攻击与船员进攻联合发动致命打击。"
+        }
+    },
+    "hellgateSerpent": {
+        "name": "地狱门巨蛇",
+        "description": {
+            "general": "每枚鱼雷都可召唤黑暗灵魂，在恢复自身传生生命值的同时造成燃烧伤害。受阻的鱼雷飞行的越远，恢复的船身生命值越多。"
+        }
+    },
+    "stormVigil": {
+        "name": "风暴警戒",
+        "description": {
+            "general": "发射无尽火箭弹雨，造成进水伤害与严重伤害。这件可怕武器由远古海民的工艺锻造而成。"
+        }
+    },
+    "spiritcaller": {
+        "name": "唤灵者",
+        "description": {
+            "general": "部署灵魂信标浮标，可造成伤害，使敌船减速并削弱其装甲，同时使哀泣幽魂更容易受到伤害。任帕仪式师们用它来禁锢游魂，防止他们将船只拖入深渊。"
+        }
+    },
+    "harrowguard": {
+        "name": "荆棘护卫",
+        "description": {
+            "general": "降低击穿效果影响，并对穿透伤害抗性卓越。这款实验性设计最初被同时出售给了荷兰商社和皇家公司——双方都坚称自己获得了独家原型。"
+        }
+    },
+    "wyrmhide": {
+        "name": "龙甲",
+        "description": {
+            "general": "具有卓越的对建筑攻击防御。在静止或半帆状态下防御能力更强。皇家公司占船的骄傲，曾在非洲海岸接连攻克了数座要塞。"
+        }
+    },
+    "novaArma": {
+        "name": "新星甲",
+        "description": {
+            "general": "反应型装甲，会在防御状态下被击中后触发爆炸。来自旧世界的匠心之作，可以保护船只同时反击敌船。"
+        }
+    },
+    "trunnionFurnace": {
+        "name": "炮耳炉",
+        "description": {
+            "general": "优化长炮的炮耳结构，提升炮弹速度，并使每次射击都有几率对附近目标造成连锁伤害。"
+        }
+    },
+    "acceleratedGunrailSmithy": {
+        "name": "加速型火炮轨道工坊",
+        "description": {
+            "general": "定制导轨与锻造装置加速装填并提升辅助伤害。可别停下来欣赏那些飞溅的火花。"
+        }
+    },
+    "ammoPrimingBench": {
+        "name": "弹药整备台",
+        "description": {
+            "general": "一座物资充足的补给站，弹药在此经过手工填装与整备，可提升攻城弹药与维修弹药的效果。"
+        }
+    },
+    "royalSentinel": {
+        "name": "皇家戍卫",
+        "description": {
+            "general": "部署戍卫炸弹浮标，在敌船进入其有效范围时引爆，并使敌船陷入弹震。这些浮标由皇家公司研发，在伏击战中发挥了奇效。"
+        }
+    },
+    "roaringMeg": {
+        "name": "轰鸣梅格炮",
+        "description": {
+            "general": "提升爆炸伤害，使其对建筑物极具杀伤力。该庞然大物可将要塞碾为灰烬，从而扫清荷兰商社防御工事的一切对手。"
+        }
+    },
+    "rocketGrinder": {
+        "name": "磨床（火箭）",
+        "description": {
+            "general": "用于打磨火箭炮管的专用站台，使其以更快速度射击。"
+        }
+    },
+    "moonshineChest": {
+        "name": "私酒宝箱",
+        "description": {
+            "general": "装有私酒船不义之财的宝箱。（有几率获得晋阶型武器）"
+        }
+    },
+    "moonshineStrongbox": {
+        "name": "私酒保险箱",
+        "description": {
+            "general": "装有私酒船不义之财的宝箱。（有几率获得晋阶型武器）"
+        }
+    },
+    "ascendedAshbreakerChest": {
+        "name": "晋阶型烬灭者宝箱",
+        "description": {
+            "general": "内含一件进阶型事件武器。"
+        }
+    },
+    "ascendedEventCache": {
+        "name": "晋阶型事件武器贮藏箱",
+        "description": {
+            "general": "内含一件进阶型事件武器。"
+        }
+    },
+    "topDeckWeaponsAscendedCache": {
+        "name": "顶层武器缓存",
+        "description": {
+            "general": "Top-Deck Weapons Ascended Cache"
+        }
+    },
+    "auxiliaryWeaponsAscendedCache": {
+        "name": "普阶型辅助武器宝箱",
+        "description": {
+            "general": "一套辅助武器，开启时将升华"
+        }
+    },
+    "frontWeaponsAscendedCache": {
+        "name": "顶层武器缓存",
+        "description": {
+            "general": "开启时将升华的前线武器合集"
+        }
+    },
+    "allDeckWeaponsAscendedCache": {
+        "name": "普阶型全甲板武器宝箱",
+        "description": {
+            "general": "一系列全船型武器，打开后即可使用"
+        }
+    },
+    "megafortCache": {
+        "name": "大型要塞贮藏箱",
+        "description": {
+            "general": "超巨公司之间战阵的战利品，掠夺取大型要塞“狼穴”"
+        }
+    },
+    "teulingsMaterialsChest": {
+        "name": "图林的材料宝箱",
+        "description": {
+            "general": "内含一系列稀有制作材料。"
+        }
+    },
+    "teulingsItemAscensionChest": {
+        "name": "图林的物品晋升宝箱",
+        "description": {
+            "general": "内含一系列晋升物品。"
+        }
+    },
+    "teulingsArmorChest": {
+        "name": "图林的装甲宝箱",
+        "description": {
+            "1": "内含一件随机第一年走私贩通行证装甲。",
+            "general": "内含一件随机第一年走私贩通行证装甲。"
+        }
+    },
+    "teulingsFurnitureChest": {
+        "name": "图林的陈设宝箱",
+        "description": {
+            "1": "内含一件随机第一年走私贩通行证陈设。",
+            "general": "包含一件随机走私者通行证陈设。"
+        }
+    },
+    "teulingsWeaponChest": {
+        "name": "图林的武器宝箱",
+        "description": {
+            "1": "内含一件随机第一年走私贩通行证武器。",
+            "general": "包含一件随机走私者通行证武器。"
+        }
+    },
+    "jokaKubwaTreasureChest": {
+        "name": "宝箱(乔卡·库布瓦)",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "dianSinagaTreasureChest": {
+        "name": "宝箱(迪安·西纳加)",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "dirkAnkerenTreasureChest": {
+        "name": "宝箱(迪尔克·安克伦)",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "galvinRocheTreasureChest": {
+        "name": "皇家太阳号财宝箱",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "tangenaRabeTreasureChest": {
+        "name": "宝箱(迪尔克·安克伦)",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "ahPakTreasureChest": {
+        "name": "宝箱(阿帕克)",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "mizerjaTreasureChest": {
+        "name": "宝箱(米泽尔亚)",
+        "description": {
+            "general": "此箱藏有何种财宝？"
+        }
+    },
+    "elDoradoCosmeticsChest": {
+        "name": "黄金国化妆品宝箱",
+        "description": {
+            "general": "一个富裕的箱子，它可能包含作为El Dorado设置一部分的化妆品"
+        }
+    },
+    "hellfestShipCosmeticsChest": {
+        "name": "地狱狂欢节战舰外观宝箱",
+        "description": {
+            "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
+        }
+    },
+    "freemansLetter": {
+        "name": "弗里曼的信件",
+        "description": {
+            "general": "一封带来好消息的信，由恶名昭彰的乌里科·弗里曼船长本人亲笔撰写。"
+        }
+    },
+    "hubacShipComponents": {
+        "name": "胡巴茨船只部件",
+        "description": {
+            "general": "金属在阳光下闪闪发光，仿佛它感觉自己是由特殊材料混合而成。毫无疑问是出自于胡巴茨氏之手。"
+        }
+    },
+    "mysteriousInsignia": {
+        "name": "神秘标记",
+        "description": {
+            "general": "一枚刻有陌生标记的代币，附在寄给胡巴茨兄弟的信中。该标记与一名为超巨公司供应武器的神秘人物有关。"
+        }
+    },
+    "zhangsPlea": {
+        "name": "提督的恳求",
+        "description": {
+            "general": "张提督在抵达印度洋之前写给李天宁的一封信。"
+        }
+    },
+    "seaPeopleTome": {
+        "name": "海民古籍",
+        "description": {
+            "general": "这段译文描述了一种古老的仪式，或许能够削弱维克拉姆那神秘莫测的暗影能力。"
+        }
+    },
+    "shadowbeastsHorn": {
+        "name": "暗影兽之角",
+        "description": {
+            "general": "一只伟大的天界生物的犄角"
+        }
+    },
+    "royalSterilizationTent": {
+        "name": "皇家消毒帐篷",
+        "description": {
+            "general": "配备了皇家公司设计的消毒剂和外科器械，这座维修站能够恢复船员体力并加快维修速度。"
+        }
+    },
+    "atelierDeCuivrage": {
+        "name": "镀铜工坊",
+        "description": {
+            "general": "\n采用精锻铜板加固船体，降低元素弹药的伤害，并在防御敌方炮火时减轻船体承受的压力"
+        }
+    },
+    "rampantCarriageHold": {
+        "name": "狂暴炮架舱",
+        "description": {
+            "general": "此陈设配备强化炮架与特种板材，能提升造成的元素伤害，同时降低受到的元素效果影响。"
+        }
+    },
+    "sandbagPaintingStation": {
+        "name": "沙袋喷涂站",
+        "description": {
+            "general": "一座简陋但实用的工坊，以风沙与鲜血勾勒着对敌人的蔑视。强化防御并进一步激怒敌人发动攻击。"
+        }
+    },
+    "counterthrustLocker": {
+        "name": "反冲锁箱",
+        "description": {
+            "general": "一套巧妙的加固滑轮与支撑索具，能将阻力转化为动力，在冲撞或逆风航行时提升速度。"
+        }
+    },
+    "darktideChest": {
+        "name": "暗潮宝箱",
+        "description": {
+            "general": "吸饱了水的宝箱，来自幽深海渊。"
+        }
+    },
+    "ascendedHellgateSerpentChest": {
+        "name": "晋阶型地狱之门巨蛇宝箱",
+        "description": {
+            "general": "内含一件晋阶型地狱之门巨蛇"
+        }
+    },
+    "ascendedDarktideLullabyEventCache": {
+        "name": "晋阶型事件武器贮藏箱",
+        "description": {
+            "general": "内含一件进阶型事件武器。"
+        }
+    },
+    "contractCache": {
+        "name": "委托贮藏箱",
+        "description": {
+            "general": "留给新手的基础委托贮藏箱"
+        }
+    },
+    "advancedContractCache": {
+        "name": "高级委托贮藏箱",
+        "description": {
+            "general": "为在公海上证明了自己价值的海盗准备的宝藏"
+        }
+    },
+    "locketOfTheDamned": {
+        "name": "暗影的锁链",
+        "description": {
+            "general": "盛载着被太阳王处决者灵魂的容器"
+        }
+    },
+    "tianNingsImperialCloak": {
+        "name": "天宁的御用斗篷",
+        "description": {
+            "general": "由上等丝绸制成，质感丝滑，仿佛威严的巨龙在云间优雅游动。"
+        }
+    },
+    "laPestesHead": {
+        "name": "瘟疫之首",
+        "description": {
+            "general": "瘟疫之王菲利普·拉佩斯特的头颅。当你手握那只袋子时，几乎能听见里面传来闷闷的咒骂声。"
+        }
+    },
+    "laPestesLocker": {
+        "name": "拉普的锁箱",
+        "description": {
+            "general": "除了快乐、难过或两者都能得到什么奖励？"
+        }
+    },
+    "laPestesStrongbox": {
+        "name": "拉佩斯特的保险箱",
+        "description": {
+            "general": "除了快乐、瘟疫或这两者，你还能从中得到什么奖励呢?"
+        }
+    },
+    "wreckedConductorBuoy": {
+        "name": "失事引航浮标",
+        "description": {
+            "general": "热爱之声的胡巴茨双赢得战利品的技术性标记"
+        }
+    },
+    "shadowyBracelet": {
+        "name": "暗影手镯",
+        "description": {
+            "general": "沙杜号船长维克拉姆·拉詹佩戴的手镯。它正散发出一种非自然的光晕。"
+        }
+    },
+    "necklaceOfTheSkyGoddess": {
+        "name": "天空神灵的颈项星系",
+        "description": {
+            "general": "制造被磨碎的外壳和宝石。"
+        }
+    },
+    "flaskOfClearLiquid": {
+        "name": "清澈液体之瓶",
+        "description": {
+            "general": "液体闪闪发光，犹如神之甘露。"
+        }
+    },
+    "gildedCompass": {
+        "name": "金色指南针",
+        "description": {
+            "general": "这是一件棘手的大宗物品，只能赠送给移民和难民局最高级别的成员，然而，它的箭头点有多准确性是有争议的。"
+        }
+    },
+    "zhangsClaw": {
+        "name": "提督之爪",
+        "description": {
+            "general": "指挥官的手臂。金属仍然温暖，手指用血观看。"
+        }
+    },
+    "suaveSeadogCosmeticsChest": {
+        "name": "圆滑老水手外观宝箱",
+        "description": {
+            "general": "一个华丽的箱子，里面可能装有属于舒雅海豹套装的化妆品。"
+        }
+    },
+    "tondraDra": {
+        "name": "血灾",
+        "description": {
+            "general": "击杀敌方目标可恢复防御强度和船身生命值。红岛的掠夺者们始终坚信，他们的战船会流出与故土同色的鲜血，并以此信念奋勇反击。"
+        }
+    },
+    "rivotrasGrace": {
+        "name": "风的恩泽",
+        "description": {
+            "general": "轻型装甲，可提升船只灵活性。对海民而言，风一直是他们船帆最好的守护者。"
+        }
+    },
+    "sumuSunder": {
+        "name": "破雾",
+        "description": {
+            "general": "减少中毒状态效果的持续时间和作用。不破其势，不得其力--对于非洲海岸的海上霸主来说，毒药就是最严厉的老师。"
+        }
+    },
+    "stinkpotStation": {
+        "name": "恶臭弹站",
+        "description": {
+            "general": "可强化剧毒型武器并提升中毒状态效果。这些有毒炸弹充斥着硫磺和锑，由拉佩斯特的各个简陋实验室大量生产。"
+        }
+    },
+    "sheetingWinchConsole": {
+        "name": "调帆绞车控制台",
+        "description": {
+            "general": "提升武器伤害和航行速度。此绞盘驱动式绞车由荷兰商社设计，可实现快速调整船帆与灵活操控。"
+        }
+    },
+    "gimbalRingStores": {
+        "name": "常平环仓",
+        "description": {
+            "general": "可提升半加农炮类武器的射程和炮弹速度。此炮耳架设式环由皇家公司设计，可使半加农炮在船只俯仰和横滚中保持水平。"
+        }
+    },
+    "siphonFurnace": {
+        "name": "汲毒熔炉",
+        "description": {
+            "general": "可提升剧毒型武器的射程和其炮弹速度。乌瓜纳人用其在加热后投掷由颠茄和砒霜调制的腐蚀性油液。"
+        }
+    },
+    "causticSpallStation": {
+        "name": "腐蚀溅液站",
+        "description": {
+            "general": "加强进水伤害和进水状态效果。珐拉氏族为破坏船身与腐蚀内部船梁而打造的陈设。"
+        }
+    },
+    "leydenVaultArray": {
+        "name": "莱顿储能阵列",
+        "description": {
+            "general": "可加强闪电型武器并提升雷暴状态效果。由影龙遗骸制成的箔纸衬里玻璃罐子，可在导电后释放高压电弧。"
+        }
+    },
+    "cascadeCoilBench": {
+        "name": "串联线圈台",
+        "description": {
+            "general": "可提升海洋之火武器的射程和伤害输出。其喷火嘴上缠绕着铜线圈，可使石脑油和硫磺粉尘发生二次爆炸。"
+        }
+    },
+    "curareCrushingBench": {
+        "name": "箭毒碾制台",
+        "description": {
+            "general": "可提升中毒状态效果的持续时间和充能速度。将含麻痹毒素的箭毒膏容器装入碎片弹中即可制成。"
+        }
+    },
+    "virulentAccord": {
+        "name": "猛毒契约",
+        "description": {
+            "general": "这件致命武器可向附近敌人释放毒气。战争之火诞自契约与毒药，向来由作为昔日盟友的敌人点燃。"
+        }
+    },
+    "heavenlyThunder": {
+        "name": "天雷",
+        "description": {
+            "general": "这件武器会在充能后发射闪电，可连锁攻击多个目标。天雷震震，海洋俯首，风暴也须听令。"
+        }
+    },
+    "theRotmouth": {
+        "name": "腐烂之口",
+        "description": {
+            "general": "这件武器受到了诅咒，可在命中目标后削弱防御强度并对中毒目标造成额外伤害。它每一次发射，都仿佛瘟疫之王咳嗽着散播瘟疫。"
+        }
+    },
+    "blightbringer": {
+        "name": "祸害使者",
+        "description": {
+            "general": "这件追击武器会在命中后留下毒性痕迹并产生毒云。据说每枚弹药中都装有拉佩斯特本人亲手炼制的易爆混合物。"
+        }
+    },
+    "theDrownedOne": {
+        "name": "溺者",
+        "description": {
+            "general": "这件远程武器可在命中弱点后施加进水状态效果并造成严重伤害。海民相信用其瞄准时会受到海上迷途者的指引。"
+        }
+    },
+    "frostwail": {
+        "name": "霜啸",
+        "description": {
+            "general": "延迟炮弹，可在命中后爆炸，对爆破范围内的目标造成毁灭性伤害。据说其尖锐爆炸声来自黑暗彼岸的受困者。"
+        }
+    },
+    "sloopOfWarUpgrade": {
+        "name": "战争单桅炮艇升级",
+        "description": {
+            "1": "将散毒船从0级升至1级。",
+            "2": "将散毒船从1级升至2级。",
+            "3": "将散毒船从2级升至3级。",
+            "4": "将散毒船从3级升至4级。",
+            "5": "将散毒船从4级升至5级。",
+            "6": "将散毒船从5级升至6级。",
+            "7": "将散毒船从6级升至7级。",
+            "general": "战争单桅炮艇的升级组件"
+        }
+    },
+    "ascendedRequiemOfTheLostEventCache": {
+        "name": "升华事件箱子（失落者的安魂曲）",
+        "description": {
+            "general": "内含一件进阶型事件武器。"
+        }
+    },
+    "ascendedTheDrownedOneChest": {
+        "name": "晋升溺水宝箱",
+        "description": {
+            "general": "一个含有未知宝藏的神秘箱。有些人声称已经听到从内部穿着。"
+        }
+    },
+    "exoticArmorAscendedCache": {
+        "name": "异域护甲升华宝库",
+        "description": {
+            "general": "一套异域盔甲收藏，开箱即获得晋升"
+        }
+    },
+    "hauntedReapersCache": {
+        "name": "死神的藏宝箱",
+        "description": {
+            "general": "一个装饰华丽的箱子，里面装着一些不为人知的珍宝。有人声称曾听到从里面传来的鬼魂般的低语声。"
+        }
+    },
+    "gildedProtectorChest": {
+        "name": "镀金守护者宝箱",
+        "description": {
+            "general": "一个装有升华铠甲的箱子，是狩猎深渊致命怪物者的福音。"
+        }
+    },
+    "slayersChest": {
+        "name": "屠夫的宝箱",
+        "description": {
+            "general": "一个箱子，里面可能含有防弹武器，一个猎人从深渊中猎到致命怪物的箱子。"
+        }
+    },
+    "gildedSlayersChest": {
+        "name": "镀金屠夫宝箱",
+        "description": {
+            "general": "一个包含酸武器的箱子，一个从深渊中猎杀致命怪物的箱子。"
+        }
+    },
+    "laPestesLockerMythic": {
+        "name": "瘟疫的锁箱（神话级）",
+        "description": {
+            "general": "除了快乐、难过或两者都能得到什么奖励？"
+        }
+    },
+    "emeraldSkullTalisman": {
+        "name": "绿宝石头塔里斯曼",
+        "description": {
+            "general": "从非洲水深挖出的一个绿宝石，由Ungwana手工艺者形成一个美丽的水晶。 认为通过缓解灾难的痛苦来帮助受难者。"
+        }
+    },
+    "eerieRing": {
+        "name": "诡异之环",
+        "description": {
+            "general": "一种可怕的卢布，用鲜明的伤疤与石头相撞。 看一看那些正在拉动的红宝石会在你的心中激起一种痛苦感。"
+        }
+    },
+    "seaOfKingdomsCosmeticsChest": {
+        "name": "王国之海化妆品柜",
+        "description": {
+            "general": "一个富裕的箱子，它可能包含属于王国海的化妆品"
+        }
+    },
+    "harbingersStrongbox": {
+        "name": "锦标赛强箱",
+        "description": {
+            "general": "蔚蓝舰队精英船只的保险箱，似乎能吸收周围热量。"
+        }
+    },
+    "ascendedFrostwailChest": {
+        "name": "寒霜宝箱",
+        "description": {
+            "general": "一个含有未知宝藏的神秘箱。有些人声称已经听到从内部穿着。"
+        }
+    },
+    "ascendedAzureSolsticeEventCache": {
+        "name": "转生事件保险箱 (蔚蓝冬至)",
+        "description": {
+            "general": "内含一件进阶型事件武器。"
+        }
+    },
+    "watersOfGowaSetChest": {
+        "name": "戈瓦之水套装宝箱",
+        "description": {
+            "general": "一座华美的箱柜，内藏属于戈瓦之水套装的化妆品"
+        }
+    },
+    "corvetteUpgrade": {
+        "name": "科维特升级",
+        "description": {
+            "1": "将科维特从0级升至1级。",
+            "2": "将科维特从1级升至2级。",
+            "3": "将科维特从2级升至3级。",
+            "4": "将科维特从3级升至4级。",
+            "5": "将科维特从4级升至5级。",
+            "6": "将科维特从5级升至6级。",
+            "7": "将科维特从6级升至7级。",
+            "general": "科维特的船只升级。"
+        }
+    },
+    "foundingCelebratoryChest": {
+        "name": "首饰宝箱",
+        "description": {
+            "general": "纪念基金会所面临挑战的箱子。"
+        }
+    },
+    "krakenInkGlands": {
+        "name": "克拉肯毒腺",
+        "description": {
+            "general": "克拉肯的毒腺，内含足以腐蚀船体与血肉的强效腐蚀性毒液"
+        }
+    },
+    "krakenChest": {
+        "name": "神秘宝箱(克拉肯)",
+        "description": {
+            "general": "这箱子里藏着什么宝贝呢？"
+        }
+    },
+    "livingBastion": {
+        "name": "以身铸城",
+        "description": {
+            "general": "未受到伤害时，装甲级别会得到提升。其表面细微的起伏如同呼吸，斑驳的镀层与褪色的金纹在层叠间隐隐发光。"
+        }
+    },
+    "mantleOfTheDeep": {
+        "name": "深海斗篷",
+        "description": {
+            "general": "降低海怪攻击造成的伤害。用从深海巨兽身上剥取的兽皮制成，出自波涛之下维系平衡的守护者之手。"
+        }
+    },
+    "tidesReprieve": {
+        "name": "潮汐庇护",
+        "description": {
+            "general": "激活脉冲，为盟友恢复船身生命值。由昔日帝国的粗犷铁板与厚重铆钉锻造而成。"
+        }
+    },
+    "invertedFlagRack": {
+        "name": "倒挂旗架",
+        "description": {
+            "general": "对被嘲讽敌人的武器伤害提升。向任何胆敢靠近的敌人发出明确警告：“你们的旗帜已经倒下，接下来就是亲尝苦果“。"
+        }
+    },
+    "apothecaryToolBench": {
+        "name": "药剂工具台",
+        "description": {
+            "general": "船只航行时对中毒状态效果的防御提升。由一名任帕草药师配制而成。内含针对水母蜇伤以及发酵海藻中毒的解毒剂。"
+        }
+    },
+    "anatomyCabinet": {
+        "name": "解剖标本柜",
+        "description": {
+            "general": "对海怪攻击的防御强度增强。有人坚信，其中蕴含的知识曾让许多人死里逃生。"
+        }
+    },
+    "blubberWorks": {
+        "name": "鲸脂工坊",
+        "description": {
+            "general": "对海怪造成伤害后使舷侧炮的装填时间降低。海民相信，生物的精华可以用于影响或伤害他人。"
+        }
+    },
+    "drowningCabinet": {
+        "name": "溺水匣子",
+        "description": {
+            "general": "受到严重伤害的目标受进水型武器伤害提升。机智的海盗们改良了设计，使水能够够快、更多地流进敌人的船舱。"
+        }
+    },
+    "ballistaMountSmithy": {
+        "name": "弩炮架工坊",
+        "description": {
+            "general": "增强弩炮武器并使对受损目标造成的伤害提升。其设计原型源自锡兰加勒古城所使用的攻城架。"
+        }
+    },
+    "blightmaw": {
+        "name": "疫害之噬",
+        "description": {
+            "general": "由拉佩斯特手下醉心于瘟疫的的炼金术士们设计。发射的炮弹包裹着毒素，能附着在敌舰船体上，腐蚀其防御，使其更难抵御后续攻击。"
+        }
+    },
+    "stormtongue": {
+        "name": "风暴之舌",
+        "description": {
+            "general": "连续发射闪电弹和爆破弹。炮管上镌刻着召唤风暴的符文与凤凰的印记。"
+        }
+    },
+    "reachwarden": {
+        "name": "远望卫士",
+        "description": {
+            "general": "专为远距离辅助设计。能发射尖端镶嵌晶体的射弹，为盟友提供恢复脉冲。"
+        }
+    },
+    "celestialBloom": {
+        "name": "Celestial Bloom",
+        "description": {
+            "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
+        }
+    },
+    "woundcaller": {
+        "name": "唤疮者",
+        "description": {
+            "general": "命中时，其弹头能释放出令人发狂的共鸣脉冲，据传，这古老的频率是野兽们濒死时嘶吼的回响。被击中的船只会陷入癫狂状态，在盲目冲撞中损毁自身船体。"
+        }
+    },
+    "cloudbinder": {
+        "name": "缚云者",
+        "description": {
+            "general": "每枚弹头上都镌刻着召唤风暴的符文，且带有玉石电容器，使武器能够在多个敌人之间穿梭。连接的目标越多，风暴就越狂烈，如同天穹的怒火轰隆作响。"
+        }
+    },
+    "foundersCache": {
+        "name": "创立者贮藏箱",
+        "description": {
+            "general": "一个华美的箱子，藏有数年间无数强敌留下的战利品。"
+        }
+    },
+    "zamaharibuChest": {
+        "name": "神秘宝箱 (扎玛哈里布)",
+        "description": {
+            "general": "这箱子里藏着什么宝贝呢？"
+        }
+    },
+    "megaLestariChest": {
+        "name": "神秘宝箱 (梅加·莱斯塔里)",
+        "description": {
+            "general": "这箱子里藏着什么宝贝呢？"
+        }
+    },
+    "zamaharibusEye": {
+        "name": "扎玛哈里布之眼",
+        "description": {
+            "general": "从一个古老的野兽的套接字中塞进。其无情的洞穴在你中注入了原始的恐惧，好像你正在像猎物一样被猎物。"
+        }
+    },
+    "megaLestarisEye": {
+        "name": "莱斯塔里之眼",
+        "description": {
+            "general": "从一个难以捉摸的主食头部取走，凶猛无比。"
+        }
+    },
+    "crazedNianStrongbox": {
+        "name": "Crazed Nian Strongbox",
+        "description": {
+            "general": "A chest from the ship that used the fabled local legend of the Crazed Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
+        }
+    },
+    "ascendedBlightmawChest": {
+        "name": "Ascended Blightmaw Chest",
+        "description": {
+            "general": "一个含有未知宝藏的神秘箱。有些人声称已经听到从内部穿着。"
+        }
+    },
+    "ascendedLegendOfTheNianEventCache": {
+        "name": "Ascended Event Cache (Legend of the Nian)",
+        "description": {
+            "general": "内含一件进阶型事件武器。"
+        }
+    },
+    "galleonUpgrade": {
+        "name": "Galleon Upgrade",
+        "description": {
+            "1": "将盖伦从0级升至1级。",
+            "2": "将盖伦从1级升至2级。",
+            "3": "将盖伦从2级升至3级。",
+            "4": "将盖伦从3级升至4级。",
+            "5": "将盖伦从4级升至5级。",
+            "6": "将盖伦从5级升至6级。",
+            "7": "将盖伦从6级升至7级。",
+            "general": "Ship upgrade for the Galleon."
+        }
+    },
+    "hullcarver": {
+        "name": "Hullcarver",
+        "description": {
+            "general": "A high fire-rate weapon that devastates targets with multiple shots."
+        }
+    },
+    "atmasToll": {
+        "name": "Atma's Toll",
+        "description": {
+            "general": "Inscribed with an ancient mystical script, this sinister weapon is capable of reaving its enemies while restoring its master."
+        }
+    },
+    "blightbearer": {
+        "name": "Blightbearer",
+        "description": {
+            "general": "A precise Poison weapon, prized by La Peste's lackeys for its strength against fortified ships."
+        }
+    },
+    "soulsnatcher": {
+        "name": "Soulsnatcher",
+        "description": {
+            "general": "Recovers Hull Health depending on how many enemies hit with a single projectile. A cursed weapon forged in the forgotten rituals of the Fara."
+        }
+    },
+    "deBreker": {
+        "name": "De Breker",
+        "description": {
+            "general": "A heavy bombardment weapon, coveted by the Dutch for its devastating fire and ability to slow down enemies."
+        }
+    },
+    "floodbound": {
+        "name": "Floodbound",
+        "description": {
+            "general": "A portion of weapon damage dealt to the Brace Health of nearby Flooded targets is converted back into Hull Health, turning any surrounding chaos and rising water into a steady source of recovery."
+        }
+    },
+    "needleShield": {
+        "name": "Needle Shield",
+        "description": {
+            "general": "Bracing against hits from Punctured targets strengthens your defenses and Piercing weapon damage for a short time with this armor, which uses your enemy's weakness to boost your own protection."
+        }
+    },
+    "drownedOrgan": {
+        "name": "Drowned Organ",
+        "description": {
+            "general": "Enhances Mending weapons while the ship is at lower Hull Health. An ancient organ crafted from rust-caked pipes, found in the bowels of a Compagnie warship."
+        }
+    },
+    "royalRammingWorks": {
+        "name": "Royal Ramming Works",
+        "description": {
+            "general": "A ramming-focused royal armament that rapidly builds Punctured status, slows targets, amplifies piercing damage, and passivly weakens nearby enemies."
+        }
+    },
+    "floodwardenStation": {
+        "name": "Floodwarden Station",
+        "description": {
+            "general": "Consecutive hits increase Flooding and damage. Missing resets stacks. Flooded enemies deal less damage and remain flooded longer."
+        }
+    },
+    "hullMarkersTable": {
+        "name": "Hull Marker's Table",
+        "description": {
+            "general": "Broadside hits may leave an Impact Mark, turning the target into a damage magnet for cannon fire. Marked hulls take increased cannonball damage, while every cannonball weapon aboard quietly boosts your secondary damage."
+        }
+    },
+    "physiciansLedger": {
+        "name": "Physician's Ledger",
+        "description": {
+            "general": "Enhances the effectiveness of Mending weapons after prolonged use. Others have ventured further, studying the effects of shot sizes, angles, and bodily entry points."
+        }
+    },
+    "lAiguille": {
+        "name": "L'Aiguille",
+        "description": {
+            "general": "A precise weapon of French design that shatters the hulls of their foes."
+        }
+    },
+    "mortarPowderbench": {
+        "name": "Mortar Powderbench",
+        "description": {
+            "general": "Enhances Mortar Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Mortar shells mid-flight."
+        }
+    },
+    "rocketPowderbench": {
+        "name": "Rocket Powderbench",
+        "description": {
+            "general": "Enhances Rocket Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Rockets mid-flight."
+        }
+    },
+    "springloaderPowderbench": {
+        "name": "Springloader Powderbench",
+        "description": {
+            "general": "Enhances Springloader Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Buoys mid-flight."
+        }
+    },
+    "verdantHuntsChest": {
+        "name": "Verdant Hunt's Chest",
+        "description": {
+            "general": "An opulent chest which may contain cosmetics from The Bohemian Set and Jade Prowler Set."
+        }
+    },
+    "cheese": {
+        "name": "Cheese",
+        "description": {
+            "general": "Aged to perfection and tough as barnacled hull wood, this hearty cheese wheel can keep a crew fed through the fiercest storms -- and doubles as a fine bargaining chip in shady ports."
+        }
+    },
+    "infernalArtificersBench": {
+        "name": "Infernal Artificer's Bench",
+        "description": {
+            "general": "A volatile workstation that enhances the application of Shell-Shocked and Ablaze status effects, reduces reload time for Explosive and Burning weapons, and amplifies damage against afflicted targets."
+        }
+    },
+    "hellshotSmithy": {
+        "name": "Hellshot Smithy",
+        "description": {
+            "general": "A forbidden shipboard forge, built to enhance the Ablaze status effect and spread Burning damage across enemy targets."
+        }
+    },
+    "stElmosChains": {
+        "name": "St. Elmo's Chains",
+        "description": {
+            "general": "A deadly fitting that enhances Lightning weapons, dealing significantly more electrical damage to Flooded targets."
+        }
+    },
+    "pyroclasm": {
+        "name": "Pyroclasm",
+        "description": {
+            "general": "A vicious raider's armor, forged in an obsession with fire. Bracing enemy attacks builds a fiery explosion that damages nearby targets and spreads flames."
+        }
+    },
+    "leDrac": {
+        "name": "Le Drac",
+        "description": {
+            "general": "Worn by those who charge first. Bracing hits builds an explosion that can be triggered by ramming a target."
+        }
+    },
+    "scorchSong": {
+        "name": "Scorch Song",
+        "description": {
+            "general": "A fiery weapon that triggers devastating explosions, ramping up damage with each hit."
+        }
+    },
+    "drowningHellion": {
+        "name": "Drowning Hellion",
+        "description": {
+            "general": "A hull-shredding Demi-cannon built to Flood enemy ships with impunity."
+        }
+    },
+    "anathema": {
+        "name": "Anathema",
+        "description": {
+            "general": "A vile weapon that spreads La Peste's toxins and blasts illness across enemy ships."
+        }
+    },
+    "drakonsJaws": {
+        "name": "Drakon's Jaws",
+        "description": {
+            "general": "An ingenious weapon that triggers burning blasts on impact, intensifying against Flooded targets."
+        }
+    },
+    "clawsOfTheDeep": {
+        "name": "Claws of the Deep",
+        "description": {
+            "general": "A precise perforator of ship hulls that tears holes through its targets to send them to their watery graves."
+        }
+    },
+    "hellfire": {
+        "name": "Hellfire",
+        "description": {
+            "general": "A heavy rocket weapon that burns away its target's Fire Mitigation with consecutive hits."
+        }
+    },
+    "junkUpgrade": {
+        "name": "Junk Upgrade",
+        "description": {
+            "1": "将扁嘴帆艇从0级升至1级。",
+            "2": "将扁嘴帆艇从1级升至2级。",
+            "3": "将扁嘴帆艇从2级升至3级。",
+            "4": "将扁嘴帆艇从3级升至4级。",
+            "5": "将扁嘴帆艇从4级升至5级。",
+            "6": "将扁嘴帆艇从5级升至6级。",
+            "7": "将扁嘴帆艇从6级升至7级。",
+            "general": "Ship upgrade for the Junk."
+        }
+    },
+    "ascendedDrakonsJawsChest": {
+        "name": "Ascended Drakon's Jaws Chest",
+        "description": {
+            "general": "Contains an Ascended Drakon's Jaws"
+        }
+    },
+    "dredgedArmoryCache": {
+        "name": "Dredged Armory Cache",
+        "description": {
+            "general": "A cached dredged from the depths with various weapons including ascended weapons"
+        }
+    },
+    "abyssalCache": {
+        "name": "Abyssal Cache",
+        "description": {
+            "general": "Contains Weapons with Chance for Basic Adept Mods"
+        }
+    },
+    "adeptCannonStrongbox": {
+        "name": "Adept Cannon Strongbox",
+        "description": {
+            "general": "Contains a Cannonball type weapon with a Basic Adept Mod"
+        }
+    },
+    "maelstromCannonStrongbox": {
+        "name": "Maelstrom Cannon Strongbox",
+        "description": {
+            "general": "Contains Cannonball type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+        }
+    },
+    "maelstromBallistaStrongbox": {
+        "name": "Maelstrom Ballista Strongbox",
+        "description": {
+            "general": "Contains Ballista type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+        }
     }
-  },
-  "crowbar": {
-    "name": "撬棍",
-    "description": {
-      "general": "用于搜刮船骸以获取宝藏。",
-      "2": "提升船骸搜刮速度。最适合用于搜刮中型船骸。",
-      "3": "进一步提升船骸搜刮速度。最适合用于搜刮大型船骸。",
-      "4": "可用于搜刮任何规模船骸的工具，并可提升搜刮到的物品数量。",
-      "5": "可用于搜刮任何规模船骸的改良工具，并可以提升搜刮到的物品数量。"
-    }
-  },
-  "spyglass": {
-    "name": "望远镜",
-    "description": {
-      "general": "一个望远镜。",
-      "1": "眺望远方的基本工具，但仅有一片镜片。",
-      "2": "经改良的望远镜。拥有两片镜片，缩放程度上升了一个层次。",
-      "3": "经进一步改良的望远镜，拥有三片镜片，可以看到更远的地方。"
-    }
-  },
-  "sickle": {
-    "name": "镰刀",
-    "description": {
-      "general": "可从植物中采集织物原料以用于制作。",
-      "2": "采集植物的效率微微提高。",
-      "3": "采集植物的效率适当提高。",
-      "4": "植物采集的效率大幅提升。有机会获得额外产出。",
-      "5": "植物采集效率获得极大提升。有机会获得更高额外产出。"
-    }
-  },
-  "saw": {
-    "name": "锯子",
-    "description": {
-      "general": "可砍伐树木来采集木材以用于制作。",
-      "2": "采集木材的效率微微提高。",
-      "3": "采集木材的效率适当提高。",
-      "4": "木材采集的效率大幅提升。有机会获得额外产出。",
-      "5": "木材的采集效率获得极大提升。有机会获得更高产出。"
-    }
-  },
-  "pickaxe": {
-    "name": "十字镐",
-    "description": {
-      "general": "可从矿藏中采集铁矿石以用于制作。",
-      "2": "采集矿藏的效率微微提高。",
-      "3": "采集矿藏的效率适当提高。",
-      "4": "矿藏采集的效率大幅提升。有机会获得额外产出。",
-      "5": "矿藏的采集效率获得极大提升。有机会获得更高额外产出。"
-    }
-  },
-  "cannonballCrate": {
-    "name": "大炮炮弹箱",
-    "description": {
-      "general": "内含100发适用于大炮的炮弹。"
-    }
-  },
-  "bombardBombCrate": {
-    "name": "射石炮炮弹箱",
-    "description": {
-      "general": "内含60发适用于射石炮的炮弹。"
-    }
-  },
-  "ballistaBoltCrate": {
-    "name": "弩炮弩箭箱",
-    "description": {
-      "general": "内含20发适用于弩炮类武器的弩箭。"
-    }
-  },
-  "seaFireOilCrate": {
-    "name": "海火油罐箱",
-    "description": {
-      "general": "内含60罐适用于海洋之火武器的油罐。"
-    }
-  },
-  "mortarBombCrate": {
-    "name": "迫击炮炮弹箱",
-    "description": {
-      "general": "内含20发适用于迫击炮的炮弹。"
-    }
-  },
-  "rocketCrate": {
-    "name": "火箭箱",
-    "description": {
-      "general": "内含100发适用于火箭发射器的火箭。"
-    }
-  },
-  "torpedoCrate": {
-    "name": "鱼雷箱",
-    "description": {
-      "general": "内含60发适用于鱼雷发射器的鱼雷。"
-    }
-  },
-  "ironHusk": {
-    "name": "钢铁外甲",
-    "description": {
-      "general": "由紧紧相扣的深色板材组成的原始结构。"
-    }
-  },
-  "layeredScales": {
-    "name": "多层鳞甲",
-    "description": {
-      "general": "皮革鳞片和铁质配件的简约组合。"
-    }
-  },
-  "laForteresse": {
-    "name": "不朽堡垒",
-    "description": {
-      "general": "提供对进水伤害的超强抗性以及对穿透伤害的优秀抗性。名副其实的海上要塞。"
-    }
-  },
-  "theBastion": {
-    "name": "堡垒",
-    "description": {
-      "general": "一座由木材编织而成的精巧堡垒。"
-    }
-  },
-  "gambaKobe": {
-    "name": "钢巴神户",
-    "description": {
-      "general": "降低进水状态效果造成的伤害，并提供对进水伤害的超强抗性。海民分层的船板设计能够封住船身上的缝隙。"
-    }
-  },
-  "kawaca": {
-    "name": "卡瓦卡战服",
-    "description": {
-      "general": "提供对冲撞进攻的超强抗性。其繁复的装饰与设计呼应着旧时伟岸的长艇。"
-    }
-  },
-  "blackPrince": {
-    "name": "黑王子",
-    "description": {
-      "general": "当船身生命值比较低时大幅降低伤害。玛格丽塔号标志性的外甲在艰难时刻有如雪中送炭。"
-    }
-  },
-  "ouroboros": {
-    "name": "衔尾蛇",
-    "description": {
-      "general": "在防御敌方火力后维修己方船只。据说是用神兽的皮锻造而成。"
-    }
-  },
-  "wailingWard": {
-    "name": "哀号牢房",
-    "description": {
-      "general": "可有效抵御带毒进攻。他的镀层渗入了抗毒素，这是只有瘟疫之王才知道的秘密配方。"
-    }
-  },
-  "wrathfulWard": {
-    "name": "怒火牢房",
-    "description": {
-      "general": "被击中时会释放致命的毒雾。带有菲利普·拉佩斯特的标记。"
-    }
-  },
-  "royalCustodian": {
-    "name": "皇家托管人",
-    "description": {
-      "general": "由任帕匠人打造，他们是拉赫马舰队的忠实保护者。"
-    }
-  },
-  "mortar": {
-    "name": "迫击炮",
-    "description": {
-      "general": "可发射毁灭性炮弹的巨型大炮能对大片区域造成巨大伤害。"
-    }
-  },
-  "leopold": {
-    "name": "猎豹",
-    "description": {
-      "general": "可发射榴霰弹的巨型大炮。能够有效在船身上撕开洞孔，使船只进水。"
-    }
-  },
-  "leFleau": {
-    "name": "瘟疫炮",
-    "description": {
-      "general": "发射腐烂射弹，其释放出的烟雾会对目标造成伤害并消耗船员体力。菲利普·拉佩斯的标志性火炮。"
-    }
-  },
-  "repairMortar": {
-    "name": "维修型迫击炮",
-    "description": {
-      "general": "发射巨大的粘合剂炮弹，维修受到伤害的友军船只，大范围修补破损的船身。"
-    }
-  },
-  "rocket": {
-    "name": "火箭",
-    "description": {
-      "general": "快速发射大量炽热火箭弹，只要瞄得足够准，就足以致命。"
-    }
-  },
-  "theTermitesRocket": {
-    "name": "白蚁",
-    "description": {
-      "general": "来自远东的火箭发射器具有更高的瞄准角度，能够更容易地攻击较高的建筑。可发热炽热火箭弹，对敌方工事造成更高伤害。"
-    }
-  },
-  "bombard": {
-    "name": "射石炮",
-    "description": {
-      "general": "发射破坏力强大的弹雨，对一定区域内的多名敌人造成伤害。"
-    }
-  },
-  "monsMeg": {
-    "name": "蒙斯梅格炮",
-    "description": {
-      "general": "这种大型苏格兰射石炮专门用于摧毁城墙。擅长破坏防御攻势。"
-    }
-  },
-  "dardanellesGun": {
-    "name": "达达尼尔炮",
-    "description": {
-      "general": "奥斯曼帝国的大型武器，威力惊人。所有火炮均可同时齐射，以造成最大程度的破坏。"
-    }
-  },
-  "fireBombard": {
-    "name": "火焰型射石炮",
-    "description": {
-      "general": "发射破坏力巨大的弹雨，对一定区域内的多名敌人造成伤害。配备燃烧弹，可以点燃目标。"
-    }
-  },
-  "repairBombard": {
-    "name": "维修型射石炮",
-    "description": {
-      "general": "发射在冲击下会膨胀的粘合剂包，维修受到伤害的友军船只，修补破损的船身。"
-    }
-  },
-  "torpedo": {
-    "name": "鱼雷",
-    "description": {
-      "general": "发射杀伤力巨大的鱼雷，装填（实际为移动一段距离）后可造成更大伤害，适合打击大型目标，无法瞄准建筑物。"
-    }
-  },
-  "shalei": {
-    "name": "爆炸型鱼雷",
-    "description": {
-      "general": "发射爆炸鱼雷，可对多名目标造成伤害。装填（实为移动一段距离）后鱼雷可造成更大伤害。无法瞄准建筑物。"
-    }
-  },
-  "rahmasAmbition": {
-    "name": "拉赫玛的野心",
-    "description": {
-      "general": "拉赫玛原始鱼雷设计的改良版。当多枚鱼雷同时命中时，破坏力会额外增强。"
-    }
-  },
-  "rahmasLegacy": {
-    "name": "拉赫玛的传承",
-    "description": {
-      "general": "拉赫玛原始鱼雷设计的改良版。当多枚鱼雷同时命中时，破坏力会额外增强。"
-    }
-  },
-  "ballista": {
-    "name": "弩炮",
-    "description": {
-      "general": "为追求精准度而设计的武器，可发射巨型弩箭。拉动弩炮时弩箭会产生更强大的攻击力，打出更远的射程。"
-    }
-  },
-  "greatSpringald": {
-    "name": "大型扭力弩炮",
-    "description": {
-      "general": "为追求精准度而设计的武器，可发射巨型弩箭。拉动弩炮时弩箭会产生更强大的攻击力，打出更远的射程。该特殊型号武器专为撕裂船帆而设计。"
-    }
-  },
-  "twinWinchBallista": {
-    "name": "双绞弩炮",
-    "description": {
-      "general": "配有双绞盘的弩炮，可进一步蓄力使弩箭的射程更远、伤害更高。"
-    }
-  },
-  "seaFire": {
-    "name": "海洋之火",
-    "description": {
-      "general": "短距离喷射液体火焰，焚烧目标效果极佳。"
-    }
-  },
-  "kallinikosFlame": {
-    "name": "加里尼科斯希腊火",
-    "description": {
-      "general": "短距离喷射液体火焰，焚烧目标效果极佳。其火焰会使敌方船只更容易受到船员进攻。"
-    }
-  },
-  "blueSpecter": {
-    "name": "蓝焰幽灵",
-    "description": {
-      "general": "起源神秘的武器能喷射蓝色的地狱火焰，火焰集中在一个目标上时，火势会愈加凶猛。"
-    }
-  },
-  "culverin": {
-    "name": "长炮",
-    "description": {
-      "general": "多功能大炮，具有良好的射程、伤害和装填速度。"
-    }
-  },
-  "tearingCulverin": {
-    "name": "撕裂型长炮",
-    "description": {
-      "general": "多功能大炮，具有良好的射程、伤害和装填速度。适合用来撕裂敌人的船帆，使其无法逃离或自卫。"
-    }
-  },
-  "basilisk": {
-    "name": "蛇怪",
-    "description": {
-      "general": "重型青铜长炮，以神话中凶猛致命的巨蛇命名。可使敌方船只更容易受到船员进攻。"
-    }
-  },
-  "longGun": {
-    "name": "长管炮",
-    "description": {
-      "general": "擅长摧毁远距离目标的长管炮。"
-    }
-  },
-  "fireLongGun": {
-    "name": "火焰型长管炮",
-    "description": {
-      "general": "擅长摧毁远距离目标的长管炮。配备的燃烧弹可点燃目标。"
-    }
-  },
-  "repairLongGun": {
-    "name": "维修型长管炮",
-    "description": {
-      "general": "发射装满粘合剂的炮弹，维修友军船只。"
-    }
-  },
-  "scurlocksChasers": {
-    "name": "斯科洛克的追逐者",
-    "description": {
-      "general": "为斯科洛特所钟爱的超远距离大炮。可以通过摧毁敌船桅杆并造成大量伤害来击垮敌船。"
-    }
-  },
-  "scurlocksLongNines": {
-    "name": "斯科洛克九式炮",
-    "description": {
-      "general": "为斯科洛特所钟爱的超远距离大炮。可以通过摧毁敌船桅杆并造成大量伤害来击垮敌船。"
-    }
-  },
-  "demicannon": {
-    "name": "半加农炮",
-    "description": {
-      "general": "发射致命弹片的中型大炮，在近距离战斗中可造成巨大伤害。"
-    }
-  },
-  "floodingDemicannon": {
-    "name": "进水型半加农炮",
-    "description": {
-      "general": "发射致命弹片的中型大炮，在近距离战斗中可造成巨大伤害。可在敌方船身上撕开洞孔，使敌方船只进水。"
-    }
-  },
-  "carronade": {
-    "name": "臼炮",
-    "description": {
-      "general": "一款革命性的轻型大炮，由卡伦钢铁厂设计推出。设计先进，可击穿船身，造成严重进水伤害。"
-    }
-  },
-  "zamzama": {
-    "name": "扎姆扎马",
-    "description": {
-      "general": "发射致命弹片的中型大炮，在近距离战斗中可造成巨大伤害。能使敌方船只更容易受到船员进攻。"
-    }
-  },
-  "repairKit": {
-    "name": "修理物品",
-    "description": {
-      "general": "修复部分船体耐久",
-      "1": "可略微修复船身。",
-      "2": "可小幅修复船身。",
-      "3": "可中幅修复船身。"
-    }
-  },
-  "enhancedRepairKit": {
-    "name": "强化修理物品",
-    "description": {
-      "general": "按比例修复船体耐久",
-      "1": "可小幅修复船身。",
-      "2": "可适度修复船身。",
-      "3": "可大量修复船身。"
-    }
-  },
-  "restorationKit": {
-    "name": "恢复用品",
-    "description": {
-      "general": "移除状态效果（燃烧、进水、船帆撕裂、雷暴、嘲讽、击穿、弹震）。"
-    }
-  },
-  "grilledBeef": {
-    "name": "烤牛肉",
-    "description": {
-      "general": "颇受欢迎的肉食菜肴，经过香料调味后穿在木棍上进行炙烤。"
-    }
-  },
-  "grilledCoconut": {
-    "name": "烤椰子",
-    "description": {
-      "general": "将这些椰球烤制金黄后，在表面裹上碎椰片。"
-    }
-  },
-  "grilledFish": {
-    "name": "烤鱼",
-    "description": {
-      "general": "适合任何一位水手的主食：将鱼戳在火焰上炙烤，看着它变得香脆多汁。"
-    }
-  },
-  "grilledCrocodile": {
-    "name": "烤鳄鱼",
-    "description": {
-      "general": "肉质紧实鲜嫩，味道温和，尝起来类似鱼肉。"
-    }
-  },
-  "grilledShark": {
-    "name": "烤鲨鱼",
-    "description": {
-      "general": "猎人鲨成了别人的盘中餐。经过炙烤的鲨鱼肉味道略微刺鼻，但饱腹感十足。"
-    }
-  },
-  "grilledMutton": {
-    "name": "烤羊肉",
-    "description": {
-      "general": "将柔软香嫩的羊肉用香料调味，然后慢烤，之后再煨煮数小时。"
-    }
-  },
-  "grilledChicken": {
-    "name": "烤鸡",
-    "description": {
-      "general": "烤至表皮金黄的整鸡。为疲惫海员准备的便饭。"
-    }
-  },
-  "grilledBread": {
-    "name": "烤面包",
-    "description": {
-      "general": "历史最悠久的菜肴之一，可追溯至农耕文明的起源。"
-    }
-  },
-  "grilledBanana": {
-    "name": "烤香蕉",
-    "description": {
-      "general": "经过烤制的大香蕉，是一种甜咸可口的零食。"
-    }
-  },
-  "grilledPrimeHippo": {
-    "name": "用优质烤河马",
-    "description": {
-      "general": "新鲜烤制的上等河马肉排，尝起来有点膻，但风味十足。"
-    }
-  },
-  "grilledPrimeCrocodile": {
-    "name": "优质烤鳄鱼",
-    "description": {
-      "general": "新鲜烤制的上等鳄鱼肉排，肉质紧实鲜嫩有嚼劲。"
-    }
-  },
-  "tylosaurusSteak": {
-    "name": "海王龙肉排",
-    "description": {
-      "general": "这是用某头蛰伏于非洲海岸的古老掠食者做的烤肉。口感筋道，味道微甜。"
-    }
-  },
-  "grilledScrewpine": {
-    "name": "烤露兜树果",
-    "description": {
-      "general": "这些甜糕饼内馅满是露兜树果，然后包着香兰叶烤制，赋予其一抹绿色。"
-    }
-  },
-  "grilledVegetables": {
-    "name": "烤蔬菜",
-    "description": {
-      "general": "将印度洋采集的草药、叶片与蔬菜揉在一起在火上烧烤，是一道简单而丰盛的美食。"
-    }
-  },
-  "grilledDurian": {
-    "name": "烤榴莲",
-    "description": {
-      "general": "将榴莲片晒干，然后炙烤。虽然气味浓烈，但这些碎片有着香甜的滋味，并带有烟熏味。"
-    }
-  },
-  "grilledHippo": {
-    "name": "烤河马",
-    "description": {
-      "general": "口味略带甘甜，肉质坚韧。"
-    }
-  },
-  "varyBeMenaka": {
-    "name": "油肉饭",
-    "description": {
-      "general": "配有大块肥肉的米饭。"
-    }
-  },
-  "godrogodro": {
-    "name": "香草椰子糕",
-    "description": {
-      "general": "将法式炖锅架在木炭上烤出的传统椰子糕。"
-    }
-  },
-  "trondroGasy": {
-    "name": "马达加斯加鱼肉饭",
-    "description": {
-      "general": "多汁的鱼肉与蔬菜共同烹煮后，搭配米饭一同食用。"
-    }
-  },
-  "ndiziNaNyama": {
-    "name": "香蕉炖鸡汤",
-    "description": {
-      "general": "非洲大香蕉搭配鸡肉一同炖煮，带有甜咸可口的。"
-    }
-  },
-  "ragout": {
-    "name": "炖肉",
-    "description": {
-      "general": "由多种肉类精心调味炖煮而成。"
-    }
-  },
-  "sateKambing": {
-    "name": "羊肉沙嗲",
-    "description": {
-      "general": "将羊肉调味后穿成串，然后在炭火上炙烤，口味甜咸多汁。"
-    }
-  },
-  "bitterballen": {
-    "name": "荷兰炸肉丸",
-    "description": {
-      "general": "将厚实的炖肉冷却，揉搓成球，然后裹上面包粉，最后烹制而成的肉丸。"
-    }
-  },
-  "ronakoho": {
-    "name": "鸡肉姜汤",
-    "description": {
-      "general": "整鸡搭配新鲜原料煮成的高汤。"
-    }
-  },
-  "mchuziWaKuharibu": {
-    "name": "咖喱库哈利布肉",
-    "description": {
-      "general": "库哈利布的肉，精心包裹在番茄和香料混合物内，然后在甜甜的椰奶中搭配当地根茎植物烘烤。"
-    }
-  },
-  "otakOtak": {
-    "name": "乌达",
-    "description": {
-      "general": "将鱼肉与各种香料混合，包裹进香蕉叶后再烘烤或炊蒸。"
-    }
-  },
-  "firstAidStation": {
-    "name": "急救站",
-    "description": {
-      "general": "物资充足的站台，可使船员在船身生命值较低时有工具维修船只与救治水手。"
-    }
-  },
-  "ironCapstan": {
-    "name": "铁绞盘",
-    "description": {
-      "general": "船只在停泊时可抵御敌方炮火，但同时也会成为活靶子。"
-    }
-  },
-  "ropeLocker": {
-    "name": "绳索柜",
-    "description": {
-      "general": "这些缆绳可加速船只航行，但前提是船员能够跟上节奏。它们曾为一位知名任帕女舵手所收藏。"
-    }
-  },
-  "scopingStation": {
-    "name": "观察站",
-    "description": {
-      "general": "加强对敌船的目标追踪，使船长能够精确命中敌船的弱点。"
-    }
-  },
-  "scrapperStation": {
-    "name": "搜刮者站",
-    "description": {
-      "general": "激励船员在成功击中敌船后维修船身。绝望的走私犯往往会在朝敌人投掷黄油刀后，趁乱在战斗中修补破洞。"
-    }
-  },
-  "signalGong": {
-    "name": "警报锣",
-    "description": {
-      "general": "尖锐的铿锵声可划开混乱，激励船员于激战中短时间更加奋力地拼杀。"
-    }
-  },
-  "warDrums": {
-    "name": "战鼓",
-    "description": {
-      "general": "敲击声震耳欲聋，可驱散恐惧并激发力量，使船员在战斗中更加高效地调整船帆。"
-    }
-  },
-  "megaphone": {
-    "name": "扩音器",
-    "description": {
-      "general": "强化船长的指令，使炮手在连续命中目标后能以更快速度装填。"
-    }
-  },
-  "munitionsMixer": {
-    "name": "弹药混合器",
-    "description": {
-      "general": "古老的炼金术典籍中早已记载完美的燃烧——或最缓慢的渗漏。在随意操作下，易爆化合物相互混合，可造成持久的燃烧和进水负面效果。"
-    }
-  },
-  "riggingStation": {
-    "name": "索具台",
-    "description": {
-      "general": "配备了应急工具，让船员能够在战斗中修补破洞，且船只即使在船身生命值较低时也能保持漂浮。"
-    }
-  },
-  "gunnersQuadrant": {
-    "name": "炮手四分仪",
-    "description": {
-      "general": "精准能力可战胜恐慌——船长可借此工具判断射程并把握射击时机，从而更频繁的命中敌船弱点。"
-    }
-  },
-  "waterTank": {
-    "name": "水箱",
-    "description": {
-      "general": "帮助船员在紧张状况下节省体力，并在船身生命值濒临崩溃时迅速恢复体力。"
-    }
-  },
-  "maintenanceForge": {
-    "name": "维护锻造厂",
-    "description": {
-      "general": "量身定制的熔炉，可专门用于维修受到严重伤害的船只。"
-    }
-  },
-  "doublePlankedHull": {
-    "name": "双层船体",
-    "description": {
-      "general": "船身上安装了强化板，使船身生命值增加。"
-    }
-  },
-  "boatswainsCall": {
-    "name": "水手长呼叫",
-    "description": {
-      "general": "尖锐的哨声穿透混乱的战场，使指令得以听见并执行。可提高船员进攻的伤害。"
-    }
-  },
-  "chainsLocker": {
-    "name": "链锁",
-    "description": {
-      "general": "专用锁链，用于破坏敌船的船帆，使其在更长时间内无法战斗。"
-    }
-  },
-  "joineryWorkshop": {
-    "name": "细木工车间",
-    "description": {
-      "general": "打磨维修型武器，提升其维修效果。此工坊配备了备用木板，钉子和配件，以便更快速展开维修。"
-    }
-  },
-  "gunpowderBench": {
-    "name": "火药工作台",
-    "description": {
-      "general": "增强燃烧效果，使火焰燃烧的更加猛烈。年迈的火药大师们声称他们的手艺习自乌瓜纳火祭司。"
-    }
-  },
-  "leadKettle": {
-    "name": "铅锅",
-    "description": {
-      "general": "专门装备可使炮弹更加沉重，从而延长敌人受到的进水效果。"
-    }
-  },
-  "spikedWarHorn": {
-    "name": "尖刺战争号角",
-    "description": {
-      "general": "他骇人的号声能令船员陷入狂暴，使其能够更加频繁的发动进攻。曾归一位臭名昭著的军阀所有，其战吼可震得舰队四散溃逃。"
-    }
-  },
-  "stickyFuelStation": {
-    "name": "粘性加油站",
-    "description": {
-      "general": "用于调配粘性燃料的专用站台。该燃料涂覆于弹药后，可使敌船受到更久的燃烧伤害。"
-    }
-  },
-  "storageCompartment": {
-    "name": "仓储隔间",
-    "description": {
-      "general": "提升货舱容量，使船只能装载更多战利品和补给。需要在高风险贸易中获取最大利润的走私范尤为青睐这一陈设。"
-    }
-  },
-  "toolSmithy": {
-    "name": "工具锻冶匠",
-    "description": {
-      "general": "提升自然资源采集效率。如果没有锋利的刀刃，再出色的伐木工也不过是拿根木棍的普通人。"
-    }
-  },
-  "flagPaintingStation": {
-    "name": "彩旗站",
-    "description": {
-      "general": "用于绘制侮辱性和淫秽图案的专用站台，可刺激敌人陷入狂暴状态。"
-    }
-  },
-  "volatileFuel": {
-    "name": "易爆燃料",
-    "description": {
-      "general": "增强燃烧效果，使敌船燃烧得更快。该燃料非常不稳定，需小心存放于严实的桶中。"
-    }
-  },
-  "leatherRopeGrips": {
-    "name": "皮绳握把",
-    "description": {
-      "general": "一套专门的滑轮和船帆系统，可更高效地调整船帆。"
-    }
-  },
-  "balancedMast": {
-    "name": "均衡桅杆",
-    "description": {
-      "general": "一种特殊船身部件，可平衡惯性增益与减益，从而提升船只的加速度和减速度。"
-    }
-  },
-  "sterileGalley": {
-    "name": "无菌厨房",
-    "description": {
-      "general": "用于给食物和消耗品保鲜的专用储藏室，可提高船员体力。"
-    }
-  },
-  "rumPantry": {
-    "name": "朗姆酒储藏室",
-    "description": {
-      "general": "使船员可尽情享用朗姆酒和其他美酒，有助于鼓舞士气与恢复体力。"
-    }
-  },
-  "lightenedMast": {
-    "name": "轻型桅杆",
-    "description": {
-      "general": "一种特殊船身部件，可减少惯性增益，从而提升船只的加速度。"
-    }
-  },
-  "longGunWorks": {
-    "name": "长管炮工事",
-    "description": {
-      "general": "用于改造长管炮弹药的专用站台，使其能够造成额外元素伤害。"
-    }
-  },
-  "demicannonWorks": {
-    "name": "半加农工事",
-    "description": {
-      "general": "用于改造半加农炮弹药的专用站台，使其能够造成额外元素伤害。"
-    }
-  },
-  "culverinWorks": {
-    "name": "长炮工事",
-    "description": {
-      "general": "用于改造炮弹的专用站台，使其能够造成额外元素伤害。"
-    }
-  },
-  "vatOfVolatiles": {
-    "name": "装有挥发物的桶",
-    "description": {
-      "general": "对建筑效果显著。一种来自非洲的特殊化学制剂，最初由乌瓜纳人用来摧毁皇家公司的塔楼。"
-    }
-  },
-  "ironCladdingStation": {
-    "name": "铁皮站",
-    "description": {
-      "general": "大幅提升冲撞伤害，使正面碰撞更具破坏力。常为爱将整艘船只用作武器的船长所用。"
-    }
-  },
-  "prismaticPowderFront": {
-    "name": "火药桶（船头）",
-    "description": {
-      "general": "可提升船头武器的伤害。该高级混合物使用的稀有火药提炼自天女的神秘丹炉。"
-    }
-  },
-  "prismaticPowderPort": {
-    "name": "火药桶（左舷）",
-    "description": {
-      "general": "提升舷侧武器的伤害，使舷侧攻击更具杀伤力。为战意凛然的炮手所使用，可确保每发炮弹都如重锤般狠狠地袭向敌船。"
-    }
-  },
-  "prismaticPowderStarboard": {
-    "name": "火药桶（右舷）",
-    "description": {
-      "general": "专门装满易爆剧烈火药的桶，可大幅提升右舷武器的伤害。"
-    }
-  },
-  "ballistaWorks": {
-    "name": "弩炮工事",
-    "description": {
-      "general": "用于改造弩炮箭矢的专用站台，使其能够造成额外元素伤害。"
-    }
-  },
-  "bombardWorks": {
-    "name": "射石炮工事",
-    "description": {
-      "general": "用于改造射石炮炮弹的专用站台，使其能够造成额外元素伤害。"
-    }
-  },
-  "flamethrowerWorks": {
-    "name": "海洋之火工事",
-    "description": {
-      "general": "用于改造海洋之火的专用站台，使其能够造成额外伤害。"
-    }
-  },
-  "maintainedArsenal": {
-    "name": "维护有加的武器库",
-    "description": {
-      "general": "用于改进和维修辅助武器的工具，可提升其伤害输出。"
-    }
-  },
-  "torpedoWorks": {
-    "name": "鱼雷工事",
-    "description": {
-      "general": "用于改造鱼雷的专用站台，使其能够造成额外元素伤害。"
-    }
-  },
-  "mortarWorks": {
-    "name": "迫击炮工事",
-    "description": {
-      "general": "用于改造迫击炮炮弹的专用站台，使其能够造成额外伤害。"
-    }
-  },
-  "rocketWorks": {
-    "name": "火箭工事",
-    "description": {
-      "general": "用于改造火箭的专用站台，使其能够造成额外元素伤害。"
-    }
-  },
-  "grindstoneBallista": {
-    "name": "磨床（弩炮）",
-    "description": {
-      "general": "用于打磨弩炮发射装置的专用站台，使其以更快速度射击。"
-    }
-  },
-  "grindstoneBombard": {
-    "name": "磨床（射石炮）",
-    "description": {
-      "general": "用于打磨射石炮炮管的专用站台，使其以更快速度射击。"
-    }
-  },
-  "grindstoneCulverin": {
-    "name": "磨床（大炮）",
-    "description": {
-      "general": "用于打磨武器炮管，提升初速，使弹药以更快速度飞行。"
-    }
-  },
-  "grindstoneLongGun": {
-    "name": "磨床（长管炮）",
-    "description": {
-      "general": "用于打磨大炮炮管的专用站台，使其以更快速度射击。"
-    }
-  },
-  "grindstoneTorpedo": {
-    "name": "磨床（鱼雷）",
-    "description": {
-      "general": "用于打磨鱼雷炮管的专用站台，可使鱼雷以更快速度在水中穿行。"
-    }
-  },
-  "grindstone": {
-    "name": "磨石",
-    "description": {
-      "general": "用于打磨武器炮管，提升初速，使弹药以更快速度飞行。"
-    }
-  },
-  "brazingFurnaceFlamethrower": {
-    "name": "铸炉（海洋之火）",
-    "description": {
-      "general": "用于打磨海洋之火武器发射装置的专用站台，使其炮弹射程提升。"
-    }
-  },
-  "brazingFurnace": {
-    "name": "钎焊炉",
-    "description": {
-      "general": "专为所有炮弹和武器增加射程而设计，同时可提升弹药混用的威力。"
-    }
-  },
-  "brazingFurnaceMortar": {
-    "name": "铸炉（迫击炮）",
-    "description": {
-      "general": "用于打磨迫击炮炮管的专用扇台，使其炮弹射程提升。"
-    }
-  },
-  "brazingFurnaceTorpedo": {
-    "name": "铸炉（鱼雷）",
-    "description": {
-      "general": "用于打磨鱼雷炮管的专用站台，使其炮弹射程提升。"
-    }
-  },
-  "brazingFurnaceRocket": {
-    "name": "铸炉（火箭）",
-    "description": {
-      "general": "用于打磨火箭炮管的专用站台，使其炮弹射程提升。"
-    }
-  },
-  "brazingFurnaceDemicannon": {
-    "name": "铸炉（半加农炮）",
-    "description": {
-      "general": "用于打磨半加农炮管的专用站台，使其炮弹射程提升。"
-    }
-  },
-  "powderHouseBombard": {
-    "name": "火药房（射石炮）",
-    "description": {
-      "general": "可增强射石炮炮弹威力的专用站台，使炮弹在命中时波及范围更广。"
-    }
-  },
-  "powderHouseMortar": {
-    "name": "火药房（迫击炮）",
-    "description": {
-      "general": "可增强迫击炮炮弹威力的专用站台，使炮弹在命中时波及范围更广。"
-    }
-  },
-  "laPotenceSchematics": {
-    "name": "绞刑架设计图",
-    "description": {
-      "general": "重点标示出绞刑架号的结构弱点。传闻菲力浦●拉佩斯特的恐怖战舰更像是幽灵而\n非实物，然而，即便是诅咒再深的船只也有其弱点。"
-    }
-  },
-  "fauleIlse": {
-    "name": "铁片炮",
-    "description": {
-      "general": "这门致命半加农发射的弹片会弹射到附近的目标。该庞然大物诞生自德国工艺，因可摧毁整支舰队的威力而声名远扬。"
-    }
-  },
-  "theWarhammer": {
-    "name": "战锤火箭",
-    "description": {
-      "general": "这种毁灭性武器能通过从高空发射大量爆炸性火箭来夷平战场。"
-    }
-  },
-  "endlessRequiem": {
-    "name": "无尽安魂曲",
-    "description": {
-      "general": "装填后，可发射拥有目标追踪能力的高度先进鱼雷。这些歪门邪道的玩意儿乃阿尔芒·胡巴茨和伯特兰·胡巴茨的独家武器，出了名的防不胜防。"
-    }
-  },
-  "laPiqure": {
-    "name": "瘟疫之蚀",
-    "description": {
-      "general": "拉佩斯特手下走狗使用的阴险武器，其发射的污秽炮弹会消耗敌方船员体力。"
-    }
-  },
-  "dummySpringloader": {
-    "name": "假弹射器",
-    "description": {
-      "general": "用木材和树脂制成的弹射器仿品，供船员在避免伤到肢体的情况下训练与提升武器装填速度。"
-    }
-  },
-  "fatanaStation": {
-    "name": "伐塔纳站",
-    "description": {
-      "general": "法拉人用来提升火箭火药威力的烹饪站，调制出的物品对建筑特别有效。"
-    }
-  },
-  "tuningStation": {
-    "name": "调试站",
-    "description": {
-      "general": "用于打磨鱼雷炮管的熔炉站，可提升鱼雷的杀伤力与速度。"
-    }
-  },
-  "stormwovenSymphony": {
-    "name": "风暴交响曲",
-    "description": {
-      "general": "释放破坏性的声波攻击，对周围敌人造成伤害。只有传奇的胡巴茨兄弟才拥有这样的金色板甲。"
-    }
-  },
-  "buccaneersOath": {
-    "name": "海匪之誓",
-    "description": {
-      "general": "击沉敌人后，增强进攻和防御能力。嗜血的海盗船长们的心爱之物。"
-    }
-  },
-  "mineSpringloader": {
-    "name": "水雷弹射器",
-    "description": {
-      "general": "部署撕裂者水雷浮标，这些浮标会释放致命水雷，是出其不意伏击敌人的完美利器。"
-    }
-  },
-  "infernalMaw": {
-    "name": "地狱巨口",
-    "description": {
-      "general": "部署海洋之火水雷浮标，该浮标可发射充满挥发性海洋之火液体的会爆炸水雷，是纵火狂的梦想武器。"
-    }
-  },
-  "littleGrace": {
-    "name": "小恩典",
-    "description": {
-      "general": "部署修补者浮标，该浮标可维修受损船身，是谨慎船长的首选。"
-    }
-  },
-  "abyssal": {
-    "name": "深渊",
-    "description": {
-      "general": "降低燃烧状态效果的持续时长，并提供对燃烧伤害的超强抗性。闪闪发光的银色骷髅头骨镶嵌在锃亮的钢材之上，能够抵挡最猛烈的火力。"
-    }
-  },
-  "buoyShellsCrate": {
-    "name": "浮标炮弹箱",
-    "description": {
-      "general": "内含20发适用于弹射器的浮标炮弹"
-    }
-  },
-  "leviathanArmor": {
-    "name": "利维坦号",
-    "description": {
-      "general": "可提升航行速度，提供更强的防御。并提供对弱点伤害的防护，由传奇巨兽的骸骨制作而成。"
-    }
-  },
-  "springloaderFurnace": {
-    "name": "铸炉（弹射器）",
-    "description": {
-      "general": "弹射器专用工坊，可扩大浮标的部署半径。"
-    }
-  },
-  "springloaderPowderhouse": {
-    "name": "火药房（浮标）",
-    "description": {
-      "general": "弹射器专用工坊，可扩大部署浮标的最大影响范围。"
-    }
-  },
-  "machinistStationRepair": {
-    "name": "机械师台(维修）",
-    "description": {
-      "general": "用于提升维修浮标效果的专用工坊。"
-    }
-  },
-  "raisedQuarterdeck": {
-    "name": "升高甲板",
-    "description": {
-      "general": "为了防止过量进水伤害对船只甲板进行改装。"
-    }
-  },
-  "buoyLocker": {
-    "name": "浮标柜",
-    "description": {
-      "general": "专门用于存放特制浮标的空间，允许同时装备更多浮标并提升其效果。"
-    }
-  },
-  "brouwersPowderhouse": {
-    "name": "布劳厄的炸药库",
-    "description": {
-      "general": "专门用于迫击炮升级的特殊工坊，可扩大及炮弹爆炸范围并提升装填速度。“屠夫将军”卡雷尔·布劳厄曾利用其征服东印度群岛。"
-    }
-  },
-  "compagnieScreens": {
-    "name": "皇家公司屏风",
-    "description": {
-      "general": "吊带夹板上方的连环网和拦截来袭炮弹并降低其伤害。皇家公司船只用他们来挡海鸥粪便。"
-    }
-  },
-  "medicineCabinet": {
-    "name": "药品柜",
-    "description": {
-      "general": "内含治疗各种疾病的对症医疗用品，可提高船员的战斗力。"
-    }
-  },
-  "compagnieSpiritsLocker": {
-    "name": "皇家公司酒柜",
-    "description": {
-      "general": "专门用于存放酒水的储物柜，与皇家公司战船十分相配，可使船员的战斗中保持高昂士气。"
-    }
-  },
-  "secretCache": {
-    "name": "秘密贮藏处",
-    "description": {
-      "general": "走私贩经常在船身和甲板上临时凿洞，这既能扩大货舱容量，又能防止违禁品被查获。"
-    }
-  },
-  "bombardMenuiserie": {
-    "name": "射石炮工艺",
-    "description": {
-      "general": "创自皇家公司射石炮工程师的工坊，可提升武器威力与对建筑的伤害。"
-    }
-  },
-  "rhapsodyOfTheDeep": {
-    "name": "深海狂想曲",
-    "description": {
-      "general": "在防御状态下抵消静水状态效果的所有伤害和影响，并强化对鱼雷的防御。只有皇家公司的准将才有资格使用如此精湛的工艺。"
-    }
-  },
-  "cursedBanner": {
-    "name": "诅咒旗帜",
-    "description": {
-      "general": "一面破损的旗帜，可激怒任何看到他的敌人。据说他曾属于一位传奇海上领主。"
-    }
-  },
-  "lemariMakanan": {
-    "name": "食品柜",
-    "description": {
-      "general": "任帕人用来在海上存放香料和食物的特殊储藏室，可提升船员体力恢复速度。"
-    }
-  },
-  "bedarUpgrade": {
-    "name": "扁嘴帆艇升级",
-    "description": {
-      "general": "扁嘴帆艇的升级组件。",
-      "1": "将扁嘴帆艇从0级升至1级。",
-      "2": "将扁嘴帆艇从1级升至2级。",
-      "3": "将扁嘴帆艇从2级升至3级。",
-      "4": "将扁嘴帆艇从3级升至4级。",
-      "5": "将扁嘴帆艇从4级升至5级。",
-      "6": "将扁嘴帆艇从5级升至6级。",
-      "7": "将扁嘴帆艇从6级升至7级。"
-    }
-  },
-  "hulkUpgrade": {
-    "name": "囤货艇升级",
-    "description": {
-      "general": "囤货艇的升级组件。",
-      "1": "将囤货艇从0级升至1级。",
-      "2": "将囤货艇从1级升至2级。",
-      "3": "将囤货艇从2级升至3级。",
-      "4": "将囤货艇从3级升至4级。",
-      "5": "将囤货艇从4级升至5级。",
-      "6": "将囤货艇从5级升至6级。",
-      "7": "将囤货艇从6级升至7级。"
-    }
-  },
-  "cutterUpgrade": {
-    "name": "短桅帆船升级",
-    "description": {
-      "general": "短桅帆船的升级组件。",
-      "1": "将短桅帆船从0级升至1级。",
-      "2": "将短桅帆船从1级升至2级。",
-      "3": "将短桅帆船从2级升至3级。",
-      "4": "将短桅帆船从3级升至4级。",
-      "5": "将短桅帆船从4级升至5级。",
-      "6": "将短桅帆船从5级升至6级。",
-      "7": "将短桅帆船从6级升至7级。"
-    }
-  },
-  "bargeUpgrade": {
-    "name": "平底货艇升级",
-    "description": {
-      "general": "平底货艇的升级组件。",
-      "1": "将平底货艇从0级升至1级。",
-      "2": "将平底货艇从1级升至2级。",
-      "3": "将平底货艇从2级升至3级。",
-      "4": "将平底货艇从3级升至4级。",
-      "5": "将平底货艇从4级升至5级。",
-      "6": "将平底货艇从5级升至6级。",
-      "7": "将平底货艇从6级升至7级。"
-    }
-  },
-  "sloopUpgrade": {
-    "name": "单桅船升级",
-    "description": {
-      "general": "单桅炮艇的升级组件。",
-      "1": "将单桅船从0级升至1级。",
-      "2": "将单桅船从1级升至2级。",
-      "3": "将单桅船从2级升至3级。",
-      "4": "将单桅船从3级升至4级。",
-      "5": "将单桅船从4级升至5级。",
-      "6": "将单桅船从5级升至6级。",
-      "7": "将单桅船从6级升至7级。"
-    }
-  },
-  "padewakangUpgrade": {
-    "name": "巴得瓦康船升级",
-    "description": {
-      "general": "巴得瓦康船的升级组件。",
-      "1": "将巴得瓦康船从0级升至1级。",
-      "2": "将巴得瓦康船从1级升至2级。",
-      "3": "将巴得瓦康船从2级升至3级。",
-      "4": "将巴得瓦康船从3级升至4级。",
-      "5": "将巴得瓦康船从4级升至5级。",
-      "6": "将巴得瓦康船从5级升至6级。",
-      "7": "将巴得瓦康船从6级升至7级。"
-    }
-  },
-  "snowUpgrade": {
-    "name": "尖首货船升级",
-    "description": {
-      "general": "尖首货船的升级组件。",
-      "1": "将尖首货船从0级升至1级。",
-      "2": "将尖首货船从1级升至2级。",
-      "3": "将尖首货船从2级升至3级。",
-      "4": "将尖首货船从3级升至4级。",
-      "5": "将尖首货船从4级升至5级。",
-      "6": "将尖首货船从5级升至6级。",
-      "7": "将尖首货船从6级升至7级。"
-    }
-  },
-  "brigantineUpgrade": {
-    "name": "双桅帆船升级",
-    "description": {
-      "general": "双桅帆船的升级组件。",
-      "1": "将双桅帆船从0级升至1级。",
-      "2": "将双桅帆船从1级升至2级。",
-      "3": "将双桅帆船从2级升至3级。",
-      "4": "将双桅帆船从3级升至4级。",
-      "5": "将双桅帆船从4级升至5级。",
-      "6": "将双桅帆船从5级升至6级。",
-      "7": "将双桅帆船从6级升至7级。"
-    }
-  },
-  "sambukUpgrade": {
-    "name": "桑布克船升级",
-    "description": {
-      "general": "桑布克船的升级组件。",
-      "1": "将桑布克船从0级升至1级。",
-      "2": "将桑布克船从1级升至2级。",
-      "3": "将桑布克船从2级升至3级。",
-      "4": "将桑布克船从3级升至4级。",
-      "5": "将桑布克船从4级升至5级。",
-      "6": "将桑布克船从5级升至6级。",
-      "7": "将桑布克船从6级升至7级。"
-    }
-  },
-  "barqueUpgrade": {
-    "name": "三桅帆船升级",
-    "description": {
-      "general": "三桅帆船的升级组件。",
-      "1": "将三桅帆船从0级升至1级。",
-      "2": "将三桅帆船从1级升至2级。",
-      "3": "将三桅帆船从2级升至3级。",
-      "4": "将三桅帆船从3级升至4级。",
-      "5": "将三桅帆船从4级升至5级。",
-      "6": "将三桅帆船从5级升至6级。",
-      "7": "将三桅帆船从6级升至7级。"
-    }
-  },
-  "brigUpgrade": {
-    "name": "双桅帆船升级",
-    "description": {
-      "general": "双桅帆船的升级组件。",
-      "1": "将双桅帆船从0级升至1级。",
-      "2": "将双桅帆船从1级升至2级。",
-      "3": "将双桅帆船从2级升至3级。",
-      "4": "将双桅帆船从3级升至4级。",
-      "5": "将双桅帆船从4级升至5级。",
-      "6": "将双桅帆船从5级升至6级。",
-      "7": "将双桅帆船从6级升至7级。"
-    }
-  },
-  "battleJunkUpgrade": {
-    "name": "座䑸升级",
-    "description": {
-      "general": "座䑸的升级组件。",
-      "1": "将座䑸从0级升至1级。",
-      "2": "将座䑸从1级升至2级。",
-      "3": "将座䑸从2级升至3级。",
-      "4": "将座䑸从3级升至4级。",
-      "5": "将座䑸从4级升至5级。",
-      "6": "将座䑸从5级升至6级。",
-      "7": "将座䑸从6级升至7级。"
-    }
-  },
-  "garudaUpgrade": {
-    "name": "迦楼罗升级",
-    "description": {
-      "general": "迦楼罗的升级组件。",
-      "1": "将迦楼罗从0级升至1级。",
-      "2": "将迦楼罗从1级升至2级。",
-      "3": "将迦楼罗从2级升至3级。",
-      "4": "将迦楼罗从3级升至4级。",
-      "5": "将迦楼罗从4级升至5级。",
-      "6": "将迦楼罗从5级升至6级。",
-      "7": "将迦楼罗从6级升至7级。"
-    }
-  },
-  "boatswainsToll": {
-    "name": "水手长的钟声",
-    "description": {
-      "general": "大型船哨，可激励船员更加奋勇地持久作战。"
-    }
-  },
-  "scupperStation": {
-    "name": "排水站",
-    "description": {
-      "general": "该加工站可在船只进水时防止船员体力过度消耗。"
-    }
-  },
-  "waterFlask": {
-    "name": "水壶",
-    "description": {
-      "general": "海盗的必备饮品。"
-    }
-  },
-  "waterBarrel": {
-    "name": "水桶",
-    "description": {
-      "general": "清新可口的饮用水。"
-    }
-  },
-  "teulingsCoffee": {
-    "name": "图林咖啡",
-    "description": {
-      "general": "用图林最爱的咖啡豆冲泡的咖啡。"
-    }
-  },
-  "zongZi": {
-    "name": "粽子",
-    "description": {
-      "general": "用香兰叶包裹大米制成的美味传统中国食品，也是鱼类的最爱。"
-    }
-  },
-  "teulingsSpecialSteakDinner": {
-    "name": "图林的特制牛排大餐",
-    "description": {
-      "general": "按照图林的口味准备的牛排和配菜。"
-    }
-  },
-  "mermaidsTears": {
-    "name": "美人鱼之泪",
-    "description": {
-      "general": "想亲近美人鱼，恐怕没有比这更好的办法"
-    }
-  },
-  "darkNStormy": {
-    "name": "黑暗风暴",
-    "description": {
-      "general": "能够放松身心，非常适合应对公海上的风暴"
-    }
-  },
-  "scallyGrog": {
-    "name": "斯卡利烈酒",
-    "description": {
-      "general": "为总督干杯！"
-    }
-  },
-  "bloodyAnnie": {
-    "name": "血腥安妮",
-    "description": {
-      "general": "一个给你的甜蜜提醒，因为海上总是孤独的"
-    }
-  },
-  "lestarisMeat": {
-    "name": "莱斯塔里肉",
-    "description": {
-      "general": "从海怪莱斯塔里身上获取的肉。"
-    }
-  },
-  "grilledLestariMeat": {
-    "name": "烤莱斯塔里肉",
-    "description": {
-      "general": "这是海怪莱斯塔里烤肉，味道很像鸡肉。"
-    }
-  },
-  "leatherFashioningStation": {
-    "name": "皮革站",
-    "description": {
-      "general": "鞣革板覆盖着船身外部，保护其免受火焰伤害。"
-    }
-  },
-  "lestariTrophy": {
-    "name": "莱斯塔里纪念物",
-    "description": {
-      "general": "野兽尸体的骇人雕像，其上长着可怕的牙齿。可激励船员挑战更大、更强的猎物。"
-    }
-  },
-  "hubacTuningRack": {
-    "name": "胡巴茨调试架",
-    "description": {
-      "general": "从胡巴茨兄弟战船残骸中缴获的专业装备。该装备采用了他们的战术，可提升鱼雷的武装与射程。"
-    }
-  },
-  "machinistStationMines": {
-    "name": "机械师台(水雷)",
-    "description": {
-      "general": "用于提升雷区浮标伤害输出的专用工坊。"
-    }
-  },
-  "deluxeBallistaBoltCrate": {
-    "name": "豪华弩炮弩箭箱",
-    "description": {
-      "general": "内含适用于弩炮类武器的弩箭。",
-      "1": "内含40发适用于弩炮类武器的弩箭。",
-      "2": "内含60发适用于弩炮类武器的弩箭。"
-    }
-  },
-  "deluxeSeaFireOilCrate": {
-    "name": "豪华海洋之火油罐箱",
-    "description": {
-      "general": "内含适用于海洋之火武器的油罐。",
-      "1": "内含120罐适用于海洋之火武器的油罐。",
-      "2": "内含180罐适用于海洋之火武器的油罐。"
-    }
-  },
-  "deluxeCannonballCrate": {
-    "name": "豪华大炮炮弹箱",
-    "description": {
-      "general": "内含适用于大炮的炮弹。",
-      "1": "内含200枚炮弹",
-      "2": "内含300发适用于大炮的炮弹。"
-    }
-  },
-  "deluxeMortarBombCrate": {
-    "name": "豪华迫击炮炮弹箱",
-    "description": {
-      "general": "内含适用于迫击炮的炮弹。",
-      "1": "内含40发适用于迫击炮的炮弹。",
-      "2": "内含60发适用于迫击炮的炮弹。"
-    }
-  },
-  "deluxeRocketCrate": {
-    "name": "豪华火箭箱",
-    "description": {
-      "general": "内含适用于火箭发射器的火箭。",
-      "1": "内含200发适用于火箭发射器的火箭。",
-      "2": "内含300发适用于火箭发射器的火箭。"
-    }
-  },
-  "deluxeBuoyShellsCrate": {
-    "name": "豪华浮标炮弹箱",
-    "description": {
-      "general": "内含适用于弹射器的浮标炮弹。",
-      "1": "内含40发适用于弹射器的浮标炮弹。",
-      "2": "内含60发适用于弹射器的浮标炮弹。"
-    }
-  },
-  "deluxeBombardBombCrate": {
-    "name": "豪华射石炮炮弹箱",
-    "description": {
-      "general": "内含适用于射石炮的炮弹。",
-      "1": "内含120发适用于射石炮的炮弹。",
-      "2": "内含180发适用于射石炮的炮弹。"
-    }
-  },
-  "deluxeTorpedoCrate": {
-    "name": "豪华鱼雷箱",
-    "description": {
-      "general": "内含适用于鱼雷发射器的鱼雷。",
-      "1": "内含120发适用于鱼雷发射器的鱼雷。",
-      "2": "内含180发适用于鱼雷发射器的鱼雷。"
-    }
-  },
-  "whiteJade": {
-    "name": "白玉",
-    "description": {
-      "general": "这种与众不同的火炮可以实现同时维修多艘船只的功能，深受海军和商船追捧。"
-    }
-  },
-  "thousandYearMonsoon": {
-    "name": "千年季风",
-    "description": {
-      "general": "如同百年风暴在海上肆虐，每一次爆炸都能造成严重伤害，使甲板下方进水，且龙骨和船身都无法修复。"
-    }
-  },
-  "crouchingTiger": {
-    "name": "赤虎咆哮",
-    "description": {
-      "general": "这个武器仿佛蓄势待发、怒气冲天的猛兽，其发射的炮弹中注入了熏香，可嘲讽吸入的敌人，使其陷入狂怒。"
-    }
-  },
-  "spitefulSpikesStation": {
-    "name": "尖刺站",
-    "description": {
-      "general": "定制弹药，可削弱敌人维修自己受损船只的能力。"
-    }
-  },
-  "emergencySails": {
-    "name": "紧急船帆",
-    "description": {
-      "general": "备用的船帆和索具，可根据需要展开，从而更快速度追击逃跑的敌人。"
-    }
-  },
-  "celestialDance": {
-    "name": "天舞",
-    "description": {
-      "general": "释放强力的闪电攻击，连锁攻击多个敌人。有人说，它是用天上的一只带翼野兽身上的部件锻造而成。"
-    }
-  },
-  "hongYiPao": {
-    "name": "红衣大炮",
-    "description": {
-      "general": "采用了葡萄牙设计的御用火炮，在炮弹中注入了来自远东的嘲讽性熏香，人吸入后会凶性大发。"
-    }
-  },
-  "heavensMandate": {
-    "name": "天命",
-    "description": {
-      "general": "这门精美的大炮打造自一头暗影怪兽的鳞片，可召唤雷击攻击你的敌人。"
-    }
-  },
-  "phoenixTalons": {
-    "name": "翔凤",
-    "description": {
-      "general": "喷涂出绚烂的死亡和喧嚣，同时释放十八下重击，激起地狱之火。"
-    }
-  },
-  "baneOfTenSuns": {
-    "name": "十日之灾",
-    "description": {
-      "general": "这种武器发射的机关弩箭可击穿多艘船只，仿佛神力劈开苍穹般威猛。"
-    }
-  },
-  "phoenixCrest": {
-    "name": "凤凰徽章",
-    "description": {
-      "general": "在恢复防御强度的同时嘲讽敌人。备受诡计多端、乐于激怒敌人（偶尔也激怒盟友）的船长们的青睐。"
-    }
-  },
-  "organHarvestingStation": {
-    "name": "开膛取肚站",
-    "description": {
-      "general": "可处理海怪肢体的骇人站台。由于海怪肢体易燃易爆，因此在船只遭受炮火攻击时，他们可提升火箭的杀伤力。"
-    }
-  },
-  "bracedGunwales": {
-    "name": "防御舷边",
-    "description": {
-      "general": "船只甲板上的加固栏杆，可更好地抵御来袭伤害。"
-    }
-  },
-  "heavenlyLance": {
-    "name": "神枪",
-    "description": {
-      "general": "发射闪亮鳞片，划开大海，对敌人造成电击伤害。"
-    }
-  },
-  "lestariStew": {
-    "name": "莱斯塔里炖菜",
-    "description": {
-      "general": "莱斯塔里的肉切成薄片，与新鲜蔬菜一起翻炒，配上米饭一起享用。"
-    }
-  },
-  "firstMatesLedger": {
-    "name": "大副账薄",
-    "description": {
-      "general": "一本皮革装订的册子。记载着可激励或震慑船员的可靠方法，可激发在遭受敌方船只进攻后维修严重伤害的能力。"
-    }
-  },
-  "kinckelsLaboratory": {
-    "name": "金克尔实验室",
-    "description": {
-      "general": "窃自荷兰商社将军亲信的计划，其中包含关于如何提升迫击炮威力的机密。"
-    }
-  },
-  "shellPackingStation": {
-    "name": "填弹台",
-    "description": {
-      "general": "装满金属、钉子、石块和碎玻璃的压缩炮弹，可增加射石炮炮弹的伤害范围。"
-    }
-  },
-  "densityFurnace": {
-    "name": "密度炉",
-    "description": {
-      "general": "重新锻造弹药中的金属，提升每发弹药的密度和威力，使其能够在敌船上打出更大的窟窿。"
-    }
-  },
-  "langrageBarrels": {
-    "name": "钉弹炮",
-    "description": {
-      "general": "装满废弃金属、钉子和其他杂物的小桶，可撕裂敌船船帆。"
-    }
-  },
-  "gearsWorkshop": {
-    "name": "齿轮工坊",
-    "description": {
-      "general": "作为弩炮锻造定制齿轮与弹簧的进攻站台，可缩短弩炮的装填与充能时间。"
-    }
-  },
-  "smokedCanisters": {
-    "name": "烟罐",
-    "description": {
-      "general": "以陶土预热燃料，增加海洋之火武器的弹药储备。"
-    }
-  },
-  "beamSupports": {
-    "name": "梁柱支架",
-    "description": {
-      "general": "额外的木梁和支柱可加固船只内部结构，提高船身生命值并提升船只装甲级别。"
-    }
-  },
-  "divineThunder": {
-    "name": "神雷",
-    "description": {
-      "general": "这件神秘武器会在击中弱点时释放雷击，仿佛远古神兽发出怒吼。"
-    }
-  },
-  "immortalVessel": {
-    "name": "不朽舰船",
-    "description": {
-      "general": "据说受到八仙赐福，在最危机的时刻能够保护船只，使其免于沉没。"
-    }
-  },
-  "voltasWard": {
-    "name": "伏特之盾",
-    "description": {
-      "general": "降低雷暴状态效果的强度，并提供对雷击伤害的超强抗性。船体中编有铜线，能将风暴的怒火转换成美丽且无害的闪光。"
-    }
-  },
-  "amberCoatingStation": {
-    "name": "琥珀站",
-    "description": {
-      "general": "涂覆有精致琥珀的弹药，可增强敌船受到的电击状态效果。"
-    }
-  },
-  "chargeStores": {
-    "name": "充电库",
-    "description": {
-      "general": "用于储存电能的基础电池，连接特定武器后，可造成更高电击伤害。"
-    }
-  },
-  "lotusMooncake": {
-    "name": "莲蓉月饼",
-    "description": {
-      "general": "一种顶部印有徽章的美味甜点，通常作为礼物送给家人和朋友。"
-    }
-  },
-  "hellepoort": {
-    "name": "地狱之门",
-    "description": {
-      "general": "这门神秘大炮可在以奇异效率修复你船只的同时摧毁敌船船身。据说它锻造于幽冥深渊。"
-    }
-  },
-  "freemansEmbrace": {
-    "name": "弗里曼的拥抱",
-    "description": {
-      "general": "一个装饰着极多镜子的神秘柜子。船员报告敌船会遭受与己方相同的折磨。"
-    }
-  },
-  "cannonballCarvingStation": {
-    "name": "发射雕刻站",
-    "description": {
-      "general": "用于在弹药上刻下各种侮辱性或粗俗话语的专用站台。可刺激敌方船员反击。"
-    }
-  },
-  "bloodyRed": {
-    "name": "猩红旗织",
-    "description": {
-      "general": "一面染血的大旗，可煽起复仇怒火，吸引敌人的仇恨。"
-    }
-  },
-  "plaguebringersWard": {
-    "name": "瘟疫使者的护佑",
-    "description": {
-      "general": "散发着化学品气味与禁忌炼金气息的专用站台。船员饮用其中的绿色液体后，会感觉精力充沛，且受到的带毒进攻伤害降低。"
-    }
-  },
-  "quickIgnitingPowder": {
-    "name": "速燃火药",
-    "description": {
-      "general": "装满特殊火药的木桶，火药撒在甲板或船帆上后会剧烈燃烧，可增强敌船受到的燃烧效果。"
-    }
-  },
-  "ballistaFurnace": {
-    "name": "铸炉（弩炮）",
-    "description": {
-      "general": "用于打磨弩炮发射装置的专用站台，使其弩箭射程提升。"
-    }
-  },
-  "nagasCall": {
-    "name": "娜迦之召",
-    "description": {
-      "general": "每一发炮火似乎都在增强其威力，每次发射后伤害都会提升。"
-    }
-  },
-  "agnisFury": {
-    "name": "阿耆尼之怒",
-    "description": {
-      "general": "这款武器可快速发射箭头燃火的飞镖，可将敌人化为灰烬。"
-    }
-  },
-  "eyeOfHeaven": {
-    "name": "天堂之眼",
-    "description": {
-      "general": "这款武器会发出震耳欲聋的雷鸣，随后从目标敌船处发射的电弧，袭向附近其他敌船。"
-    }
-  },
-  "blightkeeper": {
-    "name": "破灭掌控者",
-    "description": {
-      "general": "这款武器融合了工程技术与黑暗魔法，发射的浮标能生成保护罩，抵御敌船的炮火，并维修友方船只。"
-    }
-  },
-  "crimsonLotus": {
-    "name": "红莲",
-    "description": {
-      "general": "成功进行船员进攻后，提升舷侧武器伤害及体力恢复。这件装甲用于红莲铸造厂锻造而成。"
-    }
-  },
-  "pishacha": {
-    "name": "毕舍遮",
-    "description": {
-      "general": "每次冲撞敌船后，按冲撞比例恢复船身生命值。深受喜爱冲撞船体的海上领主们青睐。"
-    }
-  },
-  "tanashah": {
-    "name": "暴君",
-    "description": {
-      "general": "在防御时减缓状态效果的积累。由荷兰商社委托制造，作为其权威的标志。"
-    }
-  },
-  "painPiper": {
-    "name": "疼痛吹奏者",
-    "description": {
-      "general": "一种特殊的船长笛，用来使船员陷入狂暴状态，从而在保护他们免受报复的同时，使其船员进攻更具杀伤力。"
-    }
-  },
-  "drownedOnesToll": {
-    "name": "溺水者的钟声",
-    "description": {
-      "general": "动物头骨雕像，仿佛船长为了恢复船身生命值向诡异力量献祭自己（以及船员）的灵魂。"
-    }
-  },
-  "chainedLinks": {
-    "name": "连锁链接",
-    "description": {
-      "general": "钢丝网覆盖在船身侧面，保护弱点免受集火攻击。"
-    }
-  },
-  "teulingsGuidance": {
-    "name": "图林的指引",
-    "description": {
-      "general": "一张铺满蓝图和船只图纸的桌案，重点标示出敌船弱点，以便加以利用。"
-    }
-  },
-  "strangeElixir": {
-    "name": "诡异药剂",
-    "description": {
-      "general": "装有透明神秘液体的瓷器。船员在饮下该液体后，可提升生命力、体力，并能将投射物投掷到更远距离。"
-    }
-  },
-  "decoyDeck": {
-    "name": "诱饵甲板",
-    "description": {
-      "general": "用稻草人和空炮装饰船只的部分区域，吸引敌人注意力，并在伪装暴露时激怒敌人。"
-    }
-  },
-  "floatCollars": {
-    "name": "浮箍",
-    "description": {
-      "general": "芦苇束，有助于浮标在水面上漂浮更长时间。"
-    }
-  },
-  "mineClearingLocker": {
-    "name": "扫雷柜",
-    "description": {
-      "general": "装满末端挂着钩子的长杆的柜子，可提升避开敌方水雷浮标的几率。"
-    }
-  },
-  "devilsConcoction": {
-    "name": "恶魔配方",
-    "description": {
-      "general": "一碗碗猩红色邪恶混合物，用于涂覆在弹药上，使其点燃后燃烧的更加猛烈且更加持久。"
-    }
-  },
-  "debrisLocker": {
-    "name": "残骸柜",
-    "description": {
-      "general": "专门用于存放杂物的储物柜，这些杂物捆绑在一起用作额外的锚，可增强敌船受到的进水效果。"
-    }
-  },
-  "expandingCorkscrewStation": {
-    "name": "扩展螺旋台",
-    "description": {
-      "general": "用于为现成炮弹装配不规则金属片的专用站台，可提升进水伤害。"
-    }
-  },
-  "cannonballChargingStation": {
-    "name": "炮弹装填台",
-    "description": {
-      "general": "用于装填炮弹的专用站台，可削弱敌船装甲，并使其具有更高几率获得电击效果。"
-    }
-  },
-  "copperFasteningStation": {
-    "name": "铜加固站",
-    "description": {
-      "general": "用于制造相互连接的小型金属环的专用站台。这些金属环组成长链连接到电机武器上后，可提升电击伤害。"
-    }
-  },
-  "rifledBarrelWorkshop": {
-    "name": "膛线枪管工坊",
-    "description": {
-      "general": "用于在火炮炮管内凿膛线的专用站台，使炮弹获得“螺旋”效果，从而削弱敌船装甲，并使其具有更高几率获得进水效果。"
-    }
-  },
-  "highVelocityKegs": {
-    "name": "高速火药桶",
-    "description": {
-      "general": "优质黑火药桶，可使穿透型弹药获得更高伤害与更远射程。"
-    }
-  },
-  "nashkar": {
-    "name": "纳什卡尔",
-    "description": {
-      "general": "该武器的炮管表面刻有无人能懂的符文，可在战斗中召唤神秘力量。每击中敌船（特别是击中弱点）一次，都可维修你的船只。"
-    }
-  },
-  "dahaaka": {
-    "name": "达哈卡",
-    "description": {
-      "general": "鱼雷仿佛古老的水蛇般在波浪间穿梭，撕裂敌船船身并削弱其装甲。"
-    }
-  },
-  "rumFruitcake": {
-    "name": "朗姆水果蛋糕",
-    "description": {
-      "general": "用料奢侈的美味水果蛋糕，正是斯科洛克的最爱。"
-    }
-  },
-  "crocodileMeat": {
-    "name": "鳄鱼肉",
-    "description": {
-      "general": "几乎无法生食。"
-    }
-  },
-  "tylosaurusFlesh": {
-    "name": "海王龙血肉",
-    "description": {
-      "general": "这些肉来自一匹游荡在非洲海岸，以不幸船员为食的野兽。"
-    }
-  },
-  "fish": {
-    "name": "鱼肉",
-    "description": {
-      "general": "口感温和，肉质柔软。"
-    }
-  },
-  "durian": {
-    "name": "榴莲",
-    "description": {
-      "general": "气味强烈，长满尖刺的大型水果。"
-    }
-  },
-  "coconut": {
-    "name": "椰子",
-    "description": {
-      "general": "孤岛上的主食。"
-    }
-  },
-  "ndizi": {
-    "name": "香蕉",
-    "description": {
-      "general": "因甜美的口味而广受欢迎；其烹饪用的品种被称为大蕉。"
-    }
-  },
-  "rawChicken": {
-    "name": "生鸡肉",
-    "description": {
-      "general": "平淡黏腻。"
-    }
-  },
-  "flour": {
-    "name": "面粉",
-    "description": {
-      "general": "许多菜肴的重要原料。"
-    }
-  },
-  "rawMutton": {
-    "name": "生羊肉",
-    "description": {
-      "general": "将羊肉烹煮后能够去除其强烈的膻味。"
-    }
-  },
-  "rawVegetables": {
-    "name": "生蔬菜",
-    "description": {
-      "general": "口味平淡不张扬。"
-    }
-  },
-  "screwpine": {
-    "name": "露兜树果",
-    "description": {
-      "general": "这种水果在煮熟后，可以磨成营养丰富的可食用糊状物。"
-    }
-  },
-  "hippoMeat": {
-    "name": "河马肉",
-    "description": {
-      "general": "口味略苦，肉质坚韧。"
-    }
-  },
-  "sharkMeat": {
-    "name": "鲨鱼肉",
-    "description": {
-      "general": "酸味强烈，烹煮后口感会有所改善。"
-    }
-  },
-  "rawBeef": {
-    "name": "生牛肉",
-    "description": {
-      "general": "最好还是煮熟后再吃。"
-    }
-  },
-  "primeCrocodileMeat": {
-    "name": "优质鳄鱼肉",
-    "description": {
-      "general": "鳄鱼肉的最佳部位。"
-    }
-  },
-  "primeHippoMeat": {
-    "name": "优质河马肉",
-    "description": {
-      "general": "河马肉的最佳部位。"
-    }
-  },
-  "libertyCap": {
-    "name": "半裸盖菇",
-    "description": {
-      "general": "效力十分霸道，仅需一口就足以让人发狂。"
-    }
-  },
-  "schoonerUpgrade": {
-    "name": "纵帆船升级",
-    "description": {
-      "general": "纵帆船的升级组件。",
-      "1": "将纵帆船从0级升至1级。",
-      "2": "将纵帆船从1级升至2级。",
-      "3": "将纵帆船从2级升至3级。",
-      "4": "将纵帆船从3级升至4级。",
-      "5": "将纵帆船从4级升至5级。",
-      "6": "将纵帆船从5级升至6级。",
-      "7": "将纵帆船从6级升至7级。"
-    }
-  },
-  "titansCuirass": {
-    "name": "泰坦覆甲",
-    "description": {
-      "general": "降低弹震状态效果的强度，并提供对爆炸伤害的超强抗性。设计灵感来自于远古诸神的永恒力量。"
-    }
-  },
-  "heydensGuard": {
-    "name": "海登护甲",
-    "description": {
-      "general": "在防御状态下抵消燃烧状态效果的所有伤害，并强化对火焰型武器的防御。意在抵御乌瓜纳的熊熊怒火。"
-    }
-  },
-  "nocturneHeart": {
-    "name": "暗夜之心",
-    "description": {
-      "general": "船生生命值较高时提升武器伤害。深受出其不意、来去无踪的圣安妮掠夺者们青睐。"
-    }
-  },
-  "silverSentinel": {
-    "name": "亮银护甲",
-    "description": {
-      "general": "恰当防御，可抵消一定伤害，尤其在时机恰当的情况下。"
-    }
-  },
-  "divineWind": {
-    "name": "圣风",
-    "description": {
-      "general": "这门设石炮外表覆盖着犹如风暴般黑暗的鳞片，能在弹着数秒后召唤一道雷击，如同闪电般贯穿附近的敌人。"
-    }
-  },
-  "floodingBombard": {
-    "name": "进水型射石炮",
-    "description": {
-      "general": "发射破坏力强大的弹雨，对一定区域内的多名敌人造成伤害。擅长在敌方船身炸开巨大的洞口，使敌船进水。"
-    }
-  },
-  "tearingLongGun": {
-    "name": "撕裂型长管炮",
-    "description": {
-      "general": "擅长摧毁远距离目标的长管炮。能够高效撕裂敌人的船帆，使敌方船只无法动弹。"
-    }
-  },
-  "farscourge": {
-    "name": "远灾",
-    "description": {
-      "general": "这款武器由卑鄙无赖之徒锻造而成，可以远距离发起攻击，击穿船身并使甲板进水。该武器还擅长使船只更容易受到船员进攻。"
-    }
-  },
-  "langeKartouwe": {
-    "name": "长型卡图尔炮",
-    "description": {
-      "general": "这是一项荷兰工艺的奇迹，可发射爆炸性信号弹，引发延迟爆炸，其炮弹还可以对敌方工事造成更高伤害。"
-    }
-  },
-  "alecto": {
-    "name": "复仇女神",
-    "description": {
-      "general": "这架深红色的弩炮可以齐射三发弩箭，如果全部命中相同目标，将会引发大火，重创目标。"
-    }
-  },
-  "explosiveDemicannon": {
-    "name": "爆炸型半加农炮",
-    "description": {
-      "general": "该中型大炮在竞技与战斗中可对目标造成巨大伤害。其炮弹的震荡攻击可使敌方船员陷入弹震，短时间内无法发射武器。"
-    }
-  },
-  "piercingDemicannon": {
-    "name": "穿透型半加农炮",
-    "description": {
-      "general": "发射致命弹片的中型大炮，在近距离战斗中和造成巨大伤害。该大炮还可通过对目标船身施加击穿来弱化其装甲。"
-    }
-  },
-  "kleineKartouwe": {
-    "name": "小型卡图尔炮",
-    "description": {
-      "general": "别看这门青铜的火炮小巧，他可是致命杀器，能够发射爆炸性弹药，引发一次延迟爆炸。"
-    }
-  },
-  "fireCulverin": {
-    "name": "火焰型长炮",
-    "description": {
-      "general": "多功能大炮，具有良好的射程、伤害和装填速度。其燃烧弹可点燃目标。"
-    }
-  },
-  "brickbreaker": {
-    "name": "裂破",
-    "description": {
-      "general": "这种坚固的大炮可从其钢制炮弹发射擅长摧毁防御工事的爆炸性炮弹。"
-    }
-  },
-  "urbansGreatGun": {
-    "name": "厄本巨炮",
-    "description": {
-      "general": "这门强大的火炮只需开火一次，便会爆发出毁灭性的齐射。它的威力足以撕裂船帆，重创敌人。"
-    }
-  },
-  "bilgefireBarrels": {
-    "name": "舱底火药桶",
-    "description": {
-      "general": "“都给我狠狠的打，伙计们。把那些混蛋杀个片甲不留。”"
-    }
-  },
-  "emergencyLocker": {
-    "name": "应急保险箱",
-    "description": {
-      "general": "\"拿木槌和木板来！不然用你屁股堵那个洞。\""
-    }
-  },
-  "wyrmsBreathChurner": {
-    "name": "龙息喷洒器",
-    "description": {
-      "general": "\"糖、香料，和一切不太美好的事物。\""
-    }
-  },
-  "markOfTheWolf": {
-    "name": "饿狼印记",
-    "description": {
-      "general": "“恶狼在追杀我们。他的双眼穿透浓雾，紧紧盯着我们，就像死亡的凝视。”"
-    }
-  },
-  "fuseFusingStation": {
-    "name": "熔接站",
-    "description": {
-      "general": "“伙计们，这些火药头要保持干燥！别让敌人给点着了。”"
-    }
-  },
-  "ramrodWorkshop": {
-    "name": "撞杆工坊",
-    "description": {
-      "general": "“把手伸进去，祈祷你的朋友不会点燃引线吧。”"
-    }
-  },
-  "breechlockFurnace": {
-    "name": "铸炉（锁膛）",
-    "description": {
-      "general": "“哈！打得太漂亮了！从一头进去，从另一头出来！”"
-    }
-  },
-  "dynamicBallastControl": {
-    "name": "动态压舱物控制",
-    "description": {
-      "general": "\"可怜的吉姆。都叫他别在木材房里打盹了。\""
-    }
-  },
-  "mortarGrinder": {
-    "name": "磨床（迫击炮）",
-    "description": {
-      "general": "用于打磨迫击炮炮管的专用站台，使其以更快速度飞行。"
-    }
-  },
-  "infamyChest": {
-    "name": "恶名宝箱",
-    "description": {
-      "general": "匿名赞助人赠送的宝箱"
-    }
-  },
-  "kingpinChest": {
-    "name": "头目宝箱",
-    "description": {
-      "general": "匿名赞助人赠送的宝箱"
-    }
-  },
-  "silveryRaiderCache": {
-    "name": "古铜掠夺者藏货",
-    "description": {
-      "general": "对海盗的勇气和毅力的绝佳致敬，这一宝藏讲述了战斗与风雨中的故事。"
-    }
-  },
-  "gildedRaiderCache": {
-    "name": "镀金掠夺者藏货",
-    "description": {
-      "general": "这是繁荣和胜利的终极象征，是公海上名副其实的海盗的标志。"
-    }
-  },
-  "summerStashChest": {
-    "name": "夏日储藏箱",
-    "description": {
-      "general": "向雅妮塔上交冰块的奖励。"
-    }
-  },
-  "azureCache": {
-    "name": "蔚蓝储藏",
-    "description": {
-      "general": "蔚蓝舰队商船的储藏箱，似乎能吸收周围热量。"
-    }
-  },
-  "azureStrongbox": {
-    "name": "蔚蓝保险箱",
-    "description": {
-      "general": "蔚蓝舰队精英船只的保险箱，似乎能吸收周围热量。"
-    }
-  },
-  "ogreKingCosmeticsChest": {
-    "name": "食人魔王外观箱",
-    "description": {
-      "general": "可能包含食人魔王荣耀套装外观的华丽宝箱"
-    }
-  },
-  "rodeMaangodinChest": {
-    "name": "神秘宝箱(红月亮女神)",
-    "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
-    }
-  },
-  "bloodiedStrongbox": {
-    "name": "血色保险箱",
-    "description": {
-      "general": "背弃同胞可不止要付出物质上的代价。"
-    }
-  },
-  "recoveredExeterChest": {
-    "name": "埃克塞特回收箱",
-    "description": {
-      "general": "从埃克塞特残骸回收的财宝箱。"
-    }
-  },
-  "aGiftInReturn": {
-    "name": "回礼",
-    "description": {
-      "general": "受赠者不会忘记这份心意馈赠的回礼。"
-    }
-  },
-  "maangodinChest": {
-    "name": "神秘宝箱(月亮女神)",
-    "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
-    }
-  },
-  "reapersCache": {
-    "name": "死神储藏",
-    "description": {
-      "general": "藏有未知珍宝的华丽宝箱。"
-    }
-  },
-  "legacyCache": {
-    "name": "传承储藏",
-    "description": {
-      "general": "包含往季物品的稀有装备合集。"
-    }
-  },
-  "smugglersSupplies": {
-    "name": "走私者补给",
-    "description": {
-      "general": "含特林的特供物资、舵轮专用材料及大量银币。"
-    }
-  },
-  "soleilRoyalTreasureChest": {
-    "name": "皇家太阳号财宝箱",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "whiteAriaChest": {
-    "name": "白色咏叹调号宝箱",
-    "description": {
-      "general": "从伯特兰·胡巴茨的旗舰缴获的宝箱。"
-    }
-  },
-  "blackAriaChest": {
-    "name": "黑色咏叹调号宝箱",
-    "description": {
-      "general": "从阿尔芒·胡巴茨的旗舰缴获的宝箱。"
-    }
-  },
-  "chorusFleetStrongbox": {
-    "name": "合唱舰队保险箱",
-    "description": {
-      "general": "密封保险箱，内含曾属于于贝尔双子的物品。"
-    }
-  },
-  "nianStrongbox": {
-    "name": "年兽保险箱",
-    "description": {
-      "general": "来自利用年兽传说制造恐慌的船只，胜者得其战利品。"
-    }
-  },
-  "opwellingTreasureChest": {
-    "name": "涌潮财宝箱",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "vanderkillsLocker": {
-    "name": "范德基尔的锁箱",
-    "description": {
-      "general": "从臭名昭著的范德基尔那里夺来的箱子。"
-    }
-  },
-  "roninCosmeticsChest": {
-    "name": "浪人外观箱",
-    "description": {
-      "general": "可能包含浪人船套装外观的华丽宝箱"
-    }
-  },
-  "sengokuNightsCosmeticsChest": {
-    "name": "战国之夜外观箱",
-    "description": {
-      "general": "可能包含战国之夜套装外观的华丽宝箱"
-    }
-  },
-  "risenZamaharibuChest": {
-    "name": "神秘宝箱(复生萨马哈利布)",
-    "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
-    }
-  },
-  "risenMegaLestariChest": {
-    "name": "神秘宝箱(复生莱斯塔里)",
-    "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
-    }
-  },
-  "elderShadowbeastChest": {
-    "name": "神秘宝箱(上古影龙)",
-    "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
-    }
-  },
-  "regattaChest": {
-    "name": "竞速赛宝箱",
-    "description": {
-      "general": "授予海上速度之王的奖励。"
-    }
-  },
-  "mooncakeRegattaChest": {
-    "name": "月饼竞速赛宝箱",
-    "description": {
-      "general": "授予海上速度之王的奖励。"
-    }
-  },
-  "vikramsStash": {
-    "name": "维克莱姆的锁箱",
-    "description": {
-      "general": "维克莱姆船上的一个箱子。内含数量较少的战利品。"
-    }
-  },
-  "vikramsLocker": {
-    "name": "维克莱姆的锁箱",
-    "description": {
-      "general": "维克莱姆船上的一个箱子。内含数量可观的战利品。"
-    }
-  },
-  "vikramsStrongbox": {
-    "name": "维克莱姆的保险箱",
-    "description": {
-      "general": "维克莱姆船上的一个沉重箱子。内含大量战利品。"
-    }
-  },
-  "silverPouch": {
-    "name": "一袋银币",
-    "description": {
-      "general": "含有少量银币。"
-    }
-  },
-  "silverBox": {
-    "name": "一盒银币",
-    "description": {
-      "general": "含有适量银币。"
-    }
-  },
-  "silverChest": {
-    "name": "一箱银币",
-    "description": {
-      "general": "含有大量银币。"
-    }
-  },
-  "commanderZhangsChest": {
-    "name": "张提督的宝箱",
-    "description": {
-      "general": "从张提督的旗舰上夺取的宝箱"
-    }
-  },
-  "phoenixsTalonChest": {
-    "name": "凤凰爪号宝箱",
-    "description": {
-      "general": "从凤凰爪号夺取的财宝箱"
-    }
-  },
-  "phoenixsTalonStrongbox": {
-    "name": "凤凰爪号保险箱",
-    "description": {
-      "general": "一个密封严实的保险箱，内藏李天宁生前遗物"
-    }
-  },
-  "ascensionChest": {
-    "name": "升华宝箱",
-    "description": {
-      "general": "用于装备升阶与重铸的高级材料。"
-    }
-  },
-  "materialsChest": {
-    "name": "材料宝箱",
-    "description": {
-      "general": "匿名赞助人赠送的宝箱。"
-    }
-  },
-  "darkDescentSetChest": {
-    "name": "黑暗降临套装箱",
-    "description": {
-      "general": "匿名赞助人赠送的宝箱。"
-    }
-  },
-  "mutuallyAssuredSetChest": {
-    "name": "相互保证套装箱",
-    "description": {
-      "general": "不明赞助人赠送的宝箱。"
-    }
-  },
-  "serpentsDueSetChest": {
-    "name": "巨蛇应得之物套装宝箱",
-    "description": {
-      "general": "不明赞助人赠送的宝箱。"
-    }
-  },
-  "divineInterventionSetChest": {
-    "name": "神圣干预套装箱",
-    "description": {
-      "general": "匿名赞助人赠送的宝箱。"
-    }
-  },
-  "ascendedCache": {
-    "name": "晋阶型贮藏箱",
-    "description": {
-      "general": "内含一系列物品，这些物品可在该贮藏箱打开后进阶。"
-    }
-  },
-  "deathTidesChest": {
-    "name": "死亡之潮宝箱",
-    "description": {
-      "general": "不明赞助人赠送的宝箱。"
-    }
-  },
-  "poseidonsBrew": {
-    "name": "波塞冬之饮",
-    "description": {
-      "general": "一种出乎意料提神的烈酒，可减弱海上热衰竭带来的不适。"
-    }
-  },
-  "largeSilverChest": {
-    "name": "一大箱银币",
-    "description": {
-      "general": "含有巨量银币。"
-    }
-  },
-  "frigateUpgrade": {
-    "name": "护卫舰升级",
-    "description": {
-      "general": "护卫舰的升级组件。",
-      "1": "将护卫舰从0级升至1级。",
-      "2": "将护卫舰从1级升至2级。",
-      "3": "将护卫舰从2级升至3级。",
-      "4": "将护卫舰从3级升至4级。",
-      "5": "将护卫舰从4级升至5级。",
-      "6": "将护卫舰从5级升至6级。",
-      "7": "将护卫舰从6级升至7级。"
-    }
-  },
-  "thunderDragonCannon": {
-    "name": "雷龙炮",
-    "description": {
-      "general": "伴随着炮口如七重雷鸣般的轰鸣，该武器在撕裂传翻的同时召唤闪电攻击。"
-    }
-  },
-  "ashbreaker": {
-    "name": "烬灭者",
-    "description": {
-      "general": "该射石炮得到了法拉祭司的赐福，其造成的燃烧伤害可加快破绽状态效果的累积速度。好斗的船长爱用其火焰攻击与船员进攻联合发动致命打击。"
-    }
-  },
-  "hellgateSerpent": {
-    "name": "地狱门巨蛇",
-    "description": {
-      "general": "每枚鱼雷都可召唤黑暗灵魂，在恢复自身传生生命值的同时造成燃烧伤害。受阻的鱼雷飞行的越远，恢复的船身生命值越多。"
-    }
-  },
-  "stormVigil": {
-    "name": "风暴警戒",
-    "description": {
-      "general": "发射无尽火箭弹雨，造成进水伤害与严重伤害。这件可怕武器由远古海民的工艺锻造而成。"
-    }
-  },
-  "spiritcaller": {
-    "name": "唤灵者",
-    "description": {
-      "general": "部署灵魂信标浮标，可造成伤害，使敌船减速并削弱其装甲，同时使哀泣幽魂更容易受到伤害。任帕仪式师们用它来禁锢游魂，防止他们将船只拖入深渊。"
-    }
-  },
-  "harrowguard": {
-    "name": "荆棘护卫",
-    "description": {
-      "general": "降低击穿效果影响，并对穿透伤害抗性卓越。这款实验性设计最初被同时出售给了荷兰商社和皇家公司——双方都坚称自己获得了独家原型。"
-    }
-  },
-  "wyrmhide": {
-    "name": "龙甲",
-    "description": {
-      "general": "具有卓越的对建筑攻击防御。在静止或半帆状态下防御能力更强。皇家公司占船的骄傲，曾在非洲海岸接连攻克了数座要塞。"
-    }
-  },
-  "novaArma": {
-    "name": "新星甲",
-    "description": {
-      "general": "反应型装甲，会在防御状态下被击中后触发爆炸。来自旧世界的匠心之作，可以保护船只同时反击敌船。"
-    }
-  },
-  "trunnionFurnace": {
-    "name": "炮耳炉",
-    "description": {
-      "general": "优化长炮的炮耳结构，提升炮弹速度，并使每次射击都有几率对附近目标造成连锁伤害。"
-    }
-  },
-  "acceleratedGunrailSmithy": {
-    "name": "加速型火炮轨道工坊",
-    "description": {
-      "general": "定制导轨与锻造装置加速装填并提升辅助伤害。可别停下来欣赏那些飞溅的火花。"
-    }
-  },
-  "ammoPrimingBench": {
-    "name": "弹药整备台",
-    "description": {
-      "general": "一座物资充足的补给站，弹药在此经过手工填装与整备，可提升攻城弹药与维修弹药的效果。"
-    }
-  },
-  "royalSentinel": {
-    "name": "皇家戍卫",
-    "description": {
-      "general": "部署戍卫炸弹浮标，在敌船进入其有效范围时引爆，并使敌船陷入弹震。这些浮标由皇家公司研发，在伏击战中发挥了奇效。"
-    }
-  },
-  "roaringMeg": {
-    "name": "轰鸣梅格炮",
-    "description": {
-      "general": "提升爆炸伤害，使其对建筑物极具杀伤力。该庞然大物可将要塞碾为灰烬，从而扫清荷兰商社防御工事的一切对手。"
-    }
-  },
-  "rocketGrinder": {
-    "name": "磨床（火箭）",
-    "description": {
-      "general": "用于打磨火箭炮管的专用站台，使其以更快速度射击。"
-    }
-  },
-  "moonshineChest": {
-    "name": "私酒宝箱",
-    "description": {
-      "general": "装有私酒船不义之财的宝箱。（有几率获得晋阶型武器）"
-    }
-  },
-  "moonshineStrongbox": {
-    "name": "私酒保险箱",
-    "description": {
-      "general": "装有私酒船不义之财的宝箱。（有几率获得晋阶型武器）"
-    }
-  },
-  "ascendedAshbreakerChest": {
-    "name": "晋阶型烬灭者宝箱",
-    "description": {
-      "general": "内含一件进阶型事件武器。"
-    }
-  },
-  "ascendedEventCache": {
-    "name": "晋阶型事件武器贮藏箱",
-    "description": {
-      "general": "内含一件进阶型事件武器。"
-    }
-  },
-  "topDeckWeaponsAscendedCache": {
-    "name": "顶层武器缓存",
-    "description": {
-      "general": "Top-Deck Weapons Ascended Cache"
-    }
-  },
-  "auxiliaryWeaponsAscendedCache": {
-    "name": "普阶型辅助武器宝箱",
-    "description": {
-      "general": "一套辅助武器，开启时将升华"
-    }
-  },
-  "frontWeaponsAscendedCache": {
-    "name": "顶层武器缓存",
-    "description": {
-      "general": "开启时将升华的前线武器合集"
-    }
-  },
-  "allDeckWeaponsAscendedCache": {
-    "name": "普阶型全甲板武器宝箱",
-    "description": {
-      "general": "一系列全船型武器，打开后即可使用"
-    }
-  },
-  "megafortCache": {
-    "name": "大型要塞贮藏箱",
-    "description": {
-      "general": "超巨公司之间战阵的战利品，掠夺取大型要塞“狼穴”"
-    }
-  },
-  "teulingsMaterialsChest": {
-    "name": "图林的材料宝箱",
-    "description": {
-      "general": "内含一系列稀有制作材料。"
-    }
-  },
-  "teulingsItemAscensionChest": {
-    "name": "图林的物品晋升宝箱",
-    "description": {
-      "general": "内含一系列晋升物品。"
-    }
-  },
-  "teulingsArmorChest": {
-    "name": "图林的装甲宝箱",
-    "description": {
-      "general": "内含一件随机第一年走私贩通行证装甲。",
-      "1": "内含一件随机第一年走私贩通行证装甲。"
-    }
-  },
-  "teulingsFurnitureChest": {
-    "name": "图林的陈设宝箱",
-    "description": {
-      "general": "包含一件随机走私者通行证陈设。",
-      "1": "内含一件随机第一年走私贩通行证陈设。"
-    }
-  },
-  "teulingsWeaponChest": {
-    "name": "图林的武器宝箱",
-    "description": {
-      "general": "包含一件随机走私者通行证武器。",
-      "1": "内含一件随机第一年走私贩通行证武器。"
-    }
-  },
-  "jokaKubwaTreasureChest": {
-    "name": "宝箱(乔卡·库布瓦)",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "dianSinagaTreasureChest": {
-    "name": "宝箱(迪安·西纳加)",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "dirkAnkerenTreasureChest": {
-    "name": "宝箱(迪尔克·安克伦)",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "galvinRocheTreasureChest": {
-    "name": "皇家太阳号财宝箱",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "tangenaRabeTreasureChest": {
-    "name": "宝箱(迪尔克·安克伦)",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "ahPakTreasureChest": {
-    "name": "宝箱(阿帕克)",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "mizerjaTreasureChest": {
-    "name": "宝箱(米泽尔亚)",
-    "description": {
-      "general": "此箱藏有何种财宝？"
-    }
-  },
-  "elDoradoCosmeticsChest": {
-    "name": "黄金国化妆品宝箱",
-    "description": {
-      "general": "一个富裕的箱子，它可能包含作为El Dorado设置一部分的化妆品"
-    }
-  },
-  "hellfestShipCosmeticsChest": {
-    "name": "地狱狂欢节战舰外观宝箱",
-    "description": {
-      "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
-    }
-  },
-  "freemansLetter": {
-    "name": "弗里曼的信件",
-    "description": {
-      "general": "一封带来好消息的信，由恶名昭彰的乌里科·弗里曼船长本人亲笔撰写。"
-    }
-  },
-  "hubacShipComponents": {
-    "name": "胡巴茨船只部件",
-    "description": {
-      "general": "金属在阳光下闪闪发光，仿佛它感觉自己是由特殊材料混合而成。毫无疑问是出自于胡巴茨氏之手。"
-    }
-  },
-  "mysteriousInsignia": {
-    "name": "神秘标记",
-    "description": {
-      "general": "一枚刻有陌生标记的代币，附在寄给胡巴茨兄弟的信中。该标记与一名为超巨公司供应武器的神秘人物有关。"
-    }
-  },
-  "zhangsPlea": {
-    "name": "提督的恳求",
-    "description": {
-      "general": "张提督在抵达印度洋之前写给李天宁的一封信。"
-    }
-  },
-  "seaPeopleTome": {
-    "name": "海民古籍",
-    "description": {
-      "general": "这段译文描述了一种古老的仪式，或许能够削弱维克拉姆那神秘莫测的暗影能力。"
-    }
-  },
-  "shadowbeastsHorn": {
-    "name": "暗影兽之角",
-    "description": {
-      "general": "一只伟大的天界生物的犄角"
-    }
-  },
-  "royalSterilizationTent": {
-    "name": "皇家消毒帐篷",
-    "description": {
-      "general": "配备了皇家公司设计的消毒剂和外科器械，这座维修站能够恢复船员体力并加快维修速度。"
-    }
-  },
-  "atelierDeCuivrage": {
-    "name": "镀铜工坊",
-    "description": {
-      "general": "\n采用精锻铜板加固船体，降低元素弹药的伤害，并在防御敌方炮火时减轻船体承受的压力"
-    }
-  },
-  "rampantCarriageHold": {
-    "name": "狂暴炮架舱",
-    "description": {
-      "general": "此陈设配备强化炮架与特种板材，能提升造成的元素伤害，同时降低受到的元素效果影响。"
-    }
-  },
-  "sandbagPaintingStation": {
-    "name": "沙袋喷涂站",
-    "description": {
-      "general": "一座简陋但实用的工坊，以风沙与鲜血勾勒着对敌人的蔑视。强化防御并进一步激怒敌人发动攻击。"
-    }
-  },
-  "counterthrustLocker": {
-    "name": "反冲锁箱",
-    "description": {
-      "general": "一套巧妙的加固滑轮与支撑索具，能将阻力转化为动力，在冲撞或逆风航行时提升速度。"
-    }
-  },
-  "darktideChest": {
-    "name": "暗潮宝箱",
-    "description": {
-      "general": "吸饱了水的宝箱，来自幽深海渊。"
-    }
-  },
-  "ascendedHellgateSerpentChest": {
-    "name": "晋阶型地狱之门巨蛇宝箱",
-    "description": {
-      "general": "内含一件晋阶型地狱之门巨蛇"
-    }
-  },
-  "ascendedDarktideLullabyEventCache": {
-    "name": "晋阶型事件武器贮藏箱",
-    "description": {
-      "general": "内含一件进阶型事件武器。"
-    }
-  },
-  "contractCache": {
-    "name": "委托贮藏箱",
-    "description": {
-      "general": "留给新手的基础委托贮藏箱"
-    }
-  },
-  "advancedContractCache": {
-    "name": "高级委托贮藏箱",
-    "description": {
-      "general": "为在公海上证明了自己价值的海盗准备的宝藏"
-    }
-  },
-  "locketOfTheDamned": {
-    "name": "暗影的锁链",
-    "description": {
-      "general": "盛载着被太阳王处决者灵魂的容器"
-    }
-  },
-  "tianNingsImperialCloak": {
-    "name": "天宁的御用斗篷",
-    "description": {
-      "general": "由上等丝绸制成，质感丝滑，仿佛威严的巨龙在云间优雅游动。"
-    }
-  },
-  "laPestesHead": {
-    "name": "瘟疫之首",
-    "description": {
-      "general": "瘟疫之王菲利普·拉佩斯特的头颅。当你手握那只袋子时，几乎能听见里面传来闷闷的咒骂声。"
-    }
-  },
-  "laPestesLocker": {
-    "name": "拉普的锁箱",
-    "description": {
-      "general": "除了快乐、难过或两者都能得到什么奖励？"
-    }
-  },
-  "laPestesStrongbox": {
-    "name": "拉佩斯特的保险箱",
-    "description": {
-      "general": "除了快乐、瘟疫或这两者，你还能从中得到什么奖励呢?"
-    }
-  },
-  "wreckedConductorBuoy": {
-    "name": "失事引航浮标",
-    "description": {
-      "general": "热爱之声的胡巴茨双赢得战利品的技术性标记"
-    }
-  },
-  "shadowyBracelet": {
-    "name": "暗影手镯",
-    "description": {
-      "general": "沙杜号船长维克拉姆·拉詹佩戴的手镯。它正散发出一种非自然的光晕。"
-    }
-  },
-  "necklaceOfTheSkyGoddess": {
-    "name": "天空神灵的颈项星系",
-    "description": {
-      "general": "制造被磨碎的外壳和宝石。"
-    }
-  },
-  "flaskOfClearLiquid": {
-    "name": "清澈液体之瓶",
-    "description": {
-      "general": "液体闪闪发光，犹如神之甘露。"
-    }
-  },
-  "gildedCompass": {
-    "name": "金色指南针",
-    "description": {
-      "general": "这是一件棘手的大宗物品，只能赠送给移民和难民局最高级别的成员，然而，它的箭头点有多准确性是有争议的。"
-    }
-  },
-  "zhangsClaw": {
-    "name": "提督之爪",
-    "description": {
-      "general": "指挥官的手臂。金属仍然温暖，手指用血观看。"
-    }
-  },
-  "suaveSeadogCosmeticsChest": {
-    "name": "圆滑老水手外观宝箱",
-    "description": {
-      "general": "一个华丽的箱子，里面可能装有属于舒雅海豹套装的化妆品。"
-    }
-  },
-  "tondraDra": {
-    "name": "血灾",
-    "description": {
-      "general": "击杀敌方目标可恢复防御强度和船身生命值。红岛的掠夺者们始终坚信，他们的战船会流出与故土同色的鲜血，并以此信念奋勇反击。"
-    }
-  },
-  "rivotrasGrace": {
-    "name": "风的恩泽",
-    "description": {
-      "general": "轻型装甲，可提升船只灵活性。对海民而言，风一直是他们船帆最好的守护者。"
-    }
-  },
-  "sumuSunder": {
-    "name": "破雾",
-    "description": {
-      "general": "减少中毒状态效果的持续时间和作用。不破其势，不得其力--对于非洲海岸的海上霸主来说，毒药就是最严厉的老师。"
-    }
-  },
-  "stinkpotStation": {
-    "name": "恶臭弹站",
-    "description": {
-      "general": "可强化剧毒型武器并提升中毒状态效果。这些有毒炸弹充斥着硫磺和锑，由拉佩斯特的各个简陋实验室大量生产。"
-    }
-  },
-  "sheetingWinchConsole": {
-    "name": "调帆绞车控制台",
-    "description": {
-      "general": "提升武器伤害和航行速度。此绞盘驱动式绞车由荷兰商社设计，可实现快速调整船帆与灵活操控。"
-    }
-  },
-  "gimbalRingStores": {
-    "name": "常平环仓",
-    "description": {
-      "general": "可提升半加农炮类武器的射程和炮弹速度。此炮耳架设式环由皇家公司设计，可使半加农炮在船只俯仰和横滚中保持水平。"
-    }
-  },
-  "siphonFurnace": {
-    "name": "汲毒熔炉",
-    "description": {
-      "general": "可提升剧毒型武器的射程和其炮弹速度。乌瓜纳人用其在加热后投掷由颠茄和砒霜调制的腐蚀性油液。"
-    }
-  },
-  "causticSpallStation": {
-    "name": "腐蚀溅液站",
-    "description": {
-      "general": "加强进水伤害和进水状态效果。珐拉氏族为破坏船身与腐蚀内部船梁而打造的陈设。"
-    }
-  },
-  "leydenVaultArray": {
-    "name": "莱顿储能阵列",
-    "description": {
-      "general": "可加强闪电型武器并提升雷暴状态效果。由影龙遗骸制成的箔纸衬里玻璃罐子，可在导电后释放高压电弧。"
-    }
-  },
-  "cascadeCoilBench": {
-    "name": "串联线圈台",
-    "description": {
-      "general": "可提升海洋之火武器的射程和伤害输出。其喷火嘴上缠绕着铜线圈，可使石脑油和硫磺粉尘发生二次爆炸。"
-    }
-  },
-  "curareCrushingBench": {
-    "name": "箭毒碾制台",
-    "description": {
-      "general": "可提升中毒状态效果的持续时间和充能速度。将含麻痹毒素的箭毒膏容器装入碎片弹中即可制成。"
-    }
-  },
-  "virulentAccord": {
-    "name": "猛毒契约",
-    "description": {
-      "general": "这件致命武器可向附近敌人释放毒气。战争之火诞自契约与毒药，向来由作为昔日盟友的敌人点燃。"
-    }
-  },
-  "heavenlyThunder": {
-    "name": "天雷",
-    "description": {
-      "general": "这件武器会在充能后发射闪电，可连锁攻击多个目标。天雷震震，海洋俯首，风暴也须听令。"
-    }
-  },
-  "theRotmouth": {
-    "name": "腐烂之口",
-    "description": {
-      "general": "这件武器受到了诅咒，可在命中目标后削弱防御强度并对中毒目标造成额外伤害。它每一次发射，都仿佛瘟疫之王咳嗽着散播瘟疫。"
-    }
-  },
-  "blightbringer": {
-    "name": "祸害使者",
-    "description": {
-      "general": "这件追击武器会在命中后留下毒性痕迹并产生毒云。据说每枚弹药中都装有拉佩斯特本人亲手炼制的易爆混合物。"
-    }
-  },
-  "theDrownedOne": {
-    "name": "溺者",
-    "description": {
-      "general": "这件远程武器可在命中弱点后施加进水状态效果并造成严重伤害。海民相信用其瞄准时会受到海上迷途者的指引。"
-    }
-  },
-  "frostwail": {
-    "name": "霜啸",
-    "description": {
-      "general": "延迟炮弹，可在命中后爆炸，对爆破范围内的目标造成毁灭性伤害。据说其尖锐爆炸声来自黑暗彼岸的受困者。"
-    }
-  },
-  "sloopOfWarUpgrade": {
-    "name": "战争单桅炮艇升级",
-    "description": {
-      "general": "战争单桅炮艇的升级组件",
-      "1": "将散毒船从0级升至1级。",
-      "2": "将散毒船从1级升至2级。",
-      "3": "将散毒船从2级升至3级。",
-      "4": "将散毒船从3级升至4级。",
-      "5": "将散毒船从4级升至5级。",
-      "6": "将散毒船从5级升至6级。",
-      "7": "将散毒船从6级升至7级。"
-    }
-  },
-  "ascendedRequiemOfTheLostEventCache": {
-    "name": "升华事件箱子（失落者的安魂曲）",
-    "description": {
-      "general": "内含一件进阶型事件武器。"
-    }
-  },
-  "ascendedTheDrownedOneChest": {
-    "name": "晋升溺水宝箱",
-    "description": {
-      "general": "一个含有未知宝藏的神秘箱。有些人声称已经听到从内部穿着。"
-    }
-  },
-  "exoticArmorAscendedCache": {
-    "name": "异域护甲升华宝库",
-    "description": {
-      "general": "一套异域盔甲收藏，开箱即获得晋升"
-    }
-  },
-  "hauntedReapersCache": {
-    "name": "死神的藏宝箱",
-    "description": {
-      "general": "一个装饰华丽的箱子，里面装着一些不为人知的珍宝。有人声称曾听到从里面传来的鬼魂般的低语声。"
-    }
-  },
-  "gildedProtectorChest": {
-    "name": "镀金守护者宝箱",
-    "description": {
-      "general": "一个装有升华铠甲的箱子，是狩猎深渊致命怪物者的福音。"
-    }
-  },
-  "slayersChest": {
-    "name": "屠夫的宝箱",
-    "description": {
-      "general": "一个箱子，里面可能含有防弹武器，一个猎人从深渊中猎到致命怪物的箱子。"
-    }
-  },
-  "gildedSlayersChest": {
-    "name": "镀金屠夫宝箱",
-    "description": {
-      "general": "一个包含酸武器的箱子，一个从深渊中猎杀致命怪物的箱子。"
-    }
-  },
-  "laPestesLockerMythic": {
-    "name": "瘟疫的锁箱（神话级）",
-    "description": {
-      "general": "除了快乐、难过或两者都能得到什么奖励？"
-    }
-  },
-  "emeraldSkullTalisman": {
-    "name": "绿宝石头塔里斯曼",
-    "description": {
-      "general": "从非洲水深挖出的一个绿宝石，由Ungwana手工艺者形成一个美丽的水晶。 认为通过缓解灾难的痛苦来帮助受难者。"
-    }
-  },
-  "eerieRing": {
-    "name": "诡异之环",
-    "description": {
-      "general": "一种可怕的卢布，用鲜明的伤疤与石头相撞。 看一看那些正在拉动的红宝石会在你的心中激起一种痛苦感。"
-    }
-  },
-  "seaOfKingdomsCosmeticsChest": {
-    "name": "王国之海化妆品柜",
-    "description": {
-      "general": "一个富裕的箱子，它可能包含属于王国海的化妆品"
-    }
-  },
-  "harbingersStrongbox": {
-    "name": "锦标赛强箱",
-    "description": {
-      "general": "蔚蓝舰队精英船只的保险箱，似乎能吸收周围热量。"
-    }
-  },
-  "ascendedFrostwailChest": {
-    "name": "寒霜宝箱",
-    "description": {
-      "general": "一个含有未知宝藏的神秘箱。有些人声称已经听到从内部穿着。"
-    }
-  },
-  "ascendedAzureSolsticeEventCache": {
-    "name": "转生事件保险箱 (蔚蓝冬至)",
-    "description": {
-      "general": "内含一件进阶型事件武器。"
-    }
-  },
-  "watersOfGowaSetChest": {
-    "name": "戈瓦之水套装宝箱",
-    "description": {
-      "general": "一座华美的箱柜，内藏属于戈瓦之水套装的化妆品"
-    }
-  },
-  "corvetteUpgrade": {
-    "name": "科维特升级",
-    "description": {
-      "general": "科维特的船只升级。",
-      "1": "将科维特从0级升至1级。",
-      "2": "将科维特从1级升至2级。",
-      "3": "将科维特从2级升至3级。",
-      "4": "将科维特从3级升至4级。",
-      "5": "将科维特从4级升至5级。",
-      "6": "将科维特从5级升至6级。",
-      "7": "将科维特从6级升至7级。"
-    }
-  },
-  "foundingCelebratoryChest": {
-    "name": "首饰宝箱",
-    "description": {
-      "general": "纪念基金会所面临挑战的箱子。"
-    }
-  },
-  "krakenInkGlands": {
-    "name": "克拉肯毒腺",
-    "description": {
-      "general": "克拉肯的毒腺，内含足以腐蚀船体与血肉的强效腐蚀性毒液"
-    }
-  },
-  "krakenChest": {
-    "name": "神秘宝箱(克拉肯)",
-    "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
-    }
-  },
-  "livingBastion": {
-    "name": "以身铸城",
-    "description": {
-      "general": "未受到伤害时，装甲级别会得到提升。其表面细微的起伏如同呼吸，斑驳的镀层与褪色的金纹在层叠间隐隐发光。"
-    }
-  },
-  "mantleOfTheDeep": {
-    "name": "深海斗篷",
-    "description": {
-      "general": "降低海怪攻击造成的伤害。用从深海巨兽身上剥取的兽皮制成，出自波涛之下维系平衡的守护者之手。"
-    }
-  },
-  "tidesReprieve": {
-    "name": "潮汐庇护",
-    "description": {
-      "general": "激活脉冲，为盟友恢复船身生命值。由昔日帝国的粗犷铁板与厚重铆钉锻造而成。"
-    }
-  },
-  "invertedFlagRack": {
-    "name": "倒挂旗架",
-    "description": {
-      "general": "对被嘲讽敌人的武器伤害提升。向任何胆敢靠近的敌人发出明确警告：“你们的旗帜已经倒下，接下来就是亲尝苦果“。"
-    }
-  },
-  "apothecaryToolBench": {
-    "name": "药剂工具台",
-    "description": {
-      "general": "船只航行时对中毒状态效果的防御提升。由一名任帕草药师配制而成。内含针对水母蜇伤以及发酵海藻中毒的解毒剂。"
-    }
-  },
-  "anatomyCabinet": {
-    "name": "解剖标本柜",
-    "description": {
-      "general": "对海怪攻击的防御强度增强。有人坚信，其中蕴含的知识曾让许多人死里逃生。"
-    }
-  },
-  "blubberWorks": {
-    "name": "鲸脂工坊",
-    "description": {
-      "general": "对海怪造成伤害后使舷侧炮的装填时间降低。海民相信，生物的精华可以用于影响或伤害他人。"
-    }
-  },
-  "drowningCabinet": {
-    "name": "溺水匣子",
-    "description": {
-      "general": "受到严重伤害的目标受进水型武器伤害提升。机智的海盗们改良了设计，使水能够够快、更多地流进敌人的船舱。"
-    }
-  },
-  "ballistaMountSmithy": {
-    "name": "弩炮架工坊",
-    "description": {
-      "general": "增强弩炮武器并使对受损目标造成的伤害提升。其设计原型源自锡兰加勒古城所使用的攻城架。"
-    }
-  },
-  "blightmaw": {
-    "name": "疫害之噬",
-    "description": {
-      "general": "由拉佩斯特手下醉心于瘟疫的的炼金术士们设计。发射的炮弹包裹着毒素，能附着在敌舰船体上，腐蚀其防御，使其更难抵御后续攻击。"
-    }
-  },
-  "stormtongue": {
-    "name": "风暴之舌",
-    "description": {
-      "general": "连续发射闪电弹和爆破弹。炮管上镌刻着召唤风暴的符文与凤凰的印记。"
-    }
-  },
-  "reachwarden": {
-    "name": "远望卫士",
-    "description": {
-      "general": "专为远距离辅助设计。能发射尖端镶嵌晶体的射弹，为盟友提供恢复脉冲。"
-    }
-  },
-  "celestialBloom": {
-    "name": "Celestial Bloom",
-    "description": {
-      "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
-    }
-  },
-  "woundcaller": {
-    "name": "唤疮者",
-    "description": {
-      "general": "命中时，其弹头能释放出令人发狂的共鸣脉冲，据传，这古老的频率是野兽们濒死时嘶吼的回响。被击中的船只会陷入癫狂状态，在盲目冲撞中损毁自身船体。"
-    }
-  },
-  "cloudbinder": {
-    "name": "缚云者",
-    "description": {
-      "general": "每枚弹头上都镌刻着召唤风暴的符文，且带有玉石电容器，使武器能够在多个敌人之间穿梭。连接的目标越多，风暴就越狂烈，如同天穹的怒火轰隆作响。"
-    }
-  },
-  "foundersCache": {
-    "name": "创立者贮藏箱",
-    "description": {
-      "general": "一个华美的箱子，藏有数年间无数强敌留下的战利品。"
-    }
-  },
-  "zamaharibuChest": {
-    "name": "神秘宝箱 (扎玛哈里布)",
-    "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
-    }
-  },
-  "megaLestariChest": {
-    "name": "神秘宝箱 (梅加·莱斯塔里)",
-    "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
-    }
-  },
-  "zamaharibusEye": {
-    "name": "扎玛哈里布之眼",
-    "description": {
-      "general": "从一个古老的野兽的套接字中塞进。其无情的洞穴在你中注入了原始的恐惧，好像你正在像猎物一样被猎物。"
-    }
-  },
-  "megaLestarisEye": {
-    "name": "莱斯塔里之眼",
-    "description": {
-      "general": "从一个难以捉摸的主食头部取走，凶猛无比。"
-    }
-  },
-  "crazedNianStrongbox": {
-    "name": "Crazed Nian Strongbox",
-    "description": {
-      "general": "A chest from the ship that used the fabled local legend of the Crazed Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
-    }
-  },
-  "ascendedBlightmawChest": {
-    "name": "Ascended Blightmaw Chest",
-    "description": {
-      "general": "一个含有未知宝藏的神秘箱。有些人声称已经听到从内部穿着。"
-    }
-  },
-  "ascendedLegendOfTheNianEventCache": {
-    "name": "Ascended Event Cache (Legend of the Nian)",
-    "description": {
-      "general": "内含一件进阶型事件武器。"
-    }
-  },
-  "galleonUpgrade": {
-    "name": "Galleon Upgrade",
-    "description": {
-      "general": "Ship upgrade for the Galleon.",
-      "1": "将盖伦从0级升至1级。",
-      "2": "将盖伦从1级升至2级。",
-      "3": "将盖伦从2级升至3级。",
-      "4": "将盖伦从3级升至4级。",
-      "5": "将盖伦从4级升至5级。",
-      "6": "将盖伦从5级升至6级。",
-      "7": "将盖伦从6级升至7级。"
-    }
-  },
-  "hullcarver": {
-    "name": "Hullcarver",
-    "description": {
-      "general": "A high fire-rate weapon that devastates targets with multiple shots."
-    }
-  },
-  "atmasToll": {
-    "name": "Atma's Toll",
-    "description": {
-      "general": "Inscribed with an ancient mystical script, this sinister weapon is capable of reaving its enemies while restoring its master."
-    }
-  },
-  "blightbearer": {
-    "name": "Blightbearer",
-    "description": {
-      "general": "A precise Poison weapon, prized by La Peste's lackeys for its strength against fortified ships."
-    }
-  },
-  "soulsnatcher": {
-    "name": "Soulsnatcher",
-    "description": {
-      "general": "Recovers Hull Health depending on how many enemies hit with a single projectile. A cursed weapon forged in the forgotten rituals of the Fara."
-    }
-  },
-  "deBreker": {
-    "name": "De Breker",
-    "description": {
-      "general": "A heavy bombardment weapon, coveted by the Dutch for its devastating fire and ability to slow down enemies."
-    }
-  },
-  "floodbound": {
-    "name": "Floodbound",
-    "description": {
-      "general": "A portion of weapon damage dealt to the Brace Health of nearby Flooded targets is converted back into Hull Health, turning any surrounding chaos and rising water into a steady source of recovery."
-    }
-  },
-  "needleShield": {
-    "name": "Needle Shield",
-    "description": {
-      "general": "Bracing against hits from Punctured targets strengthens your defenses and Piercing weapon damage for a short time with this armor, which uses your enemy's weakness to boost your own protection."
-    }
-  },
-  "drownedOrgan": {
-    "name": "Drowned Organ",
-    "description": {
-      "general": "Enhances Mending weapons while the ship is at lower Hull Health. An ancient organ crafted from rust-caked pipes, found in the bowels of a Compagnie warship."
-    }
-  },
-  "royalRammingWorks": {
-    "name": "Royal Ramming Works",
-    "description": {
-      "general": "A ramming-focused royal armament that rapidly builds Punctured status, slows targets, amplifies piercing damage, and passivly weakens nearby enemies."
-    }
-  },
-  "floodwardenStation": {
-    "name": "Floodwarden Station",
-    "description": {
-      "general": "Consecutive hits increase Flooding and damage. Missing resets stacks. Flooded enemies deal less damage and remain flooded longer."
-    }
-  },
-  "hullMarkersTable": {
-    "name": "Hull Marker's Table",
-    "description": {
-      "general": "Broadside hits may leave an Impact Mark, turning the target into a damage magnet for cannon fire. Marked hulls take increased cannonball damage, while every cannonball weapon aboard quietly boosts your secondary damage."
-    }
-  },
-  "physiciansLedger": {
-    "name": "Physician's Ledger",
-    "description": {
-      "general": "Enhances the effectiveness of Mending weapons after prolonged use. Others have ventured further, studying the effects of shot sizes, angles, and bodily entry points."
-    }
-  },
-  "lAiguille": {
-    "name": "L'Aiguille",
-    "description": {
-      "general": "A precise weapon of French design that shatters the hulls of their foes."
-    }
-  },
-  "mortarPowderbench": {
-    "name": "Mortar Powderbench",
-    "description": {
-      "general": "Enhances Mortar Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Mortar shells mid-flight."
-    }
-  },
-  "rocketPowderbench": {
-    "name": "Rocket Powderbench",
-    "description": {
-      "general": "Enhances Rocket Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Rockets mid-flight."
-    }
-  },
-  "springloaderPowderbench": {
-    "name": "Springloader Powderbench",
-    "description": {
-      "general": "Enhances Springloader Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Buoys mid-flight."
-    }
-  },
-  "verdantHuntsChest": {
-    "name": "Verdant Hunt's Chest",
-    "description": {
-      "general": "An opulent chest which may contain cosmetics from The Bohemian Set and Jade Prowler Set."
-    }
-  }
 }
