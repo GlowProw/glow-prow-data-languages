@@ -2612,7 +2612,7 @@
   "bahariNeckwear": {
     "name": "Bahari Neckspe",
     "description": {
-      "general": "乌瑟珀皇后区的崛起将Ungwanan海军分成了支持和反对她的团体。"
+      "general": "篡位女王的崛起使昂格瓦纳海军分裂成支持她和反对她的两派"
     }
   },
   "fadedRedSash": {
@@ -8136,7 +8136,7 @@
     }
   },
   "sicklyTouch": {
-    "name": "按下",
+    "name": "病态的触感",
     "description": {
       "general": "从内置旋转"
     }
@@ -9648,9 +9648,9 @@
     }
   },
   "goldenStride": {
-    "name": "Golden Stride",
+    "name": "金条线",
     "description": {
-      "general": "Even gold comes from the deep earth"
+      "general": "甚至黄金也来自深土。"
     }
   },
   "realmsGate": {
@@ -13416,7 +13416,7 @@
     }
   },
   "vikramsTurban": {
-    "name": "维克拉姆的Turban",
+    "name": "维克拉姆头颅",
     "description": {
       "general": "简洁度受尊敬的"
     }
@@ -17624,7 +17624,7 @@
   "bloomstrike": {
     "name": "Bloomstrike",
     "description": {
-      "general": "\"Pretty enough for a party, sharp enough to end one.\""
+      "general": "“对一方当事人来说足够精准，足以结束。”"
     }
   },
   "finalNotes": {
@@ -19860,9 +19860,9 @@
     }
   },
   "serpentsTouch": {
-    "name": "Serpent's Touch",
+    "name": "服务器触摸器",
     "description": {
-      "general": "Power may well come at a cost"
+      "general": "力量很可能会付出代价。"
     }
   },
   "burrowingMadness": {
@@ -21510,787 +21510,787 @@
     }
   },
   "theKeepersWay": {
-    "name": "The Keeper's Way",
+    "name": "Keeper的路径",
     "description": {
-      "general": "A trail of white lilies left in their wake"
+      "general": "在他们身上留下的白丝痕迹"
     }
   },
   "wrathskull": {
     "name": "Wrathskull",
     "description": {
-      "general": "Dark jaws rise to claim the living"
+      "general": "深色夹克升起才能维持生活"
     }
   },
   "bonesEdge": {
-    "name": "Bone's Edge",
+    "name": "骨头边缘",
     "description": {
-      "general": "Signaling the dawn of a new epoch"
+      "general": "标志着一个新纪元的渐变"
     }
   },
   "fossilMoss": {
-    "name": "Fossil Moss",
+    "name": "化石Moss",
     "description": {
-      "general": "Shades of prehistory"
+      "general": "史前的阴影"
     }
   },
   "stormOil": {
-    "name": "Storm Oil",
+    "name": "暴雨",
     "description": {
-      "general": "Darker than the deepest trench"
+      "general": "深海战壕比最深的战壕更暗了"
     }
   },
   "rubyOfTheReefs": {
     "name": "Ruby of the Reefs",
     "description": {
-      "general": "A song as sharp as swords; sweet as stolen rum"
+      "general": "一首像剑一样锋利的歌曲；甜美为被盗朗姆酒。"
     }
   },
   "broodfang": {
-    "name": "Broodfang",
+    "name": "布罗夫文",
     "description": {
-      "general": "Born in flame, sharpened by betrayal"
+      "general": "出生于火焰中，被背叛者锐化"
     }
   },
   "scalemark": {
-    "name": "Scalemark",
+    "name": "缩放栏",
     "description": {
-      "general": "Etched in blood, woven like warning"
+      "general": "吃了血，编织了类似警告"
     }
   },
   "bladelitBrood": {
     "name": "Bladelit Brood",
     "description": {
-      "general": "Bronze-blooded, hammered in dragonfire"
+      "general": "布满的青铜，夹在龙火焰中"
     }
   },
   "spitefulDrake": {
-    "name": "Spiteful Drake",
+    "name": "有刺的拉克",
     "description": {
-      "general": "Snarls at the wind, thirsts for conquest"
+      "general": "跳风，渴望征服的"
     }
   },
   "wyrmReckoner": {
-    "name": "Wyrm Reckoner",
+    "name": "韦尔姆考克",
     "description": {
-      "general": "Twin heads, bound to no master"
+      "general": "双头, 绑定到没有管理员"
     }
   },
   "broodSovereign": {
-    "name": "Brood Sovereign",
+    "name": "Brood 主权组织",
     "description": {
-      "general": "Three-headed flight, flame, fury"
+      "general": "三头飞航，飞弹，发火，发怒。"
     }
   },
   "ashvenom": {
-    "name": "Ashvenom",
+    "name": "阿什文诺姆",
     "description": {
-      "general": "Charred steel, slick with spite"
+      "general": "脱水钢，切碎尽管有"
     }
   },
   "dragonwind": {
-    "name": "Dragonwind",
+    "name": "龙风",
     "description": {
-      "general": "Screams defiance, carved in warsteel"
+      "general": "屏幕抗性，涂在军钢中"
     }
   },
   "firemist": {
-    "name": "Firemist",
+    "name": "消防员",
     "description": {
-      "general": "Dragon mist and lightning"
+      "general": "龙线兵和闪电"
     }
   },
   "hulongHavoc": {
     "name": "Hulong Havoc",
     "description": {
-      "general": "\"Let dragonfire burn the lot of them!\""
+      "general": "“让龙火烧死他们！”"
     }
   },
   "dracoNian": {
     "name": "Draco Nian",
     "description": {
-      "general": "A declaration of fiery fury"
+      "general": "1. 火灾宣言"
     }
   },
   "shen": {
     "name": "Shen",
     "description": {
-      "general": "Stuns ship rats to death with her cuteness"
+      "general": "大鼠身上的小鼠身上死了"
     }
   },
   "shackleSnap": {
-    "name": "Shackle Snap",
+    "name": "锁定捕获器",
     "description": {
-      "general": "One bite is enough to take them all out"
+      "general": "只需要一件便足以将他们全部带出去了"
     }
   },
   "guzzletooth": {
-    "name": "Guzzletooth",
+    "name": "蜂窝牙",
     "description": {
-      "general": "Spew the seas with fire and ash"
+      "general": "用火力和灰度来使海域速度"
     }
   },
   "gatorsHide": {
-    "name": "Gator's Hide",
+    "name": "Gater的隐藏",
     "description": {
-      "general": "Scars of a beast that survives the hunt"
+      "general": "猎物生存下来的野兽的火车"
     }
   },
   "deathRoll": {
-    "name": "Death Roll",
+    "name": "死亡卷轴",
     "description": {
-      "general": "Once caught, your prey shall never surface"
+      "general": "一旦抓获，你的猎物就永远不会面了"
     }
   },
   "crimsonSplash": {
-    "name": "Crimson Splash",
+    "name": "克里斯森喷溅型药水",
     "description": {
-      "general": "Rage unfurls, warning foes of your bite"
+      "general": "释放出风雨，警告你的虫子的敌人"
     }
   },
   "mawUnleashed": {
-    "name": "Maw Unleashed",
+    "name": "Maw 已取消leashed",
     "description": {
-      "general": "Strike first, rend deep, never let go"
+      "general": "先回击，转动深度，永远不要再继续"
     }
   },
   "snarlweave": {
-    "name": "Snarlweave",
+    "name": "斯纳尔尔交织物",
     "description": {
-      "general": "Tangled designs for sails that scream"
+      "general": "对那些屏幕的海豹进行了调整的设计"
     }
   },
   "frenziedFrown": {
-    "name": "Frenzied Frown",
+    "name": "Frenzed Frown",
     "description": {
-      "general": "The color of madness itself"
+      "general": "疯狂的颜色"
     }
   },
   "gunmetalGrin": {
-    "name": "Gunmetal Grin",
+    "name": "枪榴弹Grin",
     "description": {
-      "general": "A sheen that dares foes to shoot first"
+      "general": "敢于敌人先开枪的一只羊子"
     }
   },
   "screechOfMayhem": {
-    "name": "Screech of Mayhem",
+    "name": "马耶姆的屏幕",
     "description": {
-      "general": "Teeth bared, barrels lit"
+      "general": "牙齿已满，枪管闪电"
     }
   },
   "theReapersCall": {
-    "name": "The Reaper's Call",
+    "name": "Reaper的呼叫",
     "description": {
-      "general": "Let death's pall spread far and wide"
+      "general": "让死亡坑遍布广域。"
     }
   },
   "scythesHonour": {
-    "name": "Scythe's Honour",
+    "name": "Scythe的荣誉：",
     "description": {
-      "general": "Sharp twists and sharper blades"
+      "general": "锋利的扭曲和锐利的斜线"
     }
   },
   "darkestWeave": {
-    "name": "Darkest Weave",
+    "name": "最暗的Weave",
     "description": {
-      "general": "A grim set of colors, indeed"
+      "general": "一组严酷的颜色，甚至是"
     }
   },
   "helenaFromHell": {
-    "name": "Helena from Hell",
+    "name": "海伦娜从头盔",
     "description": {
-      "general": "Death never looked so lovely"
+      "general": "死亡从未如此可爱。"
     }
   },
   "graveyardGloss": {
-    "name": "Graveyard Gloss",
+    "name": "Graveard Gloss",
     "description": {
-      "general": "Finished with gloom and despair"
+      "general": "充满阴暗和绝望结束"
     }
   },
   "doomcaller": {
     "name": "Doomcaller",
     "description": {
-      "general": "\"Flee from my wrath, peasant\""
+      "general": "“我的车队，农民”"
     }
   },
   "boundFate": {
-    "name": "Bound Fate",
+    "name": "有绑定找到",
     "description": {
-      "general": "A real mood lightener for your deck"
+      "general": "您的牌组的真正情感光明者"
     }
   },
   "blackenedOaths": {
-    "name": "Blackened Oaths",
+    "name": "被黑色的浴室",
     "description": {
-      "general": "Feathers of a magic raven. The brim weeps salt."
+      "general": "魔法狂热者。贿赂腐烂盐。"
     }
   },
   "grimReflection": {
-    "name": "Grim Reflection",
+    "name": "Grim 反射效果",
     "description": {
-      "general": "The eyes behind burned away long ago"
+      "general": "背后的眼睛在很久以前就被烧掉了"
     }
   },
   "soulsight": {
-    "name": "Soulsight",
+    "name": "灵魂光",
     "description": {
-      "general": "Vivid visions of this world and the next"
+      "general": "对这个世界和下一个世界的生动展望"
     }
   },
   "gallowsGrace": {
-    "name": "Gallow's Grace",
+    "name": "格洛德的Grace",
     "description": {
-      "general": "Too fine for the grave, too cursed for the living"
+      "general": "这个坟墓太好了，过于蒙蔽了自己的生活"
     }
   },
   "lacedLament": {
-    "name": "Laced Lament",
+    "name": "Laced Laced Latment",
     "description": {
-      "general": "Flutters when a soul passes near"
+      "general": "灵魂通过附近时闪光灯"
     }
   },
   "gravediggersGrip": {
-    "name": "Gravedigger's Grip",
+    "name": "Gravedigger的手枪",
     "description": {
-      "general": "Iron and ash, jointed like sorrow"
+      "general": "铁和灰，像悲伤一样加入"
     }
   },
   "littleMercies": {
-    "name": "Little Mercies",
+    "name": "小工具",
     "description": {
-      "general": "Buckled thrice, for each promise broken"
+      "general": "圆桶大米，每次许诺都被破坏了"
     }
   },
   "deadkinsPride": {
-    "name": "Deadkin's Pride",
+    "name": "死者自豪。",
     "description": {
-      "general": "Dark cloth, sewn with mourning thread"
+      "general": "暗色布，带着悲伤线条"
     }
   },
   "echoNoir": {
     "name": "Echo Noir",
     "description": {
-      "general": "Silent steps on forgotten shores"
+      "general": "在被遗忘的海岸上采取沉默的步骤"
     }
   },
   "darkSepulchre": {
     "name": "Dark Sepulchre",
     "description": {
-      "general": "Shadows seep into the timbers, the scent of iron and salt"
+      "general": "阴影渗入木材、铁和盐类"
     }
   },
   "huntersVeil": {
-    "name": "Hunter's Veil",
+    "name": "猎人Veil",
     "description": {
-      "general": "Black silk kissed by moonlight. Whispers of romance and ruin."
+      "general": "黑丝由月亮冲刺。漫游和废墟的骑士。"
     }
   },
   "thornsInBloom": {
-    "name": "Thorns in Bloom",
+    "name": "血液中的茅草数",
     "description": {
-      "general": "Barbs and blossoms coil, binding prey in beauty and cruelty alike"
+      "general": "野蛮和暴光的焦炭，在美丽和残酷中绑定猎物。"
     }
   },
   "wreathedSkull": {
-    "name": "Wreathed Skull",
+    "name": "可怕的头骨",
     "description": {
-      "general": "A grin wreathed in roses"
+      "general": "在屋顶上进行了网格刺绣。"
     }
   },
   "azureRogue": {
     "name": "Azure Rogue",
     "description": {
-      "general": "\"I hunt where even moonlight fears to shine.\""
+      "general": "“我在哪怕是月光恐慌的地方打猎。”"
     }
   },
   "moonlitShadow": {
-    "name": "Moonlit Shadow",
+    "name": "月份阴影",
     "description": {
-      "general": "Sail unseen. Strike from the dark."
+      "general": "未看见。从黑暗中罢工。"
     }
   },
   "phantomsWake": {
-    "name": "Phantom's Wake",
+    "name": "Phantom之唤醒",
     "description": {
-      "general": "Silent as the abyss, and just as deadly"
+      "general": "像深渊一样静默，同样致命的"
     }
   },
   "deathGripSP": {
     "name": "死亡之握",
     "description": {
-      "general": "Choke your foes with deadly winds"
+      "general": "用致命的风气选择你的敌人"
     }
   },
   "boucanier": {
     "name": "Boucanier",
     "description": {
-      "general": "\"Lawless. Ruthless. Only the wind has seen my face.\""
+      "general": "“无法无天。只有风见到了我的脸。”"
     }
   },
   "bleuFury": {
-    "name": "Bleu Fury",
+    "name": "布勒富里",
     "description": {
-      "general": "A stunning show of Compagnie colors"
+      "general": "Compagnie 颜色令人惊叹的显示"
     }
   },
   "oranjeWinds": {
     "name": "Oranje Winds",
     "description": {
-      "general": "A flaming aura worthy of a DMC win"
+      "general": "一个值得DMC 赢得的火焰光环"
     }
   },
   "frostflare": {
     "name": "Frostflare",
     "description": {
-      "general": "A royal aura worthy of the merciless Compagnie"
+      "general": "值得无情美容的皇家光环"
     }
   },
   "flamewake": {
-    "name": "Flamewake",
+    "name": "闪光唤醒",
     "description": {
-      "general": "The blazing pride of the DMC"
+      "general": "DMC 令人惊叹的骄傲。"
     }
   },
   "auricPride": {
-    "name": "Auric Pride",
+    "name": "奥里克骄傲的",
     "description": {
-      "general": "\"A lion without its pride quickly becomes prey.\""
+      "general": "“没有自豪感的狮子很快就成为猎物。”"
     }
   },
   "sablesilkCloak": {
     "name": "Sablesilk Cloak",
     "description": {
-      "general": "Blind your foes with your immense fortune"
+      "general": "将你的敌人与你的巨大幸运混为一谈。"
     }
   },
   "lionheartPlate": {
-    "name": "Lionheart Plate",
+    "name": "狮心胸甲",
     "description": {
-      "general": "Glory belongs to those who dare"
+      "general": "Glory 属于那些胆怯的人"
     }
   },
   "fortunesRoar": {
-    "name": "Fortune's Roar",
+    "name": "财富之物的Roar",
     "description": {
-      "general": "\"I seize the seas and siphon its gold.\""
+      "general": "“我夺取海域和金眼。”"
     }
   },
   "coinkeeper": {
-    "name": "Coinkeeper",
+    "name": "硬币守卫者",
     "description": {
-      "general": "\"Always keep your paws on the prize, Captain.\""
+      "general": "“总是将你的手套留在奖牌上。”"
     }
   },
   "executionersMark": {
-    "name": "Executioner's Mark",
+    "name": "执行者标记",
     "description": {
-      "general": "\"You burned my past. Now choke on my smoke.\""
+      "general": "\"你烧毁了我过去。现在把我的烟雾压住了。\""
     }
   },
   "grimsGaze": {
-    "name": "Grim's Gaze",
+    "name": "格利姆的格子",
     "description": {
-      "general": "\"In the thick fog, I watch you... waiting.\""
+      "general": "\"在厚雾中，我正在观看你... 等待。\""
     }
   },
   "hemlockVeil": {
     "name": "Hemlock Veil",
     "description": {
-      "general": "\"Take a deep breath, matey. It's your last one.\""
+      "general": "“吃深呼吸，太棒。这是你最后一次。”"
     }
   },
   "venomsapLacquer": {
     "name": "Venomsap Lacquer",
     "description": {
-      "general": "Every rib gleams with the promise of revenge"
+      "general": "每个有报复承诺的步枪"
     }
   },
   "embersOfRevenge": {
-    "name": "Embers of Revenge",
+    "name": "Elachof Reverge",
     "description": {
-      "general": "\"Some fires never die... they simply wait to devour you.\""
+      "general": "“有些火焰永远不会死亡……他们只是等着你。”"
     }
   },
   "flamingGallows": {
-    "name": "Flaming Gallows",
+    "name": "火焰榴弹炮",
     "description": {
-      "general": "\"One sight of my sails kills all hope, mate.\""
+      "general": "“看到我的帆船杀死了所有希望。”"
     }
   },
   "murkwind": {
     "name": "Murkwind",
     "description": {
-      "general": "Unleash gales of ash and rot on your enemies"
+      "general": "释放灰尘和腐烂到你的敌人上"
     }
   },
   "freshBruisewood": {
-    "name": "Fresh Bruisewood",
+    "name": "新鲜布鲁塞伍德",
     "description": {
-      "general": "\"Every slight will be repaid in blood.\""
+      "general": "“每个轻微都会以血还。”"
     }
   },
   "jawsOfThunder": {
-    "name": "Jaws of Thunder",
+    "name": "雷管的Jaws",
     "description": {
-      "general": "\"Only broken hulls and shattered skulls left in me wake.\""
+      "general": "\"只有破碎的帽子和留在我身上的碎骨。\""
     }
   },
   "bluefireScourge": {
     "name": "Bluefire Scourge",
     "description": {
-      "general": "\"Torch 'em all to ashes.\""
+      "general": "\"火炬“全都要飞掉。\""
     }
   },
   "burningMaw": {
-    "name": "Burning Maw",
+    "name": "烧焦的毛子",
     "description": {
-      "general": "Tear through decks with fangs of fire"
+      "general": "用火焰之角穿过甲板"
     }
   },
   "tidecleaved": {
-    "name": "Tidecleaved",
+    "name": "潮湿的",
     "description": {
-      "general": "A mark of beauty, wielding ruin"
+      "general": "一个美丽的标志，擦除废墟。"
     }
   },
   "quietWind": {
-    "name": "Quiet Wind",
+    "name": "安静之风",
     "description": {
-      "general": "Purple cloth, with silence and lure"
+      "general": "紫色的衣服，静音和诱惑的"
     }
   },
   "songFromTheDeep": {
-    "name": "Song from the Deep",
+    "name": "来自深度的歌曲",
     "description": {
-      "general": "Dark as betrayal, slick as a promise"
+      "general": "暗色为背叛，切割为允诺的"
     }
   },
   "mawsLure": {
     "name": "Maw's Lure",
     "description": {
-      "general": "Calls the tide, in song and ruin"
+      "general": "呼叫潮流，歌曲和毁灭中"
     }
   },
   "wispskin": {
     "name": "Wispskin",
     "description": {
-      "general": "Tentacled grace, to beckon and devour"
+      "general": "特恩特恩惠，迎来贝克顿和托尔"
     }
   },
   "seaHeart": {
-    "name": "Sea Heart",
+    "name": "海心",
     "description": {
-      "general": "Beats beneath the waves, never breaks"
+      "general": "在波浪下面拍照，永远不要中断"
     }
   },
   "crownOfDrowning": {
-    "name": "Crown of Drowning",
+    "name": "霸王龙",
     "description": {
-      "general": "A skull held, song sung, silence reigned"
+      "general": "持有的头骨，歌曲阳光，静音"
     }
   },
   "curtainfall": {
-    "name": "Curtainfall",
+    "name": "窗框",
     "description": {
-      "general": "None escape the final act"
+      "general": "无法逃脱最终行为"
     }
   },
   "mortisMasque": {
     "name": "Mortis Masque",
     "description": {
-      "general": "\"Alas, your little tale ends in blood.\""
+      "general": "“糟糕，你的小笔记以血液结尾。”"
     }
   },
   "gangrenesGrip": {
     "name": "Gangrene's Grip",
     "description": {
-      "general": "\"Rotting winds sing a fine dirge, Captain.\""
+      "general": "\"旋转风照射细胞，船长。\""
     }
   },
   "maestroOfBones": {
-    "name": "Maestro of Bones",
+    "name": "石头大师",
     "description": {
-      "general": "\"Every dying scream is a note in my symphony.\""
+      "general": "“每个死去的屏幕都是我的符号。”"
     }
   },
   "deathsJest": {
     "name": "Death's Jest",
     "description": {
-      "general": "\"All the world's a stage, and I bring the house down.\""
+      "general": "“全世界都是一个舞台，我把房子倒下。”"
     }
   },
   "stageOfWails": {
-    "name": "Stage of Wails",
+    "name": "路径阶段",
     "description": {
-      "general": "Death performs on every plank"
+      "general": "在每个平面上死亡的练习"
     }
   },
   "deadManic": {
-    "name": "Dead Manic",
+    "name": "死亡的曼尼克",
     "description": {
-      "general": "\"I do love an entertaining death.\""
+      "general": "“我确实喜欢娱乐死亡。”"
     }
   },
   "cindermist": {
-    "name": "Cindermist",
+    "name": "发信人",
     "description": {
-      "general": "From the furnace of rage"
+      "general": "从愤怒的炉子"
     }
   },
   "cinderGrin": {
-    "name": "Cinder Grin",
+    "name": "钦德尔格林",
     "description": {
-      "general": "\"When I come for you, the whole damn sea lights up.\""
+      "general": "“当我来给你们时，整个水坝海灯已经升起。”"
     }
   },
   "deathflare": {
     "name": "Deathflare",
     "description": {
-      "general": "\"Death wears my face.\""
+      "general": "“死亡穿戴我的脸。”"
     }
   },
   "veilOfAsh": {
-    "name": "Veil of Ash",
+    "name": "塞什面具",
     "description": {
-      "general": "\"If you can see me, you're already dead.\""
+      "general": "“如果你可以看到我，你已经死了。”"
     }
   },
   "theCryptwarden": {
-    "name": "The Cryptwarden",
+    "name": "Cryptwarden",
     "description": {
-      "general": "\"Tyrants pay their dues in blood and bone.\""
+      "general": "“轮胎以血液和红利支付其欠款。”"
     }
   },
   "deathstainedDeep": {
-    "name": "Deathstained Deep",
+    "name": "死亡深度：",
     "description": {
-      "general": "\"Plans are pretty, but my dagger is faster.\""
+      "general": "\"计划很漂亮，但我的玩具更快。\""
     }
   },
   "theSilence": {
-    "name": "The Silence",
+    "name": "静音",
     "description": {
-      "general": "\"You won't hear me -- that's your warning.\""
+      "general": "\"你不会听到我 -- 这是你的警告。\""
     }
   },
   "huntersHelm": {
-    "name": "Hunter's Helm",
+    "name": "猎人头盔",
     "description": {
-      "general": "\"Spin the wheel... and watch the rats scatter.\""
+      "general": "\"旋转轮... 并观看大鼠散射。\""
     }
   },
   "pridemark": {
     "name": "Pridemark",
     "description": {
-      "general": "\"Attack my pride... and perish.\""
+      "general": "“攻击我的神父……死了。”"
     }
   },
   "roaringTide": {
     "name": "Roaring Tide",
     "description": {
-      "general": "\"None can tell where the storm ends and I begin.\""
+      "general": "“没有人能够告诉风暴到哪里来。”"
     }
   },
   "bloodstiffenedHide": {
-    "name": "Bloodstiffened Hide",
+    "name": "血糖化的隐藏",
     "description": {
-      "general": "Stalk your prey through shadow and storm"
+      "general": "通过阴影和风暴把你的猎物拉过了"
     }
   },
   "seaBeastsRevenge": {
-    "name": "Sea Beast's Revenge",
+    "name": "海滩复仇者",
     "description": {
-      "general": "The struck beast attacks to kill"
+      "general": "被击中的野兽击杀以杀死者"
     }
   },
   "freshBonewood": {
-    "name": "Fresh Bonewood",
+    "name": "新鲜的博内伍德",
     "description": {
-      "general": "Prowl the seas, marking your dominion in blood"
+      "general": "支持海洋，用血来标记你的支配地位"
     }
   },
   "silvermane": {
     "name": "Silvermane",
     "description": {
-      "general": "The hunt begins"
+      "general": "狩猎开始"
     }
   },
   "preysEnd": {
-    "name": "Prey's End",
+    "name": "预览结束",
     "description": {
-      "general": "True justice is the law of the jungle"
+      "general": "真正的正义是丛林法则。"
     }
   },
   "fangsOfTheDeep": {
-    "name": "Fangs of the Deep",
+    "name": "深度之光。",
     "description": {
-      "general": "Awaken the beast within"
+      "general": "唤醒野兽在"
     }
   },
   "abyssmaw": {
     "name": "Abyssmaw",
     "description": {
-      "general": "\"Plunder the seas, and sink in its jaws.\""
+      "general": "“靠海底沉入海底。”"
     }
   },
   "windeater": {
-    "name": "Windeater",
+    "name": "冬达尔",
     "description": {
-      "general": "No storm can break what is born at sea"
+      "general": "任何风暴都不能破坏在海上出生的东西。"
     }
   },
   "blackwaterVeil": {
-    "name": "Blackwater Veil",
+    "name": "黑水威尔",
     "description": {
-      "general": "\"I rule these waters -- and you are out of your depth.\""
+      "general": "“我统治这些水域——你已经脱离了你的深度。”"
     }
   },
   "bonescaleShard": {
-    "name": "Bonescale Shard",
+    "name": "博内斯卡尔",
     "description": {
-      "general": "Forged from bone, hide, and the fire of the deep"
+      "general": "从骨头锻造，隐藏和深渊的火焰。"
     }
   },
   "spinehelm": {
-    "name": "Spinehelm",
+    "name": "螺旋线",
     "description": {
-      "general": "Hunt every inch of the ocean"
+      "general": "猎取每英寸的大洋。"
     }
   },
   "countEmTwice": {
-    "name": "Count 'Em Twice",
+    "name": "计数“Em twice",
     "description": {
-      "general": "\"Men rot. Pay me in wine or coin.\""
+      "general": "“男人。用葡萄酒或奶牛给我。”"
     }
   },
   "heraldsOfGold": {
-    "name": "Heralds of Gold",
+    "name": "黄金的先驱者",
     "description": {
-      "general": "\"Profit over honor, matey.\""
+      "general": "“荣誉上的利润，matey.”"
     }
   },
   "twilightCloak": {
-    "name": "Twilight Cloak",
+    "name": "双击衣服",
     "description": {
-      "general": "Born of shadow and smoke"
+      "general": "出生于阴影和烟雾"
     }
   },
   "aisha": {
     "name": "Aisha",
     "description": {
-      "general": "Her vibe is contagious. No cure known."
+      "general": "她的病毒是传染性的，解药无名。"
     }
   },
   "kingpinsHangover": {
     "name": "Kingpin's Hangover",
     "description": {
-      "general": "\"The best parties end in screams.\""
+      "general": "“最好的当事方在屏幕上结尾。”"
     }
   },
   "leonasTricorne": {
     "name": "Leona's Tricorne",
     "description": {
-      "general": "\"Ain't no bounty hunter as savage as she was...\""
+      "general": "“不会像她那样作为野蛮的猎人......”"
     }
   },
   "queensCommand": {
-    "name": "Queen's Command",
+    "name": "皇后命令",
     "description": {
-      "general": "Untamed, unlovable, unassailable"
+      "general": "不可调用、不可爱、不可攻击"
     }
   },
   "rococoRoar": {
     "name": "Rococo Roar",
     "description": {
-      "general": "\"She dies quite fashionably, I hear...\""
+      "general": "“她很快就死了，我听……”"
     }
   },
   "prideguard": {
     "name": "Prideguard",
     "description": {
-      "general": "\"Even a lion's jaws can't tear through these.\""
+      "general": "“哪怕是一个狮子都无法拆除。”"
     }
   },
   "sigilOfSavagery": {
-    "name": "Sigil of Savagery",
+    "name": "萨瓦格尔文",
     "description": {
-      "general": "A fierce combination of rare leather and silverwork"
+      "general": "稀有皮革和银的严格组合"
     }
   },
   "sabreSlashed": {
-    "name": "Sabre Slashed",
+    "name": "萨贝勒斯州",
     "description": {
-      "general": "These need some darning"
+      "general": "这些需要一些黑暗的"
     }
   },
   "greavesOfGlory": {
-    "name": "Greaves of Glory",
+    "name": "粒子效果的靴子",
     "description": {
-      "general": "\"Who said yer shins don't need protectin'?\""
+      "general": "\"谁说你不需要保护？\""
     }
   },
   "tricornOfTrance": {
-    "name": "Tricorn of Trance",
+    "name": "耐心三角形",
     "description": {
-      "general": "Turns heads and sparks daydreams"
+      "general": "打开头部并引发白日梦！"
     }
   },
   "daydreamers": {
-    "name": "Daydreamers",
+    "name": "日梦者",
     "description": {
-      "general": "Great for keeping out the sun and avoiding eye contact"
+      "general": "非常适合保持阳光和避免眼睛联系"
     }
   },
   "highNoonHalter": {
-    "name": "High Noon Halter",
+    "name": "黑色高亮半径",
     "description": {
-      "general": "\"Catch the wind and burn yer back!\""
+      "general": "“抓住风，烧回yer！”"
     }
   },
   "gardenia": {
-    "name": "Gardenia",
+    "name": "格尔德尼亚州",
     "description": {
-      "general": "For the wild child in your stoic pirate heart"
+      "general": "对于在你的粪便海盗心脏中的野生儿童"
     }
   },
   "nomadicWraps": {
-    "name": "Nomadic Wraps",
+    "name": "游牧包装箱",
     "description": {
-      "general": "Well earned bits and bobs from around the world"
+      "general": "从世界各地赚取好的比特和bobs"
     }
   },
   "wineSaddle": {
-    "name": "Wine Saddle",
+    "name": "葡萄酒鞍",
     "description": {
-      "general": "Enough room to lug around a couple bottles of red"
+      "general": "有足够的空间可以在一瓶红色的瓶子周围闪烁。"
     }
   },
   "moonsandRings": {
-    "name": "Moonsand Rings",
+    "name": "月球戒指",
     "description": {
-      "general": "Earned on late night treasure hunts"
+      "general": "在夜晚寻找宝藏时赚取收入"
     }
   },
   "driftclothTrousers": {
-    "name": "Driftcloth Trousers",
+    "name": "流衣服裤子",
     "description": {
-      "general": "Pants that chase the wind... and trouble"
+      "general": "吃人追逐风... 遇到问题"
     }
   },
   "beachyBoots": {
-    "name": "Beachy Boots",
+    "name": "海滩靴子",
     "description": {
-      "general": "Dust them upside down -- these are home to a crab or two"
+      "general": "向上粉碎——这些都是一个crab 或 2 的家中。"
     }
   },
   "sunburntInk": {
-    "name": "Sunburnt Ink",
+    "name": "刻录墨水",
     "description": {
-      "general": "Because one tattoo is never enough"
+      "general": "因为一个tttoottoo 是永远不够的"
     }
   },
   "wetMeGulletBeer": {
-    "name": "Wet Me Gullet (Beer)",
+    "name": "Wet Me Gullet(啤酒)",
     "description": {
       "general": "“只有比朗姆酒更好的东西是被盗的谣言！”"
     }
@@ -22298,2035 +22298,2035 @@
   "gildcoinTricorne": {
     "name": "Gildcoin Tricorne",
     "description": {
-      "general": "This hat has seen a thing or two"
+      "general": "这个帽子看到了一件或两件东西。"
     }
   },
   "beadsOfWisdom": {
-    "name": "Beads of Wisdom",
+    "name": "智慧之手",
     "description": {
-      "general": "Thrifted from a dancing mystic"
+      "general": "从跳舞神秘中抽出"
     }
   },
   "feverGreen": {
-    "name": "Fever Green",
+    "name": "寒冷淡淡色",
     "description": {
-      "general": "The sickly green of sailors three days dead in the heat"
+      "general": "三天死在发热中的海员的可怕绿色绿色效果"
     }
   },
   "poetsCoat": {
-    "name": "Poet's Coat",
+    "name": "诗人的帽子",
     "description": {
-      "general": "Pockets full of tales to tell"
+      "general": "口袋里充满了要说的"
     }
   },
   "pendantOfPeril": {
-    "name": "Pendant of Peril",
+    "name": "时段的购买者",
     "description": {
-      "general": "For those who choose to be unlucky"
+      "general": "对于那些选择不幸的人"
     }
   },
   "stolenSash": {
-    "name": "Stolen Sash",
+    "name": "被盗冲锋枪",
     "description": {
-      "general": "Made with stolen wares from exotic lands"
+      "general": "用偷来从外来土地制成的物品"
     }
   },
   "oceanEyes": {
-    "name": "Ocean Eyes",
+    "name": "海洋眼镜",
     "description": {
-      "general": "Rings studded with mystical gems of oceanic origin"
+      "general": "用海洋来源神秘宝石进行的戒指"
     }
   },
   "breezyPleats": {
-    "name": "Breezy Pleats",
+    "name": "微风普莱亚特",
     "description": {
-      "general": "No wedgies to be had with this one"
+      "general": "没有与这个婚礼同上"
     }
   },
   "suedeStrides": {
-    "name": "Suede Strides",
+    "name": "服役场数",
     "description": {
-      "general": "Luxurious suede boots with a comfortable fit"
+      "general": "豪华的套装靴子"
     }
   },
   "windWarrior": {
-    "name": "Wind Warrior",
+    "name": "风勇士",
     "description": {
-      "general": "Shields you from dust storms and hides your nasty teeth"
+      "general": "保护你免受沙尘暴的影响，并隐藏你的牙齿。"
     }
   },
   "opalescent": {
     "name": "Opalescent",
     "description": {
-      "general": "\"Stared right into the sun, I did!\""
+      "general": "“站在太阳上，我已经去了！”"
     }
   },
   "privateersPelt": {
-    "name": "Privateer's Pelt",
+    "name": "私人球队",
     "description": {
-      "general": "Thick fur for thin morals"
+      "general": "厚毛皮以利于细胞的士气。"
     }
   },
   "scrapyardTotems": {
-    "name": "Scrapyard Totems",
+    "name": "废品回收站",
     "description": {
-      "general": "Charms stolen off a foe, a friend and mummy dearest"
+      "general": "Charms successed out a foe, a friends and mummy whether"
     }
   },
   "scrapIronBracer": {
-    "name": "Scrap Iron Bracer",
+    "name": "废铁护腿",
     "description": {
-      "general": "Dented, rusted, reliable -- just like the rogue wearin' it"
+      "general": "登革热、生死、可靠——就像流氓疲劳一样”"
     }
   },
   "deathsKeeper": {
-    "name": "Death's Keeper",
+    "name": "死亡守护者",
     "description": {
-      "general": "Fastened tight, like a jaw that never loosens"
+      "general": "快速紧缩，就像一只从不松散的爪子"
     }
   },
   "chunkyChaps": {
-    "name": "Chunky Chaps",
+    "name": "金字塔",
     "description": {
-      "general": "A vintage piece from Florentine d'Alesso's first collection"
+      "general": "Florentine d'Alesso的第一个收藏品中的一块葡萄装饰物"
     }
   },
   "steelstep": {
-    "name": "Steelstep",
+    "name": "钢铁步骤",
     "description": {
-      "general": "The last thing you want from these is a kick in the chest"
+      "general": "您想要从这些东西中做的最后一件事是在箱子中踢出"
     }
   },
   "survivorsMarks": {
-    "name": "Survivor's Marks",
+    "name": "幸存者的标记",
     "description": {
-      "general": "Cut deep. Healed poorly. Worn proudly."
+      "general": "剪得很深。治疗很差。痛苦令人骄傲。"
     }
   },
   "raidersScar": {
-    "name": "Raider's Scar",
+    "name": "飞船者火车",
     "description": {
       "general": ""
     }
   },
   "windriderSP": {
-    "name": "Windrider",
+    "name": "风扇机",
     "description": {
       "general": ""
     }
   },
   "bloodiedCanopy": {
-    "name": "Bloodied Canopy",
+    "name": "染色的冠军",
     "description": {
       "general": ""
     }
   },
   "clawsOfConquest": {
-    "name": "Claws of Conquest",
+    "name": "征服法",
     "description": {
       "general": ""
     }
   },
   "emeraldWildbark": {
-    "name": "Emerald Wildbark",
+    "name": "绿宝石Wildbark",
     "description": {
       "general": ""
     }
   },
   "stormHowler": {
-    "name": "Storm Howler",
+    "name": "风暴之手",
     "description": {
       "general": ""
     }
   },
   "nightStalker": {
-    "name": "Night Stalker",
+    "name": "夜行者",
     "description": {
       "general": ""
     }
   },
   "warBellow": {
-    "name": "War Bellow",
+    "name": "战争下限",
     "description": {
-      "general": "Take up your steel and reclaim the seas"
+      "general": "拿起你的钢铁并收回海面"
     }
   },
   "steelStampede": {
-    "name": "Steel Stampede",
+    "name": "钢章",
     "description": {
-      "general": "The oceans roar as your cutlass swings"
+      "general": "当你挥动短剑时，大海发出轰鸣"
     }
   },
   "razorweave": {
     "name": "Razorweave",
     "description": {
-      "general": "Slice the winds to wreak your revenge"
+      "general": "将风切开来报仇。"
     }
   },
   "rebelCharge": {
-    "name": "Rebel Charge",
+    "name": "反叛者充电",
     "description": {
-      "general": "When the bull charged, none shall stand"
+      "general": "当充电器充电时，任何人都不会被充电。"
     }
   },
   "bloodyAnvil": {
-    "name": "Bloody Anvil",
+    "name": "血腥铁骨",
     "description": {
-      "general": "Forged in tears, sweat, and spilled blood"
+      "general": "在眼泪、汗水和溢出的血液中锻造。"
     }
   },
   "hornedOne": {
-    "name": "Horned One",
+    "name": "驯服的一",
     "description": {
-      "general": "Beware the rage of the chained"
+      "general": "正在读取链中的速度"
     }
   },
   "theShatteredYoke": {
-    "name": "The Shattered Yoke",
+    "name": "破碎的 Yoke",
     "description": {
-      "general": "\"Freedom is our North Star.\""
+      "general": "\"自由是我们的北星\"。"
     }
   },
   "emberHorn": {
     "name": "Ember Horn",
     "description": {
-      "general": "The rebellion's fiery roar"
+      "general": "反叛分子的火车"
     }
   },
   "markOfRebellion": {
-    "name": "Mark of Rebellion",
+    "name": "标记反叛者",
     "description": {
-      "general": "Skull, steel, and sand -- time runs out for kings"
+      "general": "皮肤、钢铁和沙子——国王的时间不足"
     }
   },
   "rusttide": {
     "name": "Rusttide",
     "description": {
-      "general": "Lukewarm tones for those chasing the faded light"
+      "general": "那些在淡入淡出的光线上追捕的野外铃声"
     }
   },
   "wornAllegiance": {
-    "name": "Worn Allegiance",
+    "name": "磨损的指控",
     "description": {
-      "general": "Faded coats from those who change tides"
+      "general": "来自那些改变潮汐的人的涂装"
     }
   },
   "whisperedRuin": {
-    "name": "Whispered Ruin",
+    "name": "白色鲁in",
     "description": {
-      "general": "Chaos stitched into every gust"
+      "general": "破解到每个粉尘中"
     }
   },
   "johnnyBlue": {
-    "name": "Johnny Blue",
+    "name": "Johnny 青色",
     "description": {
-      "general": "This azure macaw has plenty of pirate gossip to share"
+      "general": "这个疯狂的大麻有大量可分享的海盗图鉴"
     }
   },
   "hairlessHenrietta": {
-    "name": "Hairless Henrietta",
+    "name": "无敌亨利埃塔",
     "description": {
-      "general": "Always keeps her pistols loaded and skin moisturised"
+      "general": "总是保持手枪加载和皮肤湿度"
     }
   },
   "deathsHalo": {
-    "name": "Death's Halo",
+    "name": "死亡的Halo",
     "description": {
-      "general": "No faith truer than that in a loaded cannon"
+      "general": "在加载的炮兵中没有真正的信念。"
     }
   },
   "bonecharkOak": {
-    "name": "Bonechark Oak",
+    "name": "博内查克",
     "description": {
-      "general": "Scatter the ashes of your enemies"
+      "general": "散布敌人的灰度"
     }
   },
   "soulsShroud": {
-    "name": "Souls' Shroud",
+    "name": "灵魂之灵魂之卷轴",
     "description": {
-      "general": "Whisper your foes' last rites to the wind"
+      "general": "你的敌人最后一次仪式到风"
     }
   },
   "sermonOfAsh": {
-    "name": "Sermon of Ash",
+    "name": "吸血鬼的种子",
     "description": {
-      "general": "\"Kneel before the broadside, and say your prayers.\""
+      "general": "“在广义面前的膝盖，说你的祈祷。”"
     }
   },
   "nightMaresStrike": {
-    "name": "Night Mare's Strike",
+    "name": "夜晚暴徒的攻击",
     "description": {
-      "general": "None can outrun a nightmare"
+      "general": "没有人能够取消恶梦！"
     }
   },
   "silkBlade": {
-    "name": "Silk Blade",
+    "name": "丝刀剑",
     "description": {
-      "general": "The quietest cuts run deepest"
+      "general": "最安静的切片最深地运行"
     }
   },
   "theWildGlory": {
-    "name": "The Wild Glory",
+    "name": "野生粒子",
     "description": {
-      "general": "Honor rides with the untamed"
+      "general": "荣誉骑着未驯服的人"
     }
   },
   "theStormingSteed": {
-    "name": "The Storming Steed",
+    "name": "风暴之力",
     "description": {
-      "general": "Power belongs to those who seize it"
+      "general": "权力属于那些夺取权力的人"
     }
   },
   "renegadesPlate": {
-    "name": "Renegade's Plate",
+    "name": "更新的板块",
     "description": {
-      "general": "In a storm, trust only your own two hands"
+      "general": "在风暴中，只信任你自己的双手"
     }
   },
   "midnightMane": {
-    "name": "Midnight Mane",
+    "name": "午夜男兵",
     "description": {
-      "general": "True power thrives in the dark"
+      "general": "真正的力量在黑暗中蓬勃发展"
     }
   },
   "shadowCharge": {
-    "name": "Shadow Charge",
+    "name": "阴影充电",
     "description": {
-      "general": "\"I am the thunder on the horizon.\""
+      "general": "“我是横向的细胞。”"
     }
   },
   "wrathOfHell": {
-    "name": "Wrath of Hell",
+    "name": "地狱错误",
     "description": {
-      "general": "\"Bow to my flame, or swim with the damned.\""
+      "general": "“把你拖到我的火焰上，或用水坝滑动。”"
     }
   },
   "daimon": {
-    "name": "Daimon",
+    "name": "戴蒙文",
     "description": {
-      "general": "\"All paths lead to me.\""
+      "general": "\"所有路径导致我。\""
     }
   },
   "theInfernalMaws": {
-    "name": "The Infernal Maws",
+    "name": "恶魔之手",
     "description": {
-      "general": "No scent as sweet as a foe's charred flesh"
+      "general": "没有甜蜜作为敌人充能的血肉的声音"
     }
   },
   "burningOath": {
-    "name": "Burning Oath",
+    "name": "燃烧誓言",
     "description": {
-      "general": "To break an oath is to burn"
+      "general": "打破誓言是刻录"
     }
   },
   "tidesOfAsh": {
-    "name": "Tides of Ash",
+    "name": "吸血鬼的潮流",
     "description": {
-      "general": "The road to power is paved with traitors' corpses"
+      "general": "通往权力的道路是用叛徒的尸体铺设的。"
     }
   },
   "emberblood": {
     "name": "Emberblood",
     "description": {
-      "general": "Do not flee the fire. Become it."
+      "general": "不要逃离火焰。成为它。"
     }
   },
   "pyrebound": {
     "name": "Pyrebound",
     "description": {
-      "general": "Fire crowns the fearless"
+      "general": "火焰冠军"
     }
   },
   "driftwoodPhantom": {
-    "name": "Driftwood Phantom",
+    "name": "漂浮的幽灵之心",
     "description": {
-      "general": "The path to vengeance is lit by cunning"
+      "general": "通往复仇的路径是通过嘲笑点燃的"
     }
   },
   "moonlitPhantom": {
-    "name": "Moonlit Phantom",
+    "name": "月下怪物",
     "description": {
-      "general": "Nothing can kill what belongs to death"
+      "general": "没有什么可以杀死属于死亡的内容"
     }
   },
   "gildedPhantom": {
-    "name": "Gilded Phantom",
+    "name": "金色怪物",
     "description": {
-      "general": "Nothing pierces hearts like cold, hard gold"
+      "general": "没有像寒冷、硬金那样的穿甲心"
     }
   },
   "jinni": {
     "name": "Jinni",
     "description": {
-      "general": "\"Death failed. Magic endured. I am eternal.\""
+      "general": "\"死亡失败。神奇耐久。我是永恒的。\""
     }
   },
   "eyeOfTheDjinn": {
-    "name": "Eye of the Djinn",
+    "name": "吉恩之眼",
     "description": {
-      "general": "It finds all, curses all, reaps all"
+      "general": "它找到了所有的曲线，抓到所有"
     }
   },
   "midnightMirage": {
-    "name": "Midnight Mirage",
+    "name": "午夜幻手",
     "description": {
-      "general": "Sorcery and royal blood make such pretty paint"
+      "general": "分类和皇家血液制造这种漂亮的油漆。"
     }
   },
   "theEternalSpectre": {
-    "name": "The Eternal Spectre",
+    "name": "永恒旁观",
     "description": {
-      "general": "Death is only the beginning..."
+      "general": "死亡只是开始..."
     }
   },
   "wraithshade": {
     "name": "Wraithshade",
     "description": {
-      "general": "No chains. No masters. Only your blade and the sea."
+      "general": "没有链。没有主。只有你的刀和海。"
     }
   },
   "fiendOfTheSeas": {
-    "name": "Fiend of the Seas",
+    "name": "大海之五",
     "description": {
-      "general": "Driven by phantom winds and endless screams"
+      "general": "被幽灵风和无限屏幕驱动的"
     }
   },
   "traitorsCinch": {
-    "name": "Traitor's Cinch",
+    "name": "托手的杯子",
     "description": {
-      "general": "Buckled the night an officer broke their oath"
+      "general": "一名军官在夜间打碎了他们的誓言"
     }
   },
   "breakawayBandit": {
-    "name": "Breakaway Bandit",
+    "name": "Breabout Bandit",
     "description": {
-      "general": "Feed no one's coffers but your own"
+      "general": "除了你自己之外，没有一个人来喂他们的 coffer"
     }
   },
   "rebelsight": {
-    "name": "Rebelsight",
+    "name": "雷贝利斯",
     "description": {
-      "general": "For eyes that learned to see beyond the banner"
+      "general": "让眼睛学会超越横幅。"
     }
   },
   "garnetsAndGoldust": {
-    "name": "Garnets and Goldust",
+    "name": "加内网和金ust",
     "description": {
-      "general": "Rings paid in blood and stolen pay"
+      "general": "以血液和被盗工资支付的戒指"
     }
   },
   "bicorneNoir": {
     "name": "Bicorne Noir",
     "description": {
-      "general": "Worn by a pirate who answered to no court"
+      "general": "一名海盗惊慌，他没有出庭。"
     }
   },
   "aRoguesLuck": {
-    "name": "A Rogue's Luck",
+    "name": "Rogue's Luck",
     "description": {
-      "general": "Fortune earned through betrayal, not prayer"
+      "general": "通过背叛而非祈祷赚取的财富："
     }
   },
   "pilferedPants": {
-    "name": "Pilfered Pants",
+    "name": "皮肤裤子",
     "description": {
-      "general": "Smooth -- like a deserter sneaking off at dawn"
+      "general": "平滑——像一位逃兵在黎明时关闭"
     }
   },
   "blackstep": {
-    "name": "Blackstep",
+    "name": "黑名单",
     "description": {
-      "general": "\"You'd wise to refuse the straight path.\""
+      "general": "“你应该拒绝直线路。”"
     }
   },
   "liarsFlair": {
-    "name": "Liar's Flair",
+    "name": "Liar的手枪",
     "description": {
-      "general": "Soft black leather, intricate stitches and silent heels"
+      "general": "软黑色皮革、细微细胞和无声跟随者"
     }
   },
   "raidersWrath": {
-    "name": "Raider's Wrath",
+    "name": "命中者的错误",
     "description": {
-      "general": "A stylish belt for all your demonic belongings"
+      "general": "一个你所有恶魔物品的搭配带"
     }
   },
   "infernalLeather": {
-    "name": "Infernal Leather",
+    "name": "室内皮革：",
     "description": {
-      "general": "This season's hottest, must-have item!"
+      "general": "本季最热门，必须有物品！"
     }
   },
   "perilsPrize": {
-    "name": "Peril's Prize",
+    "name": "风险奖",
     "description": {
-      "general": "\"Traded my soul for this bloody hat!\""
+      "general": "“为这个血腥的帽子交易我的灵魂！”"
     }
   },
   "theDevilsTeeth": {
-    "name": "The Devil's Teeth",
+    "name": "魔鬼的牙门",
     "description": {
-      "general": "Scratches when you put it on, screams when you take it off"
+      "general": "当你放下它时弹出屏幕，当你将它拿走时会显示。"
     }
   },
   "scorchedBottoms": {
-    "name": "Scorched Bottoms",
+    "name": "磨合的底座",
     "description": {
-      "general": "\"Can't call yerself a pirate if yet butt ain't sweaty.\""
+      "general": "“如果没有血汗，无法将自己称为海盗。”"
     }
   },
   "killersKickers": {
-    "name": "Killer's Kickers",
+    "name": "杀手击杀者",
     "description": {
-      "general": "There's still a smidge of blood on the heels"
+      "general": "后面还有一只血味。"
     }
   },
   "silkenRogue": {
     "name": "Silken Rogue",
     "description": {
-      "general": "\"No amount of finery can hide your cold, black heart.\""
+      "general": "“没有数量的粉矿可以隐藏您的冷色黑色心。”"
     }
   },
   "sevenHells": {
-    "name": "Seven Hells",
+    "name": "七只头盔",
     "description": {
-      "general": "A reminder that you've braved hell and back"
+      "general": "你勇敢的地狱和后退的提醒"
     }
   },
   "firesight": {
-    "name": "Firesight",
+    "name": "瞄准镜",
     "description": {
-      "general": "A glare so furious, it sets everything ablaze"
+      "general": "一只眼镜，它使所有的火焰都变得非常激烈。"
     }
   },
   "swirlsOfChaos": {
-    "name": "Swirls of Chaos",
+    "name": "Chaos之卷子",
     "description": {
-      "general": "Winding lines that promise chaos"
+      "general": "有可能出现混乱的线条"
     }
   },
   "verdantMenace": {
-    "name": "Verdant Menace",
+    "name": "Verdant 菜单",
     "description": {
-      "general": "Tones of forest and gold to brave the wind"
+      "general": "大量森林和黄金来勇敢的风"
     }
   },
   "gildedGloom": {
-    "name": "Gilded Gloom",
+    "name": "金色手套",
     "description": {
-      "general": "Darkness broods and gold dares to glimmer"
+      "general": "暗色溴化物和黄金染色染料"
     }
   },
   "triosEnd": {
-    "name": "Trio's End",
+    "name": "特里奥结束",
     "description": {
-      "general": "Three lives ended with one knife's work"
+      "general": "一把刀的作品结束了三人的生命。"
     }
   },
   "dreadnote": {
-    "name": "Dreadnote",
+    "name": "读取注释",
     "description": {
-      "general": "\"Your rising pulse is my favorite rhythm.\""
+      "general": "\"你不断上升的脉冲是我最喜欢的节奏。\""
     }
   },
   "waveshredder": {
-    "name": "Waveshredder",
+    "name": "沃斯赫德尔",
     "description": {
-      "general": "Your blood beats to the wild call of freedom"
+      "general": "你的鲜血毒打到自由的野蛮通话中"
     }
   },
   "deadwindWhistle": {
-    "name": "Deadwind Whistle",
+    "name": "致命风口手势",
     "description": {
-      "general": "A riff for every ruin"
+      "general": "每一块废墟的差数"
     }
   },
   "balladOfBlood": {
-    "name": "Ballad of Blood",
+    "name": "鲜血的气球",
     "description": {
-      "general": "\"Plucked heartstrings make such sweet music, man.\""
+      "general": "“套装的心脏使这种甜美音乐变成男人。”"
     }
   },
   "flamefang": {
     "name": "Flamefang",
     "description": {
-      "general": "\"Steal from my sea, burn in my storm.\""
+      "general": "“从我的海里偷走，烧在我的风暴中。”"
     }
   },
   "goldfleckedRoar": {
-    "name": "Goldflecked Roar",
+    "name": "金色Roar",
     "description": {
-      "general": "\"Courage is the only currency the sea respects.\""
+      "general": "“勇气是海洋尊重的唯一货币。”"
     }
   },
   "wyrmscaleArmor": {
     "name": "Wyrmscale Armor",
     "description": {
-      "general": "What is forged in fire can never drown"
+      "general": "火焰中伪造的东西永远不会淹没。"
     }
   },
   "scorchingSkies": {
-    "name": "Scorching Skies",
+    "name": "正在抓取天空",
     "description": {
-      "general": "Blind the despots and sear them to dust and bone"
+      "general": "将专辑封到灰尘和骨头上"
     }
   },
   "goldenFlicker": {
-    "name": "Golden Flicker",
+    "name": "金手枪",
     "description": {
-      "general": "Lit up by fortune"
+      "general": "幸运掉了"
     }
   },
   "sunplunderCinch": {
-    "name": "Sunplunder Cinch",
+    "name": "阳光杯子",
     "description": {
-      "general": "Holds steel, coin and borrowed wishes"
+      "general": "扣留钢铁、硬币和借来的心愿单"
     }
   },
   "wishboundArmlet": {
-    "name": "Wishbound Armlet",
+    "name": "心愿手甲",
     "description": {
-      "general": "Etched with old sigils that tell of a djinn's tale"
+      "general": "带着老牌片刻，告诉djinn的笔记"
     }
   },
   "nomadOfTheNight": {
-    "name": "Nomad of the Night",
+    "name": "夜晚数",
     "description": {
-      "general": "keeps out the sun, the sand and the wretched heat"
+      "general": "保全太阳、沙子和可怕的热量"
     }
   },
   "djinnsmoke": {
-    "name": "Djinnsmoke",
+    "name": "吉恩斯莫克",
     "description": {
-      "general": "A comfortable neck scarf dyed with a rare pigment"
+      "general": "一个舒适的颈痛，用稀有的猪染上了"
     }
   },
   "whisperstitch": {
-    "name": "Whisperstitch",
+    "name": "白色标题",
     "description": {
-      "general": "Dust-grey pants from the shores of Arabia"
+      "general": "来自沙特阿拉伯海岸的灰色地板"
     }
   },
   "crescentmark": {
-    "name": "Crescentmark",
+    "name": "克雷克雷克斯卡克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯克斯尔斯克斯克斯克斯岛。",
     "description": {
-      "general": "The crescent's for luck, the scuffs are from ignoring it"
+      "general": "好运，坏人就不会对其视而不见。"
     }
   },
   "mirageborne": {
     "name": "Mirageborne",
     "description": {
-      "general": "Worn by those who cross dunes by day and spectres by night"
+      "general": "每日穿过粪便的人和夜间的幽灵都造成疼痛。"
     }
   },
   "glitterskin": {
     "name": "Glitterskin",
     "description": {
-      "general": "Like a desert night burned into your skin"
+      "general": "像沙漠夜间烧成你的皮肤"
     }
   },
   "desertMoon": {
     "name": "Desert Moon",
     "description": {
-      "general": "\"I see your fate -- death clings to it like a haze.\""
+      "general": "“我看到你的命运——死亡的枷锁就像头发一样。”"
     }
   },
   "ceruleanKnot": {
-    "name": "Cerulean Knot",
+    "name": "Cerulean Knot案",
     "description": {
-      "general": "An iconic shade for the shady trader you are"
+      "general": "您所处的阴影交易者的图标阴影"
     }
   },
   "drunkardsCuffs": {
-    "name": "Drunkard's Cuffs",
+    "name": "德鲁尔卡德的魔方",
     "description": {
-      "general": "Made loose by rum and poor decisions"
+      "general": "因朗姆酒和决策不善而变得松懈。"
     }
   },
   "scratchyPatchy": {
-    "name": "Scratchy Patchy",
+    "name": "Scratchy 补丁",
     "description": {
-      "general": "Not comfortable, but oddly reliable"
+      "general": "不舒服，但不可靠。"
     }
   },
   "driftersCrown": {
-    "name": "Drifter's Crown",
+    "name": "驾车者的王子",
     "description": {
-      "general": "\"Don't need to sit on a throne to be king of the seas, eh?\""
+      "general": "“不需要坐在王位上才能成为海王？”"
     }
   },
   "oseanasCurse": {
     "name": "Oseana's Curse",
     "description": {
-      "general": "\"Cursed, sure -- mostly by sandfleas.\""
+      "general": "“曲线, 请确定-- 主要是由沙草造成的”"
     }
   },
   "skywash": {
-    "name": "Skywash",
+    "name": "天空wash",
     "description": {
-      "general": "Trousers faded by open skies and salt air"
+      "general": "红衣服被开放天空和盐空气淡化"
     }
   },
   "crabbersBoots": {
-    "name": "Crabber's Boots",
+    "name": "克拉伯的靴子",
     "description": {
-      "general": "Reliable when decks are wet and tempers run short"
+      "general": "当甲板为湿地和庙宇运行短时是可靠的"
     }
   },
   "opalweave": {
     "name": "Opalweave",
     "description": {
-      "general": "Thrifted from a spice trader's closet"
+      "general": "从香料交易者的闭合中抽出"
     }
   },
   "cutthroatCorsair": {
     "name": "Cutthroat Corsair",
     "description": {
-      "general": "\"It's funny how fast loyalty dies against my blade.\""
+      "general": "“有趣的是，忠诚在我身上死亡的速度是多快。”"
     }
   },
   "warborn": {
-    "name": "Warborn",
+    "name": "华伯尔文",
     "description": {
-      "general": "\"Carnage runs in our veins.\""
+      "general": "“卡车运行于我们的葡萄酒。”"
     }
   },
   "battlecryBanner": {
-    "name": "Battlecry Banner",
+    "name": "战斗旗帜",
     "description": {
-      "general": "Weathered by blood, primed for battle"
+      "general": "因血而变得疲劳，已准备好战斗了"
     }
   },
   "ignisBellona": {
     "name": "Ignis Bellona",
     "description": {
-      "general": "The goddess of war sails with you, Captain"
+      "general": "战神和你的船长"
     }
   },
   "crimsonCurrents": {
-    "name": "Crimson Currents",
+    "name": "克里斯森时钟",
     "description": {
-      "general": "\"The seas run red in my wake.\""
+      "general": "“海域在我的唤醒中运行。”"
     }
   },
   "turncoat": {
     "name": "Turncoat",
     "description": {
-      "general": "\"Trust only the sword in your hand.\""
+      "general": "“只信任手中的剑。”"
     }
   },
   "foehunter": {
-    "name": "Foehunter",
+    "name": "猎人",
     "description": {
-      "general": "\"Allegiance is a shackle, mate.\""
+      "general": "“指控是一种枷锁，对等。”"
     }
   },
   "windsOfRust": {
-    "name": "Winds of Rust",
+    "name": "风雪",
     "description": {
-      "general": "\"The strongest hulls crumble before my will.\""
+      "general": "\"最强大的帽子在我的意愿之前崩溃。\""
     }
   },
   "goldspike": {
     "name": "Goldspike",
     "description": {
-      "general": "\"Take what glitters, and leave what bleeds.\""
+      "general": "“抢走什么发光，留下什么流血。”"
     }
   },
   "blindingBlades": {
     "name": "Blinding Blades",
     "description": {
-      "general": "Fortune favors a sharp sword"
+      "general": "财富喜欢一把锋利的剑"
     }
   },
   "wraithwoodSheen": {
     "name": "Wraithwood Sheen",
     "description": {
-      "general": "Rich mahogany streaked with your foe's blood"
+      "general": "富裕的 mahogany与你的敌人的鲜血连死了"
     }
   },
   "grimsGilt": {
-    "name": "Grim's Gilt",
+    "name": "格利姆的 Gilt",
     "description": {
-      "general": "Ashes to riches, dust to gold"
+      "general": "用于丰富、粉尘到金的灰度"
     }
   },
   "treasonsFurnace": {
-    "name": "Treason's Furnace",
+    "name": "合情合成的炉子",
     "description": {
-      "general": "\"Let's scorch the seas, matey!\""
+      "general": "“让我们焦海，最好！”"
     }
   },
   "firestorm": {
-    "name": "Firestorm",
+    "name": "闪电",
     "description": {
-      "general": "Rise from the ashes of war"
+      "general": "从战争的废墟上崛起："
     }
   },
   "bladesAblaze": {
     "name": "Blades Ablaze",
     "description": {
-      "general": "Born for a burning world"
+      "general": "出生于一个燃烧的世界"
     }
   },
   "goldenChild": {
-    "name": "Golden Child",
+    "name": "金子",
     "description": {
-      "general": "Tilted just enough to suggest disdain"
+      "general": "倾斜到足以建议disdains"
     }
   },
   "outcastsGlare": {
-    "name": "Outcast's Glare",
+    "name": "出射光灯",
     "description": {
-      "general": "Let one eye be spared the truth"
+      "general": "让我们放眼真理。"
     }
   },
   "honorlessFinery": {
-    "name": "Honorless Finery",
+    "name": "无荣誉完成",
     "description": {
-      "general": "Virtue lost to gold thread"
+      "general": "虚拟机丢失到金线索"
     }
   },
   "turncoatsTreasure": {
-    "name": "Turncoat's Treasure",
+    "name": "Turncoat的宝箱",
     "description": {
-      "general": "These beads gleam most when worn in poor company"
+      "general": "这些蜜蜂在贫穷的公司中最容易穿戴。"
     }
   },
   "pridebound": {
     "name": "Pridebound",
     "description": {
-      "general": "Heavy enough to feel important"
+      "general": "大到足以感受重要的"
     }
   },
   "heirloomOfExcess": {
-    "name": "Heirloom of Excess",
+    "name": "过剩海报",
     "description": {
-      "general": "Disgustingly extravagant"
+      "general": "令人厌恶的异乎寻常的"
     }
   },
   "snakeskin": {
     "name": "Snakeskin",
     "description": {
-      "general": "They remember sins the wearer forgets"
+      "general": "他们还记得穿戴面具的前身之财。"
     }
   },
   "foesFiligree": {
-    "name": "Foe's Filigree",
+    "name": "页脚文件",
     "description": {
-      "general": "Soft with use, immaculate in appearance"
+      "general": "使用柔和外观时使用软体"
     }
   },
   "bloodshedBoots": {
-    "name": "Bloodshed Boots",
+    "name": "流血靴子",
     "description": {
-      "general": "Warm leather, cold heart"
+      "general": "暖皮，寒冷的心"
     }
   },
   "wingsOfChaos": {
-    "name": "Wings of Chaos",
+    "name": "迷魂之翼座",
     "description": {
-      "general": "A fierce and feathery warning"
+      "general": "寒冷和羽毛警告"
     }
   },
   "captainOfTheDeep": {
-    "name": "Captain of the Deep",
+    "name": "深度大师",
     "description": {
-      "general": "For the one who faces what others fear"
+      "general": "对于那些面临他人恐惧的人"
     }
   },
   "flagonsUp": {
-    "name": "Flagons Up",
+    "name": "向上标记",
     "description": {
-      "general": "\"Rum in me belly, mischief in me bones.\""
+      "general": "“在我身上的朗姆酒，我真的不幸。”"
     }
   },
   "skimwing": {
-    "name": "Skimwing",
+    "name": "滑动模式",
     "description": {
-      "general": "Death comes swift and quiet"
+      "general": "死亡是迅速和安静的"
     }
   },
   "lanunBracelet": {
     "name": "Lanun Bracelet",
     "description": {
-      "general": "The spray of salt and call of the tides entice the Rempah"
+      "general": "盐的喷雾和红宝石潮流的通话数"
     }
   },
   "lanunGarment": {
     "name": "Lanun Garment",
     "description": {
-      "general": "The chaos of Rahma's war has also led to opportunity, for those Rempah willing to seize it"
+      "general": "拉赫马战争的混乱也给那些愿意抓住这一机会的人带来了机会。"
     }
   },
   "lanunManchette": {
     "name": "Lanun Manchette",
     "description": {
-      "general": "Rempah fertility cults revered snakes as deities of the waters, bringing fortune and favor"
+      "general": "重生生育是作为水的神奇珍惜的肉，带来了财富和恩赐。"
     }
   },
   "coxswainBelt": {
-    "name": "Coxswain Belt",
+    "name": "Cexswain Belt",
     "description": {
-      "general": "\"Holds my sarong in place. Lets me steer. What more does a tradesman of the Rempah need?\""
+      "general": "“放下我的歌曲。让我引导。雷帕的商人还需要什么？”"
     }
   },
   "lanunNeckwear": {
     "name": "Lanun Neckwear",
     "description": {
-      "general": "Rempah accessory draped around the neck. So ragged as to be unrecognizable."
+      "general": "还原配件拖动到颈部周围。这就无法辨认。"
     }
   },
   "lanunBottoms": {
     "name": "Lanun Bottoms",
     "description": {
-      "general": "Even other Rempah vessels were not spared the predations of the Orang Lanun"
+      "general": "甚至其他的还押船也未能幸免于Orang Lanun的掠夺。"
     }
   },
   "corsairsPeak": {
-    "name": "Corsair's Peak",
+    "name": "科塞尔峰值",
     "description": {
-      "general": "Plunder in style"
+      "general": "平面样式"
     }
   },
   "shadyLeggings": {
-    "name": "Shady Leggings",
+    "name": "阴影护腿",
     "description": {
-      "general": "Protect the cargo. Don't get spotted."
+      "general": "保护货物。不要被发现。"
     }
   },
   "kinolyForearms": {
-    "name": "Kinoly Forearms",
+    "name": "Kinoly Forarms",
     "description": {
-      "general": "The fists of the Fara King's guard are ever clenched with the promise of violence"
+      "general": "法拉国王卫队的拳头总是满怀暴力的希望。"
     }
   },
   "kinolyGarment": {
-    "name": "Kinoly Garment",
+    "name": "Kinoly 服装店",
     "description": {
-      "general": "The Fara believe that the neglected spirits of their ancestors rise as vengeful ghosts"
+      "general": "法拉认为，其祖先被忽视的精神会随着复仇的幽灵而升起。"
     }
   },
   "kinolyBelt": {
-    "name": "Kinoly Belt",
+    "name": "基诺利贝特",
     "description": {
-      "general": "Threads of lamba ripple like seagrass in a storm. The Fara shall endure."
+      "general": "风暴中像海草这样的灯具波线线。法拉应耐受。"
     }
   },
   "hovaBelt": {
-    "name": "Hova Belt",
+    "name": "霍瓦贝尔特",
     "description": {
-      "general": "A belt worn by the free men and women of Fara society"
+      "general": "法拉社会的自由男女佩戴的腰带"
     }
   },
   "covenantOfCraft": {
-    "name": "Covenant of Craft",
+    "name": "工艺品学士",
     "description": {
-      "general": "The mark of a craftsman, bearing both wisdom and sharp steel"
+      "general": "一位手工艺者的标志，带有智慧和尖锐钢块"
     }
   },
   "alQisas": {
     "name": "Al Qisas",
     "description": {
-      "general": "Trouble looms on the water, and fury boils in her veins"
+      "general": "水上出现问题和发毛腿。"
     }
   },
   "heartlock": {
-    "name": "Heartlock",
+    "name": "心灵锁",
     "description": {
-      "general": "Where secrets rest and grudges grow"
+      "general": "秘密休息和疲劳增加的地方"
     }
   },
   "quietKills": {
-    "name": "Quiet Kills",
+    "name": "安静击杀数",
     "description": {
-      "general": "\"If they notice this color, it's already too late for 'em.\""
+      "general": "“如果他们注意到这种颜色，它已经太晚了。”"
     }
   },
   "silentWinds": {
-    "name": "Silent Winds",
+    "name": "静音窗口数",
     "description": {
-      "general": "Deathly silent, unless you let one rip"
+      "general": "致命静音，除非你让一只步行"
     }
   },
   "stopYappin": {
-    "name": "Stop Yappin'",
+    "name": "停止Yappin'",
     "description": {
-      "general": "\"Yer doin' me head in!\""
+      "general": "“你好吧”我在头上！”"
     }
   },
   "razorfinPlate": {
     "name": "Razorfin Plate",
     "description": {
-      "general": "Slice through your foes to rule the seas"
+      "general": "通过你的敌人来控制海域的切片效果"
     }
   },
   "creedOfShadows": {
-    "name": "Creed of Shadows",
+    "name": "阴影之心",
     "description": {
-      "general": "All for the Brotherhood"
+      "general": "全都是兄弟会"
     }
   },
   "forTheBrotherhood": {
-    "name": "For the Brotherhood",
+    "name": "为兄弟会",
     "description": {
-      "general": "An unseen hand decides fate"
+      "general": "无人看见的决定后果"
     }
   },
   "rebelsCause": {
-    "name": "Rebel's Cause",
+    "name": "反叛分子的原因",
     "description": {
-      "general": "What does a pirate truly covet?"
+      "general": "海盗做什么真正的事？"
     }
   },
   "assassinsEyes": {
-    "name": "Assassin's Eyes",
+    "name": "阿萨西的眼镜",
     "description": {
-      "general": "A faithful friend who sees what you cannot"
+      "general": "一个亲密的朋友，看着你无法看到的内容"
     }
   },
   "bloodhunter": {
-    "name": "Bloodhunter",
+    "name": "鲜血猎人",
     "description": {
-      "general": "\"Trust only the sword in your hand.\""
+      "general": "“只信任手中的剑。”"
     }
   },
   "steeltongue": {
-    "name": "Steeltongue",
+    "name": "钢制语言",
     "description": {
-      "general": "\"Yer blade ain't got nothing' on me, matey.\""
+      "general": "“你的刀没有在我身上得到任何东西。。”"
     }
   },
   "ghostfire": {
-    "name": "Ghostfire",
+    "name": "榴弹炮",
     "description": {
-      "general": "\"Spot 'em and say yer prayers, Captain.\""
+      "general": "\"Spot 'em and sayer prayers, Captain.\""
     }
   },
   "windsOfDoom": {
-    "name": "Winds of Doom",
+    "name": "末影之风",
     "description": {
-      "general": "Every gust carries the promise of ruin"
+      "general": "每个gust都有废墟的允诺。"
     }
   },
   "woundwood": {
-    "name": "Woundwood",
+    "name": "伤伍德",
     "description": {
-      "general": "Every hit just made it stronger"
+      "general": "每次撞击都让它更强大了"
     }
   },
   "barbedbone": {
-    "name": "Barbed Bone",
+    "name": "带刺的骨头",
     "description": {
-      "general": "Hooked and ready to draw blood"
+      "general": "热门并准备好提鲜血液。"
     }
   },
   "deathweb": {
-    "name": "Deathweb",
+    "name": "死亡网络",
     "description": {
-      "general": "Spin your poison across the seas"
+      "general": "穿越海域喷洒你的毒物"
     }
   },
   "breathOBlight": {
-    "name": "Breath O' Blight",
+    "name": "呼吸我的手灯",
     "description": {
-      "general": "As dark and deadly as the abyss itself"
+      "general": "深渊本身一样黑暗和致命。"
     }
   },
   "ashplate": {
-    "name": "Ashplate",
+    "name": "阿什牌座",
     "description": {
-      "general": "Polished with the ashes of your foes"
+      "general": "用敌人的灰尘抛光。"
     }
   },
   "grimsFlourish": {
-    "name": "Grim's Flourish",
+    "name": "格利姆的面具",
     "description": {
-      "general": "The dead make fine decor"
+      "general": "死者制作细体"
     }
   },
   "avowed": {
-    "name": "Avowed",
+    "name": "平均值",
     "description": {
-      "general": "\"My oath is sealed in steel and blood.\""
+      "general": "“我的誓言用钢和血密封。”"
     }
   },
   "deadmansOath": {
-    "name": "Deadman's Oath",
+    "name": "死亡者誓言",
     "description": {
-      "general": "\"Every course I set ends in someone's ruin.\""
+      "general": "“我设置的每个课程都以他人的废墟结束。”"
     }
   },
   "ironspine": {
-    "name": "Ironspine",
+    "name": "青铜管",
     "description": {
-      "general": "Cold thorns fit for the most feared ships"
+      "general": "适合最为恐惧的船舶的寒冷鱼类数量"
     }
   },
   "dreadshriek": {
     "name": "Dreadshriek",
     "description": {
-      "general": "The last sound your enemies make, immortalized in steel"
+      "general": "你的敌人发出的最后一声，永远以钢材化的声"
     }
   },
   "oWrathfulOne": {
-    "name": "O Wrathful One",
+    "name": "O 恶魔一",
     "description": {
-      "general": "The air crackles with its presence"
+      "general": "空中撞击时有其存在"
     }
   },
   "oInfernalOne": {
-    "name": "O Infernal One",
+    "name": "欧内尔一",
     "description": {
-      "general": "Gaze upon it and lose all hope"
+      "general": "对它施压，失去一切希望。"
     }
   },
   "ivoryFang": {
-    "name": "Ivory Fang",
+    "name": "伊沃里法文",
     "description": {
-      "general": "Carved to kill"
+      "general": "选中击杀"
     }
   },
   "gildedDoom": {
-    "name": "Gilded Doom",
+    "name": "金色Dom",
     "description": {
-      "general": "Deliver death with style"
+      "general": "使用风格造成死亡问题"
     }
   },
   "valkyrs": {
-    "name": "Valkyrs",
+    "name": "Valkyers",
     "description": {
-      "general": "\"Mine is the hand that guides Death's scythe.\""
+      "general": "“地雷是引导死亡的闪光的手。”"
     }
   },
   "gildedApostate": {
-    "name": "Gilded Apostate",
+    "name": "金色反转器",
     "description": {
-      "general": "\"I see your future and it is hell.\""
+      "general": "“我看到你的未来，你好了。”"
     }
   },
   "conquerersCrest": {
-    "name": "Conquerer's Crest",
+    "name": "征服者的箱子",
     "description": {
-      "general": "\"I'd rather die in battle than live on my knees.\""
+      "general": "“我宁愿死于战斗而不是活在我的膝盖上。”"
     }
   },
   "shroudsilk": {
     "name": "Shroudsilk",
     "description": {
-      "general": "Every death deserves its pomp"
+      "general": "每一个死亡都应该有它的番茄记录"
     }
   },
   "spoilsOfHeaven": {
-    "name": "Spoils of Heaven",
+    "name": "重型腐烂者",
     "description": {
-      "general": "Only the finest carvings for the sharpest blade"
+      "general": "只有最优秀的刀具雕像"
     }
   },
   "stormcloak": {
-    "name": "Stormcloak",
+    "name": "风雪",
     "description": {
-      "general": "Quick and deadly as lightning"
+      "general": "像闪电一样快速致命的"
     }
   },
   "reaversCrown": {
-    "name": "Reaver's Crown",
+    "name": "修道院的王子",
     "description": {
-      "general": "Fortune rains from the skies"
+      "general": "天空幸运降雨量"
     }
   },
   "deathsGrin": {
-    "name": "Death's Grin",
+    "name": "死者的Grin",
     "description": {
-      "general": "\"Ah, you're a joke on my seas, Cully.\""
+      "general": "“啊，你是我海上的笑话。”"
     }
   },
   "veinsOfThunder": {
-    "name": "Veins of Thunder",
+    "name": "细细胞肉",
     "description": {
-      "general": "\"Rage in my blood, a blade in my hand...\""
+      "general": "“在我的血中，我手中一把刀……”"
     }
   },
   "stormhide": {
     "name": "Stormhide",
     "description": {
-      "general": "The tempest your foes will never see coming"
+      "general": "你的敌人永远不会见到来的节奏。"
     }
   },
   "grimsCharge": {
-    "name": "Grim's Charge",
+    "name": "Grim充电",
     "description": {
-      "general": "Fear strikes right before the storm"
+      "general": "恐怕在风暴前突袭。"
     }
   },
   "splitoak": {
     "name": "Splitoak",
     "description": {
-      "general": "Split by lightning, toughened for it"
+      "general": "用灯具分割，强化它的"
     }
   },
   "blackbolt": {
-    "name": "Blackbolt",
+    "name": "黑球",
     "description": {
-      "general": "The deadliest cuts come from the shadows"
+      "general": "最致命的切割来自阴影"
     }
   },
   "deadstock": {
-    "name": "Deadstock",
+    "name": "终极库存",
     "description": {
-      "general": "\"I'll drink the sea dry before you take me, Captain!\""
+      "general": "“在你拿走我，船长之前，我会喝干海！”"
     }
   },
   "roguesGrin": {
     "name": "Rogue's Grin",
     "description": {
-      "general": "Clear skies, clean plunder"
+      "general": "清空天空，清理羽化"
     }
   },
   "ironclawWarden": {
-    "name": "Ironclaw Warden",
+    "name": "石制卫士",
     "description": {
-      "general": "\"The sea belongs to those who live in it, Captain.\""
+      "general": "“海属于生活在海里的人，船长。”"
     }
   },
   "fathomsGrip": {
-    "name": "Fathom's Grip",
+    "name": "法索姆之手",
     "description": {
-      "general": "The deep never releases what it has claimed"
+      "general": "深度从来没有释放过它所说的"
     }
   },
   "siltshadow": {
     "name": "Siltshadow",
     "description": {
-      "general": "Neither shore nor sea betrays your presence"
+      "general": "不论是海岸还是海，都不会背叛你的存在"
     }
   },
   "risingVise": {
-    "name": "Rising Vise",
+    "name": "正在上升的Vise",
     "description": {
-      "general": "\"Your only warning, cully, will be your crackin' hull.\""
+      "general": "“你唯一的警告，小心，将是你的吊车。”"
     }
   },
   "crustedBite": {
-    "name": "Crusted Bite",
+    "name": "粉碎的石头",
     "description": {
-      "general": "Forged by the fury of a thousand tides"
+      "general": "由1 000潮汐之火锻造的"
     }
   },
   "dredgewood": {
     "name": "Dredgewood",
     "description": {
-      "general": "Pulled from the seabed, soaked in vengeance"
+      "general": "从海底抽取，沉浸在复仇中"
     }
   },
   "clawmarked": {
-    "name": "Clawmarked",
+    "name": "已标记的",
     "description": {
-      "general": "\"My waters. My law.\""
+      "general": "“我的水域。我的法律。”"
     }
   },
   "eyeOfTheCarapace": {
-    "name": "Eye of the Carapace",
+    "name": "雕塑之眼",
     "description": {
-      "general": "\"I know every inc of those waters -- you're already dead.\""
+      "general": "“我知道这些水的每英寸——你已经死了。”"
     }
   },
   "crownOfRuin": {
-    "name": "Crown of Ruin",
+    "name": "鲁因王冠军",
     "description": {
-      "general": "No throne is claimed without blood"
+      "general": "没有血液就不能声称有大量触发器"
     }
   },
   "undefeated": {
-    "name": "Undefeated",
+    "name": "未战胜的",
     "description": {
-      "general": "Terror of the seven seas"
+      "general": "七海的恐怖行为"
     }
   },
   "deathsChallenger": {
-    "name": "Death's Challenger",
+    "name": "死亡挑战者",
     "description": {
-      "general": "The sovereign of doom"
+      "general": "末日之主"
     }
   },
   "tridentsEdge": {
-    "name": "Trident's Edge",
+    "name": "三叉戟边缘",
     "description": {
-      "general": "Sharp enough to draw blood"
+      "general": "锋利足以绘制鲜血液。"
     }
   },
   "midnightShroud": {
-    "name": "Midnight Shroud",
+    "name": "午夜休眠",
     "description": {
-      "general": "Power is seized in the shadows"
+      "general": "在阴影中夺取功率"
     }
   },
   "reignOfDread": {
-    "name": "Reign of Dread",
+    "name": "朗读的对齐",
     "description": {
-      "general": "A violet nightmare to consume us all"
+      "general": "一个可消耗我们所有人的紫外线恶梦。"
     }
   },
   "abyssRider": {
-    "name": "Abyss Rider",
+    "name": "深渊骑手",
     "description": {
-      "general": "Charge forth and conquer the seas"
+      "general": "A. 向海洋提出指控和征服。"
     }
   },
   "corsairsCarapace": {
     "name": "Corsair's Carapace",
     "description": {
-      "general": "The sea armors those it cannot drown"
+      "general": "那些它不能淹没的海盔甲"
     }
   },
   "clawedCrown": {
-    "name": "Clawed Crown",
+    "name": "非法的王室",
     "description": {
-      "general": "Where the depths claim dominion"
+      "general": "深度占主导地位的地区"
     }
   },
   "barnacleMaw": {
     "name": "Barnacle Maw",
     "description": {
-      "general": "Flesh yields to the forever deep"
+      "general": "永远向深度转化效果"
     }
   },
   "abysslit": {
     "name": "Abysslit",
     "description": {
-      "general": "The sight of cold light piercing the seas"
+      "general": "冷光穿越海洋的视力"
     }
   },
   "eternalCurse": {
-    "name": "Eternal Curse",
+    "name": "永恒的曲线",
     "description": {
-      "general": "Moonlight shows us what we truly are"
+      "general": "月亮向我们展示我们真正是的"
     }
   },
   "sanctity": {
-    "name": "Sanctity",
+    "name": "神圣性",
     "description": {
-      "general": "Will is worn as truth"
+      "general": "将作为真理宣誓。"
     }
   },
   "purity": {
-    "name": "Purity",
+    "name": "纯度",
     "description": {
-      "general": "Of purpose, or none at all"
+      "general": "目的是要么根本没有，要么根本没有。"
     }
   },
   "divinity": {
-    "name": "Divinity",
+    "name": "血亲度",
     "description": {
-      "general": "Suffers no fools, nor doubt"
+      "general": "没有假币，也没有任何疑虑。"
     }
   },
   "absolution": {
-    "name": "Absolution",
+    "name": "中止",
     "description": {
-      "general": "Mercy is granted through judgment"
+      "general": "以判决方式给予信使。"
     }
   },
   "authority": {
-    "name": "Authority",
+    "name": "授权",
     "description": {
-      "general": "Judgment is carried out in full"
+      "general": "判决已全部执行"
     }
   },
   "ordinance": {
-    "name": "Ordinance",
+    "name": "条例：",
     "description": {
-      "general": "Duty is bound without question"
+      "general": "义务是无疑的"
     }
   },
   "order": {
-    "name": "Order",
+    "name": "订单",
     "description": {
-      "general": "All steps follow sacred law"
+      "general": "所有步骤都遵循神圣法"
     }
   },
   "devoutness": {
-    "name": "Devoutness",
+    "name": "变异度",
     "description": {
-      "general": "No path strays from the cause"
+      "general": "没有源自原因的路径"
     }
   },
   "penance": {
-    "name": "Penance",
+    "name": "养恤金",
     "description": {
-      "general": "Sin is visible to all"
+      "general": "所有人都可见。"
     }
   },
   "fulmination": {
-    "name": "Fulmination",
+    "name": "完成",
     "description": {
-      "general": "A battered brim to face unyielding winds"
+      "general": "一种被殴打的贿赂来面对不幸的风"
     }
   },
   "thunderstruckFA": {
     "name": "雷击",
     "description": {
-      "general": "You know there's no turning back"
+      "general": "你知道没有反转"
     }
   },
   "stormbound": {
-    "name": "Stormbound",
+    "name": "风雪",
     "description": {
-      "general": "A cloak that gathers wind and wears the storm"
+      "general": "一种能够收集风力并穿过风暴的外衣。"
     }
   },
   "navigatorsCharm": {
     "name": "Navigator's Charm",
     "description": {
-      "general": "Measures of distance and fate carried close"
+      "general": "距离和命运的测量接近度"
     }
   },
   "groundedGuardians": {
-    "name": "Grounded Guardians",
+    "name": "地面守卫者",
     "description": {
-      "general": "For when the lightning strikes"
+      "general": "当闪电打击时"
     }
   },
   "wayfinder": {
     "name": "Wayfinder",
     "description": {
-      "general": "Eyes each tempest as your last"
+      "general": "作为你最后一个眼睛每个节奏都能看到你的"
     }
   },
   "galeWorn": {
-    "name": "Gale-Worn",
+    "name": "伽利沃斯",
     "description": {
-      "general": "Hardened by long miles under open skies"
+      "general": "在开放天空下长英里被困了"
     }
   },
   "tempestTreads": {
-    "name": "Tempest Treads",
+    "name": "Tempest Tread",
     "description": {
-      "general": "Where lesser paths would turn back"
+      "general": "较小路径会反转的位置"
     }
   },
   "skyscrawl": {
     "name": "Skyscrawl",
     "description": {
-      "general": "Marked by every tempest survived"
+      "general": "标记为每个节奏存活了"
     }
   },
   "masterOfTheSeas": {
-    "name": "Master of the Seas",
+    "name": "海洋大师",
     "description": {
-      "general": "A snug fit over smug shoulders"
+      "general": "一个适合于smug肩膀的snug"
     }
   },
   "championsChoice": {
-    "name": "Champion's Choice",
+    "name": "英雄的选择",
     "description": {
-      "general": "Keeps you steady amidst rogue waves and drunken fiends"
+      "general": "保持您在无赖浪波中的稳定状态并鼓风的纤维。"
     }
   },
   "holdfastLeathers": {
     "name": "Holdfast Leathers",
     "description": {
-      "general": "\"More like hole-fast leathers!\""
+      "general": "“更像是快速皮革！”"
     }
   },
   "amethystRomance": {
     "name": "Amethyst Romance",
     "description": {
-      "general": "Commanders can be casanovas too"
+      "general": "指挥官也可以是 casanovas"
     }
   },
   "whitewaterBrim": {
-    "name": "Whitewater Brim",
+    "name": "白水Brim",
     "description": {
-      "general": "Made from shark hide, finished under a merciless sun"
+      "general": "从鲨鱼皮中制成，在无情的太阳下完成"
     }
   },
   "rightOfRule": {
-    "name": "Right of Rule",
+    "name": "规则的权利",
     "description": {
-      "general": "Power has a habit of showing off"
+      "general": "电源有关闭的习惯。"
     }
   },
   "eyeOfAscension": {
-    "name": "Eye of Ascension",
+    "name": "阿森松之眼",
     "description": {
-      "general": "Victory may cost an eye, but coin buys you pretty things"
+      "general": "胜利可能会花费眼睛，但是硬币会购买你喜欢的东西。"
     }
   },
   "highwaterGuard": {
-    "name": "Highwater Guard",
+    "name": "高水卫士",
     "description": {
-      "general": "Stops attacks by blades, fists and teeth"
+      "general": "停止用剑、拳头和牙齿进行攻击"
     }
   },
   "worldbound": {
-    "name": "Worldbound",
+    "name": "世界绑定的",
     "description": {
-      "general": "\"Can't conquer the world when your pants are falling off, can you?\""
+      "general": "“无法在你的窗户下台时征服世界，能否？”"
     }
   },
   "emberwinds": {
     "name": "Emberwinds",
     "description": {
-      "general": "Hot on their trail and closing fast"
+      "general": "在线路上热门并快速关闭"
     }
   },
   "flairewraith": {
     "name": "Flairewraith",
     "description": {
-      "general": "Ambition burns brighter than any flame"
+      "general": "Ambition 烧焦比任何火焰都亮了"
     }
   },
   "soulthirst": {
     "name": "Soulthirst",
     "description": {
-      "general": "Wield an ancient hunger across the seas"
+      "general": "在整个海洋中唤起古老的饥饿"
     }
   },
   "theDriftingDead": {
-    "name": "The Drifting Dead",
+    "name": "漂流死者",
     "description": {
-      "general": "\"Follow my light into eternal darkness.\""
+      "general": "“跟着我的光线进入永恒的黑暗。”"
     }
   },
   "bloodsilk": {
     "name": "Bloodsilk",
     "description": {
-      "general": "Fly the colors of terror"
+      "general": "填充恐怖颜色"
     }
   },
   "eternalReaper": {
-    "name": "Eternal Reaper",
+    "name": "永恒的收获器",
     "description": {
-      "general": "None escape the tides of death"
+      "general": "没有人越过死亡潮流"
     }
   },
   "dreadglow": {
-    "name": "Dreadglow",
+    "name": "恐龙卷风",
     "description": {
-      "general": "Lit by the souls of your enemies"
+      "general": "由敌人的灵魂点燃。"
     }
   },
   "ashwake": {
-    "name": "Ashwake",
+    "name": "阿什克唤醒",
     "description": {
-      "general": "Leave no survivors behind"
+      "general": "没有遗属落后"
     }
   },
   "hungryGhost": {
-    "name": "Hungry Ghost",
+    "name": "饥饿的幽灵者",
     "description": {
-      "general": "\"The light at the end... was always me.\""
+      "general": "“结尾时的灯光……总是我。”"
     }
   },
   "theLastRite": {
-    "name": "The Last Rite",
+    "name": "最后一张石头",
     "description": {
-      "general": "Scatter your enemies to the sky"
+      "general": "将你的敌人分散到天空"
     }
   },
   "reapervane": {
     "name": "Reapervane",
     "description": {
-      "general": "The winds lead you to feast and glory"
+      "general": "风使你走上发味道和荣耀的"
     }
   },
   "deadmansDance": {
-    "name": "Deadman's Dance",
+    "name": "死者之舞：",
     "description": {
-      "general": "There is no escape..."
+      "general": "无可回避..."
     }
   },
   "bloodrust": {
-    "name": "Bloodrust",
+    "name": "鲜血箱",
     "description": {
-      "general": "Bleeds rust and still outsails 'em all"
+      "general": "祝福所有但仍然溢出"
     }
   },
   "puppeteerOfChaos": {
-    "name": "Puppeteer of Chaos",
+    "name": "破解的Puppeteer",
     "description": {
-      "general": "\"Every ship on these seas dances to me tune.\""
+      "general": "“在这些海舞上的每艘船都给我调配。”"
     }
   },
   "marionettesMark": {
-    "name": "Marionette's Mark",
+    "name": "Marionette的标记",
     "description": {
-      "general": "Hold every horizon in your palm"
+      "general": "在您的手掌中保持每个地平线"
     }
   },
   "shadowVeil": {
-    "name": "Shadow Veil",
+    "name": "阴影Veil",
     "description": {
-      "general": "Sails as dark as your heart"
+      "general": "和你的心一样黑色"
     }
   },
   "crimsonOmen": {
-    "name": "Crimson Omen",
+    "name": "克里斯森奥门文",
     "description": {
-      "general": "Feed the depths"
+      "general": "喂饱深度"
     }
   },
   "dragonmarked": {
-    "name": "Dragonmarked",
+    "name": "拖动标记",
     "description": {
-      "general": "Fly the colors that have swallowed a thousand fleets"
+      "general": "拍摄一千支船队的颜色"
     }
   },
   "jadeSkies": {
     "name": "Jade Skies",
     "description": {
-      "general": "Silks worthy of a warlord"
+      "general": "值得军阀使用的丝条"
     }
   },
   "bloodlacquer": {
-    "name": "Bloodlacquer",
+    "name": "鲜血者",
     "description": {
-      "general": "Every plank stained with the spoils of war"
+      "general": "每个木板都有战利品的染料"
     }
   },
   "stormdrake": {
     "name": "Stormdrake",
     "description": {
-      "general": "Where the dragon flies, dominion follows"
+      "general": "龙卷风后排在哪里："
     }
   },
   "miso": {
     "name": "Miso",
     "description": {
-      "general": "Soft paws, softer gaze; begs for fish like it's the first"
+      "general": "软铺，软盖；吃鱼就像是第一只。"
     }
   },
   "spikey": {
-    "name": "Spikey",
+    "name": "螺旋键",
     "description": {
-      "general": "Cuts rope-ends, pinkies, and pride, then blinks sweetly"
+      "general": "剪切旋转，粉红色和自豪，然后厚颜色。"
     }
   },
   "sovereignScroll": {
-    "name": "Sovereign Scroll",
+    "name": "主权卷轴",
     "description": {
-      "general": "A gold pennant for the ship that writes the law"
+      "general": "造船黄金企鹅为该船撰写法律"
     }
   },
   "midnightRegalia": {
-    "name": "Midnight Regalia",
+    "name": "米夜雷利亚州",
     "description": {
-      "general": "Always fly your finest to an execution"
+      "general": "总是运行最优秀的执行"
     }
   },
   "abyssalMantle": {
-    "name": "Abyssal Mantle",
+    "name": "深海曼特尔",
     "description": {
-      "general": "Cloaked in shadow and crowned in ivory"
+      "general": "衣着在阴影中并在象牙中取得了冠军"
     }
   },
   "gildedDecree": {
-    "name": "Gilded Decree",
+    "name": "金色法令",
     "description": {
-      "general": "\"Judgement finds everyone eventually, captain.\""
+      "general": "“最终找到每一个人，船长。”"
     }
   },
   "rogueBreaker": {
     "name": "Roguebreaker",
     "description": {
-      "general": "A noble name for an elegant reckoning"
+      "general": "优雅的草率的贵族名称"
     }
   },
   "royalScourge": {
-    "name": "Royal Scourge",
+    "name": "皇家冲锋枪",
     "description": {
-      "general": "Glory belongs to those who dare"
+      "general": "Glory 属于那些胆怯的人"
     }
   },
   "goldspoke": {
-    "name": "Goldspoke",
+    "name": "金口令",
     "description": {
-      "general": "Even the tides yield to blue blood"
+      "general": "甚至连潮线都会产生蓝色血液。"
     }
   },
   "wraithscorch": {
-    "name": "Wraithscorch",
+    "name": "狂犬座",
     "description": {
-      "general": "Leave nothing behind but scorch marks and terror"
+      "general": "只留下焦点标记和恐怖。"
     }
   },
   "shroudweft": {
-    "name": "Shroudweft",
+    "name": "青色染料",
     "description": {
-      "general": "Buffeted by the screams of the damned"
+      "general": "被被压制的屏幕击退了"
     }
   },
   "grimsheen": {
     "name": "Grimsheen",
     "description": {
-      "general": "In the end, the dark overtakes all"
+      "general": "最后，黑暗覆盖所有"
     }
   },
   "dreadTrinity": {
-    "name": "Dread Trinity",
+    "name": "恐龙Trinity",
     "description": {
-      "general": "\"I collect what's owed in screams and bone.\""
+      "general": "“我收集在屏幕上的欠款。”"
     }
   },
   "deadlock": {
-    "name": "Deadlock",
+    "name": "末地锁",
     "description": {
-      "general": "For those as pitiless as the sea"
+      "general": "对于那些像海洋这样无情的人"
     }
   },
   "graveWind": {
-    "name": "Grave Wind",
+    "name": "坟墓之风",
     "description": {
-      "general": "The breeze carries your foes' death rattles"
+      "general": "面包带着你的敌人的死亡战车"
     }
   },
   "oathbreakersEnd": {
-    "name": "Oathbreaker's End",
+    "name": "断路器结束",
     "description": {
-      "general": "\"Traitors dig their own graves, cully.\""
+      "general": "“交易者精心挖掘自己的坟墓。”"
     }
   },
   "hookEm": {
-    "name": "Hook 'Em",
+    "name": "钩子渐变",
     "description": {
-      "general": "\"Eh, that jaw talked too much.\""
+      "general": "\"啊，那个黄色谈得太多了。\""
     }
   },
   "deadeyeHelm": {
-    "name": "Deadeye Helm",
+    "name": "Deadeye 头盔",
     "description": {
-      "general": "Death follows at every turn..."
+      "general": "每次死亡都跟随..."
     }
   },
   "deathpike": {
-    "name": "Deathpike",
+    "name": "致命猪座",
     "description": {
-      "general": "Impaled, burnt, and left as a warning"
+      "general": "穿透、烧毁和左侧作为警告"
     }
   },
   "warbrand": {
     "name": "Warbrand",
     "description": {
-      "general": "The herald of doom"
+      "general": "末日先驱者"
     }
   },
   "riotborne": {
     "name": "Riotborne",
     "description": {
-      "general": "Nothing can burn what is born in carnage"
+      "general": "没有东西可以烧毁在大屠杀中生来的东西。"
     }
   },
   "emberhide": {
     "name": "Emberhide",
     "description": {
-      "general": "Seared by a hundred victory fires"
+      "general": "因100个胜利而陷于战火中"
     }
   },
   "scorchoak": {
     "name": "Scorchoak",
     "description": {
-      "general": "Charred through and reforged with stolen gold"
+      "general": "用被盗黄金填写并重新锻造。"
     }
   },
   "binderbrand": {
-    "name": "Binderbrand",
+    "name": "绑定品牌：",
     "description": {
-      "general": "Where past wrongs are bound forever"
+      "general": "在过去错误被永远绑定的地方"
     }
   },
   "searingGrip": {
-    "name": "Searing Grip",
+    "name": "抓取手枪",
     "description": {
-      "general": "Where fury burns, waiting to strike"
+      "general": "在发火的地方，等待攻击"
     }
   },
   "ashenMarked": {
     "name": "Ashen Marked",
     "description": {
-      "general": "Where eternal damnation is worn"
+      "general": "永久破坏力已经破损的地方"
     }
   },
   "pyrecrest": {
-    "name": "Pyrecrest",
+    "name": "火焰喷射器",
     "description": {
-      "general": "Where the mind turns to vengeance"
+      "general": "心灵转向报复的情况"
     }
   },
   "hellbrand": {
-    "name": "Hellbrand",
+    "name": "Hellbrands",
     "description": {
-      "general": "Where the brand bites deepest"
+      "general": "品牌最深的位置"
     }
   },
   "burntEnds": {
-    "name": "Burnt Ends",
+    "name": "烧焦结束",
     "description": {
-      "general": "Where rage runs unchecked"
+      "general": "未选中的跑步数"
     }
   },
   "moltenSouls": {
     "name": "Molten Souls",
     "description": {
-      "general": "Where ruin is left in your wake"
+      "general": "废墟留在你的唤醒中"
     }
   },
   "infernalMantle": {
-    "name": "Infernal Mantle",
+    "name": "内弗纳尔曼特",
     "description": {
-      "general": "Where the rage is held at bay"
+      "general": "在海湾占据的位置"
     }
   },
   "smoldered": {
-    "name": "Smoldered",
+    "name": "熔化",
     "description": {
-      "general": "Where guilty are burned alive"
+      "general": "当罪犯被活活烧死时"
     }
   },
   "threadedRestraint": {
-    "name": "Threaded Restraint",
+    "name": "线程限制",
     "description": {
-      "general": "Dominion over the unruly"
+      "general": "对不规则的支配地位"
     }
   },
   "engravedEdict": {
-    "name": "Engraved Edict",
+    "name": "雕刻的 Edict",
     "description": {
-      "general": "Every strike to enforce order"
+      "general": "每次罢工来执行命令"
     }
   },
   "imperialGaze": {
     "name": "Imperial Gaze",
     "description": {
-      "general": "A stare that compels obedience"
+      "general": "强制服从的stare状态"
     }
   },
   "commandantTricorne": {
-    "name": "Commandant Tricorne",
+    "name": "特里科恩指挥官",
     "description": {
-      "general": "A command piece bound by rank and reprisal"
+      "general": "一个按军衔和报复绑定的命令"
     }
   },
   "ledgerBreeches": {
-    "name": "Ledger Breeches",
+    "name": "老板胸部",
     "description": {
-      "general": "Stitched with the quiet tally of broken crews"
+      "general": "用破碎机组人员的静音线缝合成。"
     }
   },
   "marchOfTheNines": {
-    "name": "March of the Nines",
+    "name": "尼恩斯三月",
     "description": {
-      "general": "For the long road to order"
+      "general": "漫长的命令道路"
     }
   },
   "officerCuirass": {
-    "name": "Officer Cuirass",
+    "name": "军官Cuirass",
     "description": {
-      "general": "Worn by those who quell rebellion"
+      "general": "那些镇压叛乱分子的人造成的伤害"
     }
   },
   "ironGrip": {
-    "name": "Iron Grip",
+    "name": "铁狮战利品",
     "description": {
-      "general": "Issue judgment, each ring a mark of consequence"
+      "general": "发布判断，每个环节的后果标记"
     }
   },
   "stillBreath": {
-    "name": "Still Breath",
+    "name": "仍然呼吸器",
     "description": {
-      "general": "Chains tighten where life falters"
+      "general": "活生生的链条紧紧紧了"
     }
   },
   "widowsRestraint": {
-    "name": "Widow's Restraint",
+    "name": "寡妇限制",
     "description": {
-      "general": "Bindings that know when to strike"
+      "general": "知道何时攻击的绑定"
     }
   },
   "sepulchral": {
     "name": "Sepulchral",
     "description": {
-      "general": "Hollow gaze that heralds quiet ends"
+      "general": "预示着静音结束的黄色游戏"
     }
   },
   "carrionPlume": {
     "name": "Carrion Plume",
     "description": {
-      "general": "Shadow-crowned, marking hunters unseen"
+      "general": "阴影拥挤，标记猎人未见的"
     }
   },
   "whisperlocked": {
-    "name": "Whisperlocked",
+    "name": "Whisperlock",
     "description": {
-      "general": "A cold gleam settling where breath fails"
+      "general": "冷冻气流沉淀，呼吸失败"
     }
   },
   "nightlace": {
-    "name": "Nightlace",
+    "name": "夜晚座",
     "description": {
-      "general": "Each step drawn through shadow"
+      "general": "通过阴影绘制的每个步骤"
     }
   },
   "duskfallen": {
     "name": "Duskfallen",
     "description": {
-      "general": "Steps that arrive with a final sigh"
+      "general": "带有最终色彩的步骤"
     }
   },
   "deadlyRequiem": {
-    "name": "Deadly Requiem",
+    "name": "致命要求",
     "description": {
-      "general": "Clad for elegant execution"
+      "general": "优雅执行的粘贴符"
     }
   },
   "darkrites": {
-    "name": "Darkrites",
+    "name": "黑色",
     "description": {
-      "general": "Born in shadow and storm"
+      "general": "生于阴影和风暴中"
     }
   },
   "callOfThePhoenix": {
-    "name": "Call of the Phoenix",
+    "name": "Phoenix 的呼叫",
     "description": {
-      "general": "When the skystalker calls, one answers, or risks being reborn"
+      "general": "当滑动器调用时，一个答案或风险会重生时"
     }
   },
   "fathomGaze": {
-    "name": "Fathom Gaze",
+    "name": "法索格省",
     "description": {
-      "general": "The deep reveals its secrets to the bold"
+      "general": "它的秘密暴露在黑体上"
     }
   },
   "paleVisions": {
     "name": "Pale Visions",
     "description": {
-      "general": "Your instincts say it all"
+      "general": "你的本能说是所有的"
     }
   },
   "ironOaths": {
-    "name": "Iron Oaths",
+    "name": "铁矿石",
     "description": {
-      "general": "\"The last cut is always mine, matey.\""
+      "general": "“最后一次切割总是矿，最爱。”"
     }
   },
   "mottledDuskglaze": {
     "name": "Mottled Duskglaze",
     "description": {
-      "general": "\"Ah, the sun is setting on your petty schemes.\""
+      "general": "\"啊，太阳正在您的小星方案上设置。\""
     }
   },
   "nightshadeVeil": {
-    "name": "Nightshade Veil",
+    "name": "夜影面Veil",
     "description": {
-      "general": "The darkest nights forge the sharpest blades"
+      "general": "最黑暗的夜晚会形成最尖锐的叶子"
     }
   },
   "steelflarePortent": {
     "name": "Steelflare Portent",
     "description": {
-      "general": "\"I've survived mutiny and storm... you're just one rat.\""
+      "general": "“我在暴乱和风暴中幸存下来……你只是一只拉特。”"
     }
   },
   "jadefire": {
     "name": "Jadefire",
     "description": {
-      "general": "Flameborn and ready to plunder"
+      "general": "Flamebory随时可以掠夺它"
     }
   },
   "duelingStars": {
     "name": "Dueling Stars",
     "description": {
-      "general": "Where blades cross, legends are born"
+      "general": "叶子穿过的地方，传说就出生了"
     }
   },
   "nutty": {
     "name": "Nutty",
     "description": {
-      "general": "Are you sure you're not cracked in the head?"
+      "general": "你确定你没有被打碎头？"
     }
   },
   "lEtoile": {
-    "name": "L'Étoile",
+    "name": "L'Étoile",
     "description": {
-      "general": "Your lodestar to glory"
+      "general": "你的logestar to glory"
     }
   },
   "celestine": {
-    "name": "Celestine",
+    "name": "摄氏度",
     "description": {
-      "general": "Dark silks that hide you until it's too late for your foes"
+      "general": "隐藏你的暗丝，直到你的敌人为时过晚。"
     }
   },
   "midnightSovereign": {
-    "name": "Midnight Sovereign",
+    "name": "午夜主权组织",
     "description": {
-      "general": "As dark and unyielding as the deep seas"
+      "general": "深海与深海一样黑暗和不屈不挠。"
     }
   },
   "writInGold": {
-    "name": "Writ in Gold",
+    "name": "变成金币",
     "description": {
-      "general": "Every sail bears the weight of royal command"
+      "general": "每条航行都带有皇家命令的权重"
     }
   },
   "hellsHerald": {
-    "name": "Hell's Herald",
+    "name": "Hell的先驱者",
     "description": {
-      "general": "Torment awaits all those who sight it"
+      "general": "折磨等待所有看到它的人"
     }
   },
   "goldsearedSilk": {
-    "name": "Goldseared Silk",
+    "name": "金色染色的Silk",
     "description": {
-      "general": "Mark the horizon with your glory"
+      "general": "用您的光荣标记地平线"
     }
   },
   "rubyReign": {
-    "name": "Ruby Reign",
+    "name": "Ruby Lign",
     "description": {
-      "general": "Crowned with the blood of those who defy you"
+      "general": "用那些蔑视你的人的鲜血来吃惊。"
     }
   },
   "edictOfFlames": {
-    "name": "Edict of Flames",
+    "name": "火焰之力",
     "description": {
-      "general": "\"I never negotiate, Captain.\""
+      "general": "“我从未谈判过，上尉”"
     }
   },
   "mossyGravewood": {
     "name": "Mossy Gravewood",
     "description": {
-      "general": "Bark nourished by countless corpses"
+      "general": "被无数尸体喂养的伤疤。"
     }
   },
   "rotbreath": {
-    "name": "Rotbreath",
+    "name": "旋转模式",
     "description": {
-      "general": "A cloud of mold to rot your foes to the bone"
+      "general": "一个可将敌人腐烂到骨头的云云"
     }
   },
   "maraudersGash": {
-    "name": "Marauder's Gash",
+    "name": "Marauder的Gash",
     "description": {
-      "general": "Quick and quiet as poison ivy"
+      "general": "作为毒物的快速静音"
     }
   },
   "nooseOfThorns": {
-    "name": "Noose of Thorns",
+    "name": "索恩斯的鼻子",
     "description": {
-      "general": "\"Welcome to my jungle, mate -- shame you won't see the dawn.\""
+      "general": "“欢迎来到我的丛林，mate — 您不会看到黎明。”"
     }
   },
   "leviathansWrath": {
     "name": "Leviathan's Wrath",
     "description": {
-      "general": "The deep shall claim its dues"
+      "general": "深层将要求其应缴的款项"
     }
   },
   "boomingFortunes": {
-    "name": "Booming Fortunes",
+    "name": "蓬勃的财富：",
     "description": {
-      "general": "In it for the loot"
+      "general": "用于获取战利品"
     }
   }
 }
