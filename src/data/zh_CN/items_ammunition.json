@@ -1,50 +1,50 @@
 {
   "torpedoes": {
-    "name": "Torpedoes",
+    "name": "鱼雷",
     "description": {
-      "general": "Ammunition for any Torpedo Launcher Weapon."
+      "general": "火焰发射器武器的弹药。"
     }
   },
   "oilCanisters": {
-    "name": "Oil Canisters",
+    "name": "油罐",
     "description": {
-      "general": "Ammunition for any SeaFire Weapon."
+      "general": "任何海火武器的弹药。"
     }
   },
   "mortarBombs": {
-    "name": "Mortar Bombs",
+    "name": "迫击炮弹数",
     "description": {
-      "general": "Ammunition for any Mortar Weapon."
+      "general": "任何迫击炮武器的弹药。"
     }
   },
   "ballistaBolts": {
-    "name": "Ballista Bolts",
+    "name": "弩箭",
     "description": {
-      "general": "Ammunition for any Ballista Weapon."
+      "general": "任何弹道导弹武器的弹药。"
     }
   },
   "cannonballs": {
-    "name": "Cannonballs",
+    "name": "半加农跑道",
     "description": {
-      "general": "Ammunition for any Cannon Weapon."
+      "general": "任何大炮武器的弹药。"
     }
   },
   "bombardBombs": {
-    "name": "Bombard Bombs",
+    "name": "炸弹",
     "description": {
-      "general": "Ammunition for any Bombard Weapon."
+      "general": "任何炸弹武器的弹药"
     }
   },
   "rockets": {
-    "name": "Rockets",
+    "name": "火箭",
     "description": {
-      "general": "Ammunition for any Rocket Launcher Weapon."
+      "general": "任何火箭发射器武器的弹药。"
     }
   },
   "buoyShells": {
-    "name": "Buoy Shells",
+    "name": "浮标",
     "description": {
-      "general": "Ammunition for any Springloader Weapon."
+      "general": "任何浮标武器的弹药。"
     }
   }
 }
