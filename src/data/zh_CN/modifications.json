@@ -571,14 +571,14 @@
     "description": "撞击目标会造成额外的 %s-%s 有毒伤害。10秒内其有毒抗性降低30%"
   },
   "phantomRound": {
-    "name": "幻影回合。",
-    "description": "%s-%s每次射出更多射弹几率"
+    "name": "幻影弹",
+    "description": "每次射击有%s-%s几率额外发射炮弹。"
   },
   "perforate": {
-    "name": "Perforate",
+    "name": "贯穿",
     "description": [
-      "当命中虚弱点时，获得10秒的Perforate",
-      "Perforate正在使用穿透目标Perforate模组穿越武器发射的射弹. 造成 %s-%s最大伤害3个敌人。"
+      "击中弱点时，获得“穿透”效果，持续10秒",
+      "命中弱点后,获得贯穿效果,持续\n10秒。贯穿生效时,装配贯穿改装\n的武器发射的炮弹可最多穿透目标\n3次,每次穿透后伤害降低至\n%s-%s%。"
     ]
   }
 }
