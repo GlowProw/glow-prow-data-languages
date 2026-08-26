@@ -1,21 +1,21 @@
 {
     "crimsonWaters": {
-        "description": "The crimson tide rises, and with it, the most ruthless pirates, fearsome sea monsters, and legendary warships the Indian Ocean has ever seen. Battle through the Darktide, face formidable Seasonal Bosses, and claim your glory on these blood-soaked waters.",
+        "description": "猩红浪潮汹涌而来，随之而来的是印度洋有史以来最凶残的海盗、最可怖的海怪和最传奇的战舰。穿越暗潮，迎战强大的赛季首领，在血染的海域中赢得你的荣耀。",
         "data": {
             "darktideLullaby": {
-                "name": "Darktide Lullaby",
-                "description": "Time-Limited Event\nDefeat Darktide Roamers for rewards"
+                "name": "暗潮安魂曲",
+                "description": "限时活动\n击败暗潮漂泊者，获取奖励"
             },
             "factionWar": {
                 "name": "阵营战争",
                 "description": "阵营战争"
             },
             "commanderZhang": {
-                "name": "Commander Zhang",
+                "name": "张提督",
                 "description": "赛季首领"
             },
             "philippeLaPeste": {
-                "name": "Philippe La Peste",
+                "name": "菲力浦·拉佩斯特",
                 "description": "赛季首领"
             },
             "theSoleilRoyal": {
@@ -23,59 +23,59 @@
                 "description": "精英战船"
             },
             "infamyBoost": {
-                "name": "Infamy Boost",
-                "description": "Special Weekend Event"
+                "name": "恶名加成",
+                "description": "周末活动"
             },
             "vikramRajan": {
-                "name": "Vikram Rajan",
+                "name": "维克莱姆·拉詹",
                 "description": "赛季首领"
             },
             "jonasVanderkill": {
-                "name": "Jonas Vanderkill",
+                "name": "乔纳斯·范德基尔",
                 "description": "精英战船"
             },
             "darktideBoost": {
-                "name": "Darktide Boost",
-                "description": "Special Weekend Event"
+                "name": "暗潮加成",
+                "description": "特别周末活动"
             },
             "theKraken": {
-                "name": "The Kraken",
+                "name": "克拉肯",
                 "description": "海怪"
             },
             "elderShadowbeast": {
-                "name": "Elder Shadowbeast",
+                "name": "上古影龙",
                 "description": "赛季首领"
             },
             "gloryAdornedResynced": {
-                "name": "Glory Adorned: Resynced",
-                "description": "Time-Limited Event"
+                "name": "荣耀加身：记忆重置",
+                "description": "限时活动"
             },
             "abyssalEnvoy": {
-                "name": "Abyssal Envoy",
-                "description": "New Elite Warship"
+                "name": "深渊使者号",
+                "description": "新精英战船"
             },
             "piecesOfEightBoost": {
-                "name": "Pieces of Eight Boost",
-                "description": "特别活动"
+                "name": "海舵社币加成",
+                "description": "特别周末活动"
             },
             "gildmarksBoost": {
-                "name": "Gildmarks Boost",
+                "name": "镀金马克加成",
                 "description": "特别活动"
             },
             "smugglerBoost": {
-                "name": "走私贩点数加成",
+                "name": "走私贩加成",
                 "description": "特别活动"
             },
             "theRovingLost": {
                 "name": "彷徨游魂",
-                "description": "Time-Limited Event"
+                "description": "限时活动"
             },
             "zamaharibu": {
-                "name": "Zamaharibu",
+                "name": "萨马哈利布",
                 "description": "海怪"
             },
             "rovingLostBoost": {
-                "name": "Roving Lost Boost",
+                "name": "彷徨游魂加成",
                 "description": "特别活动"
             },
             "theOpwelling": {
@@ -83,7 +83,7 @@
                 "description": "精英战船"
             },
             "helmBoost": {
-                "name": "Helm Boost",
+                "name": "海舵社加成",
                 "description": "特别活动"
             }
         }
@@ -263,9 +263,9 @@
         }
     },
     "eyeOfTheBeast": {
-        "description": "And from that cesspit, something ancient and clearly pissed off is waking. It tears every poor soul within its reach limb from limb.\n\nBut you won’t face it empty-handed.\n\nThe long-awaited Corvette finally sails into the Indian Ocean. It is your strongest chance against whatever horror is coming up from below."
+        "description": "腐烂的尸体，扭曲的船只，荷兰和皇家正在将这些海域变成一片血染的荒原。从那粪坑里，某种古老而愤怒的东西正在苏醒。它将触及范围内所有可怜的灵魂撕成碎片。\n但你不会空手而归。\n万众期待的克尔维特号终于驶入印度洋。它是你对抗来自下方任何恐怖威胁的最有力武器。"
     },
     "shatteredSeas": {
-        "description": "So, Captain, are you ready to brave the Shattered Seas?"
+        "description": "船长，你准备好勇闯破碎之海了吗？"
     }
 }
