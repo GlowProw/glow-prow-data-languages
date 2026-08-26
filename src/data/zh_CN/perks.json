@@ -2074,7 +2074,7 @@
     "description": {
       "general": [
         "对建筑伤害提升50%，且受到弱点伤害提升30%（持续10秒）。",
-        "Weapon hits have a 30% chance to trigger Fury on self for 15 seconds, boosting Broadside Weapon Damage by 30%",
+        "武器命中有20%几率为自己触发狂怒效果，持续15秒，使舷侧武器伤害提升20%。",
         "激活狂怒后，舷侧命中会每3秒触发一次爆炸，再100米爆破范围内造成700伤害。"
       ]
     }
@@ -2571,7 +2571,7 @@
     "name": "坚毅",
     "description": {
       "general": [
-        "Gain a stack of Grit when you take damage. Each stack of Grit increases Armor by 50, up to a maximum of 10 stacks. Each stack of Grit lasts 15 seconds",
+        "受伤害时获得1层坚毅。每层坚毅增加40装甲，最多可叠加10层。每层坚毅持续15秒。",
         "200米范围内的友方超小、小型和中型船只受到的伤害降低10%。拥有10层坚毅时友方船只改为受到的伤害降低20%"
       ]
     }
@@ -2629,7 +2629,7 @@
     "description": {
       "general": [
         "拥有10层坚毅时，受到伤害后会获得决意。",
-        "Resolve restores 20% Brace Strength on activation, decreases status effect damage by 20% and increases threat generation by 100% for 10 seconds"
+        "决意激活后，会恢复10%防御强度，并在10秒内使状态伤害降低20%，威胁生成提升100%。"
       ]
     }
   },
@@ -2880,7 +2880,7 @@
   "gimbalRingStores": {
     "description": {
       "general": [
-        "For every Demicannon weapon equipped, increase weapon damage of equipped weapons by 5%",
+        "命中180米外的目标后，半加农炮型武器伤害提升17%，持续12秒",
         "半加农炮型武器的炮弹速度增加14%",
         "半加农炮型武器的最大射程增加12%"
       ]
@@ -2899,7 +2899,7 @@
     "description": {
       "general": [
         "进水型武器对200米外的目标造成伤害，进水伤害提升13%，持续10秒",
-        "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1% up to 15%",
+        "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1%",
         "对带有进水效果的敌方船只造成的伤害增加10%"
       ]
     }
