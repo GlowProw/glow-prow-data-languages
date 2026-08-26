@@ -512,7 +512,7 @@
   },
   "ironCurtain": {
     "name": "铁盾",
-    "description": "Increases Armor Rating by %s-%s% for 10 seconds at the end of the Punctured status effect"
+    "description": "在穿刺状态效果结束后，护甲值提高 %s-%s%，持续 10 秒。"
   },
   "adeptSpikingIntegration": {
     "name": "深度跳跃集成",
