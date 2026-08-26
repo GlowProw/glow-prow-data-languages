@@ -2576,7 +2576,7 @@
   "hellfestShipCosmeticsChest": {
     "name": "地狱狂欢节战舰外观宝箱",
     "description": {
-      "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
+      "general": "一个富裕的箱子，它可能包含属于希腊船舶集合的化妆品"
     }
   },
   "freemansLetter": {
@@ -3056,9 +3056,9 @@
     }
   },
   "celestialBloom": {
-    "name": "Celestial Bloom",
+    "name": "天穹绽放",
     "description": {
-      "general": "\n"
+      "general": "发射密集的修复火箭以守护盟友。“真正的力量不在于毁灭,而在于守护的能力。”"
     }
   },
   "woundcaller": {
@@ -3104,25 +3104,25 @@
     }
   },
   "crazedNianStrongbox": {
-    "name": "Crazed Nian Strongbox",
+    "name": "被夷为平地的强方框",
     "description": {
-      "general": "A chest from the ship that used the fabled local legend of the Crazed Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
+      "general": "一个来自船只的箱子，利用被夷为平地的当地传说散布恐惧和抢劫不幸目标。 对战胜者来说，他们是在破坏者。"
     }
   },
   "ascendedBlightmawChest": {
-    "name": "Ascended Blightmaw Chest",
+    "name": "转生闪光宝箱",
     "description": {
       "general": "一个含有未知宝藏的神秘箱。有些人声称已经听到从内部穿着。"
     }
   },
   "ascendedLegendOfTheNianEventCache": {
-    "name": "Ascended Event Cache (Legend of the Nian)",
+    "name": "转发事件缓存 (尼安的图例)",
     "description": {
       "general": "内含一件进阶型事件武器。"
     }
   },
   "galleonUpgrade": {
-    "name": "Galleon Upgrade",
+    "name": "盖伦升级",
     "description": {
       "1": "将盖伦从0级升至1级。",
       "2": "将盖伦从1级升至2级。",
@@ -3131,7 +3131,7 @@
       "5": "将盖伦从4级升至5级。",
       "6": "将盖伦从5级升至6级。",
       "7": "将盖伦从6级升至7级。",
-      "general": "Ship upgrade for the Galleon."
+      "general": "盖伦的船只升级。"
     }
   },
   "hullcarver": {
@@ -3153,27 +3153,27 @@
     }
   },
   "soulsnatcher": {
-    "name": "Soulsnatcher",
+    "name": "夺魂者",
     "description": {
-      "general": "Recovers Hull Health depending on how many enemies hit with a single projectile. A cursed weapon forged in the forgotten rituals of the Fara."
+      "general": "恢复船身生命值,恢复量取决于单发射弹击中的敌人数量。一件受诅咒的武器,在被遗忘的珐拉仪式中铸成。"
     }
   },
   "deBreker": {
-    "name": "De Breker",
+    "name": "破浪",
     "description": {
-      "general": "A heavy bombardment weapon, coveted by the Dutch for its devastating fire and ability to slow down enemies."
+      "general": "一款重型轰炸武器,其火力堪称毁天灭地,还可减缓敌人速度,因而备受荷兰人青睐。"
     }
   },
   "floodbound": {
-    "name": "Floodbound",
+    "name": "浮动的",
     "description": {
-      "general": "A portion of weapon damage dealt to the Brace Health of nearby Flooded targets is converted back into Hull Health, turning any surrounding chaos and rising water into a steady source of recovery."
+      "general": "附近洪水目标造成的武器伤害的一部分将恢复为船体健康状态。 将周围的任何混乱和不断上升的水转化为稳定的恢复来源。"
     }
   },
   "needleShield": {
-    "name": "Needle Shield",
+    "name": "针头盾",
     "description": {
-      "general": "Bracing against hits from Punctured targets strengthens your defenses and Piercing weapon damage for a short time with this armor, which uses your enemy's weakness to boost your own protection."
+      "general": "用这支盔甲打击穿甲目标会加强你的防御和短时间穿甲武器伤害， 它利用敌人的弱点来加强你自己的保护。"
     }
   },
   "drownedOrgan": {
@@ -3207,9 +3207,9 @@
     }
   },
   "lAiguille": {
-    "name": "L'Aiguille",
+    "name": "尖峰",
     "description": {
-      "general": "A precise weapon of French design that shatters the hulls of their foes."
+      "general": "法国精工打造的精准武器,可粉碎敌舰船身。"
     }
   },
   "mortarPowderbench": {
@@ -3231,9 +3231,9 @@
     }
   },
   "verdantHuntsChest": {
-    "name": "Verdant Hunt's Chest",
+    "name": "Verdant Hunt的宝箱",
     "description": {
-      "general": "An opulent chest which may contain cosmetics from The Bohemian Set and Jade Prowler Set."
+      "general": "一种富裕的箱子，它可能包含来自波希米安集和贾德普罗维的饰物。"
     }
   },
   "cheese": {
@@ -3261,15 +3261,15 @@
     }
   },
   "pyroclasm": {
-    "name": "Pyroclasm",
+    "name": "Pyroclassm",
     "description": {
-      "general": "A vicious raider's armor, forged in an obsession with fire. Bracing enemy attacks builds a fiery explosion that damages nearby targets and spreads flames."
+      "general": "一支恶毒突袭者的护甲，用火焰制造出来。敌人的攻击可以制造一场火焰爆炸，炸毁附近的目标并散播火焰。"
     }
   },
   "leDrac": {
     "name": "Le Drac",
     "description": {
-      "general": "Worn by those who charge first. Bracing hits builds an explosion that can be triggered by ramming a target."
+      "general": "属于先锋突击者的装备。在防御攻击时会累积一层爆炸,并可通过冲撞目标来引爆。"
     }
   },
   "scorchSong": {
@@ -3285,52 +3285,52 @@
     }
   },
   "anathema": {
-    "name": "Anathema",
+    "name": "异端灾厄",
     "description": {
-      "general": "A vile weapon that spreads La Peste's toxins and blasts illness across enemy ships."
+      "general": "这件邪恶的武器可传播拉佩斯特的毒素,将疫病爆散至敌方船只中间。"
     }
   },
   "drakonsJaws": {
-    "name": "Drakon's Jaws",
+    "name": "古龙巨颚",
     "description": {
-      "general": "An ingenious weapon that triggers burning blasts on impact, intensifying against Flooded targets."
+      "general": "这件设计精妙的武器会在命中时触发燃烧爆炸,目标处于进水状态时,威力增强。"
     }
   },
   "clawsOfTheDeep": {
-    "name": "Claws of the Deep",
+    "name": "深渊利爪",
     "description": {
-      "general": "A precise perforator of ship hulls that tears holes through its targets to send them to their watery graves."
+      "general": "这件破甲武器可精准洞穿船只,在船身上撕开巨大裂口,使其葬身海底。"
     }
   },
   "hellfire": {
-    "name": "Hellfire",
+    "name": "地狱火",
     "description": {
-      "general": "A heavy rocket weapon that burns away its target's Fire Mitigation with consecutive hits."
+      "general": "一种重型火箭武器,可通过连续命中逐步烧蚀目标的火焰减伤。"
     }
   },
   "junkUpgrade": {
-    "name": "Junk Upgrade",
+    "name": "垃圾升级",
     "description": {
-      "1": "将扁嘴帆艇从0级升至1级。",
-      "2": "将扁嘴帆艇从1级升至2级。",
-      "3": "将扁嘴帆艇从2级升至3级。",
-      "4": "将扁嘴帆艇从3级升至4级。",
-      "5": "将扁嘴帆艇从4级升至5级。",
-      "6": "将扁嘴帆艇从5级升至6级。",
-      "7": "将扁嘴帆艇从6级升至7级。",
-      "general": "Ship upgrade for the Junk."
+      "1": "将粽从0级升至1级。",
+      "2": "将粽从1级升至2级。",
+      "3": "将粽从2级升至3级。",
+      "4": "将粽从3级升至4级。",
+      "5": "将粽从4级升至5级。",
+      "6": "将粽从5级升至6级。",
+      "7": "将粽从6级升至7级。",
+      "general": "船舶升级到垃圾箱。"
     }
   },
   "ascendedDrakonsJawsChest": {
-    "name": "Ascended Drakon's Jaws Chest",
+    "name": "跳过Drakon's Jaws 宝箱",
     "description": {
-      "general": "Contains an Ascended Drakon's Jaws"
+      "general": "包含一个摇滚德龙的爪子"
     }
   },
   "dredgedArmoryCache": {
-    "name": "Dredged Armory Cache",
+    "name": "疏浚的装甲缓存",
     "description": {
-      "general": "A cached dredged from the depths with various weapons including ascended weapons"
+      "general": "一个从深处隐藏的挖掘武器，包括长式武器"
     }
   },
   "abyssalCache": {
@@ -3340,21 +3340,21 @@
     }
   },
   "adeptCannonStrongbox": {
-    "name": "Adept Cannon Strongbox",
+    "name": "灰色加农炮箱",
     "description": {
-      "general": "Contains a Cannonball type weapon with a Basic Adept Mod"
+      "general": "包含一种带有基础Adept模组的大农球类武器"
     }
   },
   "maelstromCannonStrongbox": {
     "name": "Maelstrom Cannon Strongbox",
     "description": {
-      "general": "Contains Cannonball type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+      "general": "包含带有基础和高级神秘模组和独占神秘模组的大农球类武器"
     }
   },
   "maelstromBallistaStrongbox": {
     "name": "Maelstrom Ballista Strongbox",
     "description": {
-      "general": "Contains Ballista type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+      "general": "包含 Ballista 类型的武器，有可能用于基础和高级的神奇模组和独家神奇模组"
     }
   }
 }
