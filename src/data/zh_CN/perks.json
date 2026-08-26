@@ -47,7 +47,7 @@
     }
   },
   "repair": {
-    "name": "修复",
+    "name": "维修",
     "description": {
       "2": "为一艘友军船只回复更多船身生命值",
       "general": "为一艘友军船只回复更少船身生命值"
@@ -822,7 +822,7 @@
   "toxic": {
     "name": "剧毒",
     "description": {
-      "2": "Adds 20% of damage as Toxic Damage",
+      "2": "添加20%的损害作为有毒伤害",
       "3": "施加30%的剧毒伤害"
     }
   },
@@ -3099,16 +3099,16 @@
     }
   },
   "argusTouch": {
-    "name": "百眼巨人之触",
+    "name": "阿尔戈斯之触",
     "description": {
       "general": [
-        "命中盟友会施加一层效果，在2秒内恢复1%的船体生命值，最多叠加10层，在20秒内恢复10%。对于200米外的目标，每次命中施加2层效果。",
+        "每次命中友方单位时叠加一层,每层效果在2秒内恢复2%船身生命值,最多叠加10层(效果达到20%),持续20秒。对超过200米距离的目标,每次命中叠加4层效果。达到最大层数时移除船帆撕裂效果,并在效果持续期间阻止船帆撕裂充能。",
         "达到最大层数时，该效果会移除撕裂船帆状态，并在效果持续期间防止额外的撕裂船帆层数。"
       ]
     }
   },
   "chargedBarb": {
-    "name": "充能倒刺",
+    "name": "带电尖刺",
     "description": {
       "general": [
         "此武器命中目标会附着一个带电金属螺栓，持续10秒。螺栓每秒造成武器伤害10%的闪电伤害。",
@@ -3123,52 +3123,52 @@
     }
   },
   "redSunrise": {
-    "name": "Red Sunrise",
+    "name": "红色日出",
     "description": {
       "general": [
-        "Hits have a 15% chance to trigger Taunted on the target. Targets that are already Taunted will become afflicted with Unlucky Taunt",
-        "Unlucky Taunt inflicts 250 damage per second and can be stacked up to 5 times",
-        "Armed Bonus: Hits have 50% chance to trigger Taunted"
+        "命中时有15%几率对目标施加被嘲讽。已处于被嘲讽状态的目标将被额外附加厄运嘲讽 效果。厄运嘲讽每秒造成250伤害,最多叠加5层。武装加成:命中时有50%几率触发被嘲讽。",
+        "不幸的嘲讽每秒造成250点伤害，可被堆积5次",
+        "武装加成：命中后有50%的几率触发嘲笑。"
       ]
     }
   },
   "savingSalvo": {
-    "name": "Saving Salvo",
+    "name": "正在保存 Salvo",
     "description": {
       "general": [
-        "Consecutive hits repair 5% for each projectile",
-        "Consecutive hits on the same target also restores Brace Strength by 2% per hit"
+        "每个炮弹连续击中5%",
+        "在同一目标上连续命中还会使每次击中的强度恢复2%"
       ]
     }
   },
   "ironThunder": {
-    "name": "Iron Thunder",
+    "name": "铁色雷机",
     "description": {
       "general": [
-        "This ship gains a second row of lower deck weaponry",
-        "Weapons equipped will deal 10% more weapon damage within 350m",
-        "This ship gradually charges the status \"Iron Thunder\" over 1.5 seconds when it is not reloading any non-auxiliary weapon, which increases damage dealt by 65%. \"Iron Thunder\" is removed after 3 seconds on damage dealt to targets",
-        "Allied XSML, SML and MED ships within 500m gain 10% increased damage for 30s while \"Iron Thunder\" is active"
+        "这艘船获得第二行低甲板武器",
+        "装备武器将在350米内造成更多武器伤害",
+        "这艘船在不再装载任何非辅助武器的情况下，在1.5秒内逐渐对状态收取“铁雷达”，造成65%的伤害。 “铁雷线”会在目标受到伤害后3秒后被移除。",
+        "友军XSML、SML和MED船在500米内获得10％的伤害增加30分钟，而“铁雷”处于活动状态"
       ]
     }
   },
   "redWake": {
-    "name": "Red Wake",
+    "name": "红色唤醒",
     "description": {
       "general": [
-        "Increase damage dealt to targets within 250m by 35% when \"Iron Thunder\" is active",
-        "On fully charging \"Iron Thunder\" or upon destroying a target, confer \"Red Wake\" status on your ship, which increases top speed by 50% for 15 seconds"
+        "当“铁雷阵”处于活动状态时，在250米内对目标造成的伤害增加35%",
+        "完全充能“铁雷达”或销毁目标时， 授予你的船只“红色唤醒”状态，在15秒内最高速度增加 50%"
       ]
     }
   },
   "galleonUpgrade": {
     "description": {
       "1": [
-        "Increases Hull Health to 93600",
-        "Increases Brace Strength to 18720"
+        "船体健康增加到93600",
+        "能量增加到18720"
       ],
       "2": [
-        "Increases Cargo to 190000"
+        "提升货物到 1900:00"
       ],
       "3": [
         "将基础船只等级提升6",
@@ -3177,8 +3177,8 @@
         "新增「深蓝」能力"
       ],
       "4": [
-        "Increases Hull Health to 105930",
-        "Increases Brace Strength to 21186"
+        "船体生命值增加到105930",
+        "品牌强度提高到 21186"
       ],
       "5": [
         "将基础船只等级提升至7",
@@ -3187,12 +3187,12 @@
       "6": [
         "将基础船只等级提升至8",
         "防御强度回复增加12.5%",
-        "Adds 'Red Wake' perk"
+        "添加红色唤醒增益效果"
       ],
       "7": [
         "将基础船只等级提升至9",
-        "Increases Hull Health to 116523",
-        "Increases Brace Strength to 23304",
+        "把船体健康增加到116523",
+        "品牌强度增加到 23304",
         "防御强度回复增加25%"
       ]
     }
@@ -3210,8 +3210,8 @@
     "name": "秘法疗愈",
     "description": {
       "general": [
-        "Heals for 10% of damage dealt",
-        "Hitting 16 projectiles in one salvo increases mending amount received from this weapon to 35% for 16s"
+        "治疗10%的伤害",
+        "基于造成伤害的10%恢复生命值。单轮齐射有16枚射弹命中后,该武器的治疗效果提升至35%,持续16秒。"
       ]
     }
   },
@@ -3219,41 +3219,41 @@
     "name": "病弱",
     "description": {
       "general": [
-        "For each 1% Brace Strength missing from the target, deal 0.5% more weapon damage with this weapon up to 15%",
-        "If the target is Poisoned, gain an extra 30%"
+        "目标每失去1%防御强度,该武器造成的武器伤害提升0.5%(最多可达15%)。如果目标处于中毒 状态,则额外提升30%",
+        "如果目标是中毒，获得额外的 30%"
       ]
     }
   },
   "hauntingMend": {
-    "name": "Haunting Mend",
+    "name": "萦绕之愈",
     "description": {
       "general": [
-        "20% of damage dealt restores Hull Health, increasing by 20% for every additional target within the impact radius, up to a maximum of 60%"
+        "造成伤害的20%能够恢复船身生命值,击中半径范围内每增加一个目标,伤害提升20%,最高提升60%"
       ]
     }
   },
   "oceansSnare": {
-    "name": "Ocean's Snare",
+    "name": "海渊之缚",
     "description": {
       "general": [
-        "Hits from this weapon reduce the target's sailing speed by an additional 12% when they are Flooded",
-        "Hits on stationary targets or targets affected by Flooded or Torn Sails status deal 60% more damage"
+        "命中处于进水状态的目标时,该武器可使其航行速度额外降低12%。",
+        "命中静止目标,或处于进水或船帆撕裂状态的目标时,额外造成60%伤害。"
       ]
     }
   },
   "tideOfRestoration": {
-    "name": "Tide of Restoration",
+    "name": "恢复潮流",
     "description": {
       "general": [
-        "20% of weapon damage dealt to your Brace Strength by Flooded targets within 150m is restores as Hull Health to your ship"
+        "150米内洪水目标对你的品牌力量造成20%的武器伤害将恢复为你的船体生命值"
       ]
     }
   },
   "brackishBite": {
-    "name": "Brackish Bite",
+    "name": "布拉克什礼包",
     "description": {
       "general": [
-        "Bracing hits from Punctured targets increases Armor Rating by 5% up to 15% and Piercing Weapon damage by 3% up to 9% for 30s"
+        "穿刺目标中的射击次数增加了5%，达到15%，穿甲武器伤害增加了3%，30秒达到9%"
       ]
     }
   },
@@ -3301,11 +3301,11 @@
     }
   },
   "splinter": {
-    "name": "Splinter",
+    "name": "碎裂",
     "description": {
       "general": [
-        "Targets within the weapon's area of operation have a 30% chance to be instantly Punctured",
-        "Punctured targets within the area of operation lose 2% Armor Rating per second up to 14%"
+        "武器作战区内的目标有30%的机会即刻破裂。",
+        "行动区内破裂的目标每秒损失2%的装甲评级，最高为14%"
       ]
     }
   },
@@ -3331,21 +3331,21 @@
     }
   },
   "infernalEmbers": {
-    "name": "Infernal Embers",
+    "name": "夜间爱好",
     "description": {
       "general": [
-        "Weapon hits on target enemies apply one stack of Ember up to 20 stacks for 5 seconds which decays one by one. Ember decreases Armor Rating by 2% and Fire Resistance by 2% per stack",
-        "Gain a stack of Inferno when hitting an enemy with max Ember stacks, up to 10 stacks, which lasts 5 seconds. Inferno decreases Reload Time by 0.5% and increases Weapon Damage by 3% per stack",
-        "Allied XSML, SML and MED ships within 500 meters gain half of the bonus provided by Inferno"
+        "对目标敌人的武器击中效果会使一堆多达20个堆栈连击5秒钟，每一堆破碎一次。 嵌入式降低装甲值2%，火阻性降低2%",
+        "当用最大Ember堆栈击中敌人时，可获得一堆Inferno，最多可达10个堆栈，持续5秒。 吸收时间减少0.5%，每堆栈武器伤害增加3%",
+        "盟军XSML、SML和MED船在500米内获得Inferno提供的红利的一半。"
       ]
     }
   },
   "cheese": {
     "description": {
       "general": [
-        "-5% Reload Time",
-        "Increases Stamina Regen by 30%",
-        "Increases Brace Strength by 20%"
+        "-5% 重新加载时间",
+        "耐力增加30%",
+        "强度增加20%"
       ]
     }
   },
@@ -3375,10 +3375,10 @@
     }
   },
   "stokedInferno": {
-    "name": "Stoked Inferno",
+    "name": "店铺Inferno",
     "description": {
       "general": [
-        "Bracing hits from Ablaze targets builds a Burning explosion dealing 10% of Brace Strength as Burning Damage in a 150m radius. Each braced hit increases this by 10%, up to 70%. The explosion triggers when Bracing is released"
+        "从阿布拉兹目标中射出的射击造成燃烧爆炸，在150米半径内造成燃烧损伤，造成10%的强大强度。 每次射击都会增加10%，高达70%。爆破释放时会触发爆炸。"
       ]
     }
   },
@@ -3386,7 +3386,7 @@
     "name": "Floodstrike",
     "description": {
       "general": [
-        "Bracing hits from Flooded targets primes an explosion, dealing 10% of Brace Strength as Explosive Damage. Each braced hit increases this primed Explosive Damage by 10%, up to 70% for 30s. Ram a target to detonate"
+        "洪水造成的击中目标爆炸，造成10%的烈焰力量爆炸伤害。 每次撞击都会使这种装药的爆炸伤害增加10%，达到30%，达到70%。雷姆目标会引爆。"
       ]
     }
   },
@@ -3402,58 +3402,58 @@
     "name": "怒海狂涛",
     "description": {
       "general": [
-        "Each volley has a 15% chance to deal 100% Flooding Damage as Severe Damage. Every 5 hits increases this chance by 15%, up to 75%. If the target is Flooded, deal 200% Flooding Damage as Severe Damage instead"
+        "每次齐射有15%几率造成相当于100%进水伤害的严重伤害。每命中5次,该几率提升15%,最多75%。如果目标处于进水状态,则改为造成相当于200%进水伤害的严重伤害。"
       ]
     }
   },
   "rottingAmmo": {
-    "name": "Rotting Ammo",
+    "name": "腐化弹药",
     "description": {
       "general": [
-        "For every 50m away the target is, deal 10% more Toxic Damage up to 100%. If target receives 5000 Toxic Damage while Poisoned, trigger a Toxic explosion dealing 40% of the weapon's damage as Toxic Damage to enemies within 150m. This effect has a cooldown of 60s"
+        "目标每距离你50米,对其额外造成10%剧毒伤害,最多100%。如果目标在处于中毒状态时受到5000剧毒伤害,则触发一次剧毒型爆炸,对150米范围内的敌人造成相当于40%该武器伤害的剧毒伤害。该效果冷却时间为60秒。"
       ]
     }
   },
   "burningThirst": {
-    "name": "Burning Thirst",
+    "name": "灼焰饥渴",
     "description": {
       "general": [
-        "Trigger an explosion when the target is either Ablaze or Flooded. Burning Thirst's explosion deals 1000 Flooding Damage and an additional 20% weapon damage as Flooding Damage per hit. Consecutive hits increase this bonus up to 500%. This effect cannot trigger again for 30s"
+        "目标处于燃烧或进水状态时,触发一次爆炸。灼焰饥渴的爆炸会造成1000进水伤害,并在每次命中时额外造成相当于20%武器伤害的进水伤害。连续射击会提升该效果,最多可达500%。该效果在30秒内无法再次触发。"
       ]
     }
   },
   "sinkingImpale": {
-    "name": "Sinking Impale",
+    "name": "沉舰穿刺",
     "description": {
       "general": [
-        "This weapon can be charged up to pierce through enemies, dealing damage as it pierces. Hits on a target have a 10% chance to instantly apply the Flooded status effect to them. Flooded targets take 3% more weapon damage per hit, up to 12%, from this weapon"
+        "该武器可以蓄力穿透敌人,造成穿透伤害。命中目标时,有10%几率立即对其施加进水状态效果。处于进水状态的目标每次被该武器命中时会额外受到3%武器伤害,最多12%。"
       ]
     }
   },
   "burningArtillery": {
-    "name": "Burning Artillery",
+    "name": "燃烧火炮",
     "description": {
       "general": [
-        "Fires a volley of 15 heavy rockets instead of many smaller rockets. Each hit reduces the target's Fire Mitigation by 1.5%, up to 22.5%, if the target is Ablaze, lasting for the duration of the status"
+        "发射一连串共计15发的重型火箭,而不是多个小型火箭。每次命中都会使目标的火焰减伤降低1.5%,最多降低22.5%;如果目标处于燃烧状态,该效果会持续至此状态结束。"
       ]
     }
   },
   "infernalSeas": {
-    "name": "Infernal Seas",
+    "name": "内海：",
     "description": {
       "general": [
-        "On attaining max stacks of Inferno, the next weapon hit on an enemy target will trigger a fiery explosion dealing 200% of your Weapon Damage as Fire damage in 150m radius. Effect has a 20 seconds cooldown"
+        "达到Inferno最大堆栈时 下一个武器击中敌人时会引发火灾爆炸，造成150米半径的火灾伤害，造成200%的武器伤害。 效果有 20 秒的冷却时间"
       ]
     }
   },
   "junkUpgrade": {
     "description": {
       "1": [
-        "Increases Hull Health to 88400",
-        "Increases Brace Strength to 17680"
+        "船体生命值提升至88400",
+        "支撑强度提升至17680"
       ],
       "2": [
-        "Increases Cargo to 190000"
+        "将货物提升至190000"
       ],
       "3": [
         "将基础船只等级提升6",
@@ -3462,8 +3462,8 @@
         "新增「深蓝」能力"
       ],
       "4": [
-        "Increases Hull Health to 90950",
-        "Increases Brace Strength to 18190"
+        "船体生命值提升至90950",
+        "支撑强度提升至18190"
       ],
       "5": [
         "将基础船只等级提升至7",
@@ -3472,12 +3472,12 @@
       "6": [
         "将基础船只等级提升至8",
         "防御强度回复增加12.5%",
-        "Adds 'Infernal Seas' perk"
+        "添加“Infernal Seas”增益效果"
       ],
       "7": [
         "将基础船只等级提升至9",
-        "Increases Hull Health to 104593",
-        "Increases Brace Strength to 20919",
+        "船体生命值提升至104593",
+        "支撑强度提升至20919",
         "防御强度回复增加25%"
       ]
     }

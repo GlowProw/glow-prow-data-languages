@@ -297,14 +297,14 @@
   },
   "nianFlare": {
     "name": "Nian Flare",
-    "description": "Anchored coins coiled onto the beast, fate destined to be sealed by its greed."
+    "description": "神经硬币被涂上后面，由于贪婪最终会被封住。"
   },
   "encryptedMooncake": {
-    "name": "Encrypted Mooncake",
-    "description": "An encrypted message is hidden within this delicate mooncake."
+    "name": "加密的月亮模式",
+    "description": "加密消息隐藏在这个微妙的模拟器中。"
   },
   "cipherMooncake": {
-    "name": "Cipher Mooncake",
-    "description": "A re-encrypted mooncake needs to be handled carefully."
+    "name": "加密莫恩卡克",
+    "description": "需要认真处理重新加密的月球蛋糕。"
   }
 }

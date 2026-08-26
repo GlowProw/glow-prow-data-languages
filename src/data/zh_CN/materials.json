@@ -9,7 +9,7 @@
   },
   "sovereigns": {
     "name": "君主币",
-    "description": "Awarded for completing high-level activities and used to purchase unique items."
+    "description": "获完成高级别活动并用于购买独特物品的奖。"
   },
   "reapersToll": {
     "name": "死神之税",
@@ -33,7 +33,7 @@
   },
   "halfTaels": {
     "name": "半两银",
-    "description": "These gold coins are sought after by many. Defeat the sea monsters and the Nian to acquire this newfound currency."
+    "description": "这些金币是许多人追求的。击败海怪物和尼安人购买这种新发现的货币。"
   },
   "silverLions": {
     "name": "银狮币",
@@ -41,7 +41,7 @@
   },
   "bloodiedDoubloon": {
     "name": "血染达布隆",
-    "description": "A coin of silver taken from the hands of a turncoat who paid dearly for offering their services to the megacorps."
+    "description": "一枚银币从转宝手中拿走，它为向巨型巨型巨型巨型巨型巨型巨头提供服务付出了高昂的代价。"
   },
   "heartfeltWish": {
     "name": "衷心祝福",
@@ -628,15 +628,15 @@
     "description": ""
   },
   "nightshadePearl": {
-    "name": "Nightshade Pearl",
-    "description": "A dark and mysterious pearl that comes from various dubious sources ranging from something that is being harvested from the Kraken to being highly sought after in underground trades involving lots of powerful figures."
+    "name": "夜影珍杰尔",
+    "description": "来自各种可疑来源的黑暗神秘珍珠，从正在从克拉肯采集的东西到在涉及许多强大人物的地下交易中被大量追求。"
   },
   "abyssalEssence": {
     "name": "Abyssal Essence",
-    "description": "An unknown substance with the appearance of liquid ruby. Rumored to be linked  to the Philosopher's Stone of legends. Some claim that it moves like it is alive."
+    "description": "一种未知物质，其外观是液体橡胶。 有人说它与哲学家的传说石头相联系。有人说它是活着的。"
   },
   "ascensionFlux": {
-    "name": "Ascension Flux",
+    "name": "阿森松流体",
     "description": ""
   }
 }
