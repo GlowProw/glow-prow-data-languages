@@ -628,15 +628,15 @@
     "description": ""
   },
   "nightshadePearl": {
-    "name": "夜影珍杰尔",
-    "description": "来自各种可疑来源的黑暗神秘珍珠，从正在从克拉肯采集的东西到在涉及许多强大人物的地下交易中被大量追求。"
+    "name": "夜影珍珠",
+    "description": "一颗黑色的神秘珍珠,其来历扑朔迷离 --有人说它采自克拉肯身上,也有人认为众多权贵为了得到它,暗中高价争夺"
   },
   "abyssalEssence": {
-    "name": "Abyssal Essence",
-    "description": "一种未知物质，其外观是液体橡胶。 有人说它与哲学家的传说石头相联系。有人说它是活着的。"
+    "name": "深渊精华",
+    "description": "一种外观如液态红宝石的未知物质,据传其与传说中的贤者之石有所关联。有人声称,它会像活物般移动。"
   },
   "ascensionFlux": {
-    "name": "阿森松流体",
-    "description": ""
+    "name": "晋阶助剂",
+    "description": "通过回收晋阶物品获得。"
   }
 }
