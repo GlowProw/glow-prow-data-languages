@@ -2718,9 +2718,9 @@
     }
   },
   "necklaceOfTheSkyGoddess": {
-    "name": "天空神灵的颈项星系",
+    "name": "天女的项链",
     "description": {
-      "general": "制造被磨碎的外壳和宝石。"
+      "general": "由珍贵的玉石精雕细琢而成。"
     }
   },
   "flaskOfClearLiquid": {
@@ -2941,15 +2941,15 @@
     }
   },
   "ascendedAzureSolsticeEventCache": {
-    "name": "转生事件保险箱 (蔚蓝冬至)",
+    "name": "晋阶型事件武器贮藏箱 (蔚蓝冬至)",
     "description": {
-      "general": "内含一件进阶型事件武器。"
+      "general": "内含一件晋阶型事件武器。"
     }
   },
   "watersOfGowaSetChest": {
-    "name": "戈瓦之水套装宝箱",
+    "name": "戈瓦水域套装宝箱",
     "description": {
-      "general": "一座华美的箱柜，内藏属于戈瓦之水套装的化妆品"
+      "general": "一个豪华的宝箱，或许能从中获取放荡艺人套装和翡翠潜猎者套装系列的外观物品"
     }
   },
   "corvetteUpgrade": {
@@ -3231,9 +3231,9 @@
     }
   },
   "verdantHuntsChest": {
-    "name": "Verdant Hunt的宝箱",
+    "name": "翠影狩猎宝箱",
     "description": {
-      "general": "一种富裕的箱子，它可能包含来自波希米安集和贾德普罗维的饰物。"
+      "general": "一个豪华的宝箱，或许能从中获取波西米亚套装和翡翠潜行者套装系列的外观物品。"
     }
   },
   "cheese": {
@@ -3322,15 +3322,15 @@
     }
   },
   "ascendedDrakonsJawsChest": {
-    "name": "升华巨龙的颚骨胸膛",
+    "name": "晋阶型深渊利爪宝箱",
     "description": {
-      "general": "包含一个摇滚德龙的爪子"
+      "general": "内含一件晋阶型深渊利爪"
     }
   },
   "dredgedArmoryCache": {
-    "name": "疏浚的装甲缓存",
+    "name": "打捞上来的军械贮藏箱",
     "description": {
-      "general": "一个从深处隐藏的挖掘武器，包括长式武器"
+      "general": "从深海打捞上来的贮藏箱，内有晋阶型武器等各种武器。"
     }
   },
   "abyssalCache": {
@@ -3340,9 +3340,9 @@
     }
   },
   "adeptCannonStrongbox": {
-    "name": "灰色加农炮箱",
+    "name": "熟稔大炮保险箱",
     "description": {
-      "general": "包含一种带有基础Adept模组的大农球类武器"
+      "general": "内含一件附带基础熟稔改装的炮弹类武器"
     }
   },
   "maelstromCannonStrongbox": {
