@@ -3104,19 +3104,19 @@
     }
   },
   "crazedNianStrongbox": {
-    "name": "被夷为平地的强方框",
+    "name": "狂乱年兽保险箱",
     "description": {
-      "general": "一个来自船只的箱子，利用被夷为平地的当地传说散布恐惧和抢劫不幸目标。 对战胜者来说，他们是在破坏者。"
+      "general": "某艘船上的一个宝箱。这些船员们利用当地关于狂乱年兽的预言传说来散播恐惧，抢劫那些倒霉鬼。战利品最终尽归胜者所有。"
     }
   },
   "ascendedBlightmawChest": {
-    "name": "转生闪光宝箱",
+    "name": "晋升型疫害之噬宝箱",
     "description": {
-      "general": "一个含有未知宝藏的神秘箱。有些人声称已经听到从内部穿着。"
+      "general": "一个装有未知宝藏的华丽宝箱。有人声称，从箱子里传出了哭泣声。"
     }
   },
   "ascendedLegendOfTheNianEventCache": {
-    "name": "转发事件缓存 (尼安的图例)",
+    "name": "晋阶型事件武器贮藏箱 (年兽)",
     "description": {
       "general": "内含一件进阶型事件武器。"
     }

@@ -296,15 +296,15 @@
     "description": "这种信号弹带有一种令人不安却又异想天开的气息。它似乎在嘲笑你。"
   },
   "nianFlare": {
-    "name": "Nian Flare",
-    "description": "神经硬币被涂上后面，由于贪婪最终会被封住。"
+    "name": "年兽信号弹",
+    "description": "锚定之币踞于巨兽之躯，命运注定被其贪婪封存。"
   },
   "encryptedMooncake": {
-    "name": "加密的月亮模式",
-    "description": "加密消息隐藏在这个微妙的模拟器中。"
+    "name": "加密月饼",
+    "description": "这个月饼里藏有一条加密信息。将它交给一个窝点头目。"
   },
   "cipherMooncake": {
-    "name": "加密莫恩卡克",
-    "description": "需要认真处理重新加密的月球蛋糕。"
+    "name": "密文月饼",
+    "description": "需要将这个重新加密的月饼交给一个走私贩。"
   }
 }
