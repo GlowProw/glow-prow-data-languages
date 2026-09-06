@@ -980,7 +980,7 @@
     }
   },
   "abyssal": {
-    "name": "Abyssal",
+    "name": "深淵",
     "description": {
       "general": "Dark navy and gleaming silver, the burnished steel repels the fiercest of fires."
     }
@@ -992,7 +992,7 @@
     }
   },
   "leviathanArmor": {
-    "name": "Leviathan",
+    "name": "利維坦",
     "description": {
       "general": "A tough yet sleek armor crafted from the mighty Lestari. Improves sailing speed."
     }
