@@ -24332,31 +24332,31 @@
   "northStarSP": {
     "name": "北極星",
     "description": {
-      "general": "像羅盤的指針一樣，是能為你指引道路的標記。"
+      "general": "Like the needle of a compass, a mark to guide your way"
     }
   },
   "roguewine": {
-    "name": "海寇酒紅",
+    "name": "Roguewine",
     "description": {
-      "general": "美酒與焦躁叛逆的顏色。"
+      "general": "The color of fine wine and restless rebellion"
     }
   },
   "horizonHunter": {
-    "name": "海平線獵人",
+    "name": "Horizon Hunter",
     "description": {
-      "general": "專屬於在世界邊緣真正感到快樂的人。"
+      "general": "For those truly happy at the world's edge"
     }
   },
   "recklessWinds": {
-    "name": "魯莽之風",
+    "name": "Reckless Winds",
     "description": {
-      "general": "比劫掠者的硬幣更閃耀。"
+      "general": "Shines brighter than a raider's coin"
     }
   },
   "pyromane": {
-    "name": "縱火狂",
+    "name": "Pyromane",
     "description": {
-      "general": "點起野火。"
+      "general": "Ignite a wildfire"
     }
   }
 }

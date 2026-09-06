@@ -455,7 +455,7 @@
     "description": "%s-%s% chance to trigger the Flooded status effect when hitting a weakpoint on a target. Increases the chance by 2% with consecutive weakpoint hits, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
   },
   "waterlogged": {
-    "name": "Waterlogged",
+    "name": "灌水",
     "description": "Targets that have the Flooded status effect will take an additional %s-%s% of Severe Damage"
   },
   "corpseExplosiveBomb": {
