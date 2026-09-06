@@ -48,12 +48,12 @@
     "description": "每次命中目标会额外造成%s-%s点电击伤害爆发伤害"
   },
   "damage": {
-    "name": "额外伤害",
+    "name": "伤害",
     "description": "单发射击添加%s-%s伤害"
   },
   "burn": {
-    "name": "烈焰",
-    "description": "每次命中目标会额外造成%s-%s点燃烧伤害爆发伤害。"
+    "name": "火焰",
+    "description": "每次命中目标会额外造成%s-%s点燃烧伤害爆发伤害"
   },
   "swift": {
     "name": "迅捷",
@@ -73,7 +73,7 @@
   },
   "pierce": {
     "name": "穿透",
-    "description": "每次命中目标会额外造成%s-%s穿透伤害爆发伤害"
+    "description": "每次命中目标会额外造成%s-%s点穿透伤害爆发伤害"
   },
   "rupturing": {
     "name": "破裂",
@@ -81,35 +81,35 @@
   },
   "haste": {
     "name": "疾速",
-    "description": "弹着时间减少%s-%s%"
+    "description": "命中时间减少%s-%s%"
   },
   "fix": {
     "name": "修理",
-    "description": "单发射击的维修量提升%s-%s"
+    "description": "单发修理量提升%s-%s"
   },
   "antiBlast": {
     "name": "抗爆",
-    "description": "命中目标后，可使目标的惊魂未定状态效果累积减少%s-%s%"
+    "description": "击中时也会使目标的弹震状态积攒减少%s-%s%"
   },
   "insulator": {
     "name": "绝缘",
-    "description": "命中目标后，可使目标的被电击状态效果累积减少%s-%s%"
+    "description": "击中时也会使目标的雷暴状态积攒减少%s-%s%"
   },
   "service": {
     "name": "维护",
-    "description": "维修量提升%s-%s%"
+    "description": "修理量提升%s-%s%"
   },
   "douser": {
     "name": "灭火",
-    "description": "命中目标后，可使目标的燃烧状态效果累积减少%s-%s%"
+    "description": "击中时也会使目标的燃烧状态积攒减少%s-%s%"
   },
   "sealant": {
     "name": "封闭",
-    "description": "命中目标后，可使目标的进水状态效果累积减少%s-%s%"
+    "description": "击中时也会使目标的进水状态积攒减少%s-%s%"
   },
   "reinforcer": {
     "name": "强化",
-    "description": "命中目标后，可使目标的击穿状态效果累积减少%s-%s%"
+    "description": "击中时也会使目标的击穿状态积攒减少%s-%s%"
   },
   "brute": {
     "name": "天生蛮力",
@@ -117,11 +117,11 @@
   },
   "severity": {
     "name": "严重损毁",
-    "description": "命中目标后，有12%的几率造成额外%s-%s%严重伤害伤害"
+    "description": "击中时有12%几率造成额外%s-%s%严重伤害"
   },
   "victorsRally": {
     "name": "胜利号召",
-    "description": "摧毁目标可恢复该船只%s-%s的防御强度"
+    "description": "击毁目标时恢复本船%s-%s防御强度"
   },
   "graceOfTheWinds": {
     "name": "风之赐福",
@@ -133,42 +133,42 @@
   },
   "energize": {
     "name": "能量迸发",
-    "description": "命中目标后，有16%几率恢复该船只%s-%s%的船员体力"
+    "description": "命中目标时有16%几率恢复本船%s-%s%船员体力"
   },
   "bloodthirst": {
     "name": "嗜血本能",
-    "description": "摧毁目标可恢复该船只%s-%s%的船员体力"
+    "description": "击毁目标时恢复本船%s-%s%船员体力"
   },
   "raider": {
     "name": "掠夺者",
-    "description": "弱点状态效果的累积提升%s-%s%"
+    "description": "虚弱状态效果积攒提升%s-%s%"
   },
   "deathblow": {
     "name": "致死一击",
     "description": [
-      "如目标的船身生命值少于等于25%，则击中时有%s-%s%几率将其直接摧毁。",
+      "如目标的船身生命值少于等于25%，则击中时有%s-%s%几率将其直接摧毁",
       "该效果无法摧毁精英单位，但会使其剩余的船身生命值减少3%"
     ]
   },
   "repairReadiness": {
     "name": "维修待命",
-    "description": "命中目标后，有%s-%s%几率减少修理用品的的冷却时间3秒"
+    "description": "命中目标后，有%s-%s%几率减少修理用品的冷却时间3秒"
   },
   "precisePatchwork": {
     "name": "精准补丁",
-    "description": "摧毁一个弱点可恢复该船只%s-%s的严重伤害"
+    "description": "摧毁弱点可恢复本船%s-%s严重伤害"
   },
   "amplifiedBurning": {
-    "name": "扩大燃烧",
-    "description": "将现有燃烧伤害提升%s-%s%"
+    "name": "扩大火焰",
+    "description": "将现有火焰伤害提升%s-%s%"
   },
   "siege": {
-    "name": "破城",
-    "description": "对建筑造成的伤害提高%s-%s%"
+    "name": "围攻",
+    "description": "对建筑物的伤害提升%s-%s%"
   },
   "restoreReadiness": {
     "name": "复原待命",
-    "description": "命中目标后，有%s-%s%几率减少恢复用品 的冷却时间3秒"
+    "description": "命中目标后，有%s-%s%几率减少复原用品的冷却时间3秒"
   },
   "amplifiedPiercing": {
     "name": "扩大穿透",
@@ -187,24 +187,24 @@
     "description": "将现有进水伤害提升%s-%s%"
   },
   "tearing": {
-    "name": "撕裂",
+    "name": "撕裂型",
     "description": "击中船帆时，伤害提升%s-%s%"
   },
   "roar": {
     "name": "咆哮",
-    "description": "基础伤害的%s-%s%会在目标上累积被嘲讽状态效果"
+    "description": "基础伤害的%s-%s%会在目标上累积嘲讽状态效果"
   },
   "soulMending": {
     "name": "灵魂修补",
-    "description": "该武器造成伤害的%s-%s%将恢复船身生命值"
+    "description": "该武器造成伤害的%s-%s%将转化为船身生命值"
   },
   "blastRange": {
-    "name": "爆炸范围",
-    "description": "爆破范围增加%s-%s%"
+    "name": "爆破范围",
+    "description": "爆破半径提升%s-%s%"
   },
   "durableBuoys": {
     "name": "耐用浮标",
-    "description": "浮标的有效时间提升%s-%s%"
+    "description": "浮标运作时间提升%s-%s%"
   },
   "hardyBuoys": {
     "name": "坚固浮标",
@@ -220,11 +220,11 @@
   },
   "tranquility": {
     "name": "宁静",
-    "description": "命中目标后，可使目标的被嘲讽状态效果累积减少%s-%s%"
+    "description": "击中时也会使目标的嘲讽状态积攒减少%s-%s%"
   },
   "sailorsRespite": {
     "name": "水手的安宁",
-    "description": "命中目标后，有7%几率对其施加%s-%s%的维修"
+    "description": "命中目标时有7%几率恢复目标%s-%s%生命值"
   },
   "strengthen": {
     "name": "增强",
@@ -232,43 +232,43 @@
   },
   "sailMender": {
     "name": "船帆修复",
-    "description": "命中目标后，可使目标的船帆撕裂状态效果累积减少%s-%s%"
+    "description": "击中时也会使目标的船帆撕裂状态积攒减少%s-%s%"
   },
   "secondStorm": {
     "name": "风暴再临",
     "description": [
-      "该武器造成的所有电击伤害也适用于附近目标。",
+      "该武器造成的所有电击伤害也适用于附近目标",
       "施加%s-%s%的电击伤害"
     ]
   },
   "overflow": {
     "name": "溢出",
     "description": [
-      "该武器造成的所有进水伤害都转化为严重伤害。",
+      "该武器造成的所有进水伤害都转化为严重伤害",
       "施加%s-%s%的进水伤害"
     ]
   },
   "sailRipper": {
     "name": "船帆撕裂者",
-    "description": "命中触发船帆撕裂状态效果时，造成%s-%s%伤害"
+    "description": "触发船帆撕裂状态效果的一击造成%s-%s%伤害"
   },
   "winningStreak": {
     "name": "连战连捷",
     "description": [
-      "每次成功命中都会使该武器下一次射击的伤害提升3%，最高可达%s-%s%。",
+      "每次成功命中都会使该武器下一次射击的伤害提升3%，最高可达%s-%s%",
       "未命中时，该效果将重置"
     ]
   },
   "deadlyStrike": {
     "name": "致命袭击",
     "description": [
-      "炮弹有10%几率通过任意弱点伤害加成来造成额外伤害，即使射击未命中弱点。",
+      "炮弹有10%几率通过任意弱点伤害加成来造成额外伤害，即便射击未命中弱点",
       "对弱点的伤害提升%s-%s%"
     ]
   },
   "highPressure": {
     "name": "高压",
-    "description": "海洋之火武器的射程增加50米，造成的伤害提升%s-%s%"
+    "description": "海火武器射程延长50米，伤害提升%s-%s%"
   },
   "longArm": {
     "name": "长程武装",
@@ -276,40 +276,40 @@
   },
   "providence": {
     "name": "护佑",
-    "description": "该武器维修量的%s-%s%会也会修复你的船只"
+    "description": "此武器维修量的%s-%s%也会修复你的船只"
   },
   "jointSupply": {
-    "name": "联合补给",
-    "description": "命中目标后，还能维修最近的友军船只，维修量为原本维修量的%s-%s%"
+    "name": "联合供给",
+    "description": "击中时也会为最近的友方船只恢复原始维修量的%s-%s%"
   },
   "winningStreakRepair": {
-    "name": "连战连携(维修)",
+    "name": "连战连捷（维修）",
     "description": [
-      "每次命中都会使下一次射击的维修量提升3%，最高可达%s-%s%。",
+      "每次成功命中都会使该武器下一次射击的维修量提升3%，最高可达%s-%s%",
       "未命中时，该效果将重置"
     ]
   },
   "preemptiveDefence": {
     "name": "未雨绸缪",
     "description": [
-      "命中目标后，目标也会获得50额外装甲，持续10秒。效果最多可叠加5层。",
+      "命中时也会为目标提供50点额外装甲，持续10秒。效果可叠加至多5次",
       "维修量也会提升%s-%s%"
     ]
   },
   "empower": {
     "name": "赋能",
     "description": [
-      "命中目标后，目标也会获得3%额外武器伤害，持续10秒。效果最多可叠加5层。",
+      "命中时也会使目标获得3%额外武器伤害，持续10秒。效果可叠加至多5次",
       "装填时间也会减少%s-%s%"
     ]
   },
   "longArmRepair": {
-    "name": "长程武装(维修)",
+    "name": "长程武装（维修）",
     "description": "命中最大射程的70%或更远距离也会使维修量提升%s-%s%"
   },
   "acrid": {
     "name": "刺激毒素",
-    "description": "每次命中额外造成%s-%s点剧毒伤害"
+    "description": "每次命中目标会额外造成%s-%s点剧毒伤害爆发伤害"
   },
   "noxious": {
     "name": "毒害",
@@ -317,7 +317,7 @@
   },
   "direToxic": {
     "name": "猛烈毒素",
-    "description": "击中时无视目标%s-%s%的剧毒型抗性"
+    "description": "击中时无视目标%s-%s%的剧毒抗性"
   },
   "amplifiedToxic": {
     "name": "强化毒素",
@@ -325,47 +325,47 @@
   },
   "antidote": {
     "name": "解毒剂",
-    "description": "命中目标后，可使目标的中毒状态效果累积减少%s-%s%"
+    "description": "击中时也会使目标的中毒状态积攒减少%s-%s%"
   },
   "armored": {
-    "name": "配备装甲",
+    "name": "厚实装甲",
     "description": "装甲提升%s-%s"
   },
   "rugged": {
     "name": "坚固",
-    "description": "防御时遭受伤害降低%s-%s"
+    "description": "防御时所受伤害减少%s-%s"
   },
   "fireResistant": {
     "name": "火焰抗性",
-    "description": "火焰伤害抗性提升%s-%s%"
+    "description": "火焰抗性提升%s-%s%"
   },
   "floodingResistant": {
     "name": "进水抗性",
-    "description": "进水伤害抗性提升%s-%s%"
+    "description": "进水抗性提升%s-%s%"
   },
   "piercingResistant": {
     "name": "穿透抗性",
-    "description": "穿透伤害抗性提升%s-%s%"
+    "description": "穿透抗性提升%s-%s%"
   },
   "explosiveResistant": {
     "name": "爆炸抗性",
-    "description": "爆炸伤害抗性提升%s-%s%"
+    "description": "爆炸抗性提升%s-%s%"
   },
   "electricResistant": {
     "name": "电击抗性",
-    "description": "电击伤害抗性提升%s-%s%"
+    "description": "电击抗性提升%s-%s%"
   },
   "toxicResistant": {
-    "name": "毒素抗性",
-    "description": "剧毒伤害抗性提升%s-%s%"
+    "name": "剧毒抗性",
+    "description": "剧毒抗性提升%s-%s%"
   },
   "tearingResistant": {
-    "name": "穿透抗性",
-    "description": "穿透伤害抗性提升%s-%s%"
+    "name": "撕裂抗性",
+    "description": "撕裂抗性提升%s-%s%"
   },
   "resistAll": {
-    "name": "抵抗一切",
-    "description": "提高所有次要伤害抗性 %s-%s%"
+    "name": "全部抗性",
+    "description": "全部次要伤害抗性提升%s-%s%"
   },
   "stout": {
     "name": "结实",
@@ -377,10 +377,10 @@
   },
   "vigor": {
     "name": "活力",
-    "description": "最大船员体力提升%s-%s"
+    "description": "船员体力提升%s-%s"
   },
   "ironclad": {
-    "name": "钢铁甲壳",
+    "name": "坚甲",
     "description": "装甲提升%s-%s%"
   },
   "stalwart": {
@@ -393,192 +393,192 @@
   },
   "maintenance": {
     "name": "维护",
-    "description": "每秒恢复%s-%s船身生命值"
+    "description": "每秒修复%s-%s船身生命值"
   },
   "determination": {
     "name": "决心",
-    "description": "防御强度恢复速度提升%s-%s%"
+    "description": "每秒防御强度恢复提升%s-%s%"
   },
   "barbarian": {
     "name": "野蛮人",
-    "description": "当船体生命值低于25%时，武器伤害提升 %s-%s%"
+    "description": "船身生命值低于25%时，武器伤害提升%s-%s%"
   },
   "survivor": {
     "name": "幸存者",
-    "description": "船身生命值下降到25%以下时，在10秒内恢复%s-%s%船身生命值。该效果有30秒的冷却时间"
+    "description": "当船身生命值低于25%时，在10秒内修复%s-%s%船身生命值。该效果冷却时间为30秒"
   },
   "craftsman": {
     "name": "工匠",
-    "description": "修理用品的维修量提升%s-%s%"
+    "description": "修理用品的修理量提升%s-%s%"
   },
   "resilience": {
     "name": "坚韧",
-    "description": "使用恢复用品会使所有次要伤害降低%s-%s%，持续5秒"
+    "description": "使用复原用品可在5秒内减少%s-%s%所受到的所有次要伤害"
   },
   "supreme": {
-    "name": "最大值",
+    "name": "至高",
     "description": "装甲发动的特殊攻击伤害提升%s-%s%"
   },
   "steelIntegration": {
     "name": "坚韧一体",
     "description": [
-      "每拥有1%穿透型和爆炸型抗性，装甲提升%s-%s。穿透型和爆炸型抗性提升5%（本词条存在于官中翻译但不存在与英文数据中，可能不生效）。",
-      "添加 5% 穿透和爆炸抗性"
+      "穿透与爆炸抗性每提升1%，增加%s-%s装甲",
+      "增加5%穿透与爆炸抗性"
     ]
   },
   "coalesce": {
     "name": "愈合",
-    "description": "%s-%s%几率使防御伤害的50%恢复船身生命值。该效果仅在防御结束后发生。"
+    "description": "有%s-%s%几率使防御伤害的50%恢复船身生命值。该效果仅在防御结束后生效"
   },
   "watcher": {
     "name": "守望者",
-    "description": "处于防御状态时，收到的伤害有%s-%s%几率降低1750。"
+    "description": "防御时受到的任何伤害有%s-%s%几率减少1750"
   },
   "respite": {
     "name": "间歇之机",
-    "description": "防御伤害时，由%s-%s%几率在接下来的5秒内，每秒恢复500船身生命值和100严重伤害，该效果冷却时间为10秒。"
+    "description": "防御伤害时，有%s-%s%几率在接下来5秒内每秒修复500点船身生命值和100点严重伤害。该效果冷却时间为10秒"
   },
   "jester": {
     "name": "弄臣",
-    "description": "受到被嘲讽影响后，装甲级别和防御强度回复提升%s-%s，持续15秒"
+    "description": "遭受嘲讽时，装甲级别和防御强度恢复提升%s-%s%，持续15秒"
   },
   "lifeline": {
-    "name": "生命线",
-    "description": "将生命线应用于修复目标10秒。 当船体健康为15%或更低时，生命线会触发并修复 %s-%s%的目标。 在触发效果后5秒内不能再次应用生命线"
+    "name": "救急",
+    "description": "对维修目标施加“救急”，持续10秒。目标船身生命值不超过15%时，便会触发救急，生命值恢复%s-%s%。救急触发后需冷却5秒"
   },
   "purify": {
     "name": "净化",
-    "description": "增加 %s-%s%。 每次射击目标时都有10%的机会去除对目标的活动状态效果"
+    "description": "修理量提升%s-%s%。对目标的每次修理射击有10%几率移除目标身上的当前状态效果"
   },
   "flashFlood": {
-    "name": "\n",
-    "description": "%s-%s在撞击目标时触发洪水状态效果的几率。 以连续的低点命中增加2%的概率。最多可重置40%。此后10秒内不击中任何目标"
+    "name": "闪洪爆发",
+    "description": "命中目标弱点时，有%s-%s%几率施加进水状态效果。连续命中弱点会使该几率提升2%，最高可提升40%。10秒内未命中任何目标后将重置"
   },
   "waterlogged": {
-    "name": "水浸",
-    "description": "具有洪水状态效果的目标会额外增加 %s-%s严重伤害"
+    "name": "水漫金山",
+    "description": "拥有进水状态效果的目标会受到额外%s-%s%严重伤害"
   },
   "corpseExplosiveBomb": {
-    "name": "尸体爆炸弹",
-    "description": "目标死亡时引发爆炸，造成 %s-%s200米内对所有目标造成爆炸伤害"
+    "name": "尸骸炸弹",
+    "description": "目标死亡时产生爆炸，对200米内的所有目标造成%s-%s%爆炸伤害"
   },
   "megaCorpseBomb": {
-    "name": "Mega Corpse Bomb",
-    "description": "目标死亡时引发一次爆炸，造成 %s-%s%的爆炸伤害，并在3000米内对所有目标造成炮弹冲击状态。"
+    "name": "尸骸爆弹",
+    "description": "目标死亡时产生爆炸，对300米内的所有目标造成%s-%s%爆炸伤害并施加弹震状态效果"
   },
   "lightningStrike": {
-    "name": "闪电攻击",
-    "description": "添加 %s-%s%伤害作为电量伤害。 每次击中目标后都会增加2%的受风暴打击状态影响的机会，最高可达40%。 这会在 10 秒内重置任何目标"
+    "name": "雷霆之击",
+    "description": "添加%s-%s%电击伤害。每次命中目标时，对其施加雷暴状态效果的几率提升2%，至多提升40%。10秒内未命中任何目标后重置"
   },
   "voltaicCharge": {
-    "name": "Voltaic 充电",
-    "description": "触发风暴攻击状态效果时额外造成 %s-%s%电量伤害"
+    "name": "伏特电荷",
+    "description": "目标触发雷暴状态效果时，对其造成额外%s-%s%电击伤害"
   },
   "enduringEmbers": {
-    "name": "末影埃加特文",
-    "description": "每次撞击都会造成 %s-%s%的燃烧伤害超过 10 秒"
+    "name": "永恒余烬",
+    "description": "命中后在10秒内造成%s-%s%的燃烧伤害"
   },
   "wildfire": {
     "name": "野火",
-    "description": "对目标造成 %s-%s的燃烧伤害，当Amaze状态效果被应用到目标时造成伤害。 在半径300米内的目标将会被吸附。"
+    "description": "对目标施加燃烧状态效果时造成%s-%s%燃烧伤害。燃烧效果将施加至300米半径范围内的所有目标"
   },
   "piercingStrike": {
-    "name": "穿甲攻击",
-    "description": "%s-%s在撞击目标时有几率应用穿孔状态效果。 以连续的低点命中增加2%的概率。最多可重置40%。此后10秒内不击中任何目标"
+    "name": "穿刺打击",
+    "description": "命中目标弱点时，有%s-%s%几率施加击穿状态效果。连续命中弱点会使该几率提升2%，最高可提升40%。10秒内未命中任何目标后重置"
   },
   "armorPiercing": {
-    "name": "穿甲车",
-    "description": "命中忽略目标穿甲抵抗力的10%。如果目标具有穿甲状态效果，效果会增加到 %s-%s%。"
+    "name": "穿甲一击",
+    "description": "击中时无视目标10%的穿透抗性。如目标拥有击穿状态效果，则提升至%s-%s%"
   },
   "outbreak": {
-    "name": "突发事件",
-    "description": "%s-%s在撞击目标时触发中毒状态效果的几率。 以连续的低点命中增加2%的概率。最多可重置40%。此后10秒内不击中任何目标"
+    "name": "疫病蔓延",
+    "description": "命中目标弱点时，有%s-%s%几率施加中毒状态效果。连续命中弱点会使该几率提升2%，最高可提升40%。10秒内未命中任何目标后重置"
   },
   "corrosive": {
-    "name": "腐烂的",
-    "description": "%s-%s有毒伤害的百分比降低了10秒的强度。无法堆叠或重置后来的命中"
+    "name": "酸蚀",
+    "description": "%s-%s%剧毒伤害将使防御强度降低，持续10秒。无法刷新持续时间，也不在多次命中时叠加"
   },
   "severeDamageRemoval": {
-    "name": "严重伤害移除",
-    "description": "修复 %s-%s严重伤害。触发时冷却7秒"
+    "name": "弥补重伤",
+    "description": "防御时修复%s-%s%严重伤害。触发后冷却时间为7秒"
   },
   "blowback": {
-    "name": "Blowback",
-    "description": "释放一场影响区域的洪水爆炸，造成 %s-%s 水灾状态效果结束时在3000米半径内对敌人目标造成伤害"
+    "name": "反冲效应",
+    "description": "进水状态效果结束时，释放范围效果型爆炸，对300米半径内的敌方目标造成%s-%s进水伤害"
   },
   "tsunami": {
-    "name": "Tsunami",
-    "description": "吃掉目标时造成 %s-%s 水下伤害。10秒内减少目标的水下抗性减小30%"
+    "name": "山崩海裂",
+    "description": "冲撞目标时对其造成%s-%s进水伤害。使其进水抗性在10秒内降低30%"
   },
   "ironCurtain": {
-    "name": "铁盾",
-    "description": "在穿刺状态效果结束后，护甲值提高 %s-%s%，持续 10 秒。"
+    "name": "铁幕降临",
+    "description": "击穿状态效果结束时使装甲级别提升%s-%s%，持续10秒"
   },
   "adeptSpikingIntegration": {
-    "name": "深度跳跃集成",
-    "description": "每10%的穿甲抗体添加 %s-%s 盔甲"
+    "name": "熟稔尖峰整合",
+    "description": "每10%穿透抗性增加%s-%s装甲"
   },
   "penetratingStrike": {
-    "name": "渗透性攻击",
-    "description": "撞击目标会造成额外的 %s-%s 穿刺伤害。10秒内其穿刺抗性降低30%"
+    "name": "一击穿心",
+    "description": "冲撞目标时对其额外造成%s-%s穿透伤害。使其穿透抗性在10秒内降低30%"
   },
   "fortifiedPlates": {
-    "name": "堡垒板",
-    "description": "每增加10%的爆炸抗性抗性强度提高 %s-%s%"
+    "name": "加固板材",
+    "description": "每10%爆炸抗性使防御强度提升%s-%s%"
   },
   "reactivePlating": {
-    "name": "被动装饰",
-    "description": "撞击目标时造成额外的 %s-%s 爆炸伤害。将其爆炸抗性降低30%，持续10秒。"
+    "name": "反应镀层",
+    "description": "冲撞目标时对其额外造成%s-%s爆炸伤害。使其爆炸抗性在10秒内降低30%"
   },
   "aftershock": {
-    "name": "后震动",
-    "description": "在炮弹冲击状态效果结束10秒时获得 %s-%s品牌强度的百分比"
+    "name": "震撼余波",
+    "description": "弹震状态效果结束时，使防御强度提升%s-%s%，持续10秒"
   },
   "burningBull": {
-    "name": "燃烧弹数",
-    "description": "击杀目标时额外造成 %s-%s 点燃伤害。10秒内其燃烧抗性降低30%"
+    "name": "爆燃公牛",
+    "description": "冲撞目标时对其额外造成%s-%s燃烧伤害。使其燃烧抗性在10秒内降低30%"
   },
   "immolation": {
-    "name": "免疫度",
-    "description": "当你的船上应用了Ablaze状态时， a 爆炸效果区爆炸在300米半径内释放给附近的所有敌人，使他们处于爆炸状态。 你获得 %s-%s能提升敌人目标的火焰伤害。 爆炸状态结束后燃烧伤害的提升将被移除"
+    "name": "燃尽本我",
+    "description": "当你的船只陷入燃烧状态时，会对300米半径内的所有附近敌人释放燃烧范围爆炸，使其陷入燃烧状态。你对敌方目标造成的火焰伤害提升%s-%s%。燃烧伤害加成将在燃烧状态结束时移除"
   },
   "worldOnFire": {
-    "name": "火灾世界",
-    "description": "爆裂状态效果结束后300米内的 %s-%s 燃烧伤害"
+    "name": "天地尽焚",
+    "description": "燃烧状态效果结束时，释放范围爆炸，对300米内的目标造成%s-%s燃烧伤害"
   },
   "lightingRod": {
-    "name": "照明戒指",
-    "description": "撞击目标时造成额外的 %s-%s 电量伤害。10秒内其电阻力降低30%"
+    "name": "避雷针",
+    "description": "冲撞目标时对其额外造成%s-%s电击伤害。使其电击抗性在10秒内降低30%"
   },
   "chargedUp": {
-    "name": "已充电",
-    "description": "当遭受风暴打击的状态影响时，转动速度增加15%，并增加 %s造成的电力伤害 -%s%"
+    "name": "蓄势充能",
+    "description": "遭受雷暴状态效果时，转向速度提升15%，造成的电击伤害提升%s-%s%，持续15秒"
   },
   "resistanceField": {
-    "name": "抗性",
-    "description": "通过 %s提高航行速度 -%s%电抗性10%"
+    "name": "抵抗力场",
+    "description": "每拥有10%电击抗性，航行速度提升%s-%s%"
   },
   "freshAir": {
-    "name": "新鲜空气：",
-    "description": "在中毒状态效果结束后增加 %s-%s10秒内增加机组员耐力恢复"
+    "name": "新鲜空气",
+    "description": "中毒状态效果结束时使船员体力恢复提升%s-%s%，持续10秒"
   },
   "pharmakon": {
-    "name": "Pharmakon",
-    "description": "每增加10%的有毒抗性能，增加 %s-%s%"
+    "name": "以毒攻毒",
+    "description": "每拥有10%剧毒抗性，船员最大体力提升%s-%s%"
   },
   "fatalStrike": {
-    "name": "致命攻击",
-    "description": "撞击目标会造成额外的 %s-%s 有毒伤害。10秒内其有毒抗性降低30%"
+    "name": "致命打击",
+    "description": "冲撞目标时对其额外造成%s-%s剧毒伤害。使其剧毒抗性在10秒内降低30%"
   },
   "phantomRound": {
     "name": "幻影弹",
-    "description": "每次射击有%s-%s几率额外发射炮弹。"
+    "description": "每次射击有%s-%s%几率额外发射炮弹"
   },
   "perforate": {
     "name": "贯穿",
     "description": [
-      "击中弱点时，获得“穿透”效果，持续10秒",
-      "命中弱点后,获得贯穿效果,持续\n10秒。贯穿生效时,装配贯穿改装\n的武器发射的炮弹可最多穿透目标\n3次,每次穿透后伤害降低至\n%s-%s%。"
+      "命中弱点后，获得贯穿效果，持续10秒",
+      "贯穿生效时，装配贯穿改装的武器发射的炮弹可最多穿透目标3次，每次穿透后伤害降低至%s-%s%"
     ]
   }
 }
