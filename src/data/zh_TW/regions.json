@@ -1,14 +1,14 @@
 {
   "redIsle": {
-    "name": "紅島"
+    "name": "Red Isle"
   },
   "openSeas": {
-    "name": "公海"
+    "name": "Open Seas"
   },
   "coastOfAfrica": {
-    "name": "非洲海岸"
+    "name": "Coast of Africa"
   },
   "eastIndies": {
-    "name": "東印度群島"
+    "name": "East Indies"
   }
 }
