@@ -1,0 +1,3610 @@
+{
+  "bloodFueled": {
+    "name": "Blood Fueled",
+    "description": "Firing Weapon has a cost of 4% hull health. You gain increased damage based on missing hull health (up to 150% at 80% missing health). All weapons equipped gain the Phantom Mending perk."
+  },
+  "reactiveBulwark": {
+    "name": "Reactive Bulwark",
+    "description": "After bracing for 3s, explode and damage hostile enemies in a 250m radius for 1000% of your armor rating."
+  },
+  "deadlyMedicine": {
+    "name": "Deadly Medicine",
+    "description": "Store 100% of healing done as additional damage, up to 100000. Additional damage is added to the next successful attack on an enemy target."
+  },
+  "finishingBlow": {
+    "name": "Finishing Blow",
+    "description": "Deal 10% increased damage to enemies below 30% of their maximum health."
+  },
+  "fervor": {
+    "name": "Fervor",
+    "description": "Increase weapon damage by 50% for 5 seconds after Ramming or Crew Attack (Cooldown 15s)."
+  },
+  "emergencyRepair": {
+    "name": "Emergency Repair",
+    "description": "Upon dropping below 50% maximum hull health, you are repaired for 30% maximum hull health over 3 seconds (Cooldown 75s)."
+  },
+  "fullSailAssault": {
+    "name": "Full Sail Assault",
+    "description": "Increases weapon damage by 15% when sailing at above 12kts. (Damage buff sticks for 5 seconds if speed drops below the speed)"
+  },
+  "shieldOfContempt": {
+    "name": "Shield Of Contempt",
+    "description": "Increases Armor by 100 for every enemy (up to 4) within 200m."
+  },
+  "battleMedic": {
+    "name": "Battle Medic",
+    "description": "Increases weapon damage by 10% for each Repair Weapon equipped. Effect is tripled when 4 Repair Weapons are equipped."
+  },
+  "damageControl": {
+    "name": "Damage Control",
+    "description": "Repair a small amount of severe damage after not taking damage for 30s."
+  },
+  "criticalDamageControl": {
+    "name": "Critical Damage Control",
+    "description": "Repairs 4% of Severe Damage per second after not taking damage for 30s."
+  },
+  "patchworkRepairs": {
+    "name": "Patchwork Repairs",
+    "description": "Repair a small amount of hull health after not taking damage for 30s."
+  },
+  "slowMending": {
+    "name": "Slow Mending",
+    "description": "Repairs 0.6% of Hull Health per second after not taking damage for 30s."
+  },
+  "windBarrier": {
+    "name": "Wind Barrier",
+    "description": "Reduces damage taken by 10% while sailing at 15kts or above."
+  },
+  "feelNoPain": {
+    "name": "Feel No Pain",
+    "description": "Reduce Damage taken by 5%."
+  },
+  "trueGrit": {
+    "name": "True Grit",
+    "description": "Reduce damage taken by 10% when Hull Health is 30% or below."
+  },
+  "hardenedMunitions": {
+    "name": "Hardened Munitions",
+    "description": "Weapon Damage +20%"
+  },
+  "bloodForBlood": {
+    "name": "Blood For Blood",
+    "description": "Increase weapon damage by 10% for 30s whenever you take damage."
+  },
+  "viciousMunitions1": {
+    "name": "Vicious Munitions 1",
+    "description": "Status Effects Damage +10% Status Effects Lifetime +10%"
+  },
+  "viciousMunitions2": {
+    "name": "Vicious Munitions 2",
+    "description": "Status Effects Damage +15% Status Effects Lifetime +15%"
+  },
+  "veteranRaiders": {
+    "name": "Veteran Raiders",
+    "description": "Crew Attack Damage +20%"
+  },
+  "specializedMunitions1": {
+    "name": "Specialized Munitions 1",
+    "description": "Burning Damage +30% Flooding Damage +30% Piercing Damage +30% Explosive Damage +30% Electric Damage +30% Toxic Damage +30%"
+  },
+  "specializedMunitions2": {
+    "name": "Specialized Munitions 2",
+    "description": "Burning Damage +30% Flooding Damage +30% Piercing Damage +30% Explosive Damage +30% Electric Damage +30% Toxic Damage +30%"
+  },
+  "adrenalSurge": {
+    "name": "Adrenal Surge",
+    "description": "Restores 10% Hull Health after a Crew Attack."
+  },
+  "hullbreaker": {
+    "name": "Hullbreaker",
+    "description": "Increase Ramming Damage by 50% when sailing at 15kts or higher."
+  },
+  "targetedRepairs": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "crewFitness": {
+    "name": "Crew Fitness",
+    "description": "Crew Stamina Recovery Speed +10%"
+  },
+  "barnacleRemoval": {
+    "name": "Barnacle Removal",
+    "description": "Acceleration +2%"
+  },
+  "flexibleRudder": {
+    "name": "Flexible Rudder",
+    "description": "Turning Speed +2%"
+  },
+  "reinforcedFrame": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "hullPlating": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "ironStance": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "versatileDefenses": {
+    "name": "Versatile Defenses",
+    "description": "Burning Resistance +2% Flooding Resistance +2% Piercing Resistance +2% Explosive Resistance +2% Electric Resistance +2% Toxic Resistance +2%"
+  },
+  "antiCorrosiveCoating": {
+    "name": "Anti Corrosive Coating",
+    "description": "Toxic Resistance +5%"
+  },
+  "layeredPlating": {
+    "name": "Layered Plating",
+    "description": "Piercing Resistance +5%"
+  },
+  "insulatedGunwales": {
+    "name": "Insulated Gunwales",
+    "description": "Electric Resistance +5%"
+  },
+  "quickSealant": {
+    "name": "Quick Sealant",
+    "description": "Flooding Resistance +5%"
+  },
+  "spallLining": {
+    "name": "Spall Lining",
+    "description": "Explosive Resistance +5%"
+  },
+  "asbestosCoating": {
+    "name": "Asbestos Coating",
+    "description": "Burning Resistance +5%"
+  },
+  "reactiveMeasures": {
+    "name": "Reactive Measures",
+    "description": "Status Effects Damage Reduction -2%"
+  },
+  "fireDrills": {
+    "name": "Fire Drills",
+    "description": "Ablaze Damage Reduction -5%"
+  },
+  "floodingDrills": {
+    "name": "Flooding Drills",
+    "description": "Flooded Damage Reduction -5%"
+  },
+  "insulatedGear": {
+    "name": "Insulated Gear",
+    "description": "Stormstruck Damage Reduction -5%"
+  },
+  "firstAidTraining": {
+    "name": "First Aid Training",
+    "description": "Toxic Lifetime -5%"
+  },
+  "breachTraining": {
+    "name": "Breach Training",
+    "description": "Punctured Lifetime -5%"
+  },
+  "protectiveMeasures": {
+    "name": "Protective Measures",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "savageAttacks": {
+    "name": "Savage Attacks",
+    "description": "Crew Attack Damage +25%"
+  },
+  "targetPractice": {
+    "name": "Target Practice",
+    "description": "Crew Attack Range +3%"
+  },
+  "batteringProw": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "reactiveCompounds": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "alchemicFuel": {
+    "name": "Alchemic Fuel",
+    "description": "Burning Damage +40%"
+  },
+  "expandingCasing": {
+    "name": "Expanding Casing",
+    "description": "Flooding Damage +40%"
+  },
+  "perforatingProjectiles": {
+    "name": "Perforating Projectiles",
+    "description": "Piercing Damage +40%"
+  },
+  "highYieldPowder": {
+    "name": "High Yield Powder",
+    "description": "Explosive Damage +40%"
+  },
+  "voltaicPowder": {
+    "name": "Voltaic Powder",
+    "description": "Electric Damage +40%"
+  },
+  "corrosiveToxins": {
+    "name": "Corrosive Toxins",
+    "description": "Toxic Damage +40%"
+  },
+  "volatileFuel": {
+    "name": "Volatile Fuel",
+    "description": "Burning Damage Penetration +10%"
+  },
+  "hullShredder": {
+    "name": "Hull Shredder",
+    "description": "Flooding Damage Penetration +10%"
+  },
+  "hullPiercerShots": {
+    "name": "Hull Piercer Shots",
+    "description": "Piercing Damage Penetration +10%"
+  },
+  "shapedCharge": {
+    "name": "Shaped Charge",
+    "description": "Explosive Damage Penetration +10%"
+  },
+  "highCurrent": {
+    "name": "High Current",
+    "description": "Electric Damage Penetration +10%"
+  },
+  "virulentContamination": {
+    "name": "Virulent Contamination",
+    "description": "Toxic Damage Penetration +10%"
+  },
+  "readyFire": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "enhancedDamage": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "swiftStrikes": {
+    "name": "Swift Strikes",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "deadeye": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "heavyWeaponry": {
+    "name": "Heavy Weaponry",
+    "description": "Mortar Damage +15% Rocket Damage +15% Springloader Damage +15%"
+  },
+  "heavyShells": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "improvedTrajectories": {
+    "name": "Improved Trajectories",
+    "description": "Mortar Time-to-Target -5%"
+  },
+  "burstShells": {
+    "name": "Burst Shells",
+    "description": "Mortar Area-of-Effect Radius +5%"
+  },
+  "improvedLaunchers": {
+    "name": "Improved Launchers",
+    "description": "Springloader Maximum Range +10%"
+  },
+  "lightweightBuoys": {
+    "name": "Lightweight Buoys",
+    "description": "Springloader Time-to-Target -5%"
+  },
+  "improvedGearset": {
+    "name": "Improved Gearset",
+    "description": "Springloader Area-of-Effect Radius +10%"
+  },
+  "highYieldMines": {
+    "name": "High Yield Mines",
+    "description": "Springloader Damage +30%"
+  },
+  "heavyPayload": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "flutedRockets": {
+    "name": "Fluted Rockets",
+    "description": "Rocket Time-to-Target -5%"
+  },
+  "packedRockets": {
+    "name": "Packed Rockets",
+    "description": "Rocket Maximum Range +10%"
+  },
+  "volleyFire": {
+    "name": "Volley Fire",
+    "description": "Demicannon Damage +10% Culverin Damage +10%"
+  },
+  "heavyShot": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "carvedShot": {
+    "name": "Carved Shot",
+    "description": "Culverin Projectile Speed +5%"
+  },
+  "loadedPowder": {
+    "name": "Loaded Powder",
+    "description": "Culverin Maximum Range +5%"
+  },
+  "heavyGrapeshot": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "solidSabot": {
+    "name": "Solid Sabot",
+    "description": "Demicannon Projectile Speed +5%"
+  },
+  "loadedPowderDC": {
+    "name": "Loaded Powder Dc",
+    "description": "Demicannon Maximum Range +5%"
+  },
+  "frontalAssault": {
+    "name": "Frontal Assault",
+    "description": "Ballista Damage +20% Sea Fire Damage +20%"
+  },
+  "heavyBolts": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "swiftBolts": {
+    "name": "Swift Bolts",
+    "description": "Ballista Projectile Speed +10%"
+  },
+  "precisionBolts": {
+    "name": "Precision Bolts",
+    "description": "Ballista Weakpoint (Critical) Damage +20%"
+  },
+  "volatileFuelSF": {
+    "name": "Volatile Fuel Sf",
+    "description": "Sea Fire Damage +30%"
+  },
+  "tightenedNozzles": {
+    "name": "Tightened Nozzles",
+    "description": "Sea Fire Maximum Range +20%"
+  },
+  "backupCanisters": {
+    "name": "Backup Canisters",
+    "description": "Sea Fire Magazine Size +15%"
+  },
+  "seaFireDrills": {
+    "name": "Sea Fire Drills",
+    "description": "Sea Fire Reload Time -10%"
+  },
+  "allHandsOnDeck": {
+    "name": "All Hands On Deck",
+    "description": "Bombard Damage +10% Long Gun Damage +10% Torpedo Damage +10%"
+  },
+  "bombardDrills": {
+    "name": "Bombard Drills",
+    "description": "Bombard Reload Time -5%"
+  },
+  "enhancedYield": {
+    "name": "Enhanced Yield",
+    "description": "Bombard Area-of-Effect Radius +5%"
+  },
+  "streamlinedCasing": {
+    "name": "Streamlined Casing",
+    "description": "Bombard Projectile Speed +5%"
+  },
+  "heavyBombs": {
+    "name": "Heavy Bombs",
+    "description": "Bombard Damage +20%"
+  },
+  "longGunDrills": {
+    "name": "Long Gun Drills",
+    "description": "Long Gun Reload Time -10%"
+  },
+  "carvedShotLG": {
+    "name": "Carved Shot Lg",
+    "description": "Long Gun Projectile Speed +5%"
+  },
+  "precisionShot": {
+    "name": "Precision Shot",
+    "description": "Long Gun Weakpoint (Critical) Damage +10%"
+  },
+  "heavyShotLG": {
+    "name": "Heavy Shot Lg",
+    "description": "Long Gun Damage +20%"
+  },
+  "improvedLaunchersT": {
+    "name": "Improved Launchers T",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "flutedTorpedoes": {
+    "name": "Fluted Torpedoes",
+    "description": "Torpedo Maximum Range +5%"
+  },
+  "loadedTorpedoes": {
+    "name": "Loaded Torpedoes",
+    "description": "Torpedo Damage +20%"
+  },
+  "persistentCompounds": {
+    "name": "Persistent Compounds",
+    "description": "Status Effects Lifetime +10%"
+  },
+  "enhancedPayload": {
+    "name": "Enhanced Payload",
+    "description": "Status Effects Charge Rate +10%"
+  },
+  "concentratedPayload": {
+    "name": "Concentrated Payload",
+    "description": "Status Effects Damage +10%"
+  },
+  "phosphorusCompound": {
+    "name": "Phosphorus Compound",
+    "description": "Ablaze Damage +10%"
+  },
+  "potentFuel": {
+    "name": "Potent Fuel",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "heavyFlooding": {
+    "name": "Heavy Flooding",
+    "description": "Flooded Damage +10%"
+  },
+  "rapidFlooding": {
+    "name": "Rapid Flooding",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "voltaicShock": {
+    "name": "Voltaic Shock",
+    "description": "Stormstruck Damage +10%"
+  },
+  "powerSurge": {
+    "name": "Power Surge",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "persistentAffliction": {
+    "name": "Persistent Affliction",
+    "description": "Toxic Lifetime +10%"
+  },
+  "virulentToxins": {
+    "name": "Virulent Toxins",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "violentRupture": {
+    "name": "Violent Rupture",
+    "description": "Punctured Lifetime +10%"
+  },
+  "penetratingMunitions": {
+    "name": "Penetrating Munitions",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "highPressureShockwave": {
+    "name": "High Pressure Shockwave",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "flashDetonation": {
+    "name": "Flash Detonation",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "trainedRecovery": {
+    "name": "Trained Recovery",
+    "description": "Brace Recovery +20%"
+  },
+  "steadyDefense": {
+    "name": "Steady Defense",
+    "description": "Stamina use while Bracing -10%"
+  },
+  "impetusOrder": {
+    "name": "Impetus Order",
+    "description": "You can now gain stacks of Impetus. When at 5 stacks of Impetus, consume 5 stacks to increase Turn Speed, Acceleration and Top Speed by 5% for 30s. When another Order Perk is activated, this buff no longer consumes Impetus and is applied permanently."
+  },
+  "batteringForce": {
+    "name": "Battering Force",
+    "description": "Generate 5 stacks of Impetus (Max 10) upon Ramming or performing a Crew Attack. Generating Impetus increases Weapon Damage and Repair Amount by 50% for 10s."
+  },
+  "relentlessForce": {
+    "name": "Relentless Force",
+    "description": "Generate 1 stack of Impetus (Max 10) for every 8 weapon hits on enemies. Demicannons require 4 times as many hits. Generating Impetus increases Weapon Damage and Repair Amount by 15% for 5s."
+  },
+  "unstoppableForce": {
+    "name": "Unstoppable Force",
+    "description": "Generate 1 stack of Impetus (Max 10) for every 110m travelled. Generating Impetus increases Weapon Damage and Repair Amount by 3% for every knot of speed above 10 knots, for 5s."
+  },
+  "heavyBombardment": {
+    "name": "Heavy Bombardment",
+    "description": "Generating Impetus increases the radius of all weapon Area-of-Effects by 5m for 10s (Max 5 stacks). At max stacks, Secondary Damage for all weapons is increased by 20%."
+  },
+  "weaknessFinder": {
+    "name": "Weakness Finder",
+    "description": "Generating Impetus adds a 20% chance to convert any weapon shot into a weakpoint hit for 5s."
+  },
+  "rejuvenation": {
+    "name": "Rejuvenation",
+    "description": "Generating Impetus restores 3% of max HP."
+  },
+  "stormblazeOrder": {
+    "name": "Stormblaze Order",
+    "description": "When at 10 stacks of Impetus, the next weapon hit consumes 10 stacks and triggers an AoE burst on the target that deals 150% of your max. Hull Health as Burning & Lightning damage to all enemies within 250m. This effect can also be triggered by Ramming without it consuming Impetus."
+  },
+  "firepowerOrder": {
+    "name": "Firepower Order",
+    "description": "When at 10 stacks of Impetus, fire an Auxiliary weapon to consume 10 stacks and convert all weapon hits to weakpoint hits for 8s."
+  },
+  "mendingOrder": {
+    "name": "Mending Order",
+    "description": "When at 5 stacks of Impetus, brace for 2s and release to consume 5 stacks and release an AoE heal that heals you for 30% of your max. Hull Health as well as all allies within 350m. This effect also triggers automatically when below 50% max. Hull Health or on death."
+  },
+  "fireAndSteel": {
+    "name": "Fire And Steel",
+    "description": "Generate 1 stack of Impetus by applying any elemental status effect on a target. This effect can only trigger once every 5s."
+  },
+  "vitalStrike": {
+    "name": "Vital Strike",
+    "description": "Generate 1 stack of Impetus by destroying a weakpoint. This effect can only trigger once every 5s."
+  },
+  "killingDrive": {
+    "name": "Killing Drive",
+    "description": "Generate 1 stack of Impetus by destroying a target. This effect can only trigger once every 5s."
+  },
+  "hardenedMomentum": {
+    "name": "Hardened Momentum",
+    "description": "While at or above 5 stacks of Impetus, increase Armor Multiplier by 5%."
+  },
+  "adaptiveArsenal": {
+    "name": "Adaptive Arsenal",
+    "description": "Increases Weapon Damage by 5% for each different weapon type equipped"
+  },
+  "enduringBrace": {
+    "name": "Enduring Brace",
+    "description": "Increase Brace Strength Recovery by 0.01% per 1000 points of Maximum Health."
+  },
+  "volatileArsenal": {
+    "name": "Volatile Arsenal",
+    "description": "Increases elemental damage by 5% for each Weapon element equipped. Includes Elements gained from Weapon modifications"
+  },
+  "loadedOdds": {
+    "name": "Loaded Odds",
+    "description": "Adds a chance of 10% to generate an additional stack of Impetus whenever an Impetus stack is generated."
+  },
+  "fortifiedHull": {
+    "name": "Fortified Hull",
+    "description": "For every 2000 points of Brace Strength, increase incoming Repair Amount by 1% (max 10%)."
+  },
+  "revitalizedFury": {
+    "name": "Revitalized Fury",
+    "description": "Increases Weapon Damage and Repair Amount by 15% for 5s when receiving a heal of 3% of your Maximum Health or greater."
+  },
+  "careAndCarnage": {
+    "name": "Care And Carnage",
+    "description": "For every 10% increases of Repair per Shot, increase Weapon Damage by 5% up to a maximum of 30%."
+  },
+  "battleTempo": {
+    "name": "Battle Tempo",
+    "description": "Increases the maximum stacks of Impetus by 5."
+  },
+  "steadyHands": {
+    "name": "Steady Hands",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "SPBF": {
+    "name": "Battering Force",
+    "description": "Generate 5 stacks of Impetus (Max 10) upon Ramming or performing a Crew Attack. Generating Impetus increases Weapon Damage and Repair Amount by 50% for 10s."
+  },
+  "SPRB": {
+    "name": "Reactive Bulwark",
+    "description": "After bracing for 3s, explode and damage hostile enemies in a 250m radius for 1000% of your armor rating."
+  },
+  "SPDM": {
+    "name": "Deadly Medicine",
+    "description": "Store 100% of healing done as additional damage, up to 100000. Additional damage is added to the next successful attack on an enemy target."
+  },
+  "SPFB": {
+    "name": "Finishing Blow",
+    "description": "Deal 10% increased damage to enemies below 30% of their maximum health."
+  },
+  "SPF": {
+    "name": "Fervor",
+    "description": "Increase weapon damage by 50% for 5 seconds after Ramming or Crew Attack (Cooldown 15s)."
+  },
+  "SPER": {
+    "name": "Emergency Repair",
+    "description": "Upon dropping below 50% maximum hull health, you are repaired for 30% maximum hull health over 3 seconds (Cooldown 75s)."
+  },
+  "SPFSA": {
+    "name": "Full Sail Assault",
+    "description": "Increases weapon damage by 15% when sailing at above 12kts. (Damage buff sticks for 5 seconds if speed drops below the speed)"
+  },
+  "SPSOC": {
+    "name": "Shield Of Contempt",
+    "description": "Increases Armor by 100 for every enemy (up to 4) within 200m."
+  },
+  "SPBM": {
+    "name": "Battle Medic",
+    "description": "Increases weapon damage by 10% for each Repair Weapon equipped. Effect is tripled when 4 Repair Weapons are equipped."
+  },
+  "KBHM": {
+    "name": "Hardened Munitions",
+    "description": "Weapon Damage +20%"
+  },
+  "KBPW": {
+    "name": "Patchwork Repairs",
+    "description": "Repair a small amount of hull health after not taking damage for 30s."
+  },
+  "KBVM1": {
+    "name": "Vicious Munitions 1",
+    "description": "Status Effects Damage +10% Status Effects Lifetime +10%"
+  },
+  "KBVR": {
+    "name": "Veteran Raiders",
+    "description": "Crew Attack Damage +20%"
+  },
+  "KBSM1": {
+    "name": "Specialized Munitions 1",
+    "description": "Burning Damage +30% Flooding Damage +30% Piercing Damage +30% Explosive Damage +30% Electric Damage +30% Toxic Damage +30%"
+  },
+  "KBDC": {
+    "name": "Damage Control",
+    "description": "Repair a small amount of severe damage after not taking damage for 30s."
+  },
+  "KBBFB": {
+    "name": "Blood For Blood",
+    "description": "Increase weapon damage by 10% for 30s whenever you take damage."
+  },
+  "KBSM": {
+    "name": "Slow Mending",
+    "description": "Repairs 0.6% of Hull Health per second after not taking damage for 30s."
+  },
+  "KBVM2": {
+    "name": "Vicious Munitions 2",
+    "description": "Status Effects Damage +15% Status Effects Lifetime +15%"
+  },
+  "KBTG": {
+    "name": "True Grit",
+    "description": "Reduce damage taken by 10% when Hull Health is 30% or below."
+  },
+  "KBSM2": {
+    "name": "Specialized Munitions 2",
+    "description": "Burning Damage +30% Flooding Damage +30% Piercing Damage +30% Explosive Damage +30% Electric Damage +30% Toxic Damage +30%"
+  },
+  "KBCDC": {
+    "name": "Critical Damage Control",
+    "description": "Repairs 4% of Severe Damage per second after not taking damage for 30s."
+  },
+  "KBFNP": {
+    "name": "Feel No Pain",
+    "description": "Reduce Damage taken by 5%."
+  },
+  "KBH": {
+    "name": "Hullbreaker",
+    "description": "Increase Ramming Damage by 50% when sailing at 15kts or higher."
+  },
+  "KBAS": {
+    "name": "Adrenal Surge",
+    "description": "Restores 10% Hull Health after a Crew Attack."
+  },
+  "KBWB": {
+    "name": "Wind Barrier",
+    "description": "Reduces damage taken by 10% while sailing at 15kts or above."
+  },
+  "B-1-RF1": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-1-1-RF1": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-1-1-ED1": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-1-1-RF2": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-1-1-ED2": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-1-1-RF3": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-1-2-RF1": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-1-2-RF2": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-1-2-RF3": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-1-RF2": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-2-ED1": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-1-ED1": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-1-ED2": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-1-ED3": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-1-ED4": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-1-ED5": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-2-SS1": {
+    "name": "Swift Strikes",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "B-2-2-ED1": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-2-SS2": {
+    "name": "Swift Strikes",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "B-2-3-ED1": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-3-ED2": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-3-ED3": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-3-ED4": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-3-ED5": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-2-ED2": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-3-DE1": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-3-1-DE1": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-3-1-DE2": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-3-1-DE3": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-3-2-DE1": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-3-2-SS1": {
+    "name": "Swift Strikes",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "B-3-2-DE2": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-3-2-SS2": {
+    "name": "Swift Strikes",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "B-3-2-DE3": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-3-DE2": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-4-IS1": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-4-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-4-IS2": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-4-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-4-IS3": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-5-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-5-IS1": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-5-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-5-IS2": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-5-RF3": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-62-TR1": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-62-TR2": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-62-TR3": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-62-TR4": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-62-TR5": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-6-DE1": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-6-RF1": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-7-PC1": {
+    "name": "Persistent Compounds",
+    "description": "Status Effects Lifetime +10%"
+  },
+  "B-7-PC2": {
+    "name": "Persistent Compounds",
+    "description": "Status Effects Lifetime +10%"
+  },
+  "B-7-PC3": {
+    "name": "Persistent Compounds",
+    "description": "Status Effects Lifetime +10%"
+  },
+  "B-7-PC4": {
+    "name": "Persistent Compounds",
+    "description": "Status Effects Lifetime +10%"
+  },
+  "B-7-PC5": {
+    "name": "Persistent Compounds",
+    "description": "Status Effects Lifetime +10%"
+  },
+  "B-8-EP1": {
+    "name": "Enhanced Payload",
+    "description": "Status Effects Charge Rate +10%"
+  },
+  "B-8-EP2": {
+    "name": "Enhanced Payload",
+    "description": "Status Effects Charge Rate +10%"
+  },
+  "B-8-EP3": {
+    "name": "Enhanced Payload",
+    "description": "Status Effects Charge Rate +10%"
+  },
+  "B-8-EP4": {
+    "name": "Enhanced Payload",
+    "description": "Status Effects Charge Rate +10%"
+  },
+  "B-8-EP5": {
+    "name": "Enhanced Payload",
+    "description": "Status Effects Charge Rate +10%"
+  },
+  "B-9-CP1": {
+    "name": "Concentrated Payload",
+    "description": "Status Effects Damage +10%"
+  },
+  "B-9-CP2": {
+    "name": "Concentrated Payload",
+    "description": "Status Effects Damage +10%"
+  },
+  "B-9-CP3": {
+    "name": "Concentrated Payload",
+    "description": "Status Effects Damage +10%"
+  },
+  "B-9-CP4": {
+    "name": "Concentrated Payload",
+    "description": "Status Effects Damage +10%"
+  },
+  "B-9-CP5": {
+    "name": "Concentrated Payload",
+    "description": "Status Effects Damage +10%"
+  },
+  "B-10-FR1": {
+    "name": "Flexible Rudder",
+    "description": "Turning Speed +2%"
+  },
+  "B-10-BR1": {
+    "name": "Barnacle Removal",
+    "description": "Acceleration +2%"
+  },
+  "B-10-1-FR1": {
+    "name": "Flexible Rudder",
+    "description": "Turning Speed +2%"
+  },
+  "B-10-2-FR1": {
+    "name": "Flexible Rudder",
+    "description": "Turning Speed +2%"
+  },
+  "B-10-FR2": {
+    "name": "Flexible Rudder",
+    "description": "Turning Speed +2%"
+  },
+  "B-11-BR1": {
+    "name": "Barnacle Removal",
+    "description": "Acceleration +2%"
+  },
+  "B-11-FR1": {
+    "name": "Flexible Rudder",
+    "description": "Turning Speed +2%"
+  },
+  "B-11-1-BR1": {
+    "name": "Barnacle Removal",
+    "description": "Acceleration +2%"
+  },
+  "B-11-BR2": {
+    "name": "Barnacle Removal",
+    "description": "Acceleration +2%"
+  },
+  "B-11-2-BR1": {
+    "name": "Barnacle Removal",
+    "description": "Acceleration +2%"
+  },
+  "B-12-CF1": {
+    "name": "Crew Fitness",
+    "description": "Crew Stamina Recovery Speed +10%"
+  },
+  "B-12-CF2": {
+    "name": "Crew Fitness",
+    "description": "Crew Stamina Recovery Speed +10%"
+  },
+  "B-12-CF3": {
+    "name": "Crew Fitness",
+    "description": "Crew Stamina Recovery Speed +10%"
+  },
+  "B-12-1-CF1": {
+    "name": "Crew Fitness",
+    "description": "Crew Stamina Recovery Speed +10%"
+  },
+  "B-12-2-CF1": {
+    "name": "Crew Fitness",
+    "description": "Crew Stamina Recovery Speed +10%"
+  },
+  "B-13-RC1": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-13-RC2": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-13-RC3": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-13-RC4": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-13-RC5": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-14-RC1": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-14-RC2": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-14-RC3": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-14-RC4": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-14-RC5": {
+    "name": "Reactive Compounds",
+    "description": "Burning Damage +20% Flooding Damage +20% Piercing Damage +20% Explosive Damage +20% Electric Damage +20% Toxic Damage +20%"
+  },
+  "B-15-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-15-1-TR1": {
+    "name": "Trained Recovery",
+    "description": "Brace Recovery +20%"
+  },
+  "B-15-1-TR2": {
+    "name": "Trained Recovery",
+    "description": "Brace Recovery +20%"
+  },
+  "B-15-2-SD1": {
+    "name": "Steady Defense",
+    "description": "Stamina use while Bracing -10%"
+  },
+  "B-15-2-SD2": {
+    "name": "Steady Defense",
+    "description": "Stamina use while Bracing -10%"
+  },
+  "B-16-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-16-1-IS1": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-16-1-IS2": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-16-2-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-16-2-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-17-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-17-1-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-17-1-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-17-2-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-17-2-HP2": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-18-TR1": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-18-TR2": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-18-TR3": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-18-TR4": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-18-TR5": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-19-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-19-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-19-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-19-HP2": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-19-RF3": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-20-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-20-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-20-HP2": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-20-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-20-HP3": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-21-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-21-1-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-21-1-HP2": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-21-2-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-21-2-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-22-RF1": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-22-DE1": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-22-BP1": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "B-22-BR1": {
+    "name": "Barnacle Removal",
+    "description": "Acceleration +2%"
+  },
+  "B-22-BP2": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "B-22-BR2": {
+    "name": "Barnacle Removal",
+    "description": "Acceleration +2%"
+  },
+  "B-22-BP3": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "B-23-BP1": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "B-23-BP2": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "B-23-BP3": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "B-23-BP4": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "B-23-BP5": {
+    "name": "Battering Prow",
+    "description": "Ram Damage +10%"
+  },
+  "B-23-TP1": {
+    "name": "Target Practice",
+    "description": "Crew Attack Range +3%"
+  },
+  "B-23-TP2": {
+    "name": "Target Practice",
+    "description": "Crew Attack Range +3%"
+  },
+  "B-23-TP3": {
+    "name": "Target Practice",
+    "description": "Crew Attack Range +3%"
+  },
+  "B-23-TP4": {
+    "name": "Target Practice",
+    "description": "Crew Attack Range +3%"
+  },
+  "B-23-TP5": {
+    "name": "Target Practice",
+    "description": "Crew Attack Range +3%"
+  },
+  "B-23-SA1": {
+    "name": "Savage Attacks",
+    "description": "Crew Attack Damage +25%"
+  },
+  "B-23-SA2": {
+    "name": "Savage Attacks",
+    "description": "Crew Attack Damage +25%"
+  },
+  "B-23-SA3": {
+    "name": "Savage Attacks",
+    "description": "Crew Attack Damage +25%"
+  },
+  "B-23-SA4": {
+    "name": "Savage Attacks",
+    "description": "Crew Attack Damage +25%"
+  },
+  "B-23-SA5": {
+    "name": "Savage Attacks",
+    "description": "Crew Attack Damage +25%"
+  },
+  "B-24-IS1": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-24-TR1": {
+    "name": "Trained Recovery",
+    "description": "Brace Recovery +20%"
+  },
+  "B-24-IS2": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-24-TR2": {
+    "name": "Trained Recovery",
+    "description": "Brace Recovery +20%"
+  },
+  "B-24-IS3": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-25-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-25-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-25-RF3": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-25-RF4": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-25-RF5": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-26-SD1": {
+    "name": "Steady Defense",
+    "description": "Stamina use while Bracing -10%"
+  },
+  "B-26-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-26-TR1": {
+    "name": "Trained Recovery",
+    "description": "Brace Recovery +20%"
+  },
+  "B-26-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-26-SD2": {
+    "name": "Steady Defense",
+    "description": "Stamina use while Bracing -10%"
+  },
+  "B-27-TR1": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-27-TR2": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-27-TR3": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-27-TR4": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-27-TR5": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-28-RM1": {
+    "name": "Reactive Measures",
+    "description": "Status Effects Damage Reduction -2%"
+  },
+  "B-28-RM2": {
+    "name": "Reactive Measures",
+    "description": "Status Effects Damage Reduction -2%"
+  },
+  "B-28-1-RM1": {
+    "name": "Reactive Measures",
+    "description": "Status Effects Damage Reduction -2%"
+  },
+  "B-28-2-RM1": {
+    "name": "Reactive Measures",
+    "description": "Status Effects Damage Reduction -2%"
+  },
+  "B-28-RM3": {
+    "name": "Reactive Measures",
+    "description": "Status Effects Damage Reduction -2%"
+  },
+  "B-29-FD1": {
+    "name": "Fire Drills",
+    "description": "Ablaze Damage Reduction -5%"
+  },
+  "B-29-FD2": {
+    "name": "Fire Drills",
+    "description": "Ablaze Damage Reduction -5%"
+  },
+  "B-29-FD3": {
+    "name": "Fire Drills",
+    "description": "Ablaze Damage Reduction -5%"
+  },
+  "B-29-FD4": {
+    "name": "Fire Drills",
+    "description": "Ablaze Damage Reduction -5%"
+  },
+  "B-29-FD5": {
+    "name": "Fire Drills",
+    "description": "Ablaze Damage Reduction -5%"
+  },
+  "B-30-FD1": {
+    "name": "Flooding Drills",
+    "description": "Flooded Damage Reduction -5%"
+  },
+  "B-30-FD2": {
+    "name": "Flooding Drills",
+    "description": "Flooded Damage Reduction -5%"
+  },
+  "B-30-FD3": {
+    "name": "Flooding Drills",
+    "description": "Flooded Damage Reduction -5%"
+  },
+  "B-30-FD4": {
+    "name": "Flooding Drills",
+    "description": "Flooded Damage Reduction -5%"
+  },
+  "B-30-FD5": {
+    "name": "Flooding Drills",
+    "description": "Flooded Damage Reduction -5%"
+  },
+  "B-31-IG1": {
+    "name": "Insulated Gear",
+    "description": "Stormstruck Damage Reduction -5%"
+  },
+  "B-31-IG2": {
+    "name": "Insulated Gear",
+    "description": "Stormstruck Damage Reduction -5%"
+  },
+  "B-31-IG3": {
+    "name": "Insulated Gear",
+    "description": "Stormstruck Damage Reduction -5%"
+  },
+  "B-31-IG4": {
+    "name": "Insulated Gear",
+    "description": "Stormstruck Damage Reduction -5%"
+  },
+  "B-31-IG5": {
+    "name": "Insulated Gear",
+    "description": "Stormstruck Damage Reduction -5%"
+  },
+  "B-32-FAT1": {
+    "name": "First Aid Training",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-32-FAT2": {
+    "name": "First Aid Training",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-32-FAT3": {
+    "name": "First Aid Training",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-32-FAT4": {
+    "name": "First Aid Training",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-32-FAT5": {
+    "name": "First Aid Training",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-33-BT1": {
+    "name": "Breach Training",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-33-BT2": {
+    "name": "Breach Training",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-33-BT3": {
+    "name": "Breach Training",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-33-BT4": {
+    "name": "Breach Training",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-33-BT5": {
+    "name": "Breach Training",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-34-PM1": {
+    "name": "Protective Measures",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-34-PM2": {
+    "name": "Protective Measures",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-34-PM3": {
+    "name": "Protective Measures",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-34-PM4": {
+    "name": "Protective Measures",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-34-PM5": {
+    "name": "Protective Measures",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-35-HPS1": {
+    "name": "High Pressure Shockwave",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-1-HPS1": {
+    "name": "High Pressure Shockwave",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-1-HPS2": {
+    "name": "High Pressure Shockwave",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-1-HPS3": {
+    "name": "High Pressure Shockwave",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-1-HPS4": {
+    "name": "High Pressure Shockwave",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-2-FD1": {
+    "name": "Flash Detonation",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-35-2-FD2": {
+    "name": "Flash Detonation",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-35-2-FD3": {
+    "name": "Flash Detonation",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-35-2-FD4": {
+    "name": "Flash Detonation",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-35-2-FD5": {
+    "name": "Flash Detonation",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-36-VR1": {
+    "name": "Violent Rupture",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-1-VR1": {
+    "name": "Violent Rupture",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-1-VR2": {
+    "name": "Violent Rupture",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-1-VR3": {
+    "name": "Violent Rupture",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-1-VR4": {
+    "name": "Violent Rupture",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-2-PM1": {
+    "name": "Penetrating Munitions",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-36-2-PM2": {
+    "name": "Penetrating Munitions",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-36-2-PM3": {
+    "name": "Penetrating Munitions",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-36-2-PM4": {
+    "name": "Penetrating Munitions",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-36-2-PM5": {
+    "name": "Penetrating Munitions",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-37-PA1": {
+    "name": "Persistent Affliction",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-1-PA1": {
+    "name": "Persistent Affliction",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-1-PA2": {
+    "name": "Persistent Affliction",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-1-PA3": {
+    "name": "Persistent Affliction",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-1-PA4": {
+    "name": "Persistent Affliction",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-2-VT1": {
+    "name": "Virulent Toxins",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-37-2-VT2": {
+    "name": "Virulent Toxins",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-37-2-VT3": {
+    "name": "Virulent Toxins",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-37-2-VT4": {
+    "name": "Virulent Toxins",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-37-2-VT5": {
+    "name": "Virulent Toxins",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-38-VS1": {
+    "name": "Voltaic Shock",
+    "description": "Stormstruck Damage +10%"
+  },
+  "B-38-1-VS1": {
+    "name": "Voltaic Shock",
+    "description": "Stormstruck Damage +10%"
+  },
+  "B-38-1-VS2": {
+    "name": "Voltaic Shock",
+    "description": "Stormstruck Damage +10%"
+  },
+  "B-38-1-VS3": {
+    "name": "Voltaic Shock",
+    "description": "Stormstruck Damage +10%"
+  },
+  "B-38-1-VS4": {
+    "name": "Voltaic Shock",
+    "description": "Stormstruck Damage +10%"
+  },
+  "B-38-2-PS1": {
+    "name": "Power Surge",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-38-2-PS2": {
+    "name": "Power Surge",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-38-2-PS3": {
+    "name": "Power Surge",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-38-2-PS4": {
+    "name": "Power Surge",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-38-2-PS5": {
+    "name": "Power Surge",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-39-HF1": {
+    "name": "Heavy Flooding",
+    "description": "Flooded Damage +10%"
+  },
+  "B-39-1-HF1": {
+    "name": "Heavy Flooding",
+    "description": "Flooded Damage +10%"
+  },
+  "B-39-1-HF2": {
+    "name": "Heavy Flooding",
+    "description": "Flooded Damage +10%"
+  },
+  "B-39-1-HF3": {
+    "name": "Heavy Flooding",
+    "description": "Flooded Damage +10%"
+  },
+  "B-39-1-HF4": {
+    "name": "Heavy Flooding",
+    "description": "Flooded Damage +10%"
+  },
+  "B-39-2-RF1": {
+    "name": "Rapid Flooding",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-39-2-RF2": {
+    "name": "Rapid Flooding",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-39-2-RF3": {
+    "name": "Rapid Flooding",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-39-2-RF4": {
+    "name": "Rapid Flooding",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-39-2-RF5": {
+    "name": "Rapid Flooding",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-40-PC1": {
+    "name": "Phosphorus Compound",
+    "description": "Ablaze Damage +10%"
+  },
+  "B-40-1-PC1": {
+    "name": "Phosphorus Compound",
+    "description": "Ablaze Damage +10%"
+  },
+  "B-40-1-PC2": {
+    "name": "Phosphorus Compound",
+    "description": "Ablaze Damage +10%"
+  },
+  "B-40-1-PC3": {
+    "name": "Phosphorus Compound",
+    "description": "Ablaze Damage +10%"
+  },
+  "B-40-1-PC4": {
+    "name": "Phosphorus Compound",
+    "description": "Ablaze Damage +10%"
+  },
+  "B-40-2-PF1": {
+    "name": "Potent Fuel",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-40-2-PF2": {
+    "name": "Potent Fuel",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-40-2-PF3": {
+    "name": "Potent Fuel",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-40-2-PF4": {
+    "name": "Potent Fuel",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-40-2-PF5": {
+    "name": "Potent Fuel",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-41-CT1": {
+    "name": "Corrosive Toxins",
+    "description": "Toxic Damage +40%"
+  },
+  "B-41-1-VC1": {
+    "name": "Virulent Contamination",
+    "description": "Toxic Damage Penetration +10%"
+  },
+  "B-41-1-VC2": {
+    "name": "Virulent Contamination",
+    "description": "Toxic Damage Penetration +10%"
+  },
+  "B-41-1-VC3": {
+    "name": "Virulent Contamination",
+    "description": "Toxic Damage Penetration +10%"
+  },
+  "B-41-1-VC4": {
+    "name": "Virulent Contamination",
+    "description": "Toxic Damage Penetration +10%"
+  },
+  "B-41-1-VC5": {
+    "name": "Virulent Contamination",
+    "description": "Toxic Damage Penetration +10%"
+  },
+  "B-41-2-CT1": {
+    "name": "Corrosive Toxins",
+    "description": "Toxic Damage +40%"
+  },
+  "B-41-2-CT2": {
+    "name": "Corrosive Toxins",
+    "description": "Toxic Damage +40%"
+  },
+  "B-41-2-CT3": {
+    "name": "Corrosive Toxins",
+    "description": "Toxic Damage +40%"
+  },
+  "B-41-2-CT4": {
+    "name": "Corrosive Toxins",
+    "description": "Toxic Damage +40%"
+  },
+  "B-42-VP1": {
+    "name": "Voltaic Powder",
+    "description": "Electric Damage +40%"
+  },
+  "B-42-1-HC1": {
+    "name": "High Current",
+    "description": "Electric Damage Penetration +10%"
+  },
+  "B-42-1-HC2": {
+    "name": "High Current",
+    "description": "Electric Damage Penetration +10%"
+  },
+  "B-42-1-HC3": {
+    "name": "High Current",
+    "description": "Electric Damage Penetration +10%"
+  },
+  "B-42-1-HC4": {
+    "name": "High Current",
+    "description": "Electric Damage Penetration +10%"
+  },
+  "B-42-1-HC5": {
+    "name": "High Current",
+    "description": "Electric Damage Penetration +10%"
+  },
+  "B-42-2-VP1": {
+    "name": "Voltaic Powder",
+    "description": "Electric Damage +40%"
+  },
+  "B-42-2-VP2": {
+    "name": "Voltaic Powder",
+    "description": "Electric Damage +40%"
+  },
+  "B-42-2-VP3": {
+    "name": "Voltaic Powder",
+    "description": "Electric Damage +40%"
+  },
+  "B-42-2-VP4": {
+    "name": "Voltaic Powder",
+    "description": "Electric Damage +40%"
+  },
+  "B-43-HYP1": {
+    "name": "High Yield Powder",
+    "description": "Explosive Damage +40%"
+  },
+  "B-43-1-SC1": {
+    "name": "Shaped Charge",
+    "description": "Explosive Damage Penetration +10%"
+  },
+  "B-43-1-SC2": {
+    "name": "Shaped Charge",
+    "description": "Explosive Damage Penetration +10%"
+  },
+  "B-43-1-SC3": {
+    "name": "Shaped Charge",
+    "description": "Explosive Damage Penetration +10%"
+  },
+  "B-43-1-SC4": {
+    "name": "Shaped Charge",
+    "description": "Explosive Damage Penetration +10%"
+  },
+  "B-43-1-SC5": {
+    "name": "Shaped Charge",
+    "description": "Explosive Damage Penetration +10%"
+  },
+  "B-43-2-HYP1": {
+    "name": "High Yield Powder",
+    "description": "Explosive Damage +40%"
+  },
+  "B-43-2-HYP2": {
+    "name": "High Yield Powder",
+    "description": "Explosive Damage +40%"
+  },
+  "B-43-2-HYP3": {
+    "name": "High Yield Powder",
+    "description": "Explosive Damage +40%"
+  },
+  "B-43-2-HYP4": {
+    "name": "High Yield Powder",
+    "description": "Explosive Damage +40%"
+  },
+  "B-44-PP1": {
+    "name": "Perforating Projectiles",
+    "description": "Piercing Damage +40%"
+  },
+  "B-44-1-HPS1": {
+    "name": "Hull Piercer Shots",
+    "description": "Piercing Damage Penetration +10%"
+  },
+  "B-44-1-HPS2": {
+    "name": "Hull Piercer Shots",
+    "description": "Piercing Damage Penetration +10%"
+  },
+  "B-44-1-HPS3": {
+    "name": "Hull Piercer Shots",
+    "description": "Piercing Damage Penetration +10%"
+  },
+  "B-44-1-HPS4": {
+    "name": "Hull Piercer Shots",
+    "description": "Piercing Damage Penetration +10%"
+  },
+  "B-44-1-HPS5": {
+    "name": "Hull Piercer Shots",
+    "description": "Piercing Damage Penetration +10%"
+  },
+  "B-44-2-PP1": {
+    "name": "Perforating Projectiles",
+    "description": "Piercing Damage +40%"
+  },
+  "B-44-2-PP2": {
+    "name": "Perforating Projectiles",
+    "description": "Piercing Damage +40%"
+  },
+  "B-44-2-PP3": {
+    "name": "Perforating Projectiles",
+    "description": "Piercing Damage +40%"
+  },
+  "B-44-2-PP4": {
+    "name": "Perforating Projectiles",
+    "description": "Piercing Damage +40%"
+  },
+  "B-45-EC1": {
+    "name": "Expanding Casing",
+    "description": "Flooding Damage +40%"
+  },
+  "B-45-1-HS1": {
+    "name": "Hull Shredder",
+    "description": "Flooding Damage Penetration +10%"
+  },
+  "B-45-1-HS2": {
+    "name": "Hull Shredder",
+    "description": "Flooding Damage Penetration +10%"
+  },
+  "B-45-1-HS3": {
+    "name": "Hull Shredder",
+    "description": "Flooding Damage Penetration +10%"
+  },
+  "B-45-1-HS4": {
+    "name": "Hull Shredder",
+    "description": "Flooding Damage Penetration +10%"
+  },
+  "B-45-1-HS5": {
+    "name": "Hull Shredder",
+    "description": "Flooding Damage Penetration +10%"
+  },
+  "B-45-2-EC1": {
+    "name": "Expanding Casing",
+    "description": "Flooding Damage +40%"
+  },
+  "B-45-2-EC2": {
+    "name": "Expanding Casing",
+    "description": "Flooding Damage +40%"
+  },
+  "B-45-2-EC3": {
+    "name": "Expanding Casing",
+    "description": "Flooding Damage +40%"
+  },
+  "B-45-2-EC4": {
+    "name": "Expanding Casing",
+    "description": "Flooding Damage +40%"
+  },
+  "B-46-AF1": {
+    "name": "Alchemic Fuel",
+    "description": "Burning Damage +40%"
+  },
+  "B-46-1-VF1": {
+    "name": "Volatile Fuel",
+    "description": "Burning Damage Penetration +10%"
+  },
+  "B-46-1-VF2": {
+    "name": "Volatile Fuel",
+    "description": "Burning Damage Penetration +10%"
+  },
+  "B-46-1-VF3": {
+    "name": "Volatile Fuel",
+    "description": "Burning Damage Penetration +10%"
+  },
+  "B-46-1-VF4": {
+    "name": "Volatile Fuel",
+    "description": "Burning Damage Penetration +10%"
+  },
+  "B-46-1-VF5": {
+    "name": "Volatile Fuel",
+    "description": "Burning Damage Penetration +10%"
+  },
+  "B-46-2-AF1": {
+    "name": "Alchemic Fuel",
+    "description": "Burning Damage +40%"
+  },
+  "B-46-2-AF2": {
+    "name": "Alchemic Fuel",
+    "description": "Burning Damage +40%"
+  },
+  "B-46-2-AF3": {
+    "name": "Alchemic Fuel",
+    "description": "Burning Damage +40%"
+  },
+  "B-46-2-AF4": {
+    "name": "Alchemic Fuel",
+    "description": "Burning Damage +40%"
+  },
+  "B-47-TR1": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-47-TR2": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-47-TR3": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-47-TR4": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-47-TR5": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-48-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-48-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-48-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-48-HP2": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-48-RF3": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-49-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-49-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-49-RF3": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-49-RF4": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-49-RF5": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-50-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-50-HP2": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-50-HP3": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-50-HP4": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-50-HP5": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-51-VD1": {
+    "name": "Versatile Defenses",
+    "description": "Burning Resistance +2% Flooding Resistance +2% Piercing Resistance +2% Explosive Resistance +2% Electric Resistance +2% Toxic Resistance +2%"
+  },
+  "B-51-VD2": {
+    "name": "Versatile Defenses",
+    "description": "Burning Resistance +2% Flooding Resistance +2% Piercing Resistance +2% Explosive Resistance +2% Electric Resistance +2% Toxic Resistance +2%"
+  },
+  "B-51-1-VD1": {
+    "name": "Versatile Defenses",
+    "description": "Burning Resistance +2% Flooding Resistance +2% Piercing Resistance +2% Explosive Resistance +2% Electric Resistance +2% Toxic Resistance +2%"
+  },
+  "B-51-2-VD1": {
+    "name": "Versatile Defenses",
+    "description": "Burning Resistance +2% Flooding Resistance +2% Piercing Resistance +2% Explosive Resistance +2% Electric Resistance +2% Toxic Resistance +2%"
+  },
+  "B-51-VD3": {
+    "name": "Versatile Defenses",
+    "description": "Burning Resistance +2% Flooding Resistance +2% Piercing Resistance +2% Explosive Resistance +2% Electric Resistance +2% Toxic Resistance +2%"
+  },
+  "B-52-ACC1": {
+    "name": "Anti Corrosive Coating",
+    "description": "Toxic Resistance +5%"
+  },
+  "B-52-ACC2": {
+    "name": "Anti Corrosive Coating",
+    "description": "Toxic Resistance +5%"
+  },
+  "B-52-ACC3": {
+    "name": "Anti Corrosive Coating",
+    "description": "Toxic Resistance +5%"
+  },
+  "B-52-ACC4": {
+    "name": "Anti Corrosive Coating",
+    "description": "Toxic Resistance +5%"
+  },
+  "B-52-ACC5": {
+    "name": "Anti Corrosive Coating",
+    "description": "Toxic Resistance +5%"
+  },
+  "B-53-LP1": {
+    "name": "Layered Plating",
+    "description": "Piercing Resistance +5%"
+  },
+  "B-53-LP2": {
+    "name": "Layered Plating",
+    "description": "Piercing Resistance +5%"
+  },
+  "B-53-LP3": {
+    "name": "Layered Plating",
+    "description": "Piercing Resistance +5%"
+  },
+  "B-53-LP4": {
+    "name": "Layered Plating",
+    "description": "Piercing Resistance +5%"
+  },
+  "B-53-LP5": {
+    "name": "Layered Plating",
+    "description": "Piercing Resistance +5%"
+  },
+  "B-54-IG1": {
+    "name": "Insulated Gunwales",
+    "description": "Electric Resistance +5%"
+  },
+  "B-54-IG2": {
+    "name": "Insulated Gunwales",
+    "description": "Electric Resistance +5%"
+  },
+  "B-54-IG3": {
+    "name": "Insulated Gunwales",
+    "description": "Electric Resistance +5%"
+  },
+  "B-54-IG4": {
+    "name": "Insulated Gunwales",
+    "description": "Electric Resistance +5%"
+  },
+  "B-54-IG5": {
+    "name": "Insulated Gunwales",
+    "description": "Electric Resistance +5%"
+  },
+  "B-55-QS1": {
+    "name": "Quick Sealant",
+    "description": "Flooding Resistance +5%"
+  },
+  "B-55-QS2": {
+    "name": "Quick Sealant",
+    "description": "Flooding Resistance +5%"
+  },
+  "B-55-QS3": {
+    "name": "Quick Sealant",
+    "description": "Flooding Resistance +5%"
+  },
+  "B-55-QS4": {
+    "name": "Quick Sealant",
+    "description": "Flooding Resistance +5%"
+  },
+  "B-55-QS5": {
+    "name": "Quick Sealant",
+    "description": "Flooding Resistance +5%"
+  },
+  "B-56-SL1": {
+    "name": "Spall Lining",
+    "description": "Explosive Resistance +5%"
+  },
+  "B-56-SL2": {
+    "name": "Spall Lining",
+    "description": "Explosive Resistance +5%"
+  },
+  "B-56-SL3": {
+    "name": "Spall Lining",
+    "description": "Explosive Resistance +5%"
+  },
+  "B-56-SL4": {
+    "name": "Spall Lining",
+    "description": "Explosive Resistance +5%"
+  },
+  "B-56-SL5": {
+    "name": "Spall Lining",
+    "description": "Explosive Resistance +5%"
+  },
+  "B-57-AC1": {
+    "name": "Asbestos Coating",
+    "description": "Burning Resistance +5%"
+  },
+  "B-57-AC2": {
+    "name": "Asbestos Coating",
+    "description": "Burning Resistance +5%"
+  },
+  "B-57-AC3": {
+    "name": "Asbestos Coating",
+    "description": "Burning Resistance +5%"
+  },
+  "B-57-AC4": {
+    "name": "Asbestos Coating",
+    "description": "Burning Resistance +5%"
+  },
+  "B-57-AC5": {
+    "name": "Asbestos Coating",
+    "description": "Burning Resistance +5%"
+  },
+  "B-58-HW1": {
+    "name": "Heavy Weaponry",
+    "description": "Mortar Damage +15% Rocket Damage +15% Springloader Damage +15%"
+  },
+  "B-58-1-HW1": {
+    "name": "Heavy Weaponry",
+    "description": "Mortar Damage +15% Rocket Damage +15% Springloader Damage +15%"
+  },
+  "B-58-1-HS1": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "B-58-1-1-BS1": {
+    "name": "Burst Shells",
+    "description": "Mortar Area-of-Effect Radius +5%"
+  },
+  "B-58-1-1-BS2": {
+    "name": "Burst Shells",
+    "description": "Mortar Area-of-Effect Radius +5%"
+  },
+  "B-58-1-1-BS3": {
+    "name": "Burst Shells",
+    "description": "Mortar Area-of-Effect Radius +5%"
+  },
+  "B-58-1-2-IT1": {
+    "name": "Improved Trajectories",
+    "description": "Mortar Time-to-Target -5%"
+  },
+  "B-58-1-2-IT2": {
+    "name": "Improved Trajectories",
+    "description": "Mortar Time-to-Target -5%"
+  },
+  "B-58-1-2-IT3": {
+    "name": "Improved Trajectories",
+    "description": "Mortar Time-to-Target -5%"
+  },
+  "B-58-1-HS2": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "B-58-1-HS3": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "B-58-1-HS4": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "B-58-2-IL1": {
+    "name": "Improved Launchers",
+    "description": "Springloader Maximum Range +10%"
+  },
+  "B-58-2-1-IG1": {
+    "name": "Improved Gearset",
+    "description": "Springloader Area-of-Effect Radius +10%"
+  },
+  "B-58-2-1-IG2": {
+    "name": "Improved Gearset",
+    "description": "Springloader Area-of-Effect Radius +10%"
+  },
+  "B-58-2-1-IG3": {
+    "name": "Improved Gearset",
+    "description": "Springloader Area-of-Effect Radius +10%"
+  },
+  "B-58-2-2-LB1": {
+    "name": "Lightweight Buoys",
+    "description": "Springloader Time-to-Target -5%"
+  },
+  "B-58-2-2-LB2": {
+    "name": "Lightweight Buoys",
+    "description": "Springloader Time-to-Target -5%"
+  },
+  "B-58-2-2-LB3": {
+    "name": "Lightweight Buoys",
+    "description": "Springloader Time-to-Target -5%"
+  },
+  "B-58-2-HYM1": {
+    "name": "High Yield Mines",
+    "description": "Springloader Damage +30%"
+  },
+  "B-58-2-HYM2": {
+    "name": "High Yield Mines",
+    "description": "Springloader Damage +30%"
+  },
+  "B-58-2-HYM3": {
+    "name": "High Yield Mines",
+    "description": "Springloader Damage +30%"
+  },
+  "B-58-3-HW1": {
+    "name": "Heavy Weaponry",
+    "description": "Mortar Damage +15% Rocket Damage +15% Springloader Damage +15%"
+  },
+  "B-58-3-HP1": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "B-58-3-1-PR1": {
+    "name": "Packed Rockets",
+    "description": "Rocket Maximum Range +10%"
+  },
+  "B-58-3-1-PR2": {
+    "name": "Packed Rockets",
+    "description": "Rocket Maximum Range +10%"
+  },
+  "B-58-3-1-PR3": {
+    "name": "Packed Rockets",
+    "description": "Rocket Maximum Range +10%"
+  },
+  "B-58-3-2-FR1": {
+    "name": "Fluted Rockets",
+    "description": "Rocket Time-to-Target -5%"
+  },
+  "B-58-3-2-FR2": {
+    "name": "Fluted Rockets",
+    "description": "Rocket Time-to-Target -5%"
+  },
+  "B-58-3-2-FR3": {
+    "name": "Fluted Rockets",
+    "description": "Rocket Time-to-Target -5%"
+  },
+  "B-58-3-HP2": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "B-58-3-HP3": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "B-58-3-HP4": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "B-59-VF1": {
+    "name": "Volley Fire",
+    "description": "Demicannon Damage +10% Culverin Damage +10%"
+  },
+  "B-59-1-VF1": {
+    "name": "Volley Fire",
+    "description": "Demicannon Damage +10% Culverin Damage +10%"
+  },
+  "B-59-1-HS1": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "B-59-1-1-CS1": {
+    "name": "Carved Shot",
+    "description": "Culverin Projectile Speed +5%"
+  },
+  "B-59-1-1-CS2": {
+    "name": "Carved Shot",
+    "description": "Culverin Projectile Speed +5%"
+  },
+  "B-59-1-1-CS3": {
+    "name": "Carved Shot",
+    "description": "Culverin Projectile Speed +5%"
+  },
+  "B-59-1-2-LP1": {
+    "name": "Loaded Powder",
+    "description": "Culverin Maximum Range +5%"
+  },
+  "B-59-1-2-LP2": {
+    "name": "Loaded Powder",
+    "description": "Culverin Maximum Range +5%"
+  },
+  "B-59-1-2-LP3": {
+    "name": "Loaded Powder",
+    "description": "Culverin Maximum Range +5%"
+  },
+  "B-59-1-HS2": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "B-59-1-HS3": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "B-59-1-HS4": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "B-59-2-VF1": {
+    "name": "Volley Fire",
+    "description": "Demicannon Damage +10% Culverin Damage +10%"
+  },
+  "B-59-2-HG1": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "B-59-2-1-SS1": {
+    "name": "Solid Sabot",
+    "description": "Demicannon Projectile Speed +5%"
+  },
+  "B-59-2-1-SS2": {
+    "name": "Solid Sabot",
+    "description": "Demicannon Projectile Speed +5%"
+  },
+  "B-59-2-1-SS3": {
+    "name": "Solid Sabot",
+    "description": "Demicannon Projectile Speed +5%"
+  },
+  "B-59-2-2-LPDC1": {
+    "name": "Loaded Powder Dc",
+    "description": "Demicannon Maximum Range +5%"
+  },
+  "B-59-2-2-LPDC2": {
+    "name": "Loaded Powder Dc",
+    "description": "Demicannon Maximum Range +5%"
+  },
+  "B-59-2-2-LPDC3": {
+    "name": "Loaded Powder Dc",
+    "description": "Demicannon Maximum Range +5%"
+  },
+  "B-59-2-HG2": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "B-59-2-HG3": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "B-59-2-HG4": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "B-60-FA1": {
+    "name": "Frontal Assault",
+    "description": "Ballista Damage +20% Sea Fire Damage +20%"
+  },
+  "B-60-1-FA1": {
+    "name": "Frontal Assault",
+    "description": "Ballista Damage +20% Sea Fire Damage +20%"
+  },
+  "B-60-1-HB1": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "B-60-1-1-SB1": {
+    "name": "Swift Bolts",
+    "description": "Ballista Projectile Speed +10%"
+  },
+  "B-60-1-1-SB2": {
+    "name": "Swift Bolts",
+    "description": "Ballista Projectile Speed +10%"
+  },
+  "B-60-1-1-SB3": {
+    "name": "Swift Bolts",
+    "description": "Ballista Projectile Speed +10%"
+  },
+  "B-60-1-2-PB1": {
+    "name": "Precision Bolts",
+    "description": "Ballista Weakpoint (Critical) Damage +20%"
+  },
+  "B-60-1-2-PB2": {
+    "name": "Precision Bolts",
+    "description": "Ballista Weakpoint (Critical) Damage +20%"
+  },
+  "B-60-1-2-PB3": {
+    "name": "Precision Bolts",
+    "description": "Ballista Weakpoint (Critical) Damage +20%"
+  },
+  "B-60-1-HB2": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "B-60-1-HB3": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "B-60-1-HB4": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "B-60-2-FA1": {
+    "name": "Frontal Assault",
+    "description": "Ballista Damage +20% Sea Fire Damage +20%"
+  },
+  "B-60-2-TN1": {
+    "name": "Tightened Nozzles",
+    "description": "Sea Fire Maximum Range +20%"
+  },
+  "B-60-2-1-BC1": {
+    "name": "Backup Canisters",
+    "description": "Sea Fire Magazine Size +15%"
+  },
+  "B-60-2-1-BC2": {
+    "name": "Backup Canisters",
+    "description": "Sea Fire Magazine Size +15%"
+  },
+  "B-60-2-1-BC3": {
+    "name": "Backup Canisters",
+    "description": "Sea Fire Magazine Size +15%"
+  },
+  "B-60-2-2-SFD1": {
+    "name": "Sea Fire Drills",
+    "description": "Sea Fire Reload Time -10%"
+  },
+  "B-60-2-2-SFD2": {
+    "name": "Sea Fire Drills",
+    "description": "Sea Fire Reload Time -10%"
+  },
+  "B-60-2-2-SFD3": {
+    "name": "Sea Fire Drills",
+    "description": "Sea Fire Reload Time -10%"
+  },
+  "B-60-2-VFSF1": {
+    "name": "Volatile Fuel Sf",
+    "description": "Sea Fire Damage +30%"
+  },
+  "B-60-2-VFSF2": {
+    "name": "Volatile Fuel Sf",
+    "description": "Sea Fire Damage +30%"
+  },
+  "B-60-2-VFSF3": {
+    "name": "Volatile Fuel Sf",
+    "description": "Sea Fire Damage +30%"
+  },
+  "B-61-AHOD1": {
+    "name": "All Hands On Deck",
+    "description": "Bombard Damage +10% Long Gun Damage +10% Torpedo Damage +10%"
+  },
+  "B-61-1-AHOD1": {
+    "name": "All Hands On Deck",
+    "description": "Bombard Damage +10% Long Gun Damage +10% Torpedo Damage +10%"
+  },
+  "B-61-1-BD1": {
+    "name": "Bombard Drills",
+    "description": "Bombard Reload Time -5%"
+  },
+  "B-61-1-1-EY1": {
+    "name": "Enhanced Yield",
+    "description": "Bombard Area-of-Effect Radius +5%"
+  },
+  "B-61-1-1-EY2": {
+    "name": "Enhanced Yield",
+    "description": "Bombard Area-of-Effect Radius +5%"
+  },
+  "B-61-1-1-EY3": {
+    "name": "Enhanced Yield",
+    "description": "Bombard Area-of-Effect Radius +5%"
+  },
+  "B-61-1-2-SC1": {
+    "name": "Streamlined Casing",
+    "description": "Bombard Projectile Speed +5%"
+  },
+  "B-61-1-2-SC2": {
+    "name": "Streamlined Casing",
+    "description": "Bombard Projectile Speed +5%"
+  },
+  "B-61-1-2-SC3": {
+    "name": "Streamlined Casing",
+    "description": "Bombard Projectile Speed +5%"
+  },
+  "B-61-1-HB1": {
+    "name": "Heavy Bombs",
+    "description": "Bombard Damage +20%"
+  },
+  "B-61-1-HB2": {
+    "name": "Heavy Bombs",
+    "description": "Bombard Damage +20%"
+  },
+  "B-61-1-HB3": {
+    "name": "Heavy Bombs",
+    "description": "Bombard Damage +20%"
+  },
+  "B-61-2-LD1": {
+    "name": "Long Gun Drills",
+    "description": "Long Gun Reload Time -10%"
+  },
+  "B-61-2-1-CSLG1": {
+    "name": "Carved Shot Lg",
+    "description": "Long Gun Projectile Speed +5%"
+  },
+  "B-61-2-1-CSLG2": {
+    "name": "Carved Shot Lg",
+    "description": "Long Gun Projectile Speed +5%"
+  },
+  "B-61-2-1-CSLG3": {
+    "name": "Carved Shot Lg",
+    "description": "Long Gun Projectile Speed +5%"
+  },
+  "B-61-2-2-PS1": {
+    "name": "Precision Shot",
+    "description": "Long Gun Weakpoint (Critical) Damage +10%"
+  },
+  "B-61-2-2-PS2": {
+    "name": "Precision Shot",
+    "description": "Long Gun Weakpoint (Critical) Damage +10%"
+  },
+  "B-61-2-2-PS3": {
+    "name": "Precision Shot",
+    "description": "Long Gun Weakpoint (Critical) Damage +10%"
+  },
+  "B-61-2-HSLG1": {
+    "name": "Heavy Shot Lg",
+    "description": "Long Gun Damage +20%"
+  },
+  "B-61-2-HSLG2": {
+    "name": "Heavy Shot Lg",
+    "description": "Long Gun Damage +20%"
+  },
+  "B-61-2-HSLG3": {
+    "name": "Heavy Shot Lg",
+    "description": "Long Gun Damage +20%"
+  },
+  "B-61-3-AHOD1": {
+    "name": "All Hands On Deck",
+    "description": "Bombard Damage +10% Long Gun Damage +10% Torpedo Damage +10%"
+  },
+  "B-61-3-ILT1": {
+    "name": "Improved Launchers T",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "B-61-3-1-ILT1": {
+    "name": "Improved Launchers T",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "B-61-3-1-ILT2": {
+    "name": "Improved Launchers T",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "B-61-3-1-ILT3": {
+    "name": "Improved Launchers T",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "B-61-3-2-FT1": {
+    "name": "Fluted Torpedoes",
+    "description": "Torpedo Maximum Range +5%"
+  },
+  "B-61-3-2-FT2": {
+    "name": "Fluted Torpedoes",
+    "description": "Torpedo Maximum Range +5%"
+  },
+  "B-61-3-2-FT3": {
+    "name": "Fluted Torpedoes",
+    "description": "Torpedo Maximum Range +5%"
+  },
+  "B-61-3-LT1": {
+    "name": "Loaded Torpedoes",
+    "description": "Torpedo Damage +20%"
+  },
+  "B-61-3-LT2": {
+    "name": "Loaded Torpedoes",
+    "description": "Torpedo Damage +20%"
+  },
+  "B-61-3-LT3": {
+    "name": "Loaded Torpedoes",
+    "description": "Torpedo Damage +20%"
+  },
+  "SPIO": {
+    "name": "Impetus Order",
+    "description": "You can now gain stacks of Impetus. When at 5 stacks of Impetus, consume 5 stacks to increase Turn Speed, Acceleration and Top Speed by 5% for 30s. When another Order Perk is activated, this buff no longer consumes Impetus and is applied permanently."
+  },
+  "SPRF": {
+    "name": "Relentless Force",
+    "description": "Generate 1 stack of Impetus (Max 10) for every 8 weapon hits on enemies. Demicannons require 4 times as many hits. Generating Impetus increases Weapon Damage and Repair Amount by 15% for 5s."
+  },
+  "SPUF": {
+    "name": "Unstoppable Force",
+    "description": "Generate 1 stack of Impetus (Max 10) for every 110m travelled. Generating Impetus increases Weapon Damage and Repair Amount by 3% for every knot of speed above 10 knots, for 5s."
+  },
+  "SPHB": {
+    "name": "Heavy Bombardment",
+    "description": "Generating Impetus increases the radius of all weapon Area-of-Effects by 5m for 10s (Max 5 stacks). At max stacks, Secondary Damage for all weapons is increased by 20%."
+  },
+  "SPWF": {
+    "name": "Weakness Finder",
+    "description": "Generating Impetus adds a 20% chance to convert any weapon shot into a weakpoint hit for 5s."
+  },
+  "SPR": {
+    "name": "Rejuvenation",
+    "description": "Generating Impetus restores 3% of max HP."
+  },
+  "SPSO": {
+    "name": "Stormblaze Order",
+    "description": "When at 10 stacks of Impetus, the next weapon hit consumes 10 stacks and triggers an AoE burst on the target that deals 150% of your max. Hull Health as Burning & Lightning damage to all enemies within 250m. This effect can also be triggered by Ramming without it consuming Impetus."
+  },
+  "SPFO": {
+    "name": "Firepower Order",
+    "description": "When at 10 stacks of Impetus, fire an Auxiliary weapon to consume 10 stacks and convert all weapon hits to weakpoint hits for 8s."
+  },
+  "SPMO": {
+    "name": "Mending Order",
+    "description": "When at 5 stacks of Impetus, brace for 2s and release to consume 5 stacks and release an AoE heal that heals you for 30% of your max. Hull Health as well as all allies within 350m. This effect also triggers automatically when below 50% max. Hull Health or on death."
+  },
+  "KBVS": {
+    "name": "Vital Strike",
+    "description": "Generate 1 stack of Impetus by destroying a weakpoint. This effect can only trigger once every 5s."
+  },
+  "KBFAS": {
+    "name": "Fire And Steel",
+    "description": "Generate 1 stack of Impetus by applying any elemental status effect on a target. This effect can only trigger once every 5s."
+  },
+  "KBKD": {
+    "name": "Killing Drive",
+    "description": "Generate 1 stack of Impetus by destroying a target. This effect can only trigger once every 5s."
+  },
+  "KBEB": {
+    "name": "Enduring Brace",
+    "description": "Increase Brace Strength Recovery by 0.01% per 1000 points of Maximum Health."
+  },
+  "KBAA": {
+    "name": "Adaptive Arsenal",
+    "description": "Increases Weapon Damage by 5% for each different weapon type equipped"
+  },
+  "KBHMT": {
+    "name": "Hardened Momentum",
+    "description": "While at or above 5 stacks of Impetus, increase Armor Multiplier by 5%."
+  },
+  "KBVA": {
+    "name": "Volatile Arsenal",
+    "description": "Increases elemental damage by 5% for each Weapon element equipped. Includes Elements gained from Weapon modifications"
+  },
+  "KBFH": {
+    "name": "Fortified Hull",
+    "description": "For every 2000 points of Brace Strength, increase incoming Repair Amount by 1% (max 10%)."
+  },
+  "KBRF": {
+    "name": "Revitalized Fury",
+    "description": "Increases Weapon Damage and Repair Amount by 15% for 5s when receiving a heal of 3% of your Maximum Health or greater."
+  },
+  "KBBT": {
+    "name": "Battle Tempo",
+    "description": "Increases the maximum stacks of Impetus by 5."
+  },
+  "KBLO": {
+    "name": "Loaded Odds",
+    "description": "Adds a chance of 10% to generate an additional stack of Impetus whenever an Impetus stack is generated."
+  },
+  "KBCAC": {
+    "name": "Care And Carnage",
+    "description": "For every 10% increases of Repair per Shot, increase Weapon Damage by 5% up to a maximum of 30%."
+  },
+  "B-1-1-DE1": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-1-1-DE2": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-64-TR1": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-64-TR2": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-64-TR3": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-64-TR4": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-64-TR5": {
+    "name": "Targeted Repairs",
+    "description": "Repair per Shot +3%"
+  },
+  "B-6-ED1": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-6-ED2": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-6-DE2": {
+    "name": "Deadeye",
+    "description": "Weapon Weakpoint (Critical) Damage +20%"
+  },
+  "B-6-ED3": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-15-TR1": {
+    "name": "Trained Recovery",
+    "description": "Brace Recovery +20%"
+  },
+  "B-15-SD1": {
+    "name": "Steady Defense",
+    "description": "Stamina use while Bracing -10%"
+  },
+  "B-16-IS1": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-16-IS2": {
+    "name": "Iron Stance",
+    "description": "Brace Strength +20%"
+  },
+  "B-16-1-RF1": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-17-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-17-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-17-1-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-21-RF2": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-21-RF3": {
+    "name": "Reinforced Frame",
+    "description": "Hull Health +7000"
+  },
+  "B-21-2-HP1": {
+    "name": "Hull Plating",
+    "description": "Armor Rating +200"
+  },
+  "B-22-ED1": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-22-ED2": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-22-RF2": {
+    "name": "Ready Fire",
+    "description": "Weapon Reload Time -3%"
+  },
+  "B-22-ED3": {
+    "name": "Enhanced Damage",
+    "description": "Weapon Damage +10%"
+  },
+  "B-63-SH1": {
+    "name": "Steady Hands",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-63-SH2": {
+    "name": "Steady Hands",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-63-SH3": {
+    "name": "Steady Hands",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-63-SH4": {
+    "name": "Steady Hands",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-63-SH5": {
+    "name": "Steady Hands",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-35-FD1": {
+    "name": "Flash Detonation",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-36-PM1": {
+    "name": "Penetrating Munitions",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-37-VT1": {
+    "name": "Virulent Toxins",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-38-PS1": {
+    "name": "Power Surge",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-39-RF1": {
+    "name": "Rapid Flooding",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-40-PF1": {
+    "name": "Potent Fuel",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-41-VC1": {
+    "name": "Virulent Contamination",
+    "description": "Toxic Damage Penetration +10%"
+  },
+  "B-42-HC1": {
+    "name": "High Current",
+    "description": "Electric Damage Penetration +10%"
+  },
+  "B-43-SC1": {
+    "name": "Shaped Charge",
+    "description": "Explosive Damage Penetration +10%"
+  },
+  "B-44-HPS1": {
+    "name": "Hull Piercer Shots",
+    "description": "Piercing Damage Penetration +10%"
+  },
+  "B-45-HS1": {
+    "name": "Hull Shredder",
+    "description": "Flooding Damage Penetration +10%"
+  },
+  "B-46-VF1": {
+    "name": "Volatile Fuel",
+    "description": "Burning Damage Penetration +10%"
+  },
+  "B-58-1-1-HS1": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "B-58-1-1-HS2": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "B-58-1-2-HS1": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "B-58-1-2-HS2": {
+    "name": "Heavy Shells",
+    "description": "Mortar Damage +30%"
+  },
+  "B-58-2-HW1": {
+    "name": "Heavy Weaponry",
+    "description": "Mortar Damage +15% Rocket Damage +15% Springloader Damage +15%"
+  },
+  "B-58-2-1-HYM1": {
+    "name": "High Yield Mines",
+    "description": "Springloader Damage +30%"
+  },
+  "B-58-2-1-IL1": {
+    "name": "Improved Launchers",
+    "description": "Springloader Maximum Range +10%"
+  },
+  "B-58-2-1-HYM2": {
+    "name": "High Yield Mines",
+    "description": "Springloader Damage +30%"
+  },
+  "B-58-2-2-HYM1": {
+    "name": "High Yield Mines",
+    "description": "Springloader Damage +30%"
+  },
+  "B-58-2-2-HYM2": {
+    "name": "High Yield Mines",
+    "description": "Springloader Damage +30%"
+  },
+  "B-58-3-1-HP1": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "B-58-3-1-HP2": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "B-58-3-2-HP1": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "B-58-3-2-HP2": {
+    "name": "Heavy Payload",
+    "description": "Rocket Damage +20%"
+  },
+  "B-59-1-1-HS1": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "B-59-1-1-HS2": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "B-59-1-2-HS1": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "B-59-1-2-HS2": {
+    "name": "Heavy Shot",
+    "description": "Culverin Damage +20%"
+  },
+  "B-59-2-1-HG1": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "B-59-2-1-HG2": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "B-59-2-2-HG1": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "B-59-2-2-HG2": {
+    "name": "Heavy Grapeshot",
+    "description": "Demicannon Damage +20%"
+  },
+  "B-60-1-1-HB1": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "B-60-1-1-HB2": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "B-60-1-2-HB1": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "B-60-1-2-HB2": {
+    "name": "Heavy Bolts",
+    "description": "Ballista Damage +20%"
+  },
+  "B-60-2-1-VFSF1": {
+    "name": "Volatile Fuel Sf",
+    "description": "Sea Fire Damage +30%"
+  },
+  "B-60-2-1-VFSF2": {
+    "name": "Volatile Fuel Sf",
+    "description": "Sea Fire Damage +30%"
+  },
+  "B-60-2-2-VFSF1": {
+    "name": "Volatile Fuel Sf",
+    "description": "Sea Fire Damage +30%"
+  },
+  "B-60-2-2-TN1": {
+    "name": "Tightened Nozzles",
+    "description": "Sea Fire Maximum Range +20%"
+  },
+  "B-60-2-2-VFSF2": {
+    "name": "Volatile Fuel Sf",
+    "description": "Sea Fire Damage +30%"
+  },
+  "B-61-1-1-HB1": {
+    "name": "Heavy Bombs",
+    "description": "Bombard Damage +20%"
+  },
+  "B-61-1-1-HB2": {
+    "name": "Heavy Bombs",
+    "description": "Bombard Damage +20%"
+  },
+  "B-61-1-2-HB1": {
+    "name": "Heavy Bombs",
+    "description": "Bombard Damage +20%"
+  },
+  "B-61-1-2-BD1": {
+    "name": "Bombard Drills",
+    "description": "Bombard Reload Time -5%"
+  },
+  "B-61-1-2-HB2": {
+    "name": "Heavy Bombs",
+    "description": "Bombard Damage +20%"
+  },
+  "B-61-2-AHOD1": {
+    "name": "All Hands On Deck",
+    "description": "Bombard Damage +10% Long Gun Damage +10% Torpedo Damage +10%"
+  },
+  "B-61-2-1-HSLG1": {
+    "name": "Heavy Shot Lg",
+    "description": "Long Gun Damage +20%"
+  },
+  "B-61-2-1-LD1": {
+    "name": "Long Gun Drills",
+    "description": "Long Gun Reload Time -10%"
+  },
+  "B-61-2-1-HSLG2": {
+    "name": "Heavy Shot Lg",
+    "description": "Long Gun Damage +20%"
+  },
+  "B-61-2-2-HSLG1": {
+    "name": "Heavy Shot Lg",
+    "description": "Long Gun Damage +20%"
+  },
+  "B-61-2-2-HSLG2": {
+    "name": "Heavy Shot Lg",
+    "description": "Long Gun Damage +20%"
+  },
+  "B-61-3-1-LT1": {
+    "name": "Loaded Torpedoes",
+    "description": "Torpedo Damage +20%"
+  },
+  "B-61-3-1-LT2": {
+    "name": "Loaded Torpedoes",
+    "description": "Torpedo Damage +20%"
+  },
+  "B-61-3-2-LT1": {
+    "name": "Loaded Torpedoes",
+    "description": "Torpedo Damage +20%"
+  },
+  "B-61-3-2-LT2": {
+    "name": "Loaded Torpedoes",
+    "description": "Torpedo Damage +20%"
+  },
+  "effect_bloodFueled": {
+    "name": "Blood Fueled",
+    "description": "Firing Weapon has a cost of 4% hull health. You gain increased damage based on missing hull health (up to 150% at 80% missing health). All weapons equipped gain the Phantom Mending perk."
+  },
+  "effect_reactiveBulwark": {
+    "name": "Reactive Bulwark",
+    "description": "After bracing for 3s, explode and damage hostile enemies in a 250m radius for 1000% of your armor rating."
+  },
+  "effect_deadlyMedicine": {
+    "name": "Deadly Medicine",
+    "description": "Store 100% of healing done as additional damage, up to 100000. Additional damage is added to the next successful attack on an enemy target."
+  },
+  "effect_finishingBlow": {
+    "name": "Finishing Blow",
+    "description": "Deal 10% increased damage to enemies below 30% of their maximum health."
+  },
+  "effect_fervor": {
+    "name": "Fervor",
+    "description": "Increase weapon damage by 50% for 5 seconds after Ramming or Crew Attack (Cooldown 15s)."
+  },
+  "effect_emergencyRepair": {
+    "name": "Emergency Repair",
+    "description": "Upon dropping below 50% maximum hull health, you are repaired for 30% maximum hull health over 3 seconds (Cooldown 75s)."
+  },
+  "effect_fullSailAssault": {
+    "name": "Full Sail Assault",
+    "description": "Increases weapon damage by 15% when sailing at above 12kts. (Damage buff sticks for 5 seconds if speed drops below the speed)"
+  },
+  "effect_shieldOfContempt": {
+    "name": "Shield Of Contempt",
+    "description": "Increases Armor by 100 for every enemy (up to 4) within 200m."
+  },
+  "effect_battleMedic": {
+    "name": "Battle Medic",
+    "description": "Increases weapon damage by 10% for each Repair Weapon equipped. Effect is tripled when 4 Repair Weapons are equipped."
+  },
+  "effect_damageControl": {
+    "name": "Damage Control",
+    "description": "Repair a small amount of severe damage after not taking damage for 30s."
+  },
+  "effect_criticalDamageControl": {
+    "name": "Critical Damage Control",
+    "description": "Repairs 4% of Severe Damage per second after not taking damage for 30s."
+  },
+  "effect_patchworkRepairs": {
+    "name": "Patchwork Repairs",
+    "description": "Repair a small amount of hull health after not taking damage for 30s."
+  },
+  "effect_slowMending": {
+    "name": "Slow Mending",
+    "description": "Repairs 0.6% of Hull Health per second after not taking damage for 30s."
+  },
+  "effect_windBarrier": {
+    "name": "Wind Barrier",
+    "description": "Reduces damage taken by 10% while sailing at 15kts or above."
+  },
+  "effect_feelNoPain": {
+    "name": "Feel No Pain",
+    "description": "Reduce Damage taken by 5%."
+  },
+  "effect_trueGrit": {
+    "name": "True Grit",
+    "description": "Reduce damage taken by 10% when Hull Health is 30% or below."
+  },
+  "effect_weaponDamageIncrease": {
+    "name": "Weapon Damage Increase",
+    "description": "Weapon Damage +{{percentIncrease}}%"
+  },
+  "effect_bloodForBlood": {
+    "name": "Blood For Blood",
+    "description": "Increase weapon damage by 10% for 30s whenever you take damage."
+  },
+  "effect_statusEffectsDamageIncrease": {
+    "name": "Status Effects Damage Increase",
+    "description": "Status Effects Damage +{{percentIncrease}}%"
+  },
+  "effect_statusEffectsLifetimeIncrease": {
+    "name": "Status Effects Lifetime Increase",
+    "description": "Status Effects Lifetime +{{percentIncrease}}%"
+  },
+  "effect_crewAttackDamageIncrease": {
+    "name": "Crew Attack Damage Increase",
+    "description": "Crew Attack Damage +{{percentIncrease}}%"
+  },
+  "effect_burningDamageIncrease": {
+    "name": "Burning Damage Increase",
+    "description": "Burning Damage +{{percentIncrease}}%"
+  },
+  "effect_floodingDamageIncrease": {
+    "name": "Flooding Damage Increase",
+    "description": "Flooding Damage +{{percentIncrease}}%"
+  },
+  "effect_piercingDamageIncrease": {
+    "name": "Piercing Damage Increase",
+    "description": "Piercing Damage +{{percentIncrease}}%"
+  },
+  "effect_explosiveDamageIncrease": {
+    "name": "Explosive Damage Increase",
+    "description": "Explosive Damage +{{percentIncrease}}%"
+  },
+  "effect_electricDamageIncrease": {
+    "name": "Electric Damage Increase",
+    "description": "Electric Damage +{{percentIncrease}}%"
+  },
+  "effect_toxicDamageIncrease": {
+    "name": "Toxic Damage Increase",
+    "description": "Toxic Damage +{{percentIncrease}}%"
+  },
+  "effect_repairPerShotIncrease": {
+    "name": "Repair Per Shot Increase",
+    "description": "Repair per Shot +{{percentIncrease}}%"
+  },
+  "effect_crewStaminaRecoverySpeedIncrease": {
+    "name": "Crew Stamina Recovery Speed Increase",
+    "description": "Crew Stamina Recovery Speed +{{percentIncrease}}%"
+  },
+  "effect_accelerationIncrease": {
+    "name": "Acceleration Increase",
+    "description": "Acceleration +{{percentIncrease}}%"
+  },
+  "effect_turningSpeedIncrease": {
+    "name": "Turning Speed Increase",
+    "description": "Turning Speed +{{percentIncrease}}%"
+  },
+  "effect_adrenalSurge": {
+    "name": "Adrenal Surge",
+    "description": "Restores 10% Hull Health after a Crew Attack."
+  },
+  "effect_hullbreaker": {
+    "name": "Hullbreaker",
+    "description": "Increase Ramming Damage by 50% when sailing at 15kts or higher."
+  },
+  "effect_hullHealthIncrease": {
+    "name": "Hull Health Increase",
+    "description": "Hull Health +{{increase}}"
+  },
+  "effect_armorRatingIncrease": {
+    "name": "Armor Rating Increase",
+    "description": "Armor Rating +{{increase}}"
+  },
+  "effect_braceStrengthIncrease": {
+    "name": "Brace Strength Increase",
+    "description": "Brace Strength +{{percentIncrease}}%"
+  },
+  "effect_burningDamageResistance": {
+    "name": "Burning Damage Resistance",
+    "description": "Burning Resistance +{{percentIncrease}}%"
+  },
+  "effect_floodingDamageResistance": {
+    "name": "Flooding Damage Resistance",
+    "description": "Flooding Resistance +{{percentIncrease}}%"
+  },
+  "effect_piercingDamageResistance": {
+    "name": "Piercing Damage Resistance",
+    "description": "Piercing Resistance +{{percentIncrease}}%"
+  },
+  "effect_explosiveDamageResistance": {
+    "name": "Explosive Damage Resistance",
+    "description": "Explosive Resistance +{{percentIncrease}}%"
+  },
+  "effect_electricDamageResistance": {
+    "name": "Electric Damage Resistance",
+    "description": "Electric Resistance +{{percentIncrease}}%"
+  },
+  "effect_toxicDamageResistance": {
+    "name": "Toxic Damage Resistance",
+    "description": "Toxic Resistance +{{percentIncrease}}%"
+  },
+  "effect_statusEffectsDamageReduction": {
+    "name": "Status Effects Damage Reduction",
+    "description": "Status Effects Damage Reduction -{{percentDecrease}}%"
+  },
+  "effect_ablazeDamageReduction": {
+    "name": "Ablaze Damage Reduction",
+    "description": "Ablaze Damage Reduction -{{percentDecrease}}%"
+  },
+  "effect_floodedDamageReduction": {
+    "name": "Flooded Damage Reduction",
+    "description": "Flooded Damage Reduction -{{percentDecrease}}%"
+  },
+  "effect_stormstruckDamageReduction": {
+    "name": "Stormstruck Damage Reduction",
+    "description": "Stormstruck Damage Reduction -{{percentDecrease}}%"
+  },
+  "effect_toxicLifetimeReduction": {
+    "name": "Toxic Lifetime Reduction",
+    "description": "Toxic Lifetime -{{percentDecrease}}%"
+  },
+  "effect_puncturedLifetimeReduction": {
+    "name": "Punctured Lifetime Reduction",
+    "description": "Punctured Lifetime -{{percentDecrease}}%"
+  },
+  "effect_shellShockedLifetimeReduction": {
+    "name": "Shell Shocked Lifetime Reduction",
+    "description": "Shell-Shocked Lifetime -{{percentDecrease}}%"
+  },
+  "effect_crewAttackRangeIncrease": {
+    "name": "Crew Attack Range Increase",
+    "description": "Crew Attack Range +{{percentIncrease}}%"
+  },
+  "effect_ramDamageIncrease": {
+    "name": "Ram Damage Increase",
+    "description": "Ram Damage +{{percentIncrease}}%"
+  },
+  "effect_burningDamagePenetrationIncrease": {
+    "name": "Burning Damage Penetration Increase",
+    "description": "Burning Damage Penetration +{{percentIncrease}}%"
+  },
+  "effect_floodingDamagePenetrationIncrease": {
+    "name": "Flooding Damage Penetration Increase",
+    "description": "Flooding Damage Penetration +{{percentIncrease}}%"
+  },
+  "effect_piercingDamagePenetrationIncrease": {
+    "name": "Piercing Damage Penetration Increase",
+    "description": "Piercing Damage Penetration +{{percentIncrease}}%"
+  },
+  "effect_explosiveDamagePenetrationIncrease": {
+    "name": "Explosive Damage Penetration Increase",
+    "description": "Explosive Damage Penetration +{{percentIncrease}}%"
+  },
+  "effect_electricDamagePenetrationIncrease": {
+    "name": "Electric Damage Penetration Increase",
+    "description": "Electric Damage Penetration +{{percentIncrease}}%"
+  },
+  "effect_toxicDamagePenetrationIncrease": {
+    "name": "Toxic Damage Penetration Increase",
+    "description": "Toxic Damage Penetration +{{percentIncrease}}%"
+  },
+  "effect_weaponReloadTimeDecrease": {
+    "name": "Weapon Reload Time Decrease",
+    "description": "Weapon Reload Time -{{percentDecrease}}%"
+  },
+  "effect_weaponProjectileSpeedIncrease": {
+    "name": "Weapon Projectile Speed Increase",
+    "description": "Weapon Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_weaponCriticalDamageIncrease": {
+    "name": "Weapon Critical Damage Increase",
+    "description": "Weapon Weakpoint (Critical) Damage +{{percentIncrease}}%"
+  },
+  "effect_mortarDamageIncrease": {
+    "name": "Mortar Damage Increase",
+    "description": "Mortar Damage +{{percentIncrease}}%"
+  },
+  "effect_rocketDamageIncrease": {
+    "name": "Rocket Damage Increase",
+    "description": "Rocket Damage +{{percentIncrease}}%"
+  },
+  "effect_springloaderDamageIncrease": {
+    "name": "Springloader Damage Increase",
+    "description": "Springloader Damage +{{percentIncrease}}%"
+  },
+  "effect_mortarTimeToTargetDecrease": {
+    "name": "Mortar Time To Target Decrease",
+    "description": "Mortar Time-to-Target -{{percentDecrease}}%"
+  },
+  "effect_mortarAreaOfEffectRadiusIncrease": {
+    "name": "Mortar Area Of Effect Radius Increase",
+    "description": "Mortar Area-of-Effect Radius +{{percentIncrease}}%"
+  },
+  "effect_springloaderMaximumRangeIncrease": {
+    "name": "Springloader Maximum Range Increase",
+    "description": "Springloader Maximum Range +{{percentIncrease}}%"
+  },
+  "effect_springloaderTimeToTargetDecrease": {
+    "name": "Springloader Time To Target Decrease",
+    "description": "Springloader Time-to-Target -{{percentDecrease}}%"
+  },
+  "effect_springloaderAreaOfEffectRadiusIncrease": {
+    "name": "Springloader Area Of Effect Radius Increase",
+    "description": "Springloader Area-of-Effect Radius +{{percentIncrease}}%"
+  },
+  "effect_rocketTimeToTargetDecrease": {
+    "name": "Rocket Time To Target Decrease",
+    "description": "Rocket Time-to-Target -{{percentDecrease}}%"
+  },
+  "effect_rocketMaximumRangeIncrease": {
+    "name": "Rocket Maximum Range Increase",
+    "description": "Rocket Maximum Range +{{percentIncrease}}%"
+  },
+  "effect_demicannonDamageIncrease": {
+    "name": "Demicannon Damage Increase",
+    "description": "Demicannon Damage +{{percentIncrease}}%"
+  },
+  "effect_culverinDamageIncrease": {
+    "name": "Culverin Damage Increase",
+    "description": "Culverin Damage +{{percentIncrease}}%"
+  },
+  "effect_culverinProjectileSpeedIncrease": {
+    "name": "Culverin Projectile Speed Increase",
+    "description": "Culverin Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_culverinMaximumRangeIncrease": {
+    "name": "Culverin Maximum Range Increase",
+    "description": "Culverin Maximum Range +{{percentIncrease}}%"
+  },
+  "effect_demicannonProjectileSpeedIncrease": {
+    "name": "Demicannon Projectile Speed Increase",
+    "description": "Demicannon Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_demicannonMaximumRangeIncrease": {
+    "name": "Demicannon Maximum Range Increase",
+    "description": "Demicannon Maximum Range +{{percentIncrease}}%"
+  },
+  "effect_ballistaDamageIncrease": {
+    "name": "Ballista Damage Increase",
+    "description": "Ballista Damage +{{percentIncrease}}%"
+  },
+  "effect_seaFireDamageIncrease": {
+    "name": "Sea Fire Damage Increase",
+    "description": "Sea Fire Damage +{{percentIncrease}}%"
+  },
+  "effect_ballistaProjectileSpeedIncrease": {
+    "name": "Ballista Projectile Speed Increase",
+    "description": "Ballista Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_ballistaCriticalDamageIncrease": {
+    "name": "Ballista Critical Damage Increase",
+    "description": "Ballista Weakpoint (Critical) Damage +{{percentIncrease}}%"
+  },
+  "effect_seaFireMaximumRangeIncrease": {
+    "name": "Sea Fire Maximum Range Increase",
+    "description": "Sea Fire Maximum Range +{{percentIncrease}}%"
+  },
+  "effect_seaFireMagazineSizeIncrease": {
+    "name": "Sea Fire Magazine Size Increase",
+    "description": "Sea Fire Magazine Size +{{percentIncrease}}%"
+  },
+  "effect_seaFireReloadTimeDecrease": {
+    "name": "Sea Fire Reload Time Decrease",
+    "description": "Sea Fire Reload Time -{{percentDecrease}}%"
+  },
+  "effect_bombardDamageIncrease": {
+    "name": "Bombard Damage Increase",
+    "description": "Bombard Damage +{{percentIncrease}}%"
+  },
+  "effect_longGunDamageIncrease": {
+    "name": "Long Gun Damage Increase",
+    "description": "Long Gun Damage +{{percentIncrease}}%"
+  },
+  "effect_torpedoDamageIncrease": {
+    "name": "Torpedo Damage Increase",
+    "description": "Torpedo Damage +{{percentIncrease}}%"
+  },
+  "effect_bombardReloadTimeDecrease": {
+    "name": "Bombard Reload Time Decrease",
+    "description": "Bombard Reload Time -{{percentDecrease}}%"
+  },
+  "effect_bombardAreaOfEffectRadiusIncrease": {
+    "name": "Bombard Area Of Effect Radius Increase",
+    "description": "Bombard Area-of-Effect Radius +{{percentIncrease}}%"
+  },
+  "effect_bombardProjectileSpeedIncrease": {
+    "name": "Bombard Projectile Speed Increase",
+    "description": "Bombard Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_longGunReloadTimeDecrease": {
+    "name": "Long Gun Reload Time Decrease",
+    "description": "Long Gun Reload Time -{{percentDecrease}}%"
+  },
+  "effect_longGunProjectileSpeedIncrease": {
+    "name": "Long Gun Projectile Speed Increase",
+    "description": "Long Gun Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_longGunCriticalDamageIncrease": {
+    "name": "Long Gun Critical Damage Increase",
+    "description": "Long Gun Weakpoint (Critical) Damage +{{percentIncrease}}%"
+  },
+  "effect_torpedoProjectileSpeedIncrease": {
+    "name": "Torpedo Projectile Speed Increase",
+    "description": "Torpedo Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_torpedoMaximumRangeIncrease": {
+    "name": "Torpedo Maximum Range Increase",
+    "description": "Torpedo Maximum Range +{{percentIncrease}}%"
+  },
+  "effect_statusEffectsChargeRateIncrease": {
+    "name": "Status Effects Charge Rate Increase",
+    "description": "Status Effects Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_ablazeDamageIncrease": {
+    "name": "Ablaze Damage Increase",
+    "description": "Ablaze Damage +{{percentIncrease}}%"
+  },
+  "effect_ablazeChargeRateIncrease": {
+    "name": "Ablaze Charge Rate Increase",
+    "description": "Ablaze Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_floodedDamageIncrease": {
+    "name": "Flooded Damage Increase",
+    "description": "Flooded Damage +{{percentIncrease}}%"
+  },
+  "effect_floodedChargeRateIncrease": {
+    "name": "Flooded Charge Rate Increase",
+    "description": "Flooded Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_stormstruckDamageIncrease": {
+    "name": "Stormstruck Damage Increase",
+    "description": "Stormstruck Damage +{{percentIncrease}}%"
+  },
+  "effect_stormstruckChargeRateIncrease": {
+    "name": "Stormstruck Charge Rate Increase",
+    "description": "Stormstruck Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_toxicLifetimeIncrease": {
+    "name": "Toxic Lifetime Increase",
+    "description": "Toxic Lifetime +{{percentIncrease}}%"
+  },
+  "effect_toxicChargeRateIncrease": {
+    "name": "Toxic Charge Rate Increase",
+    "description": "Toxic Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_puncturedLifetimeIncrease": {
+    "name": "Punctured Lifetime Increase",
+    "description": "Punctured Lifetime +{{percentIncrease}}%"
+  },
+  "effect_puncturedChargeRateIncrease": {
+    "name": "Punctured Charge Rate Increase",
+    "description": "Punctured Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_shellShockedLifetimeIncrease": {
+    "name": "Shell Shocked Lifetime Increase",
+    "description": "Shell-Shocked Lifetime +{{percentIncrease}}%"
+  },
+  "effect_shellShockedChargeRateIncrease": {
+    "name": "Shell Shocked Charge Rate Increase",
+    "description": "Shell-Shocked Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_braceRecoveryIncrease": {
+    "name": "Brace Recovery Increase",
+    "description": "Brace Recovery +{{percentIncrease}}%"
+  },
+  "effect_staminaUseWhileBracingDecrease": {
+    "name": "Stamina Use While Bracing Decrease",
+    "description": "Stamina use while Bracing -{{percentDecrease}}%"
+  },
+  "effect_impetusOrder": {
+    "name": "Impetus Order",
+    "description": "You can now gain stacks of Impetus. When at 5 stacks of Impetus, consume 5 stacks to increase Turn Speed, Acceleration and Top Speed by 5% for 30s. When another Order Perk is activated, this buff no longer consumes Impetus and is applied permanently."
+  },
+  "effect_batteringForce": {
+    "name": "Battering Force",
+    "description": "Generate 5 stacks of Impetus (Max 10) upon Ramming or performing a Crew Attack. Generating Impetus increases Weapon Damage and Repair Amount by 50% for 10s."
+  },
+  "effect_relentlessForce": {
+    "name": "Relentless Force",
+    "description": "Generate 1 stack of Impetus (Max 10) for every 8 weapon hits on enemies. Demicannons require 4 times as many hits. Generating Impetus increases Weapon Damage and Repair Amount by 15% for 5s."
+  },
+  "effect_unstoppableForce": {
+    "name": "Unstoppable Force",
+    "description": "Generate 1 stack of Impetus (Max 10) for every 110m travelled. Generating Impetus increases Weapon Damage and Repair Amount by 3% for every knot of speed above 10 knots, for 5s."
+  },
+  "effect_heavyBombardment": {
+    "name": "Heavy Bombardment",
+    "description": "Generating Impetus increases the radius of all weapon Area-of-Effects by 5m for 10s (Max 5 stacks). At max stacks, Secondary Damage for all weapons is increased by 20%."
+  },
+  "effect_weaknessFinder": {
+    "name": "Weakness Finder",
+    "description": "Generating Impetus adds a 20% chance to convert any weapon shot into a weakpoint hit for 5s."
+  },
+  "effect_rejuvenation": {
+    "name": "Rejuvenation",
+    "description": "Generating Impetus restores 3% of max HP."
+  },
+  "effect_stormblazeOrder": {
+    "name": "Stormblaze Order",
+    "description": "When at 10 stacks of Impetus, the next weapon hit consumes 10 stacks and triggers an AoE burst on the target that deals 150% of your max. Hull Health as Burning & Lightning damage to all enemies within 250m. This effect can also be triggered by Ramming without it consuming Impetus."
+  },
+  "effect_firepowerOrder": {
+    "name": "Firepower Order",
+    "description": "When at 10 stacks of Impetus, fire an Auxiliary weapon to consume 10 stacks and convert all weapon hits to weakpoint hits for 8s."
+  },
+  "effect_mendingOrder": {
+    "name": "Mending Order",
+    "description": "When at 5 stacks of Impetus, brace for 2s and release to consume 5 stacks and release an AoE heal that heals you for 30% of your max. Hull Health as well as all allies within 350m. This effect also triggers automatically when below 50% max. Hull Health or on death."
+  },
+  "effect_fireAndSteel": {
+    "name": "Fire And Steel",
+    "description": "Generate 1 stack of Impetus by applying any elemental status effect on a target. This effect can only trigger once every 5s."
+  },
+  "effect_vitalStrike": {
+    "name": "Vital Strike",
+    "description": "Generate 1 stack of Impetus by destroying a weakpoint. This effect can only trigger once every 5s."
+  },
+  "effect_killingDrive": {
+    "name": "Killing Drive",
+    "description": "Generate 1 stack of Impetus by destroying a target. This effect can only trigger once every 5s."
+  },
+  "effect_hardenedMomentum": {
+    "name": "Hardened Momentum",
+    "description": "While at or above 5 stacks of Impetus, increase Armor Multiplier by 5%."
+  },
+  "effect_adaptiveArsenal": {
+    "name": "Adaptive Arsenal",
+    "description": "Increases Weapon Damage by 5% for each different weapon type equipped"
+  },
+  "effect_enduringBrace": {
+    "name": "Enduring Brace",
+    "description": "Increase Brace Strength Recovery by 0.01% per 1000 points of Maximum Health."
+  },
+  "effect_volatileArsenal": {
+    "name": "Volatile Arsenal",
+    "description": "Increases elemental damage by 5% for each Weapon element equipped. Includes Elements gained from Weapon modifications"
+  },
+  "effect_loadedOdds": {
+    "name": "Loaded Odds",
+    "description": "Adds a chance of 10% to generate an additional stack of Impetus whenever an Impetus stack is generated."
+  },
+  "effect_fortifiedHull": {
+    "name": "Fortified Hull",
+    "description": "For every 2000 points of Brace Strength, increase incoming Repair Amount by 1% (max 10%)."
+  },
+  "effect_battleTempo": {
+    "name": "Battle Tempo",
+    "description": "Increases the maximum stacks of Impetus by 5."
+  },
+  "effect_revitalizedFury": {
+    "name": "Revitalized Fury",
+    "description": "Increases Weapon Damage and Repair Amount by 15% for 5s when receiving a heal of 3% of your Maximum Health or greater."
+  },
+  "effect_careAndCarnage": {
+    "name": "Care And Carnage",
+    "description": "For every 10% increases of Repair per Shot, increase Weapon Damage by 5% up to a maximum of 30%."
+  },
+  "effect_incomingRepairMultiplierIncrease": {
+    "name": "Incoming Repair Multiplier Increase",
+    "description": "Incoming Repair Multiplier +{{percentIncrease}}%"
+  }
+}
