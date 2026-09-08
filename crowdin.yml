@@ -40,3 +40,5 @@ files:
     translation: /src/data/%locale_with_underscore%/npcs.json
   - source: /src/data/en_US/items_ammunition.json
     translation: /src/data/%locale_with_underscore%/items_ammunition.json
+  - source: /src/data/en_US/masterys.json
+    translation: /src/data/%locale_with_underscore%/masterys.json
