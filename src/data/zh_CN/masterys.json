@@ -312,7 +312,7 @@
     "description": "Demicannon 伤害 +10% Culverin 伤害 +10%"
   },
   "heavyShot": {
-    "name": "重弹",
+    "name": "重炮",
     "description": "Culverin 伤害 +20%"
   },
   "carvedShot": {
@@ -397,7 +397,7 @@
   },
   "precisionShot": {
     "name": "精准射击",
-    "description": "Long Gun 弱点 (Critical) 伤害 +10%"
+    "description": "长管炮弱点(暴击)伤害 +10%"
   },
   "heavyShotLG": {
     "name": "长炮重弹",
