@@ -73,7 +73,7 @@ import territories_en_US from './data/en_US/territories.json'
 import npcs_en_US from './data/en_US/npcs.json'
 import treasureMaps_en_US from './data/en_US/treasureMaps.json'
 import zones_en_US from './data/en_US/zones.json'
-import masterys_en_US from './data/en_US/old—masterys.json'
+import masterys_en_US from './data/en_US/masterys.json'
 
 import {LanguageData} from "./types";
 
