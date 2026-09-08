@@ -1,0 +1,3610 @@
+{
+  "bloodFueled": {
+    "name": "血祭充能",
+    "description": "發射武器消耗4%船體生命值。 根據損失的船體生命值獲得傷害加成（在損失80%生命值時最高可達150%）。 所有裝備的武器獲得【幽靈脩復】特長。"
+  },
+  "reactiveBulwark": {
+    "name": "反應堡壘",
+    "description": "緊固防禦3秒後引發爆炸，對250米範圍內的敵對目標造成相當於你護甲值1000%的傷害。"
+  },
+  "deadlyMedicine": {
+    "name": "致命醫術",
+    "description": "將造成治療量的100%儲存爲額外傷害，最高可達100,000點。 儲存的額外傷害將在下一次成功擊中敵方目標時附加生效。"
+  },
+  "finishingBlow": {
+    "name": "致命一擊",
+    "description": "對生命值低於最大值30%的敵人造成傷害提高10%。"
+  },
+  "fervor": {
+    "name": "狂熱戰意",
+    "description": "在進行衝撞或船員攻擊後，武器傷害提升50%，持續5秒（冷卻時間15秒）。"
+  },
+  "emergencyRepair": {
+    "name": "緊急維修",
+    "description": "當船體生命值降至50%以下時，在3秒內恢復30%的最大船體生命值（冷卻時間75秒）。"
+  },
+  "fullSailAssault": {
+    "name": "滿帆突擊",
+    "description": "當航速超過12節時，武器傷害提升15%。 （如果航速下降，傷害增益仍將保留5秒）"
+  },
+  "shieldOfContempt": {
+    "name": "蔑視之盾",
+    "description": "200米範圍內每有一名敵人（最多4名），護甲提升100點。"
+  },
+  "battleMedic": {
+    "name": "戰地軍醫",
+    "description": "每裝備一件修理武器，武器傷害提升10%。 當裝備4件修理武器時，該效果提升至3倍。"
+  },
+  "damageControl": {
+    "name": "損管控制",
+    "description": "脫離傷害狀態30秒後，緩慢修復少量重創傷害。"
+  },
+  "criticalDamageControl": {
+    "name": "緊急損管控制",
+    "description": "脫離傷害狀態30秒後，每秒修復4%的重創傷害。"
+  },
+  "patchworkRepairs": {
+    "name": "拼湊維修",
+    "description": "脫離傷害狀態30秒後，緩慢修復少量船體生命值。"
+  },
+  "slowMending": {
+    "name": "緩慢修補",
+    "description": "脫離傷害狀態30秒後，每秒修復0.6%的船體生命值。"
+  },
+  "windBarrier": {
+    "name": "疾風屏障",
+    "description": "當航速達到或超過15節時，承受傷害降低10%。"
+  },
+  "feelNoPain": {
+    "name": "麻木無痛",
+    "description": "承受的傷害降低5%。"
+  },
+  "trueGrit": {
+    "name": "百折不撓",
+    "description": "當船體生命值低於或等於30%時，承受的傷害降低10%。"
+  },
+  "hardenedMunitions": {
+    "name": "硬化彈藥",
+    "description": "武器傷害 +20%"
+  },
+  "bloodForBlood": {
+    "name": "血債血償",
+    "description": "每當你承受傷害時，武器傷害提升10%，持續30秒。"
+  },
+  "viciousMunitions1": {
+    "name": "惡毒彈藥 I",
+    "description": "狀態異常傷害 +10% 狀態異常持續時間 +10%"
+  },
+  "viciousMunitions2": {
+    "name": "惡毒彈藥 II",
+    "description": "狀態異常傷害 +15% 狀態異常持續時間 +15%"
+  },
+  "veteranRaiders": {
+    "name": "老練突襲者",
+    "description": "船員攻擊傷害 +20%"
+  },
+  "specializedMunitions1": {
+    "name": "特種彈藥 I",
+    "description": "燃燒傷害 +30% 進水傷害 +30% 穿透傷害 +30% 爆炸傷害 +30% 電擊傷害 +30% Toxic 傷害 +30%"
+  },
+  "specializedMunitions2": {
+    "name": "特種彈藥 II",
+    "description": "燃燒傷害 +30% 進水傷害 +30% 穿透傷害 +30% 爆炸傷害 +30% 電擊傷害 +30% Toxic 傷害 +30%"
+  },
+  "adrenalSurge": {
+    "name": "腎上腺素激增",
+    "description": "Restores 10% 船體生命值 after a Crew Attack."
+  },
+  "hullbreaker": {
+    "name": "破船者",
+    "description": "Increase Ramming 傷害 by 50% when sailing at 15kts or higher."
+  },
+  "targetedRepairs": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "crewFitness": {
+    "name": "船員體魄",
+    "description": "船員耐力恢復速度 +10%"
+  },
+  "barnacleRemoval": {
+    "name": "清理藤壺",
+    "description": "加速度 +2%"
+  },
+  "flexibleRudder": {
+    "name": "靈活船舵",
+    "description": "轉向速度 +2%"
+  },
+  "reinforcedFrame": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "hullPlating": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "ironStance": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "versatileDefenses": {
+    "name": "全能防禦",
+    "description": "燃燒抗性 +2% 進水抗性 +2% 穿透抗性 +2% 爆炸抗性 +2% 電擊抗性 +2% Toxic 抗性 +2%"
+  },
+  "antiCorrosiveCoating": {
+    "name": "防腐塗層",
+    "description": "Toxic 抗性 +5%"
+  },
+  "layeredPlating": {
+    "name": "複合裝甲",
+    "description": "穿透抗性 +5%"
+  },
+  "insulatedGunwales": {
+    "name": "絕緣舷側",
+    "description": "電擊抗性 +5%"
+  },
+  "quickSealant": {
+    "name": "快速密封劑",
+    "description": "進水抗性 +5%"
+  },
+  "spallLining": {
+    "name": "防崩落襯層",
+    "description": "爆炸抗性 +5%"
+  },
+  "asbestosCoating": {
+    "name": "石棉塗層",
+    "description": "燃燒抗性 +5%"
+  },
+  "reactiveMeasures": {
+    "name": "應對措施",
+    "description": "狀態異常 傷害 Reduction -2%"
+  },
+  "fireDrills": {
+    "name": "射擊操練",
+    "description": "Ablaze 傷害 Reduction -5%"
+  },
+  "floodingDrills": {
+    "name": "進水戰術",
+    "description": "Flooded 傷害 Reduction -5%"
+  },
+  "insulatedGear": {
+    "name": "絕緣齒輪",
+    "description": "Stormstruck 傷害 Reduction -5%"
+  },
+  "firstAidTraining": {
+    "name": "急救訓練",
+    "description": "Toxic Lifetime -5%"
+  },
+  "breachTraining": {
+    "name": "破障訓練",
+    "description": "Punctured Lifetime -5%"
+  },
+  "protectiveMeasures": {
+    "name": "防護舉措",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "savageAttacks": {
+    "name": "野蠻攻勢",
+    "description": "船員攻擊傷害 +25%"
+  },
+  "targetPractice": {
+    "name": "打靶練習",
+    "description": "Crew Attack 射程 +3%"
+  },
+  "batteringProw": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "reactiveCompounds": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "alchemicFuel": {
+    "name": "鍊金燃料",
+    "description": "燃燒傷害 +40%"
+  },
+  "expandingCasing": {
+    "name": "膨脹外殼",
+    "description": "進水傷害 +40%"
+  },
+  "perforatingProjectiles": {
+    "name": "貫穿射彈",
+    "description": "穿透傷害 +40%"
+  },
+  "highYieldPowder": {
+    "name": "高爆火藥",
+    "description": "爆炸傷害 +40%"
+  },
+  "voltaicPowder": {
+    "name": "電能火藥",
+    "description": "電擊傷害 +40%"
+  },
+  "corrosiveToxins": {
+    "name": "腐蝕毒素",
+    "description": "Toxic 傷害 +40%"
+  },
+  "volatileFuel": {
+    "name": "烈性燃料",
+    "description": "Burning 傷害 Penetration +10%"
+  },
+  "hullShredder": {
+    "name": "船體粉碎者",
+    "description": "Flooding 傷害 Penetration +10%"
+  },
+  "hullPiercerShots": {
+    "name": "穿甲彈丸",
+    "description": "Piercing 傷害 Penetration +10%"
+  },
+  "shapedCharge": {
+    "name": "聚能裝藥",
+    "description": "Explosive 傷害 Penetration +10%"
+  },
+  "highCurrent": {
+    "name": "高壓電流",
+    "description": "Electric 傷害 Penetration +10%"
+  },
+  "virulentContamination": {
+    "name": "劇毒污染",
+    "description": "Toxic 傷害 Penetration +10%"
+  },
+  "readyFire": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "enhancedDamage": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "swiftStrikes": {
+    "name": "迅捷打擊",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "deadeye": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "heavyWeaponry": {
+    "name": "重型武器專精",
+    "description": "Mortar 傷害 +15% Rocket 傷害 +15% Springloader 傷害 +15%"
+  },
+  "heavyShells": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "improvedTrajectories": {
+    "name": "改良彈道",
+    "description": "Mortar Time-to-Target -5%"
+  },
+  "burstShells": {
+    "name": "爆裂炮彈",
+    "description": "Mortar Area-of-Effect Radius +5%"
+  },
+  "improvedLaunchers": {
+    "name": "改良發射器",
+    "description": "Springloader 最大射程 +10%"
+  },
+  "lightweightBuoys": {
+    "name": "輕型浮標",
+    "description": "Springloader Time-to-Target -5%"
+  },
+  "improvedGearset": {
+    "name": "改良齒輪組",
+    "description": "Springloader Area-of-Effect Radius +10%"
+  },
+  "highYieldMines": {
+    "name": "高爆水雷",
+    "description": "Springloader 傷害 +30%"
+  },
+  "heavyPayload": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "flutedRockets": {
+    "name": "槽紋火箭",
+    "description": "Rocket Time-to-Target -5%"
+  },
+  "packedRockets": {
+    "name": "緊裝火箭",
+    "description": "Rocket 最大射程 +10%"
+  },
+  "volleyFire": {
+    "name": "齊射火力",
+    "description": "Demicannon 傷害 +10% Culverin 傷害 +10%"
+  },
+  "heavyShot": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "carvedShot": {
+    "name": "雕紋彈丸",
+    "description": "Culverin Projectile Speed +5%"
+  },
+  "loadedPowder": {
+    "name": "高配火藥",
+    "description": "Culverin 最大射程 +5%"
+  },
+  "heavyGrapeshot": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "solidSabot": {
+    "name": "實心彈託",
+    "description": "Demicannon Projectile Speed +5%"
+  },
+  "loadedPowderDC": {
+    "name": "損管高配火藥",
+    "description": "Demicannon 最大射程 +5%"
+  },
+  "frontalAssault": {
+    "name": "正面突擊",
+    "description": "弩炮傷害 +20% 海火傷害 +20%"
+  },
+  "heavyBolts": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "swiftBolts": {
+    "name": "疾風弩箭",
+    "description": "Ballista Projectile Speed +10%"
+  },
+  "precisionBolts": {
+    "name": "精準弩箭",
+    "description": "Ballista 弱點 (Critical) 傷害 +20%"
+  },
+  "volatileFuelSF": {
+    "name": "海火烈性燃料",
+    "description": "海火傷害 +30%"
+  },
+  "tightenedNozzles": {
+    "name": "縮束噴嘴",
+    "description": "Sea Fire 最大射程 +20%"
+  },
+  "backupCanisters": {
+    "name": "備用儲氣罐",
+    "description": "Sea Fire Magazine Size +15%"
+  },
+  "seaFireDrills": {
+    "name": "海火訓練",
+    "description": "Sea Fire 裝填時間 -10%"
+  },
+  "allHandsOnDeck": {
+    "name": "全員登甲",
+    "description": "Bombard 傷害 +10% Long Gun 傷害 +10% Torpedo 傷害 +10%"
+  },
+  "bombardDrills": {
+    "name": "轟炸訓練",
+    "description": "Bombard 裝填時間 -5%"
+  },
+  "enhancedYield": {
+    "name": "增強威力",
+    "description": "Bombard Area-of-Effect Radius +5%"
+  },
+  "streamlinedCasing": {
+    "name": "流線彈體",
+    "description": "Bombard Projectile Speed +5%"
+  },
+  "heavyBombs": {
+    "name": "重磅炸彈",
+    "description": "Bombard 傷害 +20%"
+  },
+  "longGunDrills": {
+    "name": "長炮訓練",
+    "description": "Long Gun 裝填時間 -10%"
+  },
+  "carvedShotLG": {
+    "name": "雕紋長炮彈",
+    "description": "Long Gun Projectile Speed +5%"
+  },
+  "precisionShot": {
+    "name": "精準射擊",
+    "description": "Long Gun 弱點 (Critical) 傷害 +10%"
+  },
+  "heavyShotLG": {
+    "name": "長炮重彈",
+    "description": "Long Gun 傷害 +20%"
+  },
+  "improvedLaunchersT": {
+    "name": "改良魚雷發射器",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "flutedTorpedoes": {
+    "name": "槽紋魚雷",
+    "description": "Torpedo 最大射程 +5%"
+  },
+  "loadedTorpedoes": {
+    "name": "高爆魚雷",
+    "description": "Torpedo 傷害 +20%"
+  },
+  "persistentCompounds": {
+    "name": "持久混合物",
+    "description": "狀態異常持續時間 +10%"
+  },
+  "enhancedPayload": {
+    "name": "強化裝藥",
+    "description": "狀態異常 Charge Rate +10%"
+  },
+  "concentratedPayload": {
+    "name": "高濃裝藥",
+    "description": "狀態異常傷害 +10%"
+  },
+  "phosphorusCompound": {
+    "name": "白磷化合物",
+    "description": "Ablaze 傷害 +10%"
+  },
+  "potentFuel": {
+    "name": "高效燃料",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "heavyFlooding": {
+    "name": "嚴重進水",
+    "description": "Flooded 傷害 +10%"
+  },
+  "rapidFlooding": {
+    "name": "快速進水",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "voltaicShock": {
+    "name": "電擊震懾",
+    "description": "Stormstruck 傷害 +10%"
+  },
+  "powerSurge": {
+    "name": "充能激增",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "persistentAffliction": {
+    "name": "持續折磨",
+    "description": "Toxic Lifetime +10%"
+  },
+  "virulentToxins": {
+    "name": "烈性劇毒",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "violentRupture": {
+    "name": "劇烈破裂",
+    "description": "Punctured Lifetime +10%"
+  },
+  "penetratingMunitions": {
+    "name": "穿透彈藥",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "highPressureShockwave": {
+    "name": "高壓衝擊波",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "flashDetonation": {
+    "name": "閃光引爆",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "trainedRecovery": {
+    "name": "系統救護",
+    "description": "Brace Recovery +20%"
+  },
+  "steadyDefense": {
+    "name": "穩固防禦",
+    "description": "耐力 use while Bracing -10%"
+  },
+  "impetusOrder": {
+    "name": "動力指令",
+    "description": "現在可以獲取動力層數。 達到5層動力時，消耗5層以提升轉向速度、加速度和最高航速5%，持續30秒。 當另一個指令特長被激活時，此增益不再消耗動力並永久生效。"
+  },
+  "batteringForce": {
+    "name": "衝撞之力",
+    "description": "在進行衝撞或船員攻擊時生成5層動力（上限10層）。 生成動力可在10秒內使武器傷害與治療量提升50%。"
+  },
+  "relentlessForce": {
+    "name": "無情之力",
+    "description": "武器每擊中敵人8次生成1層動力（上限10層）。半加農炮需要4倍擊中次數。 生成動力可在5秒內使武器傷害與治療量提升15%。"
+  },
+  "unstoppableForce": {
+    "name": "勢不可擋",
+    "description": "每航行110米生成1層動力（上限10層）。 當航速超過10節時，每超1節航速，生成動力可使武器傷害與治療量提升3%，持續5秒。"
+  },
+  "heavyBombardment": {
+    "name": "重裝轟炸",
+    "description": "生成動力可在10秒內使所有武器範圍傷害半徑增加5米（上限5層）。 達到滿層時，所有武器的次要傷害提升20%。"
+  },
+  "weaknessFinder": {
+    "name": "破綻尋覓",
+    "description": "生成動力可在5秒內賦予20%幾率將任何武器攻擊轉化爲弱點命中。"
+  },
+  "rejuvenation": {
+    "name": "煥發新生",
+    "description": "生成動力可恢復3%最大生命值。"
+  },
+  "stormblazeOrder": {
+    "name": "風暴烈焰指令",
+    "description": "達到10層動力時，下一次武器擊中消耗10層動力並在目標處引發範圍爆炸，對250米內所有敵人造成相當於你最大船體生命值150%的燃燒與電擊傷害。 衝撞也可以觸發此效果且不消耗動力。"
+  },
+  "firepowerOrder": {
+    "name": "火力指令",
+    "description": "達到10層動力時，發射輔助武器將消耗10層動力並在8秒內將所有武器命中轉化爲弱點命中。"
+  },
+  "mendingOrder": {
+    "name": "修復指令",
+    "description": "達到5層動力時，緊固防禦2秒後鬆開將消耗5層動力並釋放範圍治療，爲你及350米內所有友軍恢復30%最大船體生命值。 生命值低於50%或陣亡時也會自動觸發此效果。"
+  },
+  "fireAndSteel": {
+    "name": "烈火與鋼鐵",
+    "description": "對目標施加任何元素狀態異常時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "vitalStrike": {
+    "name": "要害打擊",
+    "description": "擊破弱點時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "killingDrive": {
+    "name": "殲敵動力",
+    "description": "摧毀目標時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "hardenedMomentum": {
+    "name": "強化衝力",
+    "description": "當動力層數達到或超過5層時，護甲係數提升5%。"
+  },
+  "adaptiveArsenal": {
+    "name": "適應性軍備",
+    "description": "每裝備一種不同類型的武器，武器傷害提升5%"
+  },
+  "enduringBrace": {
+    "name": "持久緊固",
+    "description": "每擁有1000點最大生命值，緊固強度恢復速度提升0.01%。"
+  },
+  "volatileArsenal": {
+    "name": "烈性武庫",
+    "description": "Increases elemental damage by 5% for each Weapon element equipped. Includes Elements gained from Weapon modifications"
+  },
+  "loadedOdds": {
+    "name": "勝算在握",
+    "description": "Adds a chance of 10% to generate an additional stack of Impetus whenever an Impetus stack is generated."
+  },
+  "fortifiedHull": {
+    "name": "堅固船體",
+    "description": "For every 2000 points of 緊固防禦強度, increase incoming Repair Amount by 1% (max 10%)."
+  },
+  "revitalizedFury": {
+    "name": "重燃狂怒",
+    "description": "Increases 武器傷害 and Repair Amount by 15% for 5s when receiving a heal of 3% of your Maximum Health or greater."
+  },
+  "careAndCarnage": {
+    "name": "慈悲與殺戮",
+    "description": "For every 10% increases of Repair per Shot, increase 武器傷害 by 5% up to a maximum of 30%."
+  },
+  "battleTempo": {
+    "name": "戰鬥節奏",
+    "description": "Increases the maximum stacks of Impetus by 5."
+  },
+  "steadyHands": {
+    "name": "沉着穩健",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "SPBF": {
+    "name": "衝撞之力",
+    "description": "在進行衝撞或船員攻擊時生成5層動力（上限10層）。 生成動力可在10秒內使武器傷害與治療量提升50%。"
+  },
+  "SPRB": {
+    "name": "反應堡壘",
+    "description": "緊固防禦3秒後引發爆炸，對250米範圍內的敵對目標造成相當於你護甲值1000%的傷害。"
+  },
+  "SPDM": {
+    "name": "致命醫術",
+    "description": "將造成治療量的100%儲存爲額外傷害，最高可達100,000點。 儲存的額外傷害將在下一次成功擊中敵方目標時附加生效。"
+  },
+  "SPFB": {
+    "name": "致命一擊",
+    "description": "對生命值低於最大值30%的敵人造成傷害提高10%。"
+  },
+  "SPF": {
+    "name": "狂熱戰意",
+    "description": "在進行衝撞或船員攻擊後，武器傷害提升50%，持續5秒（冷卻時間15秒）。"
+  },
+  "SPER": {
+    "name": "緊急維修",
+    "description": "當船體生命值降至50%以下時，在3秒內恢復30%的最大船體生命值（冷卻時間75秒）。"
+  },
+  "SPFSA": {
+    "name": "滿帆突擊",
+    "description": "當航速超過12節時，武器傷害提升15%。 （如果航速下降，傷害增益仍將保留5秒）"
+  },
+  "SPSOC": {
+    "name": "蔑視之盾",
+    "description": "200米範圍內每有一名敵人（最多4名），護甲提升100點。"
+  },
+  "SPBM": {
+    "name": "戰地軍醫",
+    "description": "每裝備一件修理武器，武器傷害提升10%。 當裝備4件修理武器時，該效果提升至3倍。"
+  },
+  "KBHM": {
+    "name": "硬化彈藥",
+    "description": "武器傷害 +20%"
+  },
+  "KBPW": {
+    "name": "拼湊維修",
+    "description": "脫離傷害狀態30秒後，緩慢修復少量船體生命值。"
+  },
+  "KBVM1": {
+    "name": "惡毒彈藥 I",
+    "description": "狀態異常傷害 +10% 狀態異常持續時間 +10%"
+  },
+  "KBVR": {
+    "name": "老練突襲者",
+    "description": "船員攻擊傷害 +20%"
+  },
+  "KBSM1": {
+    "name": "特種彈藥 I",
+    "description": "燃燒傷害 +30% 進水傷害 +30% 穿透傷害 +30% 爆炸傷害 +30% 電擊傷害 +30% Toxic 傷害 +30%"
+  },
+  "KBDC": {
+    "name": "損管控制",
+    "description": "脫離傷害狀態30秒後，緩慢修復少量重創傷害。"
+  },
+  "KBBFB": {
+    "name": "血債血償",
+    "description": "每當你承受傷害時，武器傷害提升10%，持續30秒。"
+  },
+  "KBSM": {
+    "name": "緩慢修補",
+    "description": "脫離傷害狀態30秒後，每秒修復0.6%的船體生命值。"
+  },
+  "KBVM2": {
+    "name": "惡毒彈藥 II",
+    "description": "狀態異常傷害 +15% 狀態異常持續時間 +15%"
+  },
+  "KBTG": {
+    "name": "百折不撓",
+    "description": "當船體生命值低於或等於30%時，承受的傷害降低10%。"
+  },
+  "KBSM2": {
+    "name": "特種彈藥 II",
+    "description": "燃燒傷害 +30% 進水傷害 +30% 穿透傷害 +30% 爆炸傷害 +30% 電擊傷害 +30% Toxic 傷害 +30%"
+  },
+  "KBCDC": {
+    "name": "緊急損管控制",
+    "description": "脫離傷害狀態30秒後，每秒修復4%的重創傷害。"
+  },
+  "KBFNP": {
+    "name": "麻木無痛",
+    "description": "承受的傷害降低5%。"
+  },
+  "KBH": {
+    "name": "破船者",
+    "description": "Increase Ramming 傷害 by 50% when sailing at 15kts or higher."
+  },
+  "KBAS": {
+    "name": "腎上腺素激增",
+    "description": "Restores 10% 船體生命值 after a Crew Attack."
+  },
+  "KBWB": {
+    "name": "疾風屏障",
+    "description": "當航速達到或超過15節時，承受傷害降低10%。"
+  },
+  "B-1-RF1": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-1-1-RF1": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-1-1-ED1": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-1-1-RF2": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-1-1-ED2": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-1-1-RF3": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-1-2-RF1": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-1-2-RF2": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-1-2-RF3": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-1-RF2": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-2-ED1": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-1-ED1": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-1-ED2": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-1-ED3": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-1-ED4": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-1-ED5": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-2-SS1": {
+    "name": "迅捷打擊",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "B-2-2-ED1": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-2-SS2": {
+    "name": "迅捷打擊",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "B-2-3-ED1": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-3-ED2": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-3-ED3": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-3-ED4": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-3-ED5": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-2-ED2": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-3-DE1": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-3-1-DE1": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-3-1-DE2": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-3-1-DE3": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-3-2-DE1": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-3-2-SS1": {
+    "name": "迅捷打擊",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "B-3-2-DE2": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-3-2-SS2": {
+    "name": "迅捷打擊",
+    "description": "Weapon Projectile Speed +5%"
+  },
+  "B-3-2-DE3": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-3-DE2": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-4-IS1": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-4-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-4-IS2": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-4-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-4-IS3": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-5-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-5-IS1": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-5-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-5-IS2": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-5-RF3": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-62-TR1": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-62-TR2": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-62-TR3": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-62-TR4": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-62-TR5": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-6-DE1": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-6-RF1": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-7-PC1": {
+    "name": "持久混合物",
+    "description": "狀態異常持續時間 +10%"
+  },
+  "B-7-PC2": {
+    "name": "持久混合物",
+    "description": "狀態異常持續時間 +10%"
+  },
+  "B-7-PC3": {
+    "name": "持久混合物",
+    "description": "狀態異常持續時間 +10%"
+  },
+  "B-7-PC4": {
+    "name": "持久混合物",
+    "description": "狀態異常持續時間 +10%"
+  },
+  "B-7-PC5": {
+    "name": "持久混合物",
+    "description": "狀態異常持續時間 +10%"
+  },
+  "B-8-EP1": {
+    "name": "強化裝藥",
+    "description": "狀態異常 Charge Rate +10%"
+  },
+  "B-8-EP2": {
+    "name": "強化裝藥",
+    "description": "狀態異常 Charge Rate +10%"
+  },
+  "B-8-EP3": {
+    "name": "強化裝藥",
+    "description": "狀態異常 Charge Rate +10%"
+  },
+  "B-8-EP4": {
+    "name": "強化裝藥",
+    "description": "狀態異常 Charge Rate +10%"
+  },
+  "B-8-EP5": {
+    "name": "強化裝藥",
+    "description": "狀態異常 Charge Rate +10%"
+  },
+  "B-9-CP1": {
+    "name": "高濃裝藥",
+    "description": "狀態異常傷害 +10%"
+  },
+  "B-9-CP2": {
+    "name": "高濃裝藥",
+    "description": "狀態異常傷害 +10%"
+  },
+  "B-9-CP3": {
+    "name": "高濃裝藥",
+    "description": "狀態異常傷害 +10%"
+  },
+  "B-9-CP4": {
+    "name": "高濃裝藥",
+    "description": "狀態異常傷害 +10%"
+  },
+  "B-9-CP5": {
+    "name": "高濃裝藥",
+    "description": "狀態異常傷害 +10%"
+  },
+  "B-10-FR1": {
+    "name": "靈活船舵",
+    "description": "轉向速度 +2%"
+  },
+  "B-10-BR1": {
+    "name": "清理藤壺",
+    "description": "加速度 +2%"
+  },
+  "B-10-1-FR1": {
+    "name": "靈活船舵",
+    "description": "轉向速度 +2%"
+  },
+  "B-10-2-FR1": {
+    "name": "靈活船舵",
+    "description": "轉向速度 +2%"
+  },
+  "B-10-FR2": {
+    "name": "靈活船舵",
+    "description": "轉向速度 +2%"
+  },
+  "B-11-BR1": {
+    "name": "清理藤壺",
+    "description": "加速度 +2%"
+  },
+  "B-11-FR1": {
+    "name": "靈活船舵",
+    "description": "轉向速度 +2%"
+  },
+  "B-11-1-BR1": {
+    "name": "清理藤壺",
+    "description": "加速度 +2%"
+  },
+  "B-11-BR2": {
+    "name": "清理藤壺",
+    "description": "加速度 +2%"
+  },
+  "B-11-2-BR1": {
+    "name": "清理藤壺",
+    "description": "加速度 +2%"
+  },
+  "B-12-CF1": {
+    "name": "船員體魄",
+    "description": "船員耐力恢復速度 +10%"
+  },
+  "B-12-CF2": {
+    "name": "船員體魄",
+    "description": "船員耐力恢復速度 +10%"
+  },
+  "B-12-CF3": {
+    "name": "船員體魄",
+    "description": "船員耐力恢復速度 +10%"
+  },
+  "B-12-1-CF1": {
+    "name": "船員體魄",
+    "description": "船員耐力恢復速度 +10%"
+  },
+  "B-12-2-CF1": {
+    "name": "船員體魄",
+    "description": "船員耐力恢復速度 +10%"
+  },
+  "B-13-RC1": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-13-RC2": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-13-RC3": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-13-RC4": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-13-RC5": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-14-RC1": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-14-RC2": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-14-RC3": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-14-RC4": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-14-RC5": {
+    "name": "反應性化合物",
+    "description": "燃燒傷害 +20% 進水傷害 +20% 穿透傷害 +20% 爆炸傷害 +20% 電擊傷害 +20% Toxic 傷害 +20%"
+  },
+  "B-15-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-15-1-TR1": {
+    "name": "系統救護",
+    "description": "Brace Recovery +20%"
+  },
+  "B-15-1-TR2": {
+    "name": "系統救護",
+    "description": "Brace Recovery +20%"
+  },
+  "B-15-2-SD1": {
+    "name": "穩固防禦",
+    "description": "耐力 use while Bracing -10%"
+  },
+  "B-15-2-SD2": {
+    "name": "穩固防禦",
+    "description": "耐力 use while Bracing -10%"
+  },
+  "B-16-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-16-1-IS1": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-16-1-IS2": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-16-2-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-16-2-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-17-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-17-1-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-17-1-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-17-2-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-17-2-HP2": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-18-TR1": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-18-TR2": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-18-TR3": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-18-TR4": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-18-TR5": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-19-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-19-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-19-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-19-HP2": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-19-RF3": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-20-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-20-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-20-HP2": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-20-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-20-HP3": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-21-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-21-1-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-21-1-HP2": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-21-2-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-21-2-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-22-RF1": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-22-DE1": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-22-BP1": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "B-22-BR1": {
+    "name": "清理藤壺",
+    "description": "加速度 +2%"
+  },
+  "B-22-BP2": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "B-22-BR2": {
+    "name": "清理藤壺",
+    "description": "加速度 +2%"
+  },
+  "B-22-BP3": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "B-23-BP1": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "B-23-BP2": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "B-23-BP3": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "B-23-BP4": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "B-23-BP5": {
+    "name": "衝撞艏部",
+    "description": "Ram 傷害 +10%"
+  },
+  "B-23-TP1": {
+    "name": "打靶練習",
+    "description": "Crew Attack 射程 +3%"
+  },
+  "B-23-TP2": {
+    "name": "打靶練習",
+    "description": "Crew Attack 射程 +3%"
+  },
+  "B-23-TP3": {
+    "name": "打靶練習",
+    "description": "Crew Attack 射程 +3%"
+  },
+  "B-23-TP4": {
+    "name": "打靶練習",
+    "description": "Crew Attack 射程 +3%"
+  },
+  "B-23-TP5": {
+    "name": "打靶練習",
+    "description": "Crew Attack 射程 +3%"
+  },
+  "B-23-SA1": {
+    "name": "野蠻攻勢",
+    "description": "船員攻擊傷害 +25%"
+  },
+  "B-23-SA2": {
+    "name": "野蠻攻勢",
+    "description": "船員攻擊傷害 +25%"
+  },
+  "B-23-SA3": {
+    "name": "野蠻攻勢",
+    "description": "船員攻擊傷害 +25%"
+  },
+  "B-23-SA4": {
+    "name": "野蠻攻勢",
+    "description": "船員攻擊傷害 +25%"
+  },
+  "B-23-SA5": {
+    "name": "野蠻攻勢",
+    "description": "船員攻擊傷害 +25%"
+  },
+  "B-24-IS1": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-24-TR1": {
+    "name": "系統救護",
+    "description": "Brace Recovery +20%"
+  },
+  "B-24-IS2": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-24-TR2": {
+    "name": "系統救護",
+    "description": "Brace Recovery +20%"
+  },
+  "B-24-IS3": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-25-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-25-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-25-RF3": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-25-RF4": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-25-RF5": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-26-SD1": {
+    "name": "穩固防禦",
+    "description": "耐力 use while Bracing -10%"
+  },
+  "B-26-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-26-TR1": {
+    "name": "系統救護",
+    "description": "Brace Recovery +20%"
+  },
+  "B-26-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-26-SD2": {
+    "name": "穩固防禦",
+    "description": "耐力 use while Bracing -10%"
+  },
+  "B-27-TR1": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-27-TR2": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-27-TR3": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-27-TR4": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-27-TR5": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-28-RM1": {
+    "name": "應對措施",
+    "description": "狀態異常 傷害 Reduction -2%"
+  },
+  "B-28-RM2": {
+    "name": "應對措施",
+    "description": "狀態異常 傷害 Reduction -2%"
+  },
+  "B-28-1-RM1": {
+    "name": "應對措施",
+    "description": "狀態異常 傷害 Reduction -2%"
+  },
+  "B-28-2-RM1": {
+    "name": "應對措施",
+    "description": "狀態異常 傷害 Reduction -2%"
+  },
+  "B-28-RM3": {
+    "name": "應對措施",
+    "description": "狀態異常 傷害 Reduction -2%"
+  },
+  "B-29-FD1": {
+    "name": "射擊操練",
+    "description": "Ablaze 傷害 Reduction -5%"
+  },
+  "B-29-FD2": {
+    "name": "射擊操練",
+    "description": "Ablaze 傷害 Reduction -5%"
+  },
+  "B-29-FD3": {
+    "name": "射擊操練",
+    "description": "Ablaze 傷害 Reduction -5%"
+  },
+  "B-29-FD4": {
+    "name": "射擊操練",
+    "description": "Ablaze 傷害 Reduction -5%"
+  },
+  "B-29-FD5": {
+    "name": "射擊操練",
+    "description": "Ablaze 傷害 Reduction -5%"
+  },
+  "B-30-FD1": {
+    "name": "進水戰術",
+    "description": "Flooded 傷害 Reduction -5%"
+  },
+  "B-30-FD2": {
+    "name": "進水戰術",
+    "description": "Flooded 傷害 Reduction -5%"
+  },
+  "B-30-FD3": {
+    "name": "進水戰術",
+    "description": "Flooded 傷害 Reduction -5%"
+  },
+  "B-30-FD4": {
+    "name": "進水戰術",
+    "description": "Flooded 傷害 Reduction -5%"
+  },
+  "B-30-FD5": {
+    "name": "進水戰術",
+    "description": "Flooded 傷害 Reduction -5%"
+  },
+  "B-31-IG1": {
+    "name": "絕緣齒輪",
+    "description": "Stormstruck 傷害 Reduction -5%"
+  },
+  "B-31-IG2": {
+    "name": "絕緣齒輪",
+    "description": "Stormstruck 傷害 Reduction -5%"
+  },
+  "B-31-IG3": {
+    "name": "絕緣齒輪",
+    "description": "Stormstruck 傷害 Reduction -5%"
+  },
+  "B-31-IG4": {
+    "name": "絕緣齒輪",
+    "description": "Stormstruck 傷害 Reduction -5%"
+  },
+  "B-31-IG5": {
+    "name": "絕緣齒輪",
+    "description": "Stormstruck 傷害 Reduction -5%"
+  },
+  "B-32-FAT1": {
+    "name": "急救訓練",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-32-FAT2": {
+    "name": "急救訓練",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-32-FAT3": {
+    "name": "急救訓練",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-32-FAT4": {
+    "name": "急救訓練",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-32-FAT5": {
+    "name": "急救訓練",
+    "description": "Toxic Lifetime -5%"
+  },
+  "B-33-BT1": {
+    "name": "破障訓練",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-33-BT2": {
+    "name": "破障訓練",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-33-BT3": {
+    "name": "破障訓練",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-33-BT4": {
+    "name": "破障訓練",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-33-BT5": {
+    "name": "破障訓練",
+    "description": "Punctured Lifetime -5%"
+  },
+  "B-34-PM1": {
+    "name": "防護舉措",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-34-PM2": {
+    "name": "防護舉措",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-34-PM3": {
+    "name": "防護舉措",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-34-PM4": {
+    "name": "防護舉措",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-34-PM5": {
+    "name": "防護舉措",
+    "description": "Shell-Shocked Lifetime -5%"
+  },
+  "B-35-HPS1": {
+    "name": "高壓衝擊波",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-1-HPS1": {
+    "name": "高壓衝擊波",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-1-HPS2": {
+    "name": "高壓衝擊波",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-1-HPS3": {
+    "name": "高壓衝擊波",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-1-HPS4": {
+    "name": "高壓衝擊波",
+    "description": "Shell-Shocked Lifetime +10%"
+  },
+  "B-35-2-FD1": {
+    "name": "閃光引爆",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-35-2-FD2": {
+    "name": "閃光引爆",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-35-2-FD3": {
+    "name": "閃光引爆",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-35-2-FD4": {
+    "name": "閃光引爆",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-35-2-FD5": {
+    "name": "閃光引爆",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-36-VR1": {
+    "name": "劇烈破裂",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-1-VR1": {
+    "name": "劇烈破裂",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-1-VR2": {
+    "name": "劇烈破裂",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-1-VR3": {
+    "name": "劇烈破裂",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-1-VR4": {
+    "name": "劇烈破裂",
+    "description": "Punctured Lifetime +10%"
+  },
+  "B-36-2-PM1": {
+    "name": "穿透彈藥",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-36-2-PM2": {
+    "name": "穿透彈藥",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-36-2-PM3": {
+    "name": "穿透彈藥",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-36-2-PM4": {
+    "name": "穿透彈藥",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-36-2-PM5": {
+    "name": "穿透彈藥",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-37-PA1": {
+    "name": "持續折磨",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-1-PA1": {
+    "name": "持續折磨",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-1-PA2": {
+    "name": "持續折磨",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-1-PA3": {
+    "name": "持續折磨",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-1-PA4": {
+    "name": "持續折磨",
+    "description": "Toxic Lifetime +10%"
+  },
+  "B-37-2-VT1": {
+    "name": "烈性劇毒",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-37-2-VT2": {
+    "name": "烈性劇毒",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-37-2-VT3": {
+    "name": "烈性劇毒",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-37-2-VT4": {
+    "name": "烈性劇毒",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-37-2-VT5": {
+    "name": "烈性劇毒",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-38-VS1": {
+    "name": "電擊震懾",
+    "description": "Stormstruck 傷害 +10%"
+  },
+  "B-38-1-VS1": {
+    "name": "電擊震懾",
+    "description": "Stormstruck 傷害 +10%"
+  },
+  "B-38-1-VS2": {
+    "name": "電擊震懾",
+    "description": "Stormstruck 傷害 +10%"
+  },
+  "B-38-1-VS3": {
+    "name": "電擊震懾",
+    "description": "Stormstruck 傷害 +10%"
+  },
+  "B-38-1-VS4": {
+    "name": "電擊震懾",
+    "description": "Stormstruck 傷害 +10%"
+  },
+  "B-38-2-PS1": {
+    "name": "充能激增",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-38-2-PS2": {
+    "name": "充能激增",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-38-2-PS3": {
+    "name": "充能激增",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-38-2-PS4": {
+    "name": "充能激增",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-38-2-PS5": {
+    "name": "充能激增",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-39-HF1": {
+    "name": "嚴重進水",
+    "description": "Flooded 傷害 +10%"
+  },
+  "B-39-1-HF1": {
+    "name": "嚴重進水",
+    "description": "Flooded 傷害 +10%"
+  },
+  "B-39-1-HF2": {
+    "name": "嚴重進水",
+    "description": "Flooded 傷害 +10%"
+  },
+  "B-39-1-HF3": {
+    "name": "嚴重進水",
+    "description": "Flooded 傷害 +10%"
+  },
+  "B-39-1-HF4": {
+    "name": "嚴重進水",
+    "description": "Flooded 傷害 +10%"
+  },
+  "B-39-2-RF1": {
+    "name": "快速進水",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-39-2-RF2": {
+    "name": "快速進水",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-39-2-RF3": {
+    "name": "快速進水",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-39-2-RF4": {
+    "name": "快速進水",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-39-2-RF5": {
+    "name": "快速進水",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-40-PC1": {
+    "name": "白磷化合物",
+    "description": "Ablaze 傷害 +10%"
+  },
+  "B-40-1-PC1": {
+    "name": "白磷化合物",
+    "description": "Ablaze 傷害 +10%"
+  },
+  "B-40-1-PC2": {
+    "name": "白磷化合物",
+    "description": "Ablaze 傷害 +10%"
+  },
+  "B-40-1-PC3": {
+    "name": "白磷化合物",
+    "description": "Ablaze 傷害 +10%"
+  },
+  "B-40-1-PC4": {
+    "name": "白磷化合物",
+    "description": "Ablaze 傷害 +10%"
+  },
+  "B-40-2-PF1": {
+    "name": "高效燃料",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-40-2-PF2": {
+    "name": "高效燃料",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-40-2-PF3": {
+    "name": "高效燃料",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-40-2-PF4": {
+    "name": "高效燃料",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-40-2-PF5": {
+    "name": "高效燃料",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-41-CT1": {
+    "name": "腐蝕毒素",
+    "description": "Toxic 傷害 +40%"
+  },
+  "B-41-1-VC1": {
+    "name": "劇毒污染",
+    "description": "Toxic 傷害 Penetration +10%"
+  },
+  "B-41-1-VC2": {
+    "name": "劇毒污染",
+    "description": "Toxic 傷害 Penetration +10%"
+  },
+  "B-41-1-VC3": {
+    "name": "劇毒污染",
+    "description": "Toxic 傷害 Penetration +10%"
+  },
+  "B-41-1-VC4": {
+    "name": "劇毒污染",
+    "description": "Toxic 傷害 Penetration +10%"
+  },
+  "B-41-1-VC5": {
+    "name": "劇毒污染",
+    "description": "Toxic 傷害 Penetration +10%"
+  },
+  "B-41-2-CT1": {
+    "name": "腐蝕毒素",
+    "description": "Toxic 傷害 +40%"
+  },
+  "B-41-2-CT2": {
+    "name": "腐蝕毒素",
+    "description": "Toxic 傷害 +40%"
+  },
+  "B-41-2-CT3": {
+    "name": "腐蝕毒素",
+    "description": "Toxic 傷害 +40%"
+  },
+  "B-41-2-CT4": {
+    "name": "腐蝕毒素",
+    "description": "Toxic 傷害 +40%"
+  },
+  "B-42-VP1": {
+    "name": "電能火藥",
+    "description": "電擊傷害 +40%"
+  },
+  "B-42-1-HC1": {
+    "name": "高壓電流",
+    "description": "Electric 傷害 Penetration +10%"
+  },
+  "B-42-1-HC2": {
+    "name": "高壓電流",
+    "description": "Electric 傷害 Penetration +10%"
+  },
+  "B-42-1-HC3": {
+    "name": "高壓電流",
+    "description": "Electric 傷害 Penetration +10%"
+  },
+  "B-42-1-HC4": {
+    "name": "高壓電流",
+    "description": "Electric 傷害 Penetration +10%"
+  },
+  "B-42-1-HC5": {
+    "name": "高壓電流",
+    "description": "Electric 傷害 Penetration +10%"
+  },
+  "B-42-2-VP1": {
+    "name": "電能火藥",
+    "description": "電擊傷害 +40%"
+  },
+  "B-42-2-VP2": {
+    "name": "電能火藥",
+    "description": "電擊傷害 +40%"
+  },
+  "B-42-2-VP3": {
+    "name": "電能火藥",
+    "description": "電擊傷害 +40%"
+  },
+  "B-42-2-VP4": {
+    "name": "電能火藥",
+    "description": "電擊傷害 +40%"
+  },
+  "B-43-HYP1": {
+    "name": "高爆火藥",
+    "description": "爆炸傷害 +40%"
+  },
+  "B-43-1-SC1": {
+    "name": "聚能裝藥",
+    "description": "Explosive 傷害 Penetration +10%"
+  },
+  "B-43-1-SC2": {
+    "name": "聚能裝藥",
+    "description": "Explosive 傷害 Penetration +10%"
+  },
+  "B-43-1-SC3": {
+    "name": "聚能裝藥",
+    "description": "Explosive 傷害 Penetration +10%"
+  },
+  "B-43-1-SC4": {
+    "name": "聚能裝藥",
+    "description": "Explosive 傷害 Penetration +10%"
+  },
+  "B-43-1-SC5": {
+    "name": "聚能裝藥",
+    "description": "Explosive 傷害 Penetration +10%"
+  },
+  "B-43-2-HYP1": {
+    "name": "高爆火藥",
+    "description": "爆炸傷害 +40%"
+  },
+  "B-43-2-HYP2": {
+    "name": "高爆火藥",
+    "description": "爆炸傷害 +40%"
+  },
+  "B-43-2-HYP3": {
+    "name": "高爆火藥",
+    "description": "爆炸傷害 +40%"
+  },
+  "B-43-2-HYP4": {
+    "name": "高爆火藥",
+    "description": "爆炸傷害 +40%"
+  },
+  "B-44-PP1": {
+    "name": "貫穿射彈",
+    "description": "穿透傷害 +40%"
+  },
+  "B-44-1-HPS1": {
+    "name": "穿甲彈丸",
+    "description": "Piercing 傷害 Penetration +10%"
+  },
+  "B-44-1-HPS2": {
+    "name": "穿甲彈丸",
+    "description": "Piercing 傷害 Penetration +10%"
+  },
+  "B-44-1-HPS3": {
+    "name": "穿甲彈丸",
+    "description": "Piercing 傷害 Penetration +10%"
+  },
+  "B-44-1-HPS4": {
+    "name": "穿甲彈丸",
+    "description": "Piercing 傷害 Penetration +10%"
+  },
+  "B-44-1-HPS5": {
+    "name": "穿甲彈丸",
+    "description": "Piercing 傷害 Penetration +10%"
+  },
+  "B-44-2-PP1": {
+    "name": "貫穿射彈",
+    "description": "穿透傷害 +40%"
+  },
+  "B-44-2-PP2": {
+    "name": "貫穿射彈",
+    "description": "穿透傷害 +40%"
+  },
+  "B-44-2-PP3": {
+    "name": "貫穿射彈",
+    "description": "穿透傷害 +40%"
+  },
+  "B-44-2-PP4": {
+    "name": "貫穿射彈",
+    "description": "穿透傷害 +40%"
+  },
+  "B-45-EC1": {
+    "name": "膨脹外殼",
+    "description": "進水傷害 +40%"
+  },
+  "B-45-1-HS1": {
+    "name": "船體粉碎者",
+    "description": "Flooding 傷害 Penetration +10%"
+  },
+  "B-45-1-HS2": {
+    "name": "船體粉碎者",
+    "description": "Flooding 傷害 Penetration +10%"
+  },
+  "B-45-1-HS3": {
+    "name": "船體粉碎者",
+    "description": "Flooding 傷害 Penetration +10%"
+  },
+  "B-45-1-HS4": {
+    "name": "船體粉碎者",
+    "description": "Flooding 傷害 Penetration +10%"
+  },
+  "B-45-1-HS5": {
+    "name": "船體粉碎者",
+    "description": "Flooding 傷害 Penetration +10%"
+  },
+  "B-45-2-EC1": {
+    "name": "膨脹外殼",
+    "description": "進水傷害 +40%"
+  },
+  "B-45-2-EC2": {
+    "name": "膨脹外殼",
+    "description": "進水傷害 +40%"
+  },
+  "B-45-2-EC3": {
+    "name": "膨脹外殼",
+    "description": "進水傷害 +40%"
+  },
+  "B-45-2-EC4": {
+    "name": "膨脹外殼",
+    "description": "進水傷害 +40%"
+  },
+  "B-46-AF1": {
+    "name": "鍊金燃料",
+    "description": "燃燒傷害 +40%"
+  },
+  "B-46-1-VF1": {
+    "name": "烈性燃料",
+    "description": "Burning 傷害 Penetration +10%"
+  },
+  "B-46-1-VF2": {
+    "name": "烈性燃料",
+    "description": "Burning 傷害 Penetration +10%"
+  },
+  "B-46-1-VF3": {
+    "name": "烈性燃料",
+    "description": "Burning 傷害 Penetration +10%"
+  },
+  "B-46-1-VF4": {
+    "name": "烈性燃料",
+    "description": "Burning 傷害 Penetration +10%"
+  },
+  "B-46-1-VF5": {
+    "name": "烈性燃料",
+    "description": "Burning 傷害 Penetration +10%"
+  },
+  "B-46-2-AF1": {
+    "name": "鍊金燃料",
+    "description": "燃燒傷害 +40%"
+  },
+  "B-46-2-AF2": {
+    "name": "鍊金燃料",
+    "description": "燃燒傷害 +40%"
+  },
+  "B-46-2-AF3": {
+    "name": "鍊金燃料",
+    "description": "燃燒傷害 +40%"
+  },
+  "B-46-2-AF4": {
+    "name": "鍊金燃料",
+    "description": "燃燒傷害 +40%"
+  },
+  "B-47-TR1": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-47-TR2": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-47-TR3": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-47-TR4": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-47-TR5": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-48-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-48-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-48-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-48-HP2": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-48-RF3": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-49-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-49-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-49-RF3": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-49-RF4": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-49-RF5": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-50-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-50-HP2": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-50-HP3": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-50-HP4": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-50-HP5": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-51-VD1": {
+    "name": "全能防禦",
+    "description": "燃燒抗性 +2% 進水抗性 +2% 穿透抗性 +2% 爆炸抗性 +2% 電擊抗性 +2% Toxic 抗性 +2%"
+  },
+  "B-51-VD2": {
+    "name": "全能防禦",
+    "description": "燃燒抗性 +2% 進水抗性 +2% 穿透抗性 +2% 爆炸抗性 +2% 電擊抗性 +2% Toxic 抗性 +2%"
+  },
+  "B-51-1-VD1": {
+    "name": "全能防禦",
+    "description": "燃燒抗性 +2% 進水抗性 +2% 穿透抗性 +2% 爆炸抗性 +2% 電擊抗性 +2% Toxic 抗性 +2%"
+  },
+  "B-51-2-VD1": {
+    "name": "全能防禦",
+    "description": "燃燒抗性 +2% 進水抗性 +2% 穿透抗性 +2% 爆炸抗性 +2% 電擊抗性 +2% Toxic 抗性 +2%"
+  },
+  "B-51-VD3": {
+    "name": "全能防禦",
+    "description": "燃燒抗性 +2% 進水抗性 +2% 穿透抗性 +2% 爆炸抗性 +2% 電擊抗性 +2% Toxic 抗性 +2%"
+  },
+  "B-52-ACC1": {
+    "name": "防腐塗層",
+    "description": "Toxic 抗性 +5%"
+  },
+  "B-52-ACC2": {
+    "name": "防腐塗層",
+    "description": "Toxic 抗性 +5%"
+  },
+  "B-52-ACC3": {
+    "name": "防腐塗層",
+    "description": "Toxic 抗性 +5%"
+  },
+  "B-52-ACC4": {
+    "name": "防腐塗層",
+    "description": "Toxic 抗性 +5%"
+  },
+  "B-52-ACC5": {
+    "name": "防腐塗層",
+    "description": "Toxic 抗性 +5%"
+  },
+  "B-53-LP1": {
+    "name": "複合裝甲",
+    "description": "穿透抗性 +5%"
+  },
+  "B-53-LP2": {
+    "name": "複合裝甲",
+    "description": "穿透抗性 +5%"
+  },
+  "B-53-LP3": {
+    "name": "複合裝甲",
+    "description": "穿透抗性 +5%"
+  },
+  "B-53-LP4": {
+    "name": "複合裝甲",
+    "description": "穿透抗性 +5%"
+  },
+  "B-53-LP5": {
+    "name": "複合裝甲",
+    "description": "穿透抗性 +5%"
+  },
+  "B-54-IG1": {
+    "name": "絕緣舷側",
+    "description": "電擊抗性 +5%"
+  },
+  "B-54-IG2": {
+    "name": "絕緣舷側",
+    "description": "電擊抗性 +5%"
+  },
+  "B-54-IG3": {
+    "name": "絕緣舷側",
+    "description": "電擊抗性 +5%"
+  },
+  "B-54-IG4": {
+    "name": "絕緣舷側",
+    "description": "電擊抗性 +5%"
+  },
+  "B-54-IG5": {
+    "name": "絕緣舷側",
+    "description": "電擊抗性 +5%"
+  },
+  "B-55-QS1": {
+    "name": "快速密封劑",
+    "description": "進水抗性 +5%"
+  },
+  "B-55-QS2": {
+    "name": "快速密封劑",
+    "description": "進水抗性 +5%"
+  },
+  "B-55-QS3": {
+    "name": "快速密封劑",
+    "description": "進水抗性 +5%"
+  },
+  "B-55-QS4": {
+    "name": "快速密封劑",
+    "description": "進水抗性 +5%"
+  },
+  "B-55-QS5": {
+    "name": "快速密封劑",
+    "description": "進水抗性 +5%"
+  },
+  "B-56-SL1": {
+    "name": "防崩落襯層",
+    "description": "爆炸抗性 +5%"
+  },
+  "B-56-SL2": {
+    "name": "防崩落襯層",
+    "description": "爆炸抗性 +5%"
+  },
+  "B-56-SL3": {
+    "name": "防崩落襯層",
+    "description": "爆炸抗性 +5%"
+  },
+  "B-56-SL4": {
+    "name": "防崩落襯層",
+    "description": "爆炸抗性 +5%"
+  },
+  "B-56-SL5": {
+    "name": "防崩落襯層",
+    "description": "爆炸抗性 +5%"
+  },
+  "B-57-AC1": {
+    "name": "石棉塗層",
+    "description": "燃燒抗性 +5%"
+  },
+  "B-57-AC2": {
+    "name": "石棉塗層",
+    "description": "燃燒抗性 +5%"
+  },
+  "B-57-AC3": {
+    "name": "石棉塗層",
+    "description": "燃燒抗性 +5%"
+  },
+  "B-57-AC4": {
+    "name": "石棉塗層",
+    "description": "燃燒抗性 +5%"
+  },
+  "B-57-AC5": {
+    "name": "石棉塗層",
+    "description": "燃燒抗性 +5%"
+  },
+  "B-58-HW1": {
+    "name": "重型武器專精",
+    "description": "Mortar 傷害 +15% Rocket 傷害 +15% Springloader 傷害 +15%"
+  },
+  "B-58-1-HW1": {
+    "name": "重型武器專精",
+    "description": "Mortar 傷害 +15% Rocket 傷害 +15% Springloader 傷害 +15%"
+  },
+  "B-58-1-HS1": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "B-58-1-1-BS1": {
+    "name": "爆裂炮彈",
+    "description": "Mortar Area-of-Effect Radius +5%"
+  },
+  "B-58-1-1-BS2": {
+    "name": "爆裂炮彈",
+    "description": "Mortar Area-of-Effect Radius +5%"
+  },
+  "B-58-1-1-BS3": {
+    "name": "爆裂炮彈",
+    "description": "Mortar Area-of-Effect Radius +5%"
+  },
+  "B-58-1-2-IT1": {
+    "name": "改良彈道",
+    "description": "Mortar Time-to-Target -5%"
+  },
+  "B-58-1-2-IT2": {
+    "name": "改良彈道",
+    "description": "Mortar Time-to-Target -5%"
+  },
+  "B-58-1-2-IT3": {
+    "name": "改良彈道",
+    "description": "Mortar Time-to-Target -5%"
+  },
+  "B-58-1-HS2": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "B-58-1-HS3": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "B-58-1-HS4": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "B-58-2-IL1": {
+    "name": "改良發射器",
+    "description": "Springloader 最大射程 +10%"
+  },
+  "B-58-2-1-IG1": {
+    "name": "改良齒輪組",
+    "description": "Springloader Area-of-Effect Radius +10%"
+  },
+  "B-58-2-1-IG2": {
+    "name": "改良齒輪組",
+    "description": "Springloader Area-of-Effect Radius +10%"
+  },
+  "B-58-2-1-IG3": {
+    "name": "改良齒輪組",
+    "description": "Springloader Area-of-Effect Radius +10%"
+  },
+  "B-58-2-2-LB1": {
+    "name": "輕型浮標",
+    "description": "Springloader Time-to-Target -5%"
+  },
+  "B-58-2-2-LB2": {
+    "name": "輕型浮標",
+    "description": "Springloader Time-to-Target -5%"
+  },
+  "B-58-2-2-LB3": {
+    "name": "輕型浮標",
+    "description": "Springloader Time-to-Target -5%"
+  },
+  "B-58-2-HYM1": {
+    "name": "高爆水雷",
+    "description": "Springloader 傷害 +30%"
+  },
+  "B-58-2-HYM2": {
+    "name": "高爆水雷",
+    "description": "Springloader 傷害 +30%"
+  },
+  "B-58-2-HYM3": {
+    "name": "高爆水雷",
+    "description": "Springloader 傷害 +30%"
+  },
+  "B-58-3-HW1": {
+    "name": "重型武器專精",
+    "description": "Mortar 傷害 +15% Rocket 傷害 +15% Springloader 傷害 +15%"
+  },
+  "B-58-3-HP1": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "B-58-3-1-PR1": {
+    "name": "緊裝火箭",
+    "description": "Rocket 最大射程 +10%"
+  },
+  "B-58-3-1-PR2": {
+    "name": "緊裝火箭",
+    "description": "Rocket 最大射程 +10%"
+  },
+  "B-58-3-1-PR3": {
+    "name": "緊裝火箭",
+    "description": "Rocket 最大射程 +10%"
+  },
+  "B-58-3-2-FR1": {
+    "name": "槽紋火箭",
+    "description": "Rocket Time-to-Target -5%"
+  },
+  "B-58-3-2-FR2": {
+    "name": "槽紋火箭",
+    "description": "Rocket Time-to-Target -5%"
+  },
+  "B-58-3-2-FR3": {
+    "name": "槽紋火箭",
+    "description": "Rocket Time-to-Target -5%"
+  },
+  "B-58-3-HP2": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "B-58-3-HP3": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "B-58-3-HP4": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "B-59-VF1": {
+    "name": "齊射火力",
+    "description": "Demicannon 傷害 +10% Culverin 傷害 +10%"
+  },
+  "B-59-1-VF1": {
+    "name": "齊射火力",
+    "description": "Demicannon 傷害 +10% Culverin 傷害 +10%"
+  },
+  "B-59-1-HS1": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "B-59-1-1-CS1": {
+    "name": "雕紋彈丸",
+    "description": "Culverin Projectile Speed +5%"
+  },
+  "B-59-1-1-CS2": {
+    "name": "雕紋彈丸",
+    "description": "Culverin Projectile Speed +5%"
+  },
+  "B-59-1-1-CS3": {
+    "name": "雕紋彈丸",
+    "description": "Culverin Projectile Speed +5%"
+  },
+  "B-59-1-2-LP1": {
+    "name": "高配火藥",
+    "description": "Culverin 最大射程 +5%"
+  },
+  "B-59-1-2-LP2": {
+    "name": "高配火藥",
+    "description": "Culverin 最大射程 +5%"
+  },
+  "B-59-1-2-LP3": {
+    "name": "高配火藥",
+    "description": "Culverin 最大射程 +5%"
+  },
+  "B-59-1-HS2": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "B-59-1-HS3": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "B-59-1-HS4": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "B-59-2-VF1": {
+    "name": "齊射火力",
+    "description": "Demicannon 傷害 +10% Culverin 傷害 +10%"
+  },
+  "B-59-2-HG1": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "B-59-2-1-SS1": {
+    "name": "實心彈託",
+    "description": "Demicannon Projectile Speed +5%"
+  },
+  "B-59-2-1-SS2": {
+    "name": "實心彈託",
+    "description": "Demicannon Projectile Speed +5%"
+  },
+  "B-59-2-1-SS3": {
+    "name": "實心彈託",
+    "description": "Demicannon Projectile Speed +5%"
+  },
+  "B-59-2-2-LPDC1": {
+    "name": "損管高配火藥",
+    "description": "Demicannon 最大射程 +5%"
+  },
+  "B-59-2-2-LPDC2": {
+    "name": "損管高配火藥",
+    "description": "Demicannon 最大射程 +5%"
+  },
+  "B-59-2-2-LPDC3": {
+    "name": "損管高配火藥",
+    "description": "Demicannon 最大射程 +5%"
+  },
+  "B-59-2-HG2": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "B-59-2-HG3": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "B-59-2-HG4": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "B-60-FA1": {
+    "name": "正面突擊",
+    "description": "弩炮傷害 +20% 海火傷害 +20%"
+  },
+  "B-60-1-FA1": {
+    "name": "正面突擊",
+    "description": "弩炮傷害 +20% 海火傷害 +20%"
+  },
+  "B-60-1-HB1": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "B-60-1-1-SB1": {
+    "name": "疾風弩箭",
+    "description": "Ballista Projectile Speed +10%"
+  },
+  "B-60-1-1-SB2": {
+    "name": "疾風弩箭",
+    "description": "Ballista Projectile Speed +10%"
+  },
+  "B-60-1-1-SB3": {
+    "name": "疾風弩箭",
+    "description": "Ballista Projectile Speed +10%"
+  },
+  "B-60-1-2-PB1": {
+    "name": "精準弩箭",
+    "description": "Ballista 弱點 (Critical) 傷害 +20%"
+  },
+  "B-60-1-2-PB2": {
+    "name": "精準弩箭",
+    "description": "Ballista 弱點 (Critical) 傷害 +20%"
+  },
+  "B-60-1-2-PB3": {
+    "name": "精準弩箭",
+    "description": "Ballista 弱點 (Critical) 傷害 +20%"
+  },
+  "B-60-1-HB2": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "B-60-1-HB3": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "B-60-1-HB4": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "B-60-2-FA1": {
+    "name": "正面突擊",
+    "description": "弩炮傷害 +20% 海火傷害 +20%"
+  },
+  "B-60-2-TN1": {
+    "name": "縮束噴嘴",
+    "description": "Sea Fire 最大射程 +20%"
+  },
+  "B-60-2-1-BC1": {
+    "name": "備用儲氣罐",
+    "description": "Sea Fire Magazine Size +15%"
+  },
+  "B-60-2-1-BC2": {
+    "name": "備用儲氣罐",
+    "description": "Sea Fire Magazine Size +15%"
+  },
+  "B-60-2-1-BC3": {
+    "name": "備用儲氣罐",
+    "description": "Sea Fire Magazine Size +15%"
+  },
+  "B-60-2-2-SFD1": {
+    "name": "海火訓練",
+    "description": "Sea Fire 裝填時間 -10%"
+  },
+  "B-60-2-2-SFD2": {
+    "name": "海火訓練",
+    "description": "Sea Fire 裝填時間 -10%"
+  },
+  "B-60-2-2-SFD3": {
+    "name": "海火訓練",
+    "description": "Sea Fire 裝填時間 -10%"
+  },
+  "B-60-2-VFSF1": {
+    "name": "海火烈性燃料",
+    "description": "海火傷害 +30%"
+  },
+  "B-60-2-VFSF2": {
+    "name": "海火烈性燃料",
+    "description": "海火傷害 +30%"
+  },
+  "B-60-2-VFSF3": {
+    "name": "海火烈性燃料",
+    "description": "海火傷害 +30%"
+  },
+  "B-61-AHOD1": {
+    "name": "全員登甲",
+    "description": "Bombard 傷害 +10% Long Gun 傷害 +10% Torpedo 傷害 +10%"
+  },
+  "B-61-1-AHOD1": {
+    "name": "全員登甲",
+    "description": "Bombard 傷害 +10% Long Gun 傷害 +10% Torpedo 傷害 +10%"
+  },
+  "B-61-1-BD1": {
+    "name": "轟炸訓練",
+    "description": "Bombard 裝填時間 -5%"
+  },
+  "B-61-1-1-EY1": {
+    "name": "增強威力",
+    "description": "Bombard Area-of-Effect Radius +5%"
+  },
+  "B-61-1-1-EY2": {
+    "name": "增強威力",
+    "description": "Bombard Area-of-Effect Radius +5%"
+  },
+  "B-61-1-1-EY3": {
+    "name": "增強威力",
+    "description": "Bombard Area-of-Effect Radius +5%"
+  },
+  "B-61-1-2-SC1": {
+    "name": "流線彈體",
+    "description": "Bombard Projectile Speed +5%"
+  },
+  "B-61-1-2-SC2": {
+    "name": "流線彈體",
+    "description": "Bombard Projectile Speed +5%"
+  },
+  "B-61-1-2-SC3": {
+    "name": "流線彈體",
+    "description": "Bombard Projectile Speed +5%"
+  },
+  "B-61-1-HB1": {
+    "name": "重磅炸彈",
+    "description": "Bombard 傷害 +20%"
+  },
+  "B-61-1-HB2": {
+    "name": "重磅炸彈",
+    "description": "Bombard 傷害 +20%"
+  },
+  "B-61-1-HB3": {
+    "name": "重磅炸彈",
+    "description": "Bombard 傷害 +20%"
+  },
+  "B-61-2-LD1": {
+    "name": "長炮訓練",
+    "description": "Long Gun 裝填時間 -10%"
+  },
+  "B-61-2-1-CSLG1": {
+    "name": "雕紋長炮彈",
+    "description": "Long Gun Projectile Speed +5%"
+  },
+  "B-61-2-1-CSLG2": {
+    "name": "雕紋長炮彈",
+    "description": "Long Gun Projectile Speed +5%"
+  },
+  "B-61-2-1-CSLG3": {
+    "name": "雕紋長炮彈",
+    "description": "Long Gun Projectile Speed +5%"
+  },
+  "B-61-2-2-PS1": {
+    "name": "精準射擊",
+    "description": "Long Gun 弱點 (Critical) 傷害 +10%"
+  },
+  "B-61-2-2-PS2": {
+    "name": "精準射擊",
+    "description": "Long Gun 弱點 (Critical) 傷害 +10%"
+  },
+  "B-61-2-2-PS3": {
+    "name": "精準射擊",
+    "description": "Long Gun 弱點 (Critical) 傷害 +10%"
+  },
+  "B-61-2-HSLG1": {
+    "name": "長炮重彈",
+    "description": "Long Gun 傷害 +20%"
+  },
+  "B-61-2-HSLG2": {
+    "name": "長炮重彈",
+    "description": "Long Gun 傷害 +20%"
+  },
+  "B-61-2-HSLG3": {
+    "name": "長炮重彈",
+    "description": "Long Gun 傷害 +20%"
+  },
+  "B-61-3-AHOD1": {
+    "name": "全員登甲",
+    "description": "Bombard 傷害 +10% Long Gun 傷害 +10% Torpedo 傷害 +10%"
+  },
+  "B-61-3-ILT1": {
+    "name": "改良魚雷發射器",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "B-61-3-1-ILT1": {
+    "name": "改良魚雷發射器",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "B-61-3-1-ILT2": {
+    "name": "改良魚雷發射器",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "B-61-3-1-ILT3": {
+    "name": "改良魚雷發射器",
+    "description": "Torpedo Projectile Speed +5%"
+  },
+  "B-61-3-2-FT1": {
+    "name": "槽紋魚雷",
+    "description": "Torpedo 最大射程 +5%"
+  },
+  "B-61-3-2-FT2": {
+    "name": "槽紋魚雷",
+    "description": "Torpedo 最大射程 +5%"
+  },
+  "B-61-3-2-FT3": {
+    "name": "槽紋魚雷",
+    "description": "Torpedo 最大射程 +5%"
+  },
+  "B-61-3-LT1": {
+    "name": "高爆魚雷",
+    "description": "Torpedo 傷害 +20%"
+  },
+  "B-61-3-LT2": {
+    "name": "高爆魚雷",
+    "description": "Torpedo 傷害 +20%"
+  },
+  "B-61-3-LT3": {
+    "name": "高爆魚雷",
+    "description": "Torpedo 傷害 +20%"
+  },
+  "SPIO": {
+    "name": "動力指令",
+    "description": "現在可以獲取動力層數。 達到5層動力時，消耗5層以提升轉向速度、加速度和最高航速5%，持續30秒。 當另一個指令特長被激活時，此增益不再消耗動力並永久生效。"
+  },
+  "SPRF": {
+    "name": "無情之力",
+    "description": "武器每擊中敵人8次生成1層動力（上限10層）。半加農炮需要4倍擊中次數。 生成動力可在5秒內使武器傷害與治療量提升15%。"
+  },
+  "SPUF": {
+    "name": "勢不可擋",
+    "description": "每航行110米生成1層動力（上限10層）。 當航速超過10節時，每超1節航速，生成動力可使武器傷害與治療量提升3%，持續5秒。"
+  },
+  "SPHB": {
+    "name": "重裝轟炸",
+    "description": "生成動力可在10秒內使所有武器範圍傷害半徑增加5米（上限5層）。 達到滿層時，所有武器的次要傷害提升20%。"
+  },
+  "SPWF": {
+    "name": "破綻尋覓",
+    "description": "生成動力可在5秒內賦予20%幾率將任何武器攻擊轉化爲弱點命中。"
+  },
+  "SPR": {
+    "name": "煥發新生",
+    "description": "生成動力可恢復3%最大生命值。"
+  },
+  "SPSO": {
+    "name": "風暴烈焰指令",
+    "description": "達到10層動力時，下一次武器擊中消耗10層動力並在目標處引發範圍爆炸，對250米內所有敵人造成相當於你最大船體生命值150%的燃燒與電擊傷害。 衝撞也可以觸發此效果且不消耗動力。"
+  },
+  "SPFO": {
+    "name": "火力指令",
+    "description": "達到10層動力時，發射輔助武器將消耗10層動力並在8秒內將所有武器命中轉化爲弱點命中。"
+  },
+  "SPMO": {
+    "name": "修復指令",
+    "description": "達到5層動力時，緊固防禦2秒後鬆開將消耗5層動力並釋放範圍治療，爲你及350米內所有友軍恢復30%最大船體生命值。 生命值低於50%或陣亡時也會自動觸發此效果。"
+  },
+  "KBVS": {
+    "name": "要害打擊",
+    "description": "擊破弱點時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "KBFAS": {
+    "name": "烈火與鋼鐵",
+    "description": "對目標施加任何元素狀態異常時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "KBKD": {
+    "name": "殲敵動力",
+    "description": "摧毀目標時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "KBEB": {
+    "name": "持久緊固",
+    "description": "每擁有1000點最大生命值，緊固強度恢復速度提升0.01%。"
+  },
+  "KBAA": {
+    "name": "適應性軍備",
+    "description": "每裝備一種不同類型的武器，武器傷害提升5%"
+  },
+  "KBHMT": {
+    "name": "強化衝力",
+    "description": "當動力層數達到或超過5層時，護甲係數提升5%。"
+  },
+  "KBVA": {
+    "name": "烈性武庫",
+    "description": "Increases elemental damage by 5% for each Weapon element equipped. Includes Elements gained from Weapon modifications"
+  },
+  "KBFH": {
+    "name": "堅固船體",
+    "description": "For every 2000 points of 緊固防禦強度, increase incoming Repair Amount by 1% (max 10%)."
+  },
+  "KBRF": {
+    "name": "重燃狂怒",
+    "description": "Increases 武器傷害 and Repair Amount by 15% for 5s when receiving a heal of 3% of your Maximum Health or greater."
+  },
+  "KBBT": {
+    "name": "戰鬥節奏",
+    "description": "Increases the maximum stacks of Impetus by 5."
+  },
+  "KBLO": {
+    "name": "勝算在握",
+    "description": "Adds a chance of 10% to generate an additional stack of Impetus whenever an Impetus stack is generated."
+  },
+  "KBCAC": {
+    "name": "慈悲與殺戮",
+    "description": "For every 10% increases of Repair per Shot, increase 武器傷害 by 5% up to a maximum of 30%."
+  },
+  "B-1-1-DE1": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-1-1-DE2": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-64-TR1": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-64-TR2": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-64-TR3": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-64-TR4": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-64-TR5": {
+    "name": "針對維修",
+    "description": "單發修理量 +3%"
+  },
+  "B-6-ED1": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-6-ED2": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-6-DE2": {
+    "name": "神槍手",
+    "description": "Weapon 弱點 (Critical) 傷害 +20%"
+  },
+  "B-6-ED3": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-15-TR1": {
+    "name": "系統救護",
+    "description": "Brace Recovery +20%"
+  },
+  "B-15-SD1": {
+    "name": "穩固防禦",
+    "description": "耐力 use while Bracing -10%"
+  },
+  "B-16-IS1": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-16-IS2": {
+    "name": "鋼鐵姿態",
+    "description": "緊固防禦強度 +20%"
+  },
+  "B-16-1-RF1": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-17-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-17-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-17-1-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-21-RF2": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-21-RF3": {
+    "name": "強化龍骨",
+    "description": "船體生命值 +7000"
+  },
+  "B-21-2-HP1": {
+    "name": "船體裝甲板",
+    "description": "護甲值 Rating +200"
+  },
+  "B-22-ED1": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-22-ED2": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-22-RF2": {
+    "name": "準備開火",
+    "description": "武器裝填時間 -3%"
+  },
+  "B-22-ED3": {
+    "name": "強化傷害",
+    "description": "武器傷害 +10%"
+  },
+  "B-63-SH1": {
+    "name": "沉着穩健",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-63-SH2": {
+    "name": "沉着穩健",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-63-SH3": {
+    "name": "沉着穩健",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-63-SH4": {
+    "name": "沉着穩健",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-63-SH5": {
+    "name": "沉着穩健",
+    "description": "Incoming Repair Multiplier +3%"
+  },
+  "B-35-FD1": {
+    "name": "閃光引爆",
+    "description": "Shell-Shocked Charge Rate +10%"
+  },
+  "B-36-PM1": {
+    "name": "穿透彈藥",
+    "description": "Punctured Charge Rate +10%"
+  },
+  "B-37-VT1": {
+    "name": "烈性劇毒",
+    "description": "Toxic Charge Rate +10%"
+  },
+  "B-38-PS1": {
+    "name": "充能激增",
+    "description": "Stormstruck Charge Rate +10%"
+  },
+  "B-39-RF1": {
+    "name": "快速進水",
+    "description": "Flooded Charge Rate +10%"
+  },
+  "B-40-PF1": {
+    "name": "高效燃料",
+    "description": "Ablaze Charge Rate +10%"
+  },
+  "B-41-VC1": {
+    "name": "劇毒污染",
+    "description": "Toxic 傷害 Penetration +10%"
+  },
+  "B-42-HC1": {
+    "name": "高壓電流",
+    "description": "Electric 傷害 Penetration +10%"
+  },
+  "B-43-SC1": {
+    "name": "聚能裝藥",
+    "description": "Explosive 傷害 Penetration +10%"
+  },
+  "B-44-HPS1": {
+    "name": "穿甲彈丸",
+    "description": "Piercing 傷害 Penetration +10%"
+  },
+  "B-45-HS1": {
+    "name": "船體粉碎者",
+    "description": "Flooding 傷害 Penetration +10%"
+  },
+  "B-46-VF1": {
+    "name": "烈性燃料",
+    "description": "Burning 傷害 Penetration +10%"
+  },
+  "B-58-1-1-HS1": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "B-58-1-1-HS2": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "B-58-1-2-HS1": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "B-58-1-2-HS2": {
+    "name": "重型炮彈",
+    "description": "Mortar 傷害 +30%"
+  },
+  "B-58-2-HW1": {
+    "name": "重型武器專精",
+    "description": "Mortar 傷害 +15% Rocket 傷害 +15% Springloader 傷害 +15%"
+  },
+  "B-58-2-1-HYM1": {
+    "name": "高爆水雷",
+    "description": "Springloader 傷害 +30%"
+  },
+  "B-58-2-1-IL1": {
+    "name": "改良發射器",
+    "description": "Springloader 最大射程 +10%"
+  },
+  "B-58-2-1-HYM2": {
+    "name": "高爆水雷",
+    "description": "Springloader 傷害 +30%"
+  },
+  "B-58-2-2-HYM1": {
+    "name": "高爆水雷",
+    "description": "Springloader 傷害 +30%"
+  },
+  "B-58-2-2-HYM2": {
+    "name": "高爆水雷",
+    "description": "Springloader 傷害 +30%"
+  },
+  "B-58-3-1-HP1": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "B-58-3-1-HP2": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "B-58-3-2-HP1": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "B-58-3-2-HP2": {
+    "name": "重型戰鬥部",
+    "description": "Rocket 傷害 +20%"
+  },
+  "B-59-1-1-HS1": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "B-59-1-1-HS2": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "B-59-1-2-HS1": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "B-59-1-2-HS2": {
+    "name": "重彈",
+    "description": "Culverin 傷害 +20%"
+  },
+  "B-59-2-1-HG1": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "B-59-2-1-HG2": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "B-59-2-2-HG1": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "B-59-2-2-HG2": {
+    "name": "重型霰彈",
+    "description": "Demicannon 傷害 +20%"
+  },
+  "B-60-1-1-HB1": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "B-60-1-1-HB2": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "B-60-1-2-HB1": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "B-60-1-2-HB2": {
+    "name": "重型弩箭",
+    "description": "弩炮傷害 +20%"
+  },
+  "B-60-2-1-VFSF1": {
+    "name": "海火烈性燃料",
+    "description": "海火傷害 +30%"
+  },
+  "B-60-2-1-VFSF2": {
+    "name": "海火烈性燃料",
+    "description": "海火傷害 +30%"
+  },
+  "B-60-2-2-VFSF1": {
+    "name": "海火烈性燃料",
+    "description": "海火傷害 +30%"
+  },
+  "B-60-2-2-TN1": {
+    "name": "縮束噴嘴",
+    "description": "Sea Fire 最大射程 +20%"
+  },
+  "B-60-2-2-VFSF2": {
+    "name": "海火烈性燃料",
+    "description": "海火傷害 +30%"
+  },
+  "B-61-1-1-HB1": {
+    "name": "重磅炸彈",
+    "description": "Bombard 傷害 +20%"
+  },
+  "B-61-1-1-HB2": {
+    "name": "重磅炸彈",
+    "description": "Bombard 傷害 +20%"
+  },
+  "B-61-1-2-HB1": {
+    "name": "重磅炸彈",
+    "description": "Bombard 傷害 +20%"
+  },
+  "B-61-1-2-BD1": {
+    "name": "轟炸訓練",
+    "description": "Bombard 裝填時間 -5%"
+  },
+  "B-61-1-2-HB2": {
+    "name": "重磅炸彈",
+    "description": "Bombard 傷害 +20%"
+  },
+  "B-61-2-AHOD1": {
+    "name": "全員登甲",
+    "description": "Bombard 傷害 +10% Long Gun 傷害 +10% Torpedo 傷害 +10%"
+  },
+  "B-61-2-1-HSLG1": {
+    "name": "長炮重彈",
+    "description": "Long Gun 傷害 +20%"
+  },
+  "B-61-2-1-LD1": {
+    "name": "長炮訓練",
+    "description": "Long Gun 裝填時間 -10%"
+  },
+  "B-61-2-1-HSLG2": {
+    "name": "長炮重彈",
+    "description": "Long Gun 傷害 +20%"
+  },
+  "B-61-2-2-HSLG1": {
+    "name": "長炮重彈",
+    "description": "Long Gun 傷害 +20%"
+  },
+  "B-61-2-2-HSLG2": {
+    "name": "長炮重彈",
+    "description": "Long Gun 傷害 +20%"
+  },
+  "B-61-3-1-LT1": {
+    "name": "高爆魚雷",
+    "description": "Torpedo 傷害 +20%"
+  },
+  "B-61-3-1-LT2": {
+    "name": "高爆魚雷",
+    "description": "Torpedo 傷害 +20%"
+  },
+  "B-61-3-2-LT1": {
+    "name": "高爆魚雷",
+    "description": "Torpedo 傷害 +20%"
+  },
+  "B-61-3-2-LT2": {
+    "name": "高爆魚雷",
+    "description": "Torpedo 傷害 +20%"
+  },
+  "effect_bloodFueled": {
+    "name": "血祭充能",
+    "description": "發射武器消耗4%船體生命值。 根據損失的船體生命值獲得傷害加成（在損失80%生命值時最高可達150%）。 所有裝備的武器獲得【幽靈脩復】特長。"
+  },
+  "effect_reactiveBulwark": {
+    "name": "反應堡壘",
+    "description": "緊固防禦3秒後引發爆炸，對250米範圍內的敵對目標造成相當於你護甲值1000%的傷害。"
+  },
+  "effect_deadlyMedicine": {
+    "name": "致命醫術",
+    "description": "將造成治療量的100%儲存爲額外傷害，最高可達100,000點。 儲存的額外傷害將在下一次成功擊中敵方目標時附加生效。"
+  },
+  "effect_finishingBlow": {
+    "name": "致命一擊",
+    "description": "對生命值低於最大值30%的敵人造成傷害提高10%。"
+  },
+  "effect_fervor": {
+    "name": "狂熱戰意",
+    "description": "在進行衝撞或船員攻擊後，武器傷害提升50%，持續5秒（冷卻時間15秒）。"
+  },
+  "effect_emergencyRepair": {
+    "name": "緊急維修",
+    "description": "當船體生命值降至50%以下時，在3秒內恢復30%的最大船體生命值（冷卻時間75秒）。"
+  },
+  "effect_fullSailAssault": {
+    "name": "滿帆突擊",
+    "description": "當航速超過12節時，武器傷害提升15%。 （如果航速下降，傷害增益仍將保留5秒）"
+  },
+  "effect_shieldOfContempt": {
+    "name": "蔑視之盾",
+    "description": "200米範圍內每有一名敵人（最多4名），護甲提升100點。"
+  },
+  "effect_battleMedic": {
+    "name": "戰地軍醫",
+    "description": "每裝備一件修理武器，武器傷害提升10%。 當裝備4件修理武器時，該效果提升至3倍。"
+  },
+  "effect_damageControl": {
+    "name": "損管控制",
+    "description": "脫離傷害狀態30秒後，緩慢修復少量重創傷害。"
+  },
+  "effect_criticalDamageControl": {
+    "name": "緊急損管控制",
+    "description": "脫離傷害狀態30秒後，每秒修復4%的重創傷害。"
+  },
+  "effect_patchworkRepairs": {
+    "name": "拼湊維修",
+    "description": "脫離傷害狀態30秒後，緩慢修復少量船體生命值。"
+  },
+  "effect_slowMending": {
+    "name": "緩慢修補",
+    "description": "脫離傷害狀態30秒後，每秒修復0.6%的船體生命值。"
+  },
+  "effect_windBarrier": {
+    "name": "疾風屏障",
+    "description": "當航速達到或超過15節時，承受傷害降低10%。"
+  },
+  "effect_feelNoPain": {
+    "name": "麻木無痛",
+    "description": "承受的傷害降低5%。"
+  },
+  "effect_trueGrit": {
+    "name": "百折不撓",
+    "description": "當船體生命值低於或等於30%時，承受的傷害降低10%。"
+  },
+  "effect_weaponDamageIncrease": {
+    "name": "Weapon Damage Increase",
+    "description": "武器傷害 +{{percentIncrease}}%"
+  },
+  "effect_bloodForBlood": {
+    "name": "血債血償",
+    "description": "每當你承受傷害時，武器傷害提升10%，持續30秒。"
+  },
+  "effect_statusEffectsDamageIncrease": {
+    "name": "Status Effects Damage Increase",
+    "description": "狀態異常傷害 +{{percentIncrease}}%"
+  },
+  "effect_statusEffectsLifetimeIncrease": {
+    "name": "Status Effects Lifetime Increase",
+    "description": "狀態異常持續時間 +{{percentIncrease}}%"
+  },
+  "effect_crewAttackDamageIncrease": {
+    "name": "Crew Attack Damage Increase",
+    "description": "船員攻擊傷害 +{{percentIncrease}}%"
+  },
+  "effect_burningDamageIncrease": {
+    "name": "Burning Damage Increase",
+    "description": "燃燒傷害 +{{percentIncrease}}%"
+  },
+  "effect_floodingDamageIncrease": {
+    "name": "Flooding Damage Increase",
+    "description": "進水傷害 +{{percentIncrease}}%"
+  },
+  "effect_piercingDamageIncrease": {
+    "name": "Piercing Damage Increase",
+    "description": "穿透傷害 +{{percentIncrease}}%"
+  },
+  "effect_explosiveDamageIncrease": {
+    "name": "Explosive Damage Increase",
+    "description": "爆炸傷害 +{{percentIncrease}}%"
+  },
+  "effect_electricDamageIncrease": {
+    "name": "Electric Damage Increase",
+    "description": "電擊傷害 +{{percentIncrease}}%"
+  },
+  "effect_toxicDamageIncrease": {
+    "name": "Toxic Damage Increase",
+    "description": "Toxic 傷害 +{{percentIncrease}}%"
+  },
+  "effect_repairPerShotIncrease": {
+    "name": "Repair Per Shot Increase",
+    "description": "單發修理量 +{{percentIncrease}}%"
+  },
+  "effect_crewStaminaRecoverySpeedIncrease": {
+    "name": "Crew Stamina Recovery Speed Increase",
+    "description": "船員耐力恢復速度 +{{percentIncrease}}%"
+  },
+  "effect_accelerationIncrease": {
+    "name": "Acceleration Increase",
+    "description": "加速度 +{{percentIncrease}}%"
+  },
+  "effect_turningSpeedIncrease": {
+    "name": "Turning Speed Increase",
+    "description": "轉向速度 +{{percentIncrease}}%"
+  },
+  "effect_adrenalSurge": {
+    "name": "腎上腺素激增",
+    "description": "Restores 10% 船體生命值 after a Crew Attack."
+  },
+  "effect_hullbreaker": {
+    "name": "破船者",
+    "description": "Increase Ramming 傷害 by 50% when sailing at 15kts or higher."
+  },
+  "effect_hullHealthIncrease": {
+    "name": "Hull Health Increase",
+    "description": "船體生命值 +{{increase}}"
+  },
+  "effect_armorRatingIncrease": {
+    "name": "Armor Rating Increase",
+    "description": "護甲值 Rating +{{increase}}"
+  },
+  "effect_braceStrengthIncrease": {
+    "name": "Brace Strength Increase",
+    "description": "緊固防禦強度 +{{percentIncrease}}%"
+  },
+  "effect_burningDamageResistance": {
+    "name": "Burning Damage Resistance",
+    "description": "燃燒抗性 +{{percentIncrease}}%"
+  },
+  "effect_floodingDamageResistance": {
+    "name": "Flooding Damage Resistance",
+    "description": "進水抗性 +{{percentIncrease}}%"
+  },
+  "effect_piercingDamageResistance": {
+    "name": "Piercing Damage Resistance",
+    "description": "穿透抗性 +{{percentIncrease}}%"
+  },
+  "effect_explosiveDamageResistance": {
+    "name": "Explosive Damage Resistance",
+    "description": "爆炸抗性 +{{percentIncrease}}%"
+  },
+  "effect_electricDamageResistance": {
+    "name": "Electric Damage Resistance",
+    "description": "電擊抗性 +{{percentIncrease}}%"
+  },
+  "effect_toxicDamageResistance": {
+    "name": "Toxic Damage Resistance",
+    "description": "Toxic 抗性 +{{percentIncrease}}%"
+  },
+  "effect_statusEffectsDamageReduction": {
+    "name": "Status Effects Damage Reduction",
+    "description": "狀態異常 傷害 Reduction -{{percentDecrease}}%"
+  },
+  "effect_ablazeDamageReduction": {
+    "name": "Ablaze Damage Reduction",
+    "description": "Ablaze 傷害 Reduction -{{percentDecrease}}%"
+  },
+  "effect_floodedDamageReduction": {
+    "name": "Flooded Damage Reduction",
+    "description": "Flooded 傷害 Reduction -{{percentDecrease}}%"
+  },
+  "effect_stormstruckDamageReduction": {
+    "name": "Stormstruck Damage Reduction",
+    "description": "Stormstruck 傷害 Reduction -{{percentDecrease}}%"
+  },
+  "effect_toxicLifetimeReduction": {
+    "name": "Toxic Lifetime Reduction",
+    "description": "Toxic Lifetime -{{percentDecrease}}%"
+  },
+  "effect_puncturedLifetimeReduction": {
+    "name": "Punctured Lifetime Reduction",
+    "description": "Punctured Lifetime -{{percentDecrease}}%"
+  },
+  "effect_shellShockedLifetimeReduction": {
+    "name": "Shell Shocked Lifetime Reduction",
+    "description": "Shell-Shocked Lifetime -{{percentDecrease}}%"
+  },
+  "effect_crewAttackRangeIncrease": {
+    "name": "Crew Attack Range Increase",
+    "description": "Crew Attack 射程 +{{percentIncrease}}%"
+  },
+  "effect_ramDamageIncrease": {
+    "name": "Ram Damage Increase",
+    "description": "Ram 傷害 +{{percentIncrease}}%"
+  },
+  "effect_burningDamagePenetrationIncrease": {
+    "name": "Burning Damage Penetration Increase",
+    "description": "Burning 傷害 Penetration +{{percentIncrease}}%"
+  },
+  "effect_floodingDamagePenetrationIncrease": {
+    "name": "Flooding Damage Penetration Increase",
+    "description": "Flooding 傷害 Penetration +{{percentIncrease}}%"
+  },
+  "effect_piercingDamagePenetrationIncrease": {
+    "name": "Piercing Damage Penetration Increase",
+    "description": "Piercing 傷害 Penetration +{{percentIncrease}}%"
+  },
+  "effect_explosiveDamagePenetrationIncrease": {
+    "name": "Explosive Damage Penetration Increase",
+    "description": "Explosive 傷害 Penetration +{{percentIncrease}}%"
+  },
+  "effect_electricDamagePenetrationIncrease": {
+    "name": "Electric Damage Penetration Increase",
+    "description": "Electric 傷害 Penetration +{{percentIncrease}}%"
+  },
+  "effect_toxicDamagePenetrationIncrease": {
+    "name": "Toxic Damage Penetration Increase",
+    "description": "Toxic 傷害 Penetration +{{percentIncrease}}%"
+  },
+  "effect_weaponReloadTimeDecrease": {
+    "name": "Weapon Reload Time Decrease",
+    "description": "武器裝填時間 -{{percentDecrease}}%"
+  },
+  "effect_weaponProjectileSpeedIncrease": {
+    "name": "Weapon Projectile Speed Increase",
+    "description": "Weapon Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_weaponCriticalDamageIncrease": {
+    "name": "Weapon Critical Damage Increase",
+    "description": "Weapon 弱點 (Critical) 傷害 +{{percentIncrease}}%"
+  },
+  "effect_mortarDamageIncrease": {
+    "name": "Mortar Damage Increase",
+    "description": "Mortar 傷害 +{{percentIncrease}}%"
+  },
+  "effect_rocketDamageIncrease": {
+    "name": "Rocket Damage Increase",
+    "description": "Rocket 傷害 +{{percentIncrease}}%"
+  },
+  "effect_springloaderDamageIncrease": {
+    "name": "Springloader Damage Increase",
+    "description": "Springloader 傷害 +{{percentIncrease}}%"
+  },
+  "effect_mortarTimeToTargetDecrease": {
+    "name": "Mortar Time To Target Decrease",
+    "description": "Mortar Time-to-Target -{{percentDecrease}}%"
+  },
+  "effect_mortarAreaOfEffectRadiusIncrease": {
+    "name": "Mortar Area Of Effect Radius Increase",
+    "description": "Mortar Area-of-Effect Radius +{{percentIncrease}}%"
+  },
+  "effect_springloaderMaximumRangeIncrease": {
+    "name": "Springloader Maximum Range Increase",
+    "description": "Springloader 最大射程 +{{percentIncrease}}%"
+  },
+  "effect_springloaderTimeToTargetDecrease": {
+    "name": "Springloader Time To Target Decrease",
+    "description": "Springloader Time-to-Target -{{percentDecrease}}%"
+  },
+  "effect_springloaderAreaOfEffectRadiusIncrease": {
+    "name": "Springloader Area Of Effect Radius Increase",
+    "description": "Springloader Area-of-Effect Radius +{{percentIncrease}}%"
+  },
+  "effect_rocketTimeToTargetDecrease": {
+    "name": "Rocket Time To Target Decrease",
+    "description": "Rocket Time-to-Target -{{percentDecrease}}%"
+  },
+  "effect_rocketMaximumRangeIncrease": {
+    "name": "Rocket Maximum Range Increase",
+    "description": "Rocket 最大射程 +{{percentIncrease}}%"
+  },
+  "effect_demicannonDamageIncrease": {
+    "name": "Demicannon Damage Increase",
+    "description": "Demicannon 傷害 +{{percentIncrease}}%"
+  },
+  "effect_culverinDamageIncrease": {
+    "name": "Culverin Damage Increase",
+    "description": "Culverin 傷害 +{{percentIncrease}}%"
+  },
+  "effect_culverinProjectileSpeedIncrease": {
+    "name": "Culverin Projectile Speed Increase",
+    "description": "Culverin Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_culverinMaximumRangeIncrease": {
+    "name": "Culverin Maximum Range Increase",
+    "description": "Culverin 最大射程 +{{percentIncrease}}%"
+  },
+  "effect_demicannonProjectileSpeedIncrease": {
+    "name": "Demicannon Projectile Speed Increase",
+    "description": "Demicannon Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_demicannonMaximumRangeIncrease": {
+    "name": "Demicannon Maximum Range Increase",
+    "description": "Demicannon 最大射程 +{{percentIncrease}}%"
+  },
+  "effect_ballistaDamageIncrease": {
+    "name": "Ballista Damage Increase",
+    "description": "弩炮傷害 +{{percentIncrease}}%"
+  },
+  "effect_seaFireDamageIncrease": {
+    "name": "Sea Fire Damage Increase",
+    "description": "海火傷害 +{{percentIncrease}}%"
+  },
+  "effect_ballistaProjectileSpeedIncrease": {
+    "name": "Ballista Projectile Speed Increase",
+    "description": "Ballista Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_ballistaCriticalDamageIncrease": {
+    "name": "Ballista Critical Damage Increase",
+    "description": "Ballista 弱點 (Critical) 傷害 +{{percentIncrease}}%"
+  },
+  "effect_seaFireMaximumRangeIncrease": {
+    "name": "Sea Fire Maximum Range Increase",
+    "description": "Sea Fire 最大射程 +{{percentIncrease}}%"
+  },
+  "effect_seaFireMagazineSizeIncrease": {
+    "name": "Sea Fire Magazine Size Increase",
+    "description": "Sea Fire Magazine Size +{{percentIncrease}}%"
+  },
+  "effect_seaFireReloadTimeDecrease": {
+    "name": "Sea Fire Reload Time Decrease",
+    "description": "Sea Fire 裝填時間 -{{percentDecrease}}%"
+  },
+  "effect_bombardDamageIncrease": {
+    "name": "Bombard Damage Increase",
+    "description": "Bombard 傷害 +{{percentIncrease}}%"
+  },
+  "effect_longGunDamageIncrease": {
+    "name": "Long Gun Damage Increase",
+    "description": "Long Gun 傷害 +{{percentIncrease}}%"
+  },
+  "effect_torpedoDamageIncrease": {
+    "name": "Torpedo Damage Increase",
+    "description": "Torpedo 傷害 +{{percentIncrease}}%"
+  },
+  "effect_bombardReloadTimeDecrease": {
+    "name": "Bombard Reload Time Decrease",
+    "description": "Bombard 裝填時間 -{{percentDecrease}}%"
+  },
+  "effect_bombardAreaOfEffectRadiusIncrease": {
+    "name": "Bombard Area Of Effect Radius Increase",
+    "description": "Bombard Area-of-Effect Radius +{{percentIncrease}}%"
+  },
+  "effect_bombardProjectileSpeedIncrease": {
+    "name": "Bombard Projectile Speed Increase",
+    "description": "Bombard Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_longGunReloadTimeDecrease": {
+    "name": "Long Gun Reload Time Decrease",
+    "description": "Long Gun 裝填時間 -{{percentDecrease}}%"
+  },
+  "effect_longGunProjectileSpeedIncrease": {
+    "name": "Long Gun Projectile Speed Increase",
+    "description": "Long Gun Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_longGunCriticalDamageIncrease": {
+    "name": "Long Gun Critical Damage Increase",
+    "description": "Long Gun 弱點 (Critical) 傷害 +{{percentIncrease}}%"
+  },
+  "effect_torpedoProjectileSpeedIncrease": {
+    "name": "Torpedo Projectile Speed Increase",
+    "description": "Torpedo Projectile Speed +{{percentIncrease}}%"
+  },
+  "effect_torpedoMaximumRangeIncrease": {
+    "name": "Torpedo Maximum Range Increase",
+    "description": "Torpedo 最大射程 +{{percentIncrease}}%"
+  },
+  "effect_statusEffectsChargeRateIncrease": {
+    "name": "Status Effects Charge Rate Increase",
+    "description": "狀態異常 Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_ablazeDamageIncrease": {
+    "name": "Ablaze Damage Increase",
+    "description": "Ablaze 傷害 +{{percentIncrease}}%"
+  },
+  "effect_ablazeChargeRateIncrease": {
+    "name": "Ablaze Charge Rate Increase",
+    "description": "Ablaze Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_floodedDamageIncrease": {
+    "name": "Flooded Damage Increase",
+    "description": "Flooded 傷害 +{{percentIncrease}}%"
+  },
+  "effect_floodedChargeRateIncrease": {
+    "name": "Flooded Charge Rate Increase",
+    "description": "Flooded Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_stormstruckDamageIncrease": {
+    "name": "Stormstruck Damage Increase",
+    "description": "Stormstruck 傷害 +{{percentIncrease}}%"
+  },
+  "effect_stormstruckChargeRateIncrease": {
+    "name": "Stormstruck Charge Rate Increase",
+    "description": "Stormstruck Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_toxicLifetimeIncrease": {
+    "name": "Toxic Lifetime Increase",
+    "description": "Toxic Lifetime +{{percentIncrease}}%"
+  },
+  "effect_toxicChargeRateIncrease": {
+    "name": "Toxic Charge Rate Increase",
+    "description": "Toxic Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_puncturedLifetimeIncrease": {
+    "name": "Punctured Lifetime Increase",
+    "description": "Punctured Lifetime +{{percentIncrease}}%"
+  },
+  "effect_puncturedChargeRateIncrease": {
+    "name": "Punctured Charge Rate Increase",
+    "description": "Punctured Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_shellShockedLifetimeIncrease": {
+    "name": "Shell Shocked Lifetime Increase",
+    "description": "Shell-Shocked Lifetime +{{percentIncrease}}%"
+  },
+  "effect_shellShockedChargeRateIncrease": {
+    "name": "Shell Shocked Charge Rate Increase",
+    "description": "Shell-Shocked Charge Rate +{{percentIncrease}}%"
+  },
+  "effect_braceRecoveryIncrease": {
+    "name": "Brace Recovery Increase",
+    "description": "Brace Recovery +{{percentIncrease}}%"
+  },
+  "effect_staminaUseWhileBracingDecrease": {
+    "name": "Stamina Use While Bracing Decrease",
+    "description": "耐力 use while Bracing -{{percentDecrease}}%"
+  },
+  "effect_impetusOrder": {
+    "name": "動力指令",
+    "description": "現在可以獲取動力層數。 達到5層動力時，消耗5層以提升轉向速度、加速度和最高航速5%，持續30秒。 當另一個指令特長被激活時，此增益不再消耗動力並永久生效。"
+  },
+  "effect_batteringForce": {
+    "name": "衝撞之力",
+    "description": "在進行衝撞或船員攻擊時生成5層動力（上限10層）。 生成動力可在10秒內使武器傷害與治療量提升50%。"
+  },
+  "effect_relentlessForce": {
+    "name": "無情之力",
+    "description": "武器每擊中敵人8次生成1層動力（上限10層）。半加農炮需要4倍擊中次數。 生成動力可在5秒內使武器傷害與治療量提升15%。"
+  },
+  "effect_unstoppableForce": {
+    "name": "勢不可擋",
+    "description": "每航行110米生成1層動力（上限10層）。 當航速超過10節時，每超1節航速，生成動力可使武器傷害與治療量提升3%，持續5秒。"
+  },
+  "effect_heavyBombardment": {
+    "name": "重裝轟炸",
+    "description": "生成動力可在10秒內使所有武器範圍傷害半徑增加5米（上限5層）。 達到滿層時，所有武器的次要傷害提升20%。"
+  },
+  "effect_weaknessFinder": {
+    "name": "破綻尋覓",
+    "description": "生成動力可在5秒內賦予20%幾率將任何武器攻擊轉化爲弱點命中。"
+  },
+  "effect_rejuvenation": {
+    "name": "煥發新生",
+    "description": "生成動力可恢復3%最大生命值。"
+  },
+  "effect_stormblazeOrder": {
+    "name": "風暴烈焰指令",
+    "description": "達到10層動力時，下一次武器擊中消耗10層動力並在目標處引發範圍爆炸，對250米內所有敵人造成相當於你最大船體生命值150%的燃燒與電擊傷害。 衝撞也可以觸發此效果且不消耗動力。"
+  },
+  "effect_firepowerOrder": {
+    "name": "火力指令",
+    "description": "達到10層動力時，發射輔助武器將消耗10層動力並在8秒內將所有武器命中轉化爲弱點命中。"
+  },
+  "effect_mendingOrder": {
+    "name": "修復指令",
+    "description": "達到5層動力時，緊固防禦2秒後鬆開將消耗5層動力並釋放範圍治療，爲你及350米內所有友軍恢復30%最大船體生命值。 生命值低於50%或陣亡時也會自動觸發此效果。"
+  },
+  "effect_fireAndSteel": {
+    "name": "烈火與鋼鐵",
+    "description": "對目標施加任何元素狀態異常時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "effect_vitalStrike": {
+    "name": "要害打擊",
+    "description": "擊破弱點時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "effect_killingDrive": {
+    "name": "殲敵動力",
+    "description": "摧毀目標時生成1層動力。 該效果每5秒只能觸發一次。"
+  },
+  "effect_hardenedMomentum": {
+    "name": "強化衝力",
+    "description": "當動力層數達到或超過5層時，護甲係數提升5%。"
+  },
+  "effect_adaptiveArsenal": {
+    "name": "適應性軍備",
+    "description": "每裝備一種不同類型的武器，武器傷害提升5%"
+  },
+  "effect_enduringBrace": {
+    "name": "持久緊固",
+    "description": "每擁有1000點最大生命值，緊固強度恢復速度提升0.01%。"
+  },
+  "effect_volatileArsenal": {
+    "name": "烈性武庫",
+    "description": "Increases elemental damage by 5% for each Weapon element equipped. Includes Elements gained from Weapon modifications"
+  },
+  "effect_loadedOdds": {
+    "name": "勝算在握",
+    "description": "Adds a chance of 10% to generate an additional stack of Impetus whenever an Impetus stack is generated."
+  },
+  "effect_fortifiedHull": {
+    "name": "堅固船體",
+    "description": "For every 2000 points of 緊固防禦強度, increase incoming Repair Amount by 1% (max 10%)."
+  },
+  "effect_battleTempo": {
+    "name": "戰鬥節奏",
+    "description": "Increases the maximum stacks of Impetus by 5."
+  },
+  "effect_revitalizedFury": {
+    "name": "重燃狂怒",
+    "description": "Increases 武器傷害 and Repair Amount by 15% for 5s when receiving a heal of 3% of your Maximum Health or greater."
+  },
+  "effect_careAndCarnage": {
+    "name": "慈悲與殺戮",
+    "description": "For every 10% increases of Repair per Shot, increase 武器傷害 by 5% up to a maximum of 30%."
+  },
+  "effect_incomingRepairMultiplierIncrease": {
+    "name": "Incoming Repair Multiplier Increase",
+    "description": "Incoming Repair Multiplier +{{percentIncrease}}%"
+  }
+}
