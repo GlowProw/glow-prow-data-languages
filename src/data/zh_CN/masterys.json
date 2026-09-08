@@ -4,7 +4,7 @@
     "description": "武器发射将消耗4%船体总生命值。 同时根据已损失的船体生命值获得伤害加成（在损失80%生命值时伤害加成可达最高150%）。 所有已装备的武器获得【幽灵修复】特长。"
   },
   "reactiveBulwark": {
-    "name": "反应堡垒",
+    "name": "反应屏障",
     "description": "紧固防御3秒后引发爆炸，对250米范围内的敌对目标造成相当于你护甲值1000%的伤害。"
   },
   "deadlyMedicine": {
@@ -17,14 +17,14 @@
   },
   "fervor": {
     "name": "狂热",
-    "description": "在进行冲撞或船员攻击后，武器伤害提升50%，持续5秒（冷却时间15秒）。"
+    "description": "在进行冲撞或船员突击后，武器伤害提升50%，持续5秒（冷却时间15秒）。"
   },
   "emergencyRepair": {
     "name": "紧急维修",
     "description": "当船体生命值降至50%以下时，在3秒内恢复30%的最大船体生命值（冷却时间75秒）。"
   },
   "fullSailAssault": {
-    "name": "满帆突击",
+    "name": "全速出击",
     "description": "当航速超过12节时，武器伤害提升15%。 （如果航速下降，伤害增益仍将保留5秒）"
   },
   "shieldOfContempt": {
@@ -32,36 +32,36 @@
     "description": "200米范围内每有一名敌人（最多4名），护甲提升100点。"
   },
   "battleMedic": {
-    "name": "战地军医",
-    "description": "每装备一件修理武器，武器伤害提升10%。 当装备4件修理武器时，该效果提升至3倍。"
+    "name": "战地医师",
+    "description": "每装备一件辅助维修武器，武器伤害提升10%。 当装备4件维修类武器时，该效果提升至3倍。"
   },
   "damageControl": {
-    "name": "损管控制",
+    "name": "损管",
     "description": "脱离伤害状态30秒后，缓慢修复少量重创伤害。"
   },
   "criticalDamageControl": {
-    "name": "紧急损管控制",
+    "name": "紧急损管",
     "description": "脱离伤害状态30秒后，每秒修复4%的重创伤害。"
   },
   "patchworkRepairs": {
-    "name": "拼凑维修",
-    "description": "脱离伤害状态30秒后，缓慢修复少量船体生命值。"
+    "name": "应急修缮",
+    "description": "脱离战斗状态30秒后，缓慢修复少量船体生命值。"
   },
   "slowMending": {
-    "name": "缓慢修补",
+    "name": "自愈",
     "description": "脱离战斗状态30秒后，每秒修复0.6%的船体生命值。"
   },
   "windBarrier": {
-    "name": "疾风屏障",
-    "description": "当航速达到或超过15节时，承受伤害降低10%。"
+    "name": "风之壁垒",
+    "description": "当航速达到或超过15节时，所受伤害降低10%。"
   },
   "feelNoPain": {
-    "name": "麻木无痛",
+    "name": "钢铁意志",
     "description": "承受的伤害降低5%。"
   },
   "trueGrit": {
-    "name": "百折不挠",
-    "description": "当船体生命值低于或等于30%时，承受的伤害降低10%。"
+    "name": "铁血意志",
+    "description": "当船体生命值低于或等于30%时，所受的伤害降低10%。"
   },
   "hardenedMunitions": {
     "name": "硬化弹药",
@@ -69,7 +69,7 @@
   },
   "bloodForBlood": {
     "name": "血债血偿",
-    "description": "每当你承受伤害时，武器伤害提升10%，持续30秒。"
+    "description": "每当你受到伤害时，武器伤害提升10%，持续30秒。"
   },
   "viciousMunitions1": {
     "name": "恶毒弹药 I",
@@ -80,27 +80,27 @@
     "description": "状态异常伤害 +15% 状态异常持续时间 +15%"
   },
   "veteranRaiders": {
-    "name": "老练突袭者",
-    "description": "船员攻击伤害 +20%"
+    "name": "资深海盗",
+    "description": "船员突击所造成的伤害 +20%"
   },
   "specializedMunitions1": {
     "name": "特种弹药 I",
-    "description": "燃烧伤害 +30% 进水伤害 +30% 穿透伤害 +30% 爆炸伤害 +30% 电击伤害 +30% Toxic 伤害 +30%"
+    "description": "燃烧伤害 +30% 进水伤害 +30% 穿透伤害 +30% 爆炸伤害 +30% 电击伤害 +30% 毒素伤害 +30%"
   },
   "specializedMunitions2": {
     "name": "特种弹药 II",
-    "description": "燃烧伤害 +30% 进水伤害 +30% 穿透伤害 +30% 爆炸伤害 +30% 电击伤害 +30% Toxic 伤害 +30%"
+    "description": "燃烧伤害 +30% 进水伤害 +30% 穿透伤害 +30% 爆炸伤害 +30% 电击伤害 +30% 毒素伤害 +30%"
   },
   "adrenalSurge": {
     "name": "肾上腺素激增",
-    "description": "Restores 10% 船体生命值 after a Crew Attack."
+    "description": " 在发动船员突击后，恢复10% 船体生命值 "
   },
   "hullbreaker": {
     "name": "破船者",
     "description": "Increase Ramming 伤害 by 50% when sailing at 15kts or higher."
   },
   "targetedRepairs": {
-    "name": "针对维修",
+    "name": "针对性维修",
     "description": "单发修理量 +3%"
   },
   "crewFitness": {
@@ -121,7 +121,7 @@
   },
   "hullPlating": {
     "name": "船体装甲板",
-    "description": "护甲值 Rating +200"
+    "description": "护甲值  +200"
   },
   "ironStance": {
     "name": "钢铁姿态",
@@ -129,18 +129,18 @@
   },
   "versatileDefenses": {
     "name": "全能防御",
-    "description": "燃烧抗性 +2% 进水抗性 +2% 穿透抗性 +2% 爆炸抗性 +2% 电击抗性 +2% Toxic 抗性 +2%"
+    "description": "燃烧抗性 +2% 进水抗性 +2% 穿透抗性 +2% 爆炸抗性 +2% 电击抗性 +2% 毒抗性 +2%"
   },
   "antiCorrosiveCoating": {
     "name": "防腐涂层",
-    "description": "Toxic 抗性 +5%"
+    "description": "毒抗性 +5%"
   },
   "layeredPlating": {
     "name": "复合装甲",
     "description": "穿透抗性 +5%"
   },
   "insulatedGunwales": {
-    "name": "绝缘舷侧",
+    "name": "绝缘船舷",
     "description": "电击抗性 +5%"
   },
   "quickSealant": {
@@ -156,32 +156,32 @@
     "description": "燃烧抗性 +5%"
   },
   "reactiveMeasures": {
-    "name": "应对措施",
-    "description": "状态异常 伤害 Reduction -2%"
+    "name": "反应式装甲",
+    "description": "所受异常类状态伤害降低 -2%"
   },
   "fireDrills": {
-    "name": "射击操练",
-    "description": "Ablaze 伤害 Reduction -5%"
+    "name": "防火训练",
+    "description": "减少5%所受的灼烧伤害"
   },
   "floodingDrills": {
-    "name": "进水战术",
-    "description": "Flooded 伤害 Reduction -5%"
+    "name": "防进水训练",
+    "description": "减少5%所受的进水伤害"
   },
   "insulatedGear": {
     "name": "绝缘齿轮",
-    "description": "Stormstruck 伤害 Reduction -5%"
+    "description": "减少5%所受的雷暴伤害"
   },
   "firstAidTraining": {
     "name": "急救训练",
-    "description": "Toxic Lifetime -5%"
+    "description": "减少5%所受中毒持续时间"
   },
   "breachTraining": {
-    "name": "破障训练",
-    "description": "Punctured Lifetime -5%"
+    "name": "穿甲训练",
+    "description": "贯穿耐久惩罚-5%"
   },
   "protectiveMeasures": {
     "name": "防护举措",
-    "description": "Shell-Shocked Lifetime -5%"
+    "description": "减少5%弹震影响时间"
   },
   "savageAttacks": {
     "name": "野蛮攻势",
@@ -397,7 +397,7 @@
   },
   "precisionShot": {
     "name": "精准射击",
-    "description": "长管炮弱点(暴击)伤害 +10%"
+    "description": "长管弱点伤害 +10%"
   },
   "heavyShotLG": {
     "name": "长炮重弹",
