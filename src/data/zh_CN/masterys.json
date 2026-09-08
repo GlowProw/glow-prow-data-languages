@@ -1,22 +1,22 @@
 {
   "bloodFueled": {
     "name": "血祭充能",
-    "description": "发射武器消耗4%船体生命值。 根据损失的船体生命值获得伤害加成（在损失80%生命值时最高可达150%）。 所有装备的武器获得【幽灵修复】特长。"
+    "description": "武器发射将消耗4%船体总生命值。 同时根据已损失的船体生命值获得伤害加成（在损失80%生命值时伤害加成可达最高150%）。 所有已装备的武器获得【幽灵修复】特长。"
   },
   "reactiveBulwark": {
     "name": "反应堡垒",
     "description": "紧固防御3秒后引发爆炸，对250米范围内的敌对目标造成相当于你护甲值1000%的伤害。"
   },
   "deadlyMedicine": {
-    "name": "致命医术",
+    "name": "死亡合剂",
     "description": "将造成治疗量的100%储存为额外伤害，最高可达100,000点。 储存的额外伤害将在下一次成功击中敌方目标时附加生效。"
   },
   "finishingBlow": {
     "name": "致命一击",
-    "description": "对生命值低于最大值30%的敌人造成伤害提高10%。"
+    "description": "对低于30%最大生命值的敌人造成的伤害提高10%。"
   },
   "fervor": {
-    "name": "狂热战意",
+    "name": "狂热",
     "description": "在进行冲撞或船员攻击后，武器伤害提升50%，持续5秒（冷却时间15秒）。"
   },
   "emergencyRepair": {
@@ -49,7 +49,7 @@
   },
   "slowMending": {
     "name": "缓慢修补",
-    "description": "脱离伤害状态30秒后，每秒修复0.6%的船体生命值。"
+    "description": "脱离战斗状态30秒后，每秒修复0.6%的船体生命值。"
   },
   "windBarrier": {
     "name": "疾风屏障",
@@ -516,7 +516,7 @@
     "description": "达到10层动力时，下一次武器击中消耗10层动力并在目标处引发范围爆炸，对250米内所有敌人造成相当于你最大船体生命值150%的燃烧与电击伤害。 冲撞也可以触发此效果且不消耗动力。"
   },
   "firepowerOrder": {
-    "name": "火力指令",
+    "name": "火力号令",
     "description": "达到10层动力时，发射辅助武器将消耗10层动力并在8秒内将所有武器命中转化为弱点命中。"
   },
   "mendingOrder": {
@@ -576,367 +576,367 @@
     "description": "Incoming Repair Multiplier +3%"
   },
   "weaponDamageIncrease": {
-    "name": "Weapon Damage Increase",
-    "description": "Weapon Damage +{{percentIncrease}}%"
+    "name": "武器伤害提升",
+    "description": "武器伤害 +{{percentIncrease}}%"
   },
   "statusEffectsDamageIncrease": {
-    "name": "Status Effects Damage Increase",
-    "description": "Status Effects Damage +{{percentIncrease}}%"
+    "name": "异常效果伤害提升",
+    "description": "异常效果伤害 +{{percentIncrease}}%"
   },
   "statusEffectsLifetimeIncrease": {
-    "name": "Status Effects Lifetime Increase",
-    "description": "Status Effects Lifetime +{{percentIncrease}}%"
+    "name": "异常效果持续时间提升",
+    "description": "异常效果持续时间 +{{percentIncrease}}%"
   },
   "crewAttackDamageIncrease": {
-    "name": "Crew Attack Damage Increase",
-    "description": "Crew Attack Damage +{{percentIncrease}}%"
+    "name": "船员攻击伤害提升",
+    "description": "船员攻击伤害 +{{percentIncrease}}%"
   },
   "burningDamageIncrease": {
-    "name": "Burning Damage Increase",
-    "description": "Burning Damage +{{percentIncrease}}%"
+    "name": "燃烧伤害提升",
+    "description": "燃烧伤害 +{{percentIncrease}}%"
   },
   "floodingDamageIncrease": {
-    "name": "Flooding Damage Increase",
-    "description": "Flooding Damage +{{percentIncrease}}%"
+    "name": "进水伤害提升",
+    "description": "进水伤害 +{{percentIncrease}}%"
   },
   "piercingDamageIncrease": {
-    "name": "Piercing Damage Increase",
-    "description": "Piercing Damage +{{percentIncrease}}%"
+    "name": "穿刺伤害提升",
+    "description": "穿刺伤害 +{{percentIncrease}}%"
   },
   "explosiveDamageIncrease": {
-    "name": "Explosive Damage Increase",
-    "description": "Explosive Damage +{{percentIncrease}}%"
+    "name": "爆炸伤害提升",
+    "description": "爆炸伤害 +{{percentIncrease}}%"
   },
   "electricDamageIncrease": {
-    "name": "Electric Damage Increase",
-    "description": "Electric Damage +{{percentIncrease}}%"
+    "name": "电击伤害提升",
+    "description": "电击伤害 +{{percentIncrease}}%"
   },
   "toxicDamageIncrease": {
-    "name": "Toxic Damage Increase",
-    "description": "Toxic Damage +{{percentIncrease}}%"
+    "name": "毒素伤害提升",
+    "description": "毒素伤害 +{{percentIncrease}}%"
   },
   "repairPerShotIncrease": {
-    "name": "Repair Per Shot Increase",
-    "description": "Repair per Shot +{{percentIncrease}}%"
+    "name": "每次射击修复量提升",
+    "description": "每次射击修复量 +{{percentIncrease}}%"
   },
   "crewStaminaRecoverySpeedIncrease": {
-    "name": "Crew Stamina Recovery Speed Increase",
-    "description": "Crew Stamina Recovery Speed +{{percentIncrease}}%"
+    "name": "船员耐力回复速度提升",
+    "description": "船员耐力回复速度 +{{percentIncrease}}%"
   },
   "accelerationIncrease": {
-    "name": "Acceleration Increase",
-    "description": "Acceleration +{{percentIncrease}}%"
+    "name": "加速度提升",
+    "description": "加速度 +{{percentIncrease}}%"
   },
   "turningSpeedIncrease": {
-    "name": "Turning Speed Increase",
-    "description": "Turning Speed +{{percentIncrease}}%"
+    "name": "转向速度提升",
+    "description": "转向速度 +{{percentIncrease}}%"
   },
   "hullHealthIncrease": {
-    "name": "Hull Health Increase",
-    "description": "Hull Health +{{increase}}"
+    "name": "船体生命值提升",
+    "description": "船体生命值 +{{increase}}"
   },
   "armorRatingIncrease": {
-    "name": "Armor Rating Increase",
-    "description": "Armor Rating +{{increase}}"
+    "name": "护甲等级提升",
+    "description": "护甲等级 +{{increase}}"
   },
   "braceStrengthIncrease": {
-    "name": "Brace Strength Increase",
-    "description": "Brace Strength +{{percentIncrease}}%"
+    "name": "紧固强度提升",
+    "description": "紧固强度 +{{percentIncrease}}%"
   },
   "burningDamageResistance": {
-    "name": "Burning Damage Resistance",
-    "description": "Burning Resistance +{{percentIncrease}}%"
+    "name": "燃烧抗性提升",
+    "description": "燃烧抗性 +{{percentIncrease}}%"
   },
   "floodingDamageResistance": {
-    "name": "Flooding Damage Resistance",
-    "description": "Flooding Resistance +{{percentIncrease}}%"
+    "name": "进水抗性提升",
+    "description": "进水抗性 +{{percentIncrease}}%"
   },
   "piercingDamageResistance": {
-    "name": "Piercing Damage Resistance",
-    "description": "Piercing Resistance +{{percentIncrease}}%"
+    "name": "穿刺抗性提升",
+    "description": "穿刺抗性 +{{percentIncrease}}%"
   },
   "explosiveDamageResistance": {
-    "name": "Explosive Damage Resistance",
-    "description": "Explosive Resistance +{{percentIncrease}}%"
+    "name": "爆炸抗性提升",
+    "description": "爆炸抗性 +{{percentIncrease}}%"
   },
   "electricDamageResistance": {
-    "name": "Electric Damage Resistance",
-    "description": "Electric Resistance +{{percentIncrease}}%"
+    "name": "电击抗性提升",
+    "description": "电击抗性 +{{percentIncrease}}%"
   },
   "toxicDamageResistance": {
-    "name": "Toxic Damage Resistance",
-    "description": "Toxic Resistance +{{percentIncrease}}%"
+    "name": "毒素抗性提升",
+    "description": "毒素抗性 +{{percentIncrease}}%"
   },
   "statusEffectsDamageReduction": {
-    "name": "Status Effects Damage Reduction",
-    "description": "Status Effects Damage Reduction -{{percentDecrease}}%"
+    "name": "异常效果伤害减免",
+    "description": "异常效果伤害减少 -{{percentDecrease}}%"
   },
   "ablazeDamageReduction": {
-    "name": "Ablaze Damage Reduction",
-    "description": "Ablaze Damage Reduction -{{percentDecrease}}%"
+    "name": "燃烧伤害减免",
+    "description": "燃烧伤害减少 -{{percentDecrease}}%"
   },
   "floodedDamageReduction": {
-    "name": "Flooded Damage Reduction",
-    "description": "Flooded Damage Reduction -{{percentDecrease}}%"
+    "name": "进水伤害减免",
+    "description": "进水伤害减少 -{{percentDecrease}}%"
   },
   "stormstruckDamageReduction": {
-    "name": "Stormstruck Damage Reduction",
-    "description": "Stormstruck Damage Reduction -{{percentDecrease}}%"
+    "name": "暴风伤害减免",
+    "description": "暴风伤害减少 -{{percentDecrease}}%"
   },
   "toxicLifetimeReduction": {
-    "name": "Toxic Lifetime Reduction",
-    "description": "Toxic Lifetime -{{percentDecrease}}%"
+    "name": "毒素持续时间缩减",
+    "description": "毒素持续时间 -{{percentDecrease}}%"
   },
   "puncturedLifetimeReduction": {
-    "name": "Punctured Lifetime Reduction",
-    "description": "Punctured Lifetime -{{percentDecrease}}%"
+    "name": "穿孔持续时间缩减",
+    "description": "穿孔持续时间 -{{percentDecrease}}%"
   },
   "shellShockedLifetimeReduction": {
-    "name": "Shell Shocked Lifetime Reduction",
-    "description": "Shell-Shocked Lifetime -{{percentDecrease}}%"
+    "name": "炮震持续时间缩减",
+    "description": "炮震持续时间 -{{percentDecrease}}%"
   },
   "crewAttackRangeIncrease": {
-    "name": "Crew Attack Range Increase",
-    "description": "Crew Attack Range +{{percentIncrease}}%"
+    "name": "船员攻击范围提升",
+    "description": "船员攻击范围 +{{percentIncrease}}%"
   },
   "ramDamageIncrease": {
-    "name": "Ram Damage Increase",
-    "description": "Ram Damage +{{percentIncrease}}%"
+    "name": "冲撞伤害提升",
+    "description": "冲撞伤害 +{{percentIncrease}}%"
   },
   "burningDamagePenetrationIncrease": {
-    "name": "Burning Damage Penetration Increase",
-    "description": "Burning Damage Penetration +{{percentIncrease}}%"
+    "name": "燃烧穿透提升",
+    "description": "燃烧伤害穿透 +{{percentIncrease}}%"
   },
   "floodingDamagePenetrationIncrease": {
-    "name": "Flooding Damage Penetration Increase",
-    "description": "Flooding Damage Penetration +{{percentIncrease}}%"
+    "name": "进水穿透提升",
+    "description": "进水伤害穿透 +{{percentIncrease}}%"
   },
   "piercingDamagePenetrationIncrease": {
-    "name": "Piercing Damage Penetration Increase",
-    "description": "Piercing Damage Penetration +{{percentIncrease}}%"
+    "name": "穿刺穿透提升",
+    "description": "穿刺伤害穿透 +{{percentIncrease}}%"
   },
   "explosiveDamagePenetrationIncrease": {
-    "name": "Explosive Damage Penetration Increase",
-    "description": "Explosive Damage Penetration +{{percentIncrease}}%"
+    "name": "爆炸穿透提升",
+    "description": "爆炸伤害穿透 +{{percentIncrease}}%"
   },
   "electricDamagePenetrationIncrease": {
-    "name": "Electric Damage Penetration Increase",
-    "description": "Electric Damage Penetration +{{percentIncrease}}%"
+    "name": "电击穿透提升",
+    "description": "电击伤害穿透 +{{percentIncrease}}%"
   },
   "toxicDamagePenetrationIncrease": {
-    "name": "Toxic Damage Penetration Increase",
-    "description": "Toxic Damage Penetration +{{percentIncrease}}%"
+    "name": "毒素穿透提升",
+    "description": "毒素伤害穿透 +{{percentIncrease}}%"
   },
   "weaponReloadTimeDecrease": {
-    "name": "Weapon Reload Time Decrease",
-    "description": "Weapon Reload Time -{{percentDecrease}}%"
+    "name": "武器装填时间缩减",
+    "description": "武器装填时间 -{{percentDecrease}}%"
   },
   "weaponProjectileSpeedIncrease": {
-    "name": "Weapon Projectile Speed Increase",
-    "description": "Weapon Projectile Speed +{{percentIncrease}}%"
+    "name": "武器弹速提升",
+    "description": "武器弹丸速度 +{{percentIncrease}}%"
   },
   "weaponCriticalDamageIncrease": {
-    "name": "Weapon Critical Damage Increase",
-    "description": "Weapon Weakpoint (Critical) Damage +{{percentIncrease}}%"
+    "name": "武器弱点伤害提升",
+    "description": "武器弱点（暴击）伤害 +{{percentIncrease}}%"
   },
   "mortarDamageIncrease": {
-    "name": "Mortar Damage Increase",
-    "description": "Mortar Damage +{{percentIncrease}}%"
+    "name": "迫击炮伤害提升",
+    "description": "迫击炮伤害 +{{percentIncrease}}%"
   },
   "rocketDamageIncrease": {
-    "name": "Rocket Damage Increase",
-    "description": "Rocket Damage +{{percentIncrease}}%"
+    "name": "火箭伤害提升",
+    "description": "火箭伤害 +{{percentIncrease}}%"
   },
   "springloaderDamageIncrease": {
-    "name": "Springloader Damage Increase",
-    "description": "Springloader Damage +{{percentIncrease}}%"
+    "name": "弹射器伤害提升",
+    "description": "弹射器伤害 +{{percentIncrease}}%"
   },
   "mortarTimeToTargetDecrease": {
-    "name": "Mortar Time To Target Decrease",
-    "description": "Mortar Time-to-Target -{{percentDecrease}}%"
+    "name": "迫击炮飞行时间缩减",
+    "description": "迫击炮飞行时间 -{{percentDecrease}}%"
   },
   "mortarAreaOfEffectRadiusIncrease": {
-    "name": "Mortar Area Of Effect Radius Increase",
-    "description": "Mortar Area-of-Effect Radius +{{percentIncrease}}%"
+    "name": "迫击炮爆炸范围提升",
+    "description": "迫击炮爆炸范围 +{{percentIncrease}}%"
   },
   "springloaderMaximumRangeIncrease": {
-    "name": "Springloader Maximum Range Increase",
-    "description": "Springloader Maximum Range +{{percentIncrease}}%"
+    "name": "弹射器最大射程提升",
+    "description": "弹射器最大射程 +{{percentIncrease}}%"
   },
   "springloaderTimeToTargetDecrease": {
-    "name": "Springloader Time To Target Decrease",
-    "description": "Springloader Time-to-Target -{{percentDecrease}}%"
+    "name": "弹射器飞行时间缩减",
+    "description": "弹射器飞行时间 -{{percentDecrease}}%"
   },
   "springloaderAreaOfEffectRadiusIncrease": {
-    "name": "Springloader Area Of Effect Radius Increase",
-    "description": "Springloader Area-of-Effect Radius +{{percentIncrease}}%"
+    "name": "弹射器爆炸范围提升",
+    "description": "弹射器爆炸范围 +{{percentIncrease}}%"
   },
   "rocketTimeToTargetDecrease": {
-    "name": "Rocket Time To Target Decrease",
-    "description": "Rocket Time-to-Target -{{percentDecrease}}%"
+    "name": "火箭飞行时间缩减",
+    "description": "火箭飞行时间 -{{percentDecrease}}%"
   },
   "rocketMaximumRangeIncrease": {
-    "name": "Rocket Maximum Range Increase",
-    "description": "Rocket Maximum Range +{{percentIncrease}}%"
+    "name": "火箭最大射程提升",
+    "description": "火箭最大射程 +{{percentIncrease}}%"
   },
   "demicannonDamageIncrease": {
-    "name": "Demicannon Damage Increase",
-    "description": "Demicannon Damage +{{percentIncrease}}%"
+    "name": "小口径炮伤害提升",
+    "description": "小口径炮伤害 +{{percentIncrease}}%"
   },
   "culverinDamageIncrease": {
-    "name": "Culverin Damage Increase",
-    "description": "Culverin Damage +{{percentIncrease}}%"
+    "name": "长炮伤害提升",
+    "description": "长炮伤害 +{{percentIncrease}}%"
   },
   "culverinProjectileSpeedIncrease": {
-    "name": "Culverin Projectile Speed Increase",
-    "description": "Culverin Projectile Speed +{{percentIncrease}}%"
+    "name": "长炮弹速提升",
+    "description": "长炮弹丸速度 +{{percentIncrease}}%"
   },
   "culverinMaximumRangeIncrease": {
-    "name": "Culverin Maximum Range Increase",
-    "description": "Culverin Maximum Range +{{percentIncrease}}%"
+    "name": "长炮最大射程提升",
+    "description": "长炮最大射程 +{{percentIncrease}}%"
   },
   "demicannonProjectileSpeedIncrease": {
-    "name": "Demicannon Projectile Speed Increase",
-    "description": "Demicannon Projectile Speed +{{percentIncrease}}%"
+    "name": "小口径炮弹速提升",
+    "description": "小口径炮弹丸速度 +{{percentIncrease}}%"
   },
   "demicannonMaximumRangeIncrease": {
-    "name": "Demicannon Maximum Range Increase",
-    "description": "Demicannon Maximum Range +{{percentIncrease}}%"
+    "name": "小口径炮最大射程提升",
+    "description": "小口径炮最大射程 +{{percentIncrease}}%"
   },
   "ballistaDamageIncrease": {
-    "name": "Ballista Damage Increase",
-    "description": "Ballista Damage +{{percentIncrease}}%"
+    "name": "弩炮伤害提升",
+    "description": "弩炮伤害 +{{percentIncrease}}%"
   },
   "seaFireDamageIncrease": {
-    "name": "Sea Fire Damage Increase",
-    "description": "Sea Fire Damage +{{percentIncrease}}%"
+    "name": "海火伤害提升",
+    "description": "海火伤害 +{{percentIncrease}}%"
   },
   "ballistaProjectileSpeedIncrease": {
-    "name": "Ballista Projectile Speed Increase",
-    "description": "Ballista Projectile Speed +{{percentIncrease}}%"
+    "name": "弩炮弹速提升",
+    "description": "弩炮弹丸速度 +{{percentIncrease}}%"
   },
   "ballistaCriticalDamageIncrease": {
-    "name": "Ballista Critical Damage Increase",
-    "description": "Ballista Weakpoint (Critical) Damage +{{percentIncrease}}%"
+    "name": "弩炮弱点伤害提升",
+    "description": "弩炮弱点（暴击）伤害 +{{percentIncrease}}%"
   },
   "seaFireMaximumRangeIncrease": {
-    "name": "Sea Fire Maximum Range Increase",
-    "description": "Sea Fire Maximum Range +{{percentIncrease}}%"
+    "name": "海火最大射程提升",
+    "description": "海火最大射程 +{{percentIncrease}}%"
   },
   "seaFireMagazineSizeIncrease": {
-    "name": "Sea Fire Magazine Size Increase",
-    "description": "Sea Fire Magazine Size +{{percentIncrease}}%"
+    "name": "海火弹容量提升",
+    "description": "海火弹容量 +{{percentIncrease}}%"
   },
   "seaFireReloadTimeDecrease": {
-    "name": "Sea Fire Reload Time Decrease",
-    "description": "Sea Fire Reload Time -{{percentDecrease}}%"
+    "name": "海火装填时间缩减",
+    "description": "海火装填时间 -{{percentDecrease}}%"
   },
   "bombardDamageIncrease": {
-    "name": "Bombard Damage Increase",
-    "description": "Bombard Damage +{{percentIncrease}}%"
+    "name": "轰炸炮伤害提升",
+    "description": "轰炸炮伤害 +{{percentIncrease}}%"
   },
   "longGunDamageIncrease": {
-    "name": "Long Gun Damage Increase",
-    "description": "Long Gun Damage +{{percentIncrease}}%"
+    "name": "长炮伤害提升",
+    "description": "长炮伤害 +{{percentIncrease}}%"
   },
   "torpedoDamageIncrease": {
-    "name": "Torpedo Damage Increase",
-    "description": "Torpedo Damage +{{percentIncrease}}%"
+    "name": "鱼雷伤害提升",
+    "description": "鱼雷伤害 +{{percentIncrease}}%"
   },
   "bombardReloadTimeDecrease": {
-    "name": "Bombard Reload Time Decrease",
-    "description": "Bombard Reload Time -{{percentDecrease}}%"
+    "name": "轰炸炮装填时间缩减",
+    "description": "轰炸炮装填时间 -{{percentDecrease}}%"
   },
   "bombardAreaOfEffectRadiusIncrease": {
-    "name": "Bombard Area Of Effect Radius Increase",
-    "description": "Bombard Area-of-Effect Radius +{{percentIncrease}}%"
+    "name": "轰炸炮爆炸范围提升",
+    "description": "轰炸炮爆炸范围 +{{percentIncrease}}%"
   },
   "bombardProjectileSpeedIncrease": {
-    "name": "Bombard Projectile Speed Increase",
-    "description": "Bombard Projectile Speed +{{percentIncrease}}%"
+    "name": "轰炸炮弹速提升",
+    "description": "轰炸炮弹丸速度 +{{percentIncrease}}%"
   },
   "longGunReloadTimeDecrease": {
-    "name": "Long Gun Reload Time Decrease",
-    "description": "Long Gun Reload Time -{{percentDecrease}}%"
+    "name": "长炮装填时间缩减",
+    "description": "长炮装填时间 -{{percentDecrease}}%"
   },
   "longGunProjectileSpeedIncrease": {
-    "name": "Long Gun Projectile Speed Increase",
-    "description": "Long Gun Projectile Speed +{{percentIncrease}}%"
+    "name": "长炮弹速提升",
+    "description": "长炮弹丸速度 +{{percentIncrease}}%"
   },
   "longGunCriticalDamageIncrease": {
-    "name": "Long Gun Critical Damage Increase",
-    "description": "Long Gun Weakpoint (Critical) Damage +{{percentIncrease}}%"
+    "name": "长炮弱点伤害提升",
+    "description": "长炮弱点（暴击）伤害 +{{percentIncrease}}%"
   },
   "torpedoProjectileSpeedIncrease": {
-    "name": "Torpedo Projectile Speed Increase",
-    "description": "Torpedo Projectile Speed +{{percentIncrease}}%"
+    "name": "鱼雷速度提升",
+    "description": "鱼雷速度 +{{percentIncrease}}%"
   },
   "torpedoMaximumRangeIncrease": {
-    "name": "Torpedo Maximum Range Increase",
-    "description": "Torpedo Maximum Range +{{percentIncrease}}%"
+    "name": "鱼雷最大射程提升",
+    "description": "鱼雷最大射程 +{{percentIncrease}}%"
   },
   "statusEffectsChargeRateIncrease": {
-    "name": "Status Effects Charge Rate Increase",
-    "description": "Status Effects Charge Rate +{{percentIncrease}}%"
+    "name": "异常效果蓄积速率提升",
+    "description": "异常效果蓄积速率 +{{percentIncrease}}%"
   },
   "ablazeDamageIncrease": {
-    "name": "Ablaze Damage Increase",
-    "description": "Ablaze Damage +{{percentIncrease}}%"
+    "name": "燃烧状态伤害提升",
+    "description": "燃烧状态伤害 +{{percentIncrease}}%"
   },
   "ablazeChargeRateIncrease": {
-    "name": "Ablaze Charge Rate Increase",
-    "description": "Ablaze Charge Rate +{{percentIncrease}}%"
+    "name": "燃烧状态蓄积速率提升",
+    "description": "燃烧状态蓄积速率 +{{percentIncrease}}%"
   },
   "floodedDamageIncrease": {
-    "name": "Flooded Damage Increase",
-    "description": "Flooded Damage +{{percentIncrease}}%"
+    "name": "进水状态伤害提升",
+    "description": "进水状态伤害 +{{percentIncrease}}%"
   },
   "floodedChargeRateIncrease": {
-    "name": "Flooded Charge Rate Increase",
-    "description": "Flooded Charge Rate +{{percentIncrease}}%"
+    "name": "进水状态蓄积速率提升",
+    "description": "进水状态蓄积速率 +{{percentIncrease}}%"
   },
   "stormstruckDamageIncrease": {
-    "name": "Stormstruck Damage Increase",
-    "description": "Stormstruck Damage +{{percentIncrease}}%"
+    "name": "暴风状态伤害提升",
+    "description": "暴风状态伤害 +{{percentIncrease}}%"
   },
   "stormstruckChargeRateIncrease": {
-    "name": "Stormstruck Charge Rate Increase",
-    "description": "Stormstruck Charge Rate +{{percentIncrease}}%"
+    "name": "暴风状态蓄积速率提升",
+    "description": "暴风状态蓄积速率 +{{percentIncrease}}%"
   },
   "toxicLifetimeIncrease": {
-    "name": "Toxic Lifetime Increase",
-    "description": "Toxic Lifetime +{{percentIncrease}}%"
+    "name": "毒素持续时间提升",
+    "description": "毒素持续时间 +{{percentIncrease}}%"
   },
   "toxicChargeRateIncrease": {
-    "name": "Toxic Charge Rate Increase",
-    "description": "Toxic Charge Rate +{{percentIncrease}}%"
+    "name": "毒素蓄积速率提升",
+    "description": "毒素蓄积速率 +{{percentIncrease}}%"
   },
   "puncturedLifetimeIncrease": {
-    "name": "Punctured Lifetime Increase",
-    "description": "Punctured Lifetime +{{percentIncrease}}%"
+    "name": "穿孔持续时间提升",
+    "description": "穿孔持续时间 +{{percentIncrease}}%"
   },
   "puncturedChargeRateIncrease": {
-    "name": "Punctured Charge Rate Increase",
-    "description": "Punctured Charge Rate +{{percentIncrease}}%"
+    "name": "穿孔蓄积速率提升",
+    "description": "穿孔蓄积速率 +{{percentIncrease}}%"
   },
   "shellShockedLifetimeIncrease": {
-    "name": "Shell Shocked Lifetime Increase",
-    "description": "Shell-Shocked Lifetime +{{percentIncrease}}%"
+    "name": "炮震持续时间提升",
+    "description": "炮震持续时间 +{{percentIncrease}}%"
   },
   "shellShockedChargeRateIncrease": {
-    "name": "Shell Shocked Charge Rate Increase",
-    "description": "Shell-Shocked Charge Rate +{{percentIncrease}}%"
+    "name": "炮震蓄积速率提升",
+    "description": "炮震蓄积速率 +{{percentIncrease}}%"
   },
   "braceRecoveryIncrease": {
-    "name": "Brace Recovery Increase",
-    "description": "Brace Recovery +{{percentIncrease}}%"
+    "name": "紧固恢复速率提升",
+    "description": "紧固恢复速率 +{{percentIncrease}}%"
   },
   "staminaUseWhileBracingDecrease": {
-    "name": "Stamina Use While Bracing Decrease",
-    "description": "Stamina use while Bracing -{{percentDecrease}}%"
+    "name": "紧固耐力消耗缩减",
+    "description": "紧固时耐力消耗 -{{percentDecrease}}%"
   },
   "incomingRepairMultiplierIncrease": {
-    "name": "Incoming Repair Multiplier Increase",
-    "description": "Incoming Repair Multiplier +{{percentIncrease}}%"
+    "name": "修复接收倍率提升",
+    "description": "修复接收倍率 +{{percentIncrease}}%"
   }
 }
