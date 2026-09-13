@@ -25,5 +25,6 @@ export interface LanguageData {
     territories: LanguageMapData,
     npcs: LanguageMapData,
     treasureMaps: LanguageMapData,
-    zones: LanguageMapData
+    zones: LanguageMapData,
+    masterys: LanguageMapData
 }
