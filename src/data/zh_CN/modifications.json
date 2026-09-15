@@ -163,7 +163,7 @@
     "description": "将现有火焰伤害提升%s-%s%"
   },
   "siege": {
-    "name": "围攻",
+    "name": "破城",
     "description": "对建筑物的伤害提升%s-%s%"
   },
   "restoreReadiness": {
