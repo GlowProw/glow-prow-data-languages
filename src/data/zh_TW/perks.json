@@ -1,6 +1,6 @@
 {
   "tearing": {
-    "name": "Tearing",
+    "name": "撕裂",
     "description": {
       "1": "Increases damage by 25% when hitting sails",
       "2": "Increases damage by 50% when hitting sails",
@@ -25,7 +25,7 @@
     }
   },
   "raider": {
-    "name": "Raider",
+    "name": "劫掠者",
     "description": {
       "general": "Increases Charge Rate of the Vulnerable effect by 50%"
     }
@@ -74,7 +74,7 @@
     }
   },
   "siege": {
-    "name": "Siege",
+    "name": "攻城",
     "description": {
       "general": "Increases damage to structures by 50%"
     }
@@ -1262,7 +1262,7 @@
     }
   },
   "padewakangSiegeUpgrade": {
-    "name": "Siege",
+    "name": "攻城",
     "description": {
       "general": "At half-sails or anchored, increases Weapon Damage by 35% and decreases Reload Time by 15% for Explosive weapons"
     }
@@ -2466,7 +2466,7 @@
     }
   },
   "combustion": {
-    "name": "Combustion",
+    "name": "放熱",
     "description": {
       "1": "Adds 10% of damage as Explosive Damage",
       "2": "Adds 20% of damage as Explosive Damage",
