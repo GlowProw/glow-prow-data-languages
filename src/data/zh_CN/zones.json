@@ -1,15 +1,17 @@
 {
-  "westernEastIndies": "西东印度",
-  "easternEastIndies": "东东印度",
-  "southernEastIndies": "南东印度",
-  "northernEastIndies": "北东印度",
+  "westernEastIndies": "东印度群岛西部",
+  "easternEastIndies": "东印度群岛东部",
+  "southernEastIndies": "东印度群岛南部",
+  "northernEastIndies": "东印度群岛北部",
   "northernOpenSeas": "北部公海",
-  "northEastEastIndies": "东北东印度",
-  "eastIndiesSea": "东印度海",
+  "northEastEastIndies": "东印度群岛东北部",
+  "eastIndiesSea": "东印度群岛海域",
   "eastIndiesIsles": "东印度群岛",
   "southernRedIsle": "红岛南部",
-  "easternIsles": "群岛东部",
+  "easternIsles": "东部群岛",
+  "westernIsles": "西部群岛",
   "lowerEastAfrica": "非洲海岸下东部",
   "southernAfricaCoast": "非洲海岸南部",
-  "southernOpenSeas": "南部公海"
+  "southernOpenSeas": "南部公海",
+  "centralOpenSeas": "中部公海"
 }
