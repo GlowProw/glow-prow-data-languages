@@ -101,7 +101,10 @@
     ]
   },
   "hardenedMunitions": {
-    "name": "Hardened Munitions"
+    "name": "Hardened Munitions",
+    "description": [
+      "Weapon Damage +20%"
+    ]
   },
   "bloodForBlood": {
     "name": "Blood For Blood",
@@ -110,19 +113,46 @@
     ]
   },
   "viciousMunitions1": {
-    "name": "Vicious Munitions 1"
+    "name": "Vicious Munitions 1",
+    "description": [
+      "Status Effects Damage +10%",
+      "Status Effects Lifetime +10%"
+    ]
   },
   "viciousMunitions2": {
-    "name": "Vicious Munitions 2"
+    "name": "Vicious Munitions 2",
+    "description": [
+      "Status Effects Damage +15%",
+      "Status Effects Lifetime +15%"
+    ]
   },
   "veteranRaiders": {
-    "name": "Veteran Raiders"
+    "name": "Veteran Raiders",
+    "description": [
+      "Crew Attack Damage +20%"
+    ]
   },
   "specializedMunitions1": {
-    "name": "Specialized Munitions 1"
+    "name": "Specialized Munitions 1",
+    "description": [
+      "Burning Damage +30%",
+      "Flooding Damage +30%",
+      "Piercing Damage +30%",
+      "Explosive Damage +30%",
+      "Electric Damage +30%",
+      "Toxic Damage +30%"
+    ]
   },
   "specializedMunitions2": {
-    "name": "Specialized Munitions 2"
+    "name": "Specialized Munitions 2",
+    "description": [
+      "Burning Damage +30%",
+      "Flooding Damage +30%",
+      "Piercing Damage +30%",
+      "Explosive Damage +30%",
+      "Electric Damage +30%",
+      "Toxic Damage +30%"
+    ]
   },
   "adrenalSurge": {
     "name": "Adrenal Surge",
@@ -137,292 +167,596 @@
     ]
   },
   "targetedRepairs": {
-    "name": "Targeted Repairs"
+    "name": "Targeted Repairs",
+    "description": [
+      "Repair per Shot +3%"
+    ]
   },
   "crewFitness": {
-    "name": "Crew Fitness"
+    "name": "Crew Fitness",
+    "description": [
+      "Crew Stamina Recovery Speed +10%"
+    ]
   },
   "barnacleRemoval": {
-    "name": "Barnacle Removal"
+    "name": "Barnacle Removal",
+    "description": [
+      "Acceleration +2%"
+    ]
   },
   "flexibleRudder": {
-    "name": "Flexible Rudder"
+    "name": "Flexible Rudder",
+    "description": [
+      "Turning Speed +2%"
+    ]
   },
   "reinforcedFrame": {
-    "name": "Reinforced Frame"
+    "name": "Reinforced Frame",
+    "description": [
+      "Hull Health +7000"
+    ]
   },
   "hullPlating": {
-    "name": "Hull Plating"
+    "name": "Hull Plating",
+    "description": [
+      "Armor Rating +200"
+    ]
   },
   "ironStance": {
-    "name": "Iron Stance"
+    "name": "Iron Stance",
+    "description": [
+      "Brace Strength +20%"
+    ]
   },
   "versatileDefenses": {
-    "name": "Versatile Defenses"
+    "name": "Versatile Defenses",
+    "description": [
+      "Burning Resistance +2%",
+      "Flooding Resistance +2%",
+      "Piercing Resistance +2%",
+      "Explosive Resistance +2%",
+      "Electric Resistance +2%",
+      "Toxic Resistance +2%"
+    ]
   },
   "antiCorrosiveCoating": {
-    "name": "Anti Corrosive Coating"
+    "name": "Anti Corrosive Coating",
+    "description": [
+      "Toxic Resistance +5%"
+    ]
   },
   "layeredPlating": {
-    "name": "Layered Plating"
+    "name": "Layered Plating",
+    "description": [
+      "Piercing Resistance +5%"
+    ]
   },
   "insulatedGunwales": {
-    "name": "Insulated Gunwales"
+    "name": "Insulated Gunwales",
+    "description": [
+      "Electric Resistance +5%"
+    ]
   },
   "quickSealant": {
-    "name": "Quick Sealant"
+    "name": "Quick Sealant",
+    "description": [
+      "Flooding Resistance +5%"
+    ]
   },
   "spallLining": {
-    "name": "Spall Lining"
+    "name": "Spall Lining",
+    "description": [
+      "Explosive Resistance +5%"
+    ]
   },
   "asbestosCoating": {
-    "name": "Asbestos Coating"
+    "name": "Asbestos Coating",
+    "description": [
+      "Burning Resistance +5%"
+    ]
   },
   "reactiveMeasures": {
-    "name": "Reactive Measures"
+    "name": "Reactive Measures",
+    "description": [
+      "Status Effects Damage Reduction -2%"
+    ]
   },
   "fireDrills": {
-    "name": "Fire Drills"
+    "name": "Fire Drills",
+    "description": [
+      "Ablaze Damage Reduction -5%"
+    ]
   },
   "floodingDrills": {
-    "name": "Flooding Drills"
+    "name": "Flooding Drills",
+    "description": [
+      "Flooded Damage Reduction -5%"
+    ]
   },
   "insulatedGear": {
-    "name": "Insulated Gear"
+    "name": "Insulated Gear",
+    "description": [
+      "Stormstruck Damage Reduction -5%"
+    ]
   },
   "firstAidTraining": {
-    "name": "First Aid Training"
+    "name": "First Aid Training",
+    "description": [
+      "Toxic Lifetime -5%"
+    ]
   },
   "breachTraining": {
-    "name": "Breach Training"
+    "name": "Breach Training",
+    "description": [
+      "Punctured Lifetime -5%"
+    ]
   },
   "protectiveMeasures": {
-    "name": "Protective Measures"
+    "name": "Protective Measures",
+    "description": [
+      "Shell-Shocked Lifetime -5%"
+    ]
   },
   "savageAttacks": {
-    "name": "Savage Attacks"
+    "name": "Savage Attacks",
+    "description": [
+      "Crew Attack Damage +25%"
+    ]
   },
   "targetPractice": {
-    "name": "Target Practice"
+    "name": "Target Practice",
+    "description": [
+      "Crew Attack Range +3%"
+    ]
   },
   "batteringProw": {
-    "name": "Battering Prow"
+    "name": "Battering Prow",
+    "description": [
+      "Ram Damage +10%"
+    ]
   },
   "reactiveCompounds": {
-    "name": "Reactive Compounds"
+    "name": "Reactive Compounds",
+    "description": [
+      "Burning Damage +20%",
+      "Flooding Damage +20%",
+      "Piercing Damage +20%",
+      "Explosive Damage +20%",
+      "Electric Damage +20%",
+      "Toxic Damage +20%"
+    ]
   },
   "alchemicFuel": {
-    "name": "Alchemic Fuel"
+    "name": "Alchemic Fuel",
+    "description": [
+      "Burning Damage +40%"
+    ]
   },
   "expandingCasing": {
-    "name": "Expanding Casing"
+    "name": "Expanding Casing",
+    "description": [
+      "Flooding Damage +40%"
+    ]
   },
   "perforatingProjectiles": {
-    "name": "Perforating Projectiles"
+    "name": "Perforating Projectiles",
+    "description": [
+      "Piercing Damage +40%"
+    ]
   },
   "highYieldPowder": {
-    "name": "High Yield Powder"
+    "name": "High Yield Powder",
+    "description": [
+      "Explosive Damage +40%"
+    ]
   },
   "voltaicPowder": {
-    "name": "Voltaic Powder"
+    "name": "Voltaic Powder",
+    "description": [
+      "Electric Damage +40%"
+    ]
   },
   "corrosiveToxins": {
-    "name": "Corrosive Toxins"
+    "name": "Corrosive Toxins",
+    "description": [
+      "Toxic Damage +40%"
+    ]
   },
   "volatileFuel": {
-    "name": "Volatile Fuel"
+    "name": "Volatile Fuel",
+    "description": [
+      "Burning Damage Penetration +10%"
+    ]
   },
   "hullShredder": {
-    "name": "Hull Shredder"
+    "name": "Hull Shredder",
+    "description": [
+      "Flooding Damage Penetration +10%"
+    ]
   },
   "hullPiercerShots": {
-    "name": "Hull Piercer Shots"
+    "name": "Hull Piercer Shots",
+    "description": [
+      "Piercing Damage Penetration +10%"
+    ]
   },
   "shapedCharge": {
-    "name": "Shaped Charge"
+    "name": "Shaped Charge",
+    "description": [
+      "Explosive Damage Penetration +10%"
+    ]
   },
   "highCurrent": {
-    "name": "High Current"
+    "name": "High Current",
+    "description": [
+      "Electric Damage Penetration +10%"
+    ]
   },
   "virulentContamination": {
-    "name": "Virulent Contamination"
+    "name": "Virulent Contamination",
+    "description": [
+      "Toxic Damage Penetration +10%"
+    ]
   },
   "readyFire": {
-    "name": "Ready Fire"
+    "name": "Ready Fire",
+    "description": [
+      "Weapon Reload Time -3%"
+    ]
   },
   "enhancedDamage": {
-    "name": "Enhanced Damage"
+    "name": "Enhanced Damage",
+    "description": [
+      "Weapon Damage +10%"
+    ]
   },
   "swiftStrikes": {
-    "name": "Swift Strikes"
+    "name": "Swift Strikes",
+    "description": [
+      "Weapon Projectile Speed +5%"
+    ]
   },
   "deadeye": {
-    "name": "Deadeye"
+    "name": "Deadeye",
+    "description": [
+      "Weapon Weakpoint (Critical) Damage +20%"
+    ]
   },
   "heavyWeaponry": {
-    "name": "Heavy Weaponry"
+    "name": "Heavy Weaponry",
+    "description": [
+      "Mortar Damage +15%",
+      "Rocket Damage +15%",
+      "Springloader Damage +15%"
+    ]
   },
   "heavyShells": {
-    "name": "Heavy Shells"
+    "name": "Heavy Shells",
+    "description": [
+      "Mortar Damage +30%"
+    ]
   },
   "improvedTrajectories": {
-    "name": "Improved Trajectories"
+    "name": "Improved Trajectories",
+    "description": [
+      "Mortar Time-to-Target -5%"
+    ]
   },
   "burstShells": {
-    "name": "Burst Shells"
+    "name": "Burst Shells",
+    "description": [
+      "Mortar Area-of-Effect Radius +5%"
+    ]
   },
   "improvedLaunchers": {
-    "name": "Improved Launchers"
+    "name": "Improved Launchers",
+    "description": [
+      "Springloader Maximum Range +10%"
+    ]
   },
   "lightweightBuoys": {
-    "name": "Lightweight Buoys"
+    "name": "Lightweight Buoys",
+    "description": [
+      "Springloader Time-to-Target -5%"
+    ]
   },
   "improvedGearset": {
-    "name": "Improved Gearset"
+    "name": "Improved Gearset",
+    "description": [
+      "Springloader Area-of-Effect Radius +10%"
+    ]
   },
   "highYieldMines": {
-    "name": "High Yield Mines"
+    "name": "High Yield Mines",
+    "description": [
+      "Springloader Damage +30%"
+    ]
   },
   "heavyPayload": {
-    "name": "Heavy Payload"
+    "name": "Heavy Payload",
+    "description": [
+      "Rocket Damage +20%"
+    ]
   },
   "flutedRockets": {
-    "name": "Fluted Rockets"
+    "name": "Fluted Rockets",
+    "description": [
+      "Rocket Time-to-Target -5%"
+    ]
   },
   "packedRockets": {
-    "name": "Packed Rockets"
+    "name": "Packed Rockets",
+    "description": [
+      "Rocket Maximum Range +10%"
+    ]
   },
   "volleyFire": {
-    "name": "Volley Fire"
+    "name": "Volley Fire",
+    "description": [
+      "Demicannon Damage +10%",
+      "Culverin Damage +10%"
+    ]
   },
   "heavyShot": {
-    "name": "Heavy Shot"
+    "name": "Heavy Shot",
+    "description": [
+      "Culverin Damage +20%"
+    ]
   },
   "carvedShot": {
-    "name": "Carved Shot"
+    "name": "Carved Shot",
+    "description": [
+      "Culverin Projectile Speed +5%"
+    ]
   },
   "loadedPowder": {
-    "name": "Loaded Powder"
+    "name": "Loaded Powder",
+    "description": [
+      "Culverin Maximum Range +5%"
+    ]
   },
   "heavyGrapeshot": {
-    "name": "Heavy Grapeshot"
+    "name": "Heavy Grapeshot",
+    "description": [
+      "Demicannon Damage +20%"
+    ]
   },
   "solidSabot": {
-    "name": "Solid Sabot"
+    "name": "Solid Sabot",
+    "description": [
+      "Demicannon Projectile Speed +5%"
+    ]
   },
   "loadedPowderDC": {
-    "name": "Loaded Powder Dc"
+    "name": "Loaded Powder Dc",
+    "description": [
+      "Demicannon Maximum Range +5%"
+    ]
   },
   "frontalAssault": {
-    "name": "Frontal Assault"
+    "name": "Frontal Assault",
+    "description": [
+      "Ballista Damage +20%",
+      "Sea Fire Damage +20%"
+    ]
   },
   "heavyBolts": {
-    "name": "Heavy Bolts"
+    "name": "Heavy Bolts",
+    "description": [
+      "Ballista Damage +20%"
+    ]
   },
   "swiftBolts": {
-    "name": "Swift Bolts"
+    "name": "Swift Bolts",
+    "description": [
+      "Ballista Projectile Speed +10%"
+    ]
   },
   "precisionBolts": {
-    "name": "Precision Bolts"
+    "name": "Precision Bolts",
+    "description": [
+      "Ballista Weakpoint (Critical) Damage +20%"
+    ]
   },
   "volatileFuelSF": {
-    "name": "Volatile Fuel Sf"
+    "name": "Volatile Fuel Sf",
+    "description": [
+      "Sea Fire Damage +30%"
+    ]
   },
   "tightenedNozzles": {
-    "name": "Tightened Nozzles"
+    "name": "Tightened Nozzles",
+    "description": [
+      "Sea Fire Maximum Range +20%"
+    ]
   },
   "backupCanisters": {
-    "name": "Backup Canisters"
+    "name": "Backup Canisters",
+    "description": [
+      "Sea Fire Magazine Size +15%"
+    ]
   },
   "seaFireDrills": {
-    "name": "Sea Fire Drills"
+    "name": "Sea Fire Drills",
+    "description": [
+      "Sea Fire Reload Time -10%"
+    ]
   },
   "allHandsOnDeck": {
-    "name": "All Hands On Deck"
+    "name": "All Hands On Deck",
+    "description": [
+      "Bombard Damage +10%",
+      "Long Gun Damage +10%",
+      "Torpedo Damage +10%"
+    ]
   },
   "bombardDrills": {
-    "name": "Bombard Drills"
+    "name": "Bombard Drills",
+    "description": [
+      "Bombard Reload Time -5%"
+    ]
   },
   "enhancedYield": {
-    "name": "Enhanced Yield"
+    "name": "Enhanced Yield",
+    "description": [
+      "Bombard Area-of-Effect Radius +5%"
+    ]
   },
   "streamlinedCasing": {
-    "name": "Streamlined Casing"
+    "name": "Streamlined Casing",
+    "description": [
+      "Bombard Projectile Speed +5%"
+    ]
   },
   "heavyBombs": {
-    "name": "Heavy Bombs"
+    "name": "Heavy Bombs",
+    "description": [
+      "Bombard Damage +20%"
+    ]
   },
   "longGunDrills": {
-    "name": "Long Gun Drills"
+    "name": "Long Gun Drills",
+    "description": [
+      "Long Gun Reload Time -10%"
+    ]
   },
   "carvedShotLG": {
-    "name": "Carved Shot Lg"
+    "name": "Carved Shot Lg",
+    "description": [
+      "Long Gun Projectile Speed +5%"
+    ]
   },
   "precisionShot": {
-    "name": "Precision Shot"
+    "name": "Precision Shot",
+    "description": [
+      "Long Gun Weakpoint (Critical) Damage +10%"
+    ]
   },
   "heavyShotLG": {
-    "name": "Heavy Shot Lg"
+    "name": "Heavy Shot Lg",
+    "description": [
+      "Long Gun Damage +20%"
+    ]
   },
   "improvedLaunchersT": {
-    "name": "Improved Launchers T"
+    "name": "Improved Launchers T",
+    "description": [
+      "Torpedo Projectile Speed +5%"
+    ]
   },
   "flutedTorpedoes": {
-    "name": "Fluted Torpedoes"
+    "name": "Fluted Torpedoes",
+    "description": [
+      "Torpedo Maximum Range +5%"
+    ]
   },
   "loadedTorpedoes": {
-    "name": "Loaded Torpedoes"
+    "name": "Loaded Torpedoes",
+    "description": [
+      "Torpedo Damage +20%"
+    ]
   },
   "persistentCompounds": {
-    "name": "Persistent Compounds"
+    "name": "Persistent Compounds",
+    "description": [
+      "Status Effects Lifetime +10%"
+    ]
   },
   "enhancedPayload": {
-    "name": "Enhanced Payload"
+    "name": "Enhanced Payload",
+    "description": [
+      "Status Effects Charge Rate +10%"
+    ]
   },
   "concentratedPayload": {
-    "name": "Concentrated Payload"
+    "name": "Concentrated Payload",
+    "description": [
+      "Status Effects Damage +10%"
+    ]
   },
   "phosphorusCompound": {
-    "name": "Phosphorus Compound"
+    "name": "Phosphorus Compound",
+    "description": [
+      "Ablaze Damage +10%"
+    ]
   },
   "potentFuel": {
-    "name": "Potent Fuel"
+    "name": "Potent Fuel",
+    "description": [
+      "Ablaze Charge Rate +10%"
+    ]
   },
   "heavyFlooding": {
-    "name": "Heavy Flooding"
+    "name": "Heavy Flooding",
+    "description": [
+      "Flooded Damage +10%"
+    ]
   },
   "rapidFlooding": {
-    "name": "Rapid Flooding"
+    "name": "Rapid Flooding",
+    "description": [
+      "Flooded Charge Rate +10%"
+    ]
   },
   "voltaicShock": {
-    "name": "Voltaic Shock"
+    "name": "Voltaic Shock",
+    "description": [
+      "Stormstruck Damage +10%"
+    ]
   },
   "powerSurge": {
-    "name": "Power Surge"
+    "name": "Power Surge",
+    "description": [
+      "Stormstruck Charge Rate +10%"
+    ]
   },
   "persistentAffliction": {
-    "name": "Persistent Affliction"
+    "name": "Persistent Affliction",
+    "description": [
+      "Toxic Lifetime +10%"
+    ]
   },
   "virulentToxins": {
-    "name": "Virulent Toxins"
+    "name": "Virulent Toxins",
+    "description": [
+      "Toxic Charge Rate +10%"
+    ]
   },
   "violentRupture": {
-    "name": "Violent Rupture"
+    "name": "Violent Rupture",
+    "description": [
+      "Punctured Lifetime +10%"
+    ]
   },
   "penetratingMunitions": {
-    "name": "Penetrating Munitions"
+    "name": "Penetrating Munitions",
+    "description": [
+      "Punctured Charge Rate +10%"
+    ]
   },
   "highPressureShockwave": {
-    "name": "High Pressure Shockwave"
+    "name": "High Pressure Shockwave",
+    "description": [
+      "Shell-Shocked Lifetime +10%"
+    ]
   },
   "flashDetonation": {
-    "name": "Flash Detonation"
+    "name": "Flash Detonation",
+    "description": [
+      "Shell-Shocked Charge Rate +10%"
+    ]
   },
   "trainedRecovery": {
-    "name": "Trained Recovery"
+    "name": "Trained Recovery",
+    "description": [
+      "Brace Recovery +20%"
+    ]
   },
   "steadyDefense": {
-    "name": "Steady Defense"
+    "name": "Steady Defense",
+    "description": [
+      "Stamina use while Bracing -10%"
+    ]
   },
   "impetusOrder": {
     "name": "Impetus Order",
@@ -569,7 +903,10 @@
     ]
   },
   "steadyHands": {
-    "name": "Steady Hands"
+    "name": "Steady Hands",
+    "description": [
+      "Incoming Repair Multiplier +3%"
+    ]
   },
   "weaponDamageIncrease": {
     "name": "Weapon Damage Increase",
