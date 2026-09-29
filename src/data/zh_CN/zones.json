@@ -10,8 +10,11 @@
   "southernRedIsle": "红岛南部",
   "easternIsles": "东部群岛",
   "westernIsles": "西部群岛",
-  "lowerEastAfrica": "非洲海岸下东部",
+  "lowerEastAfrica": "东非南部",
   "southernAfricaCoast": "非洲海岸南部",
+  "innerEastAfrica": "东非内陆",
+  "northernAfricaCoast": "北非海岸",
+  "upperEastAfrica": "东非北部",
   "southernOpenSeas": "南部公海",
   "centralOpenSeas": "中部公海"
 }
