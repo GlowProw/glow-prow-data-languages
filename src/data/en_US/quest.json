@@ -1,0 +1,843 @@
+{
+  "johnScurlock": {
+    "name": "JOHN SCURLOCK",
+    "description": [
+      "A kingpin mentor whose charm hides a history 0f betrayal, John Scurlock's manipulations at Sainte-Anne still echo through th e pirate world he helped shape."
+    ]
+  },
+  "aSeaWorthyCharge": {
+    "name": "A SEA WORTHY CHARGE",
+    "description": [
+      "Scurlock's stolen goods were returned, and the Kingpin was grateful. But Caradec and the Compagnie are still out there, raiding supply lines."
+    ]
+  },
+  "unwelcomeAboard": {
+    "name": "UNWELCOME ABOARD",
+    "description": [
+      "Compagnie merchants were sunk across the Red Isle and Asnah Yatim joined the hunt as First Mate, providing intel on Scurlock's stolen cargo."
+    ]
+  },
+  "theLionOfSainteAnne": {
+    "name": "THE LION OF SAINTE-ANNE",
+    "description": [
+      "With the help of Fanilo the Shipwright, a new hull was built from Scurlock's materials for a captain once dismissed as a lost sailor."
+    ]
+  },
+  "brokeredGround": {
+    "name": "BROKERED GROUND",
+    "description": [
+      "The Sea People, armed and blooded against Fara's raiders, delivered what Scurlock paid for. proof of the Compagnie Royale's hand turning against him, and reason enough to strike back harder."
+    ]
+  },
+  "serviceTheRound": {
+    "name": "SERVICE THE ROUND",
+    "description": [
+      "A Compagnie flagship sank to the bottom off the Red Isle, and the rare goods meant for Scurlock's New York clients finally reached his hold, answering Teuling's demands for now."
+    ]
+  },
+  "highSeasHeist": {
+    "name": "HIGH SEAS HEIST",
+    "description": [
+      "The convoy was a trap — Caradec was waiting instead of the cargo, and every one of Scurlock's agents is now dead or turned. Caradec is coming for all rogues now"
+    ]
+  },
+  "indelicateAlliance": {
+    "name": "INDELICATE ALLIANCE",
+    "description": [
+      "The ruse worked: the Fara believe Caradec attacked them and now hunt the Compagnie instead of Scurlock. But shipments have been caught in the crossfire, and the Kingpin suspects a traitor in his ranks."
+    ]
+  },
+  "unsacredOfferings": {
+    "name": "UNSACRED OFFERINGS",
+    "description": [
+      "The charms were sold, and the Fara blamed the Compagnie — even a mysterious beast from the depths could not stop the ruse. More shipments have gone missing, and Scurlock is sure Caradec has planted a rat in his ranks."
+    ]
+  },
+  "theDevilsGambit": {
+    "name": "THE DEVIL'S GAMBIT",
+    "description": [
+      "The fort is in ashes and the French turncoats got exactly what they paid for. Scurlock's sobered up and plots deeper strikes into Compagnie territory."
+    ]
+  },
+  "bloodsoakedSilver": {
+    "name": "BLOODSOAKED SILVER",
+    "description": [
+      "Despite the ambush, the merchants goods were transported safely to Scurlock. Plague-ridden ships belonging to Philippe La Peste have arrived, stirring trouble."
+    ]
+  },
+  "cutthroatSecrets": {
+    "name": "CUTTHROAT SECRETS",
+    "description": [
+      "The traitor's list revealed several of Scurlock's best captains as Caradec's rats. The Kingpin devises a plan to rid of Caradec once and for all."
+    ]
+  },
+  "theLionAndRat": {
+    "name": "THE LION AND RAT",
+    "description": [
+      "The traitor is dead, but Caradec was waiting -- Scurlock sold out his own rogues to buy himself room. With Caradec gone and the traitor network broken, the Kingpin promises riches and rewards in the East Indies."
+    ]
+  },
+  "admiralRahma": {
+    "name": "ADMIRAL RAHMA",
+    "description": [
+      "Commander of the Unbound, an elite fleet of women resisting Dutch occupation, Admiral Rahma pairs battlefield brilliance with a political game few can see the whole of."
+    ]
+  },
+  "dawnOfWar": {
+    "name": "DAWN OF WAR",
+    "description": [
+      "Rahma's suspicions were well-founded -- a traitor sold the Sultanah to the DMC. The Pride of Holland's cargo contained a bribe letter recovered when the ship went down."
+    ]
+  },
+  "blueMoonBribes": {
+    "name": "BLUE MOON BRIBES",
+    "description": [
+      "The Rempah traitors did not stay hidden for long: intelligence pulled from the lumberyard named their location, and their ships went down before word of the betrayal couldspread further."
+    ]
+  },
+  "nightfallMissives": {
+    "name": "NIGHTFALL MISSIVES",
+    "description": [
+      "The Orang Kaya deal died with the man who built it: their Usurper Leaders head was delivered to the DMC as proof. No one is safe from Rahma's wrath."
+    ]
+  },
+  "towOfEmpire": {
+    "name": "TOW OF EMPIRE",
+    "description": [
+      "General Van Kinckers raiders were caught mid-plunder and sunk. Rahma's stolen relics returned intact."
+    ]
+  },
+  "theSpiceMustFlow": {
+    "name": "THE SPICE MUST FLOW",
+    "description": [
+      "The coin Rahma needed came from the DMC. Their spice convoy was plundered, and the cargo folded into the Admirars war chest."
+    ]
+  },
+  "twilightKeepers": {
+    "name": "TWILIGHT KEEPERS",
+    "description": [
+      "Sultanah Haryatrs coffin was escorted through the capitars falling towers and laid to rest at Suny Capital. Rahma's restraint is buried, and she returns to war."
+    ]
+  },
+  "armsOfNight": {
+    "name": "ARMS OF NIGHT",
+    "description": [
+      "A ghost ship, the Maangodin, rose to defend Hessel Lanner?s curse. Driving it off won its secrets and the weapons the Unbound needed."
+    ]
+  },
+  "swarmOfSecrets": {
+    "name": "SWARM OF SECRETS",
+    "description": [
+      "The DMC's new armaments turned out to be a buried cache, and turning the weapons on a fort sparked a showdown between Li Tian Ning and Rahma."
+    ]
+  },
+  "moonsmokeOueen": {
+    "name": "MOONSMOKE OUEEN",
+    "description": [
+      "Van Kinckers fort came down around him and his death was proof enough for Rahma. Her vengeance for Haryati is complete, and the war is finally hers."
+    ]
+  },
+  "liTianNing": {
+    "name": "LI TIAN NING",
+    "description": [
+      "A strategist and seer, Li Tian Ning senses a danger in Freeman's treasure that greater powers refuse to heed."
+    ]
+  },
+  "aTrailOfAshes": {
+    "name": "A TRAIL OF ASHES",
+    "description": [
+      "Li Tian Ning's old stronghold was found to be in ruins, torched by the Dragon's Claw faction, and hinting at a civil war to come."
+    ]
+  },
+  "scorchedHorizon": {
+    "name": "SCORCHED HORIZON",
+    "description": [
+      "Li Tian Ning escaped with a hidden fleet of her own. In her wake, the first signs of civil war between the Talon and Dragon's Claw begin to spread across the region."
+    ]
+  },
+  "flamingQuarry": {
+    "name": "FLAMING QUARRY",
+    "description": [
+      "Blackwood's bid to seize a Battle Junk and turn its weapons against the Dragon's Claw came up empty. The hunt leaves him more determined to profit from the chaos ahead."
+    ]
+  },
+  "searingInterest": {
+    "name": "SEARING INTEREST",
+    "description": [
+      "The smuggled Dragon's Claw equipment filled Blackwood's holds, and his ambitions continue to grow despite the brewing conflict."
+    ]
+  },
+  "fanningTheFlames": {
+    "name": "FANNING THE FLAMES",
+    "description": [
+      "Blackwood saw what the captured Junk was capable of and is determined to leave the war burning longer to line his pockets."
+    ]
+  },
+  "scarletHeist": {
+    "name": "SCARLET HEIST",
+    "description": [
+      "Blackwood struck the rendezvous and walked away richer, leaving the Dragon's Claw to reckon with a betrayal it had not seen coming."
+    ]
+  },
+  "flamesOfTurmoil": {
+    "name": "FLAMES OF TURMOIL",
+    "description": [
+      "The vanished convoy confirmed that a mysterious new faction from the east aims to bleed the Dragon's Claw dry."
+    ]
+  },
+  "engulfingStorm": {
+    "name": "ENGULFING STORM",
+    "description": [
+      "The missing Unbound agent confirmed Rahma's suspicions: a new faction is operating in the East Indies."
+    ]
+  },
+  "flickerOfDestiny": {
+    "name": "FLICKER OF DESTINY",
+    "description": [
+      "Rahma had an opening to strike after tracking Li Tian Ning down, a chance that could have tipped the balance of power."
+    ]
+  },
+  "theVirtuousPhoenix": {
+    "name": "THE VIRTUOUS PHOENIX",
+    "description": [
+      "Li Tian Ning revealed herself as the leader of the Talon, pushing her expansion into the Red Isle and Chorus Fleet waters."
+    ]
+  },
+  "ragingInferno": {
+    "name": "RAGING INFERNO",
+    "description": [
+      "Li Tian Ning's plan to strike Commander Zhang gave Rahma the opportunity she needs. The skirmishes between the Dragon's Claw and Talon have hardened into open war."
+    ]
+  },
+  "dragonAndPhoenix": {
+    "name": "DRAGON AND PHOENIX",
+    "description": [
+      "Commander Zhang ambushed Li Tian Ning, and the Phoenix's Talon was driven back. But word is Rahma was the one who tipped Zhang off herself, risking a rogue's life."
+    ]
+  },
+  "embersOfSuspicion": {
+    "name": "EMBERS OF SUSPICION",
+    "description": [
+      "The delayed shipment and missing ships turned out to be the last tremor of Li Tian Nin s rebellion."
+    ]
+  },
+  "vikramRajan": {
+    "name": "VIKRAM RAJAN",
+    "description": [
+      "Once an ordinary man until the Schaduw heist cost him his wife, Vikram Rajan now commands a shadow legion as Mahaa Saaya, the invisible architect of his vengeance."
+    ]
+  },
+  "grimTidings": {
+    "name": "GRIM TIDINGS",
+    "description": [
+      "The Schaduw was found and sunk, but not for long. A ghostly captain -- Vikram Rajan -- was discovered at her helm."
+    ]
+  },
+  "wolvesInTheWater": {
+    "name": "WOLVES IN THE WATER",
+    "description": [
+      "Vanderkill's forces gave no secrets, but the fight revealed something larger: the DMC has discovered a Sea People ritual meant to weaken Vikram Rajan."
+    ]
+  },
+  "voicesFromThePast": {
+    "name": "VOICES FROM THE PAST",
+    "description": [
+      "The Sea People's knowledge revealed a different Vikram Rajan: not a monster, but a grieving fisherman still pleading with the dead."
+    ]
+  },
+  "edgeOfDarkness": {
+    "name": "EDGE OF DARKNESS",
+    "description": [
+      "The ritual subdued Vikram's power, and the Mahaa Saaya withdrew back to the abyss, but not before leaving a warning for all rogues."
+    ]
+  },
+  "aPrizedPossession": {
+    "name": "A PRIZED POSSESSION",
+    "description": [
+      "The Discovery was recovered, her crew having gone missing or mad, and a strange lantern found in her hold."
+    ]
+  },
+  "aForgottenPast": {
+    "name": "A FORGOTTEN PAST",
+    "description": [
+      "The gems were seized for Blackwood's profit, but the cargo carried odd properties. Whatever clung to those stones unsettled everyone who touched them."
+    ]
+  },
+  "aShadowyPast": {
+    "name": "A SHADOWY PAST",
+    "description": [
+      "The shaman's remains were exhumed, but the ritual stirred fresh whispers of the Great Shadow, who longed for Mira, his lost wife."
+    ]
+  },
+  "lucianHarrow": {
+    "name": "LUCIAN HARROW",
+    "description": [
+      "An English arms dealer working from the shadows, Lucian Harrow armed both sides of the Year 2 Faction War and profits from chaos few even know he orchestrated."
+    ]
+  },
+  "riskOfRuin": {
+    "name": "RISK OF RUIN",
+    "description": [
+      "The convoy went down in flames but its cargo carried weapons no smithy had ever seen or built."
+    ]
+  },
+  "aMarkedTrail": {
+    "name": "A MARKED TRAIL",
+    "description": [
+      "Rafertfs forge could make little sense of the advanced weaponry, but the emblem scorched into one of its crates might be a thread worth pulling."
+    ]
+  },
+  "againstTheTide": {
+    "name": "AGAINST THE TIDE",
+    "description": [
+      "An arms dealer was finally revealed, profiting from the chaos of the Faction War."
+    ]
+  },
+  "theQuietPull": {
+    "name": "THE QUIET PULL",
+    "description": [
+      "The manhunt ended with a name finally revealed: Lucian Harrow, an arms dealer operating from the shadows, selling weapons to both sides."
+    ]
+  },
+  "longLiveTheHelm": {
+    "name": "LONG LIVE THE HELM",
+    "description": [
+      "The hunt for the Helm's traitor ended at the Ruined Lighthouse, where Commodore Vanderkilfs torture unmasked one of Lucian HarroWs own spies and exposed a convoy bound for the Coast of Africa, carrying a letter meant for someone still unknown."
+    ]
+  },
+  "aFriendFromAfar": {
+    "name": "A FRIEND FROM AFAR",
+    "description": [
+      "HarroWs convoy went down and his letter was seized, but Yanita's reveal cut deeper than any victory: Freeman's treasure is real, and something Freeman feared enough to hide from everyone still waits to be found."
+    ]
+  },
+  "aTrailRenewed": {
+    "name": "A TRAIL RENEWED",
+    "description": [
+      "HarroWs privateers went down, delivering captured steel to Scurlock's smiths. It is now a race to see who can exploit ascended weaponry first."
+    ]
+  },
+  "theTrueCargo": {
+    "name": "THE TRUE CARGO",
+    "description": [
+      "Every crate in Li Tian Ning's hideout was cracked open. Harrows war chest is deeper than any rogue suspected."
+    ]
+  },
+  "theUnbendingFlame": {
+    "name": "THE UNBENDING FLAME",
+    "description": [
+      "HarroWs privateers were intercepted before they could reach Li Tian Ning, who revealed the truth of her medallion -- a gift from Freeman himself, and possibly the key to his hidden treasure."
+    ]
+  },
+  "loyaltysCarnage": {
+    "name": "LOYALTY'S CARNAGE",
+    "description": [
+      "The report from Yanita's wreck was retrieved, which points to Vanderkill's captain as the one who sank her ship."
+    ]
+  },
+  "noQuestions": {
+    "name": "NO QUESTIONS",
+    "description": [
+      "Hunting down the privateers responsible for Yanita's wreck could finally uncover who ordered the attack on her, and just how deep this conspiracy runs."
+    ]
+  },
+  "harrowsGambit": {
+    "name": "HARROW'S GAMBIT",
+    "description": [
+      "Progress Questline"
+    ]
+  },
+  "theHubacTwins": {
+    "name": "THE HUBAC TWINS",
+    "description": [
+      "Opera singers turned assassins, the Hubac Twins command the Compagnie's Chorus Fleet, their haunting song announcing every strike against the Helm"
+    ]
+  },
+  "overtureToHavoc": {
+    "name": "OVERTURE TO HAVOC",
+    "description": [
+      "Yanita's fears were well-founded: the missing Helm agents led straight to the Chorus Fleet, an armada moving against the Helm under Bertrand Hubac's command."
+    ]
+  },
+  "argentRefrain": {
+    "name": "ARGENT REFRAIN",
+    "description": [
+      "Blackwood's stolen cargo turned up gutted and empty, but the trail led straight back to the Hubac Twins' enforcers."
+    ]
+  },
+  "sableRefrain": {
+    "name": "SABLE REFRAIN",
+    "description": [
+      "The buoy turned into an ambush by Chorister Trappers, agents of the Hubac Twins, with more hints of the location of Blackwooffs missing cargo."
+    ]
+  },
+  "symphonyOfCannons": {
+    "name": "SYMPHONY OF CANNONS",
+    "description": [
+      "The Soleil Royal went down beneath rogues' guns. But the Chorus Fleets true commanders have yet to step onto the stage."
+    ]
+  },
+  "sirensRefrain": {
+    "name": "SIREN'S REFRAIN",
+    "description": [
+      "The Chorushunters' trap did not succeed -- a victory for all rogues in the Red Isle."
+    ]
+  },
+  "stolenCrescendo": {
+    "name": "STOLEN CRESCENDO",
+    "description": [
+      "The Compagnie's heavily-armed flagship was seized from the Chorus Fleet, and word of the theft has reached the Twins' ears."
+    ]
+  },
+  "rhapsodyRaids": {
+    "name": "RHAPSODY RAIDS",
+    "description": [
+      "The Chorus Fleets supply ships were raided and their cargo claimed for the Helm. Armand Hubac's grip on the Red Isle has grown more brittle."
+    ]
+  },
+  "secretsInSongs": {
+    "name": "SECRETS IN SONGS",
+    "description": [
+      "Bertrand Hubac's White Aria surfaced at last, giving the Chorus Fleet its face of terror."
+    ]
+  },
+  "vengefulVerses": {
+    "name": "VENGEFUL VERSES",
+    "description": [
+      "La Peste's Plaguebringers were spotted fighting alongside the Chorus Fleet. The Hubacs and the Plague King have seemingly joined forces."
+    ]
+  },
+  "serpentSchemes": {
+    "name": "SERPENT SCHEMES",
+    "description": [
+      "The Plague King was driven back once more, his forces scattered, and the Hubac Twins were left with none to turn to for aid."
+    ]
+  },
+  "defendersOverture": {
+    "name": "DEFENDER'S OVERTURE",
+    "description": [
+      "Armand's escalating attacks threatened to eradicate piracy across the Indian Ocean, but the Helm's line held against his fury."
+    ]
+  },
+  "melodicMayhem": {
+    "name": "MELODIC MAYHEM",
+    "description": [
+      "Armand was met head-on before his rampage could spread further. The Black Aria finally entered the fight, but the Hubac Twin was driven back."
+    ]
+  },
+  "curtainCall": {
+    "name": "CURTAIN CALL",
+    "description": [
+      "The Hubac Twins muster every ship they have for a final attack on the Helm and all rogues."
+    ]
+  },
+  "grandOperasEnd": {
+    "name": "GRAND OPERA'S END",
+    "description": [
+      "The Black and White Aria went down, Bertrand and Armand's final duet drowned out by cannonfire. The Chorus of Havoc falls silent — for now — and the Red Isle finall has its eace."
+    ]
+  },
+  "laPeste": {
+    "name": "LA PESTE",
+    "description": [
+      "Exiled healer turned brutal kingpin, Philippe La Peste sails with his Fleet of Pestilence in search of Freeman's stolen artifact and vengeance for his own abandonment."
+    ]
+  },
+  "theAfricanAilment": {
+    "name": "THE AFRICAN AILMENT",
+    "description": [
+      "The poison ravaging ships and settlements was traced back to Philippe La Peste, the Plague King from the Caribbean."
+    ]
+  },
+  "thePursuingPlague": {
+    "name": "THE PURSUING PLAGUE",
+    "description": [
+      "La Peste's Plaguebringers hunted anyone who disturbed their operations. Word of their fall has reached the Blighted Bastion, and the Plague King himself."
+    ]
+  },
+  "theEncroachingEpidemic": {
+    "name": "THE PURSUING PLAGUE",
+    "description": [
+      "The Fleet of Pestilence's advance was stalled and La Peste's smuggling network gutted. The Plague King has nowhere left to hide but within the walls of his own bastion."
+    ]
+  },
+  "serpentsLastStrike": {
+    "name": "SERPENT'S LAST STRIKE",
+    "description": [
+      "The Blighted Bastion was stormed and razed, with the Indian Ocean finally free of La Peste's plague."
+    ]
+  },
+  "infamyQuest": {
+    "name": "INFAMY QUEST",
+    "description": [
+      "As a captain's Infamy grows, new services open across the ocean, from the Huntmaster and Mystic's rare wares, to Ascension and Modification's weapon upgrades and the networks that keep an operation running."
+    ]
+  },
+  "smugglersNetwork": {
+    "name": "SMUGGLER'S NETWORK",
+    "description": [
+      "Blackwood intercepted the Fara and Compagnie's weapons deal, seizing both the shipment and one of their ships -- a clean heist that gave the Smuggler's Network the supply it needed to expand its reach across the Indian Ocean."
+    ]
+  },
+  "mysticShop": {
+    "name": "MYSTIC SHOP",
+    "description": [
+      "The Mystic is open for business, ready to trade rare loot no ordinary vendor carries in exchange for Ethereal Ashes gathered from the Ghost Ship."
+    ]
+  },
+  "shipUpgrading": {
+    "name": "SHIP UPGRADING",
+    "description": [
+      "The Upgrade Kit went into the Shipwrights hands, and the ship that sailed out carried more power than ever before."
+    ]
+  },
+  "deathTides": {
+    "name": "DEATH TIDES",
+    "description": [
+      "A seasonal calamity known as the Death Tides is rising, opening a limited window to chase rewards this event alone has to offer."
+    ]
+  },
+  "ascensionAndModification": {
+    "name": "ASCENSION AND MODIFICATION",
+    "description": [
+      "The Blacksmith has found a way to turn Ascension Flux into real upgrades and let weapon mods move freely between compatible gear."
+    ]
+  },
+  "huntmasterShop": {
+    "name": "INFAMY QUEST",
+    "description": [
+      "The Sea People's Huntmaster at Lanitra is offering contracts to hunt the Indian Ocean's most fearsome sea monsters, for any captain bold enough to take one on."
+    ]
+  },
+  "investigations": {
+    "name": "INVESTIGATIONS",
+    "description": [
+      "Each investigation follows a fragment of Freeman's cursed silver through the hands of governors, rebels, and doomed captains, tracing the reach of his impossible lega"
+    ]
+  },
+  "freemansTreasure": {
+    "name": "FREEMAN'S TREASURE",
+    "description": [
+      "Freeman's fortune was never lost, but scattered across trails of blood, betrayal, and cursed silver. Every hand that touched it paid the price."
+    ]
+  },
+  "theFallOfLanitra": {
+    "name": "THE FALL OF LANITRA",
+    "description": [
+      "Lanitra's fall was no accident. Legrancrs own logbook named the informant who sold the haven to the Crown, and the trail his betrayal left pointed to silver far older than one governors ambition."
+    ]
+  },
+  "theCrownOfUkuta": {
+    "name": "THE CROWN OF UKUTA",
+    "description": [
+      "Mwenye's dying letter told the truth: Freeman lured his crew away with promises of a new life in Lanitra, before abandoning the deposed king to die. The Crown of Ukuta is buried with him."
+    ]
+  },
+  "ambush": {
+    "name": "AMBUSH",
+    "description": [
+      "Arnold Silver's silver was recovered from the wreck near Dutchman's Camp, along with his last letter home. The DMC set the ambush that killed him before he got the chance to spend it."
+    ]
+  },
+  "aLegacyOfMadness": {
+    "name": "A LEGACY OF MADNESS",
+    "description": [
+      "The cursed wedding at Khmoy Estate never happened.",
+      "Freeman's stranded crew unknowingly pushed the Schoenmaker bloodline into murder-suicide."
+    ]
+  },
+  "mentariOfTheUnbound": {
+    "name": "MENTARI OF THE UNBOUND",
+    "description": [
+      "Mentari of the Unbound's vengeance against Jacob de Roy came at a cost. But only Admiral Rahma knows the full price her Shipwright paid."
+    ]
+  },
+  "turningThePage": {
+    "name": "TURNING THE PAGE",
+    "description": [
+      "A bounty poster and a headline exposed Jacques Sorrers secret: his own bestselling children's book hiding a coded warning naming the ship at the center of it all."
+    ]
+  },
+  "graveNews": {
+    "name": "GRAVE NEWS",
+    "description": [
+      "The DMC's fears were justified: Brouwers stolen corpse was traced back to a rebellion's vengeance. His legacy is buried now, beneath the Rempah he once slaughtered."
+    ]
+  },
+  "bloodyBonesLegacy": {
+    "name": "BLOODY BONES' LEGACY",
+    "description": [
+      "The Ashen Corsair held the truth: Bloody Bones died cursing Sainte-Amélie, the city whose cruelty starved her sister to death. The grave she left behind proved her vengeance outlived her."
+    ]
+  },
+  "theAshenCorsair": {
+    "name": "THE ASHEN CORSAIR",
+    "description": [
+      "A mutinous crew and Tristan's own haunted diary confirmed the Ashen Corsair's curse never lifted. Bloody Bones never truly left her ship."
+    ]
+  },
+  "dutchMerchantCompany": {
+    "name": "DUTCH MERCHANT COMPANY",
+    "description": [
+      "The Dutch Merchant Company is a colonial trading empire that rules through fortified plantations and quasi-military law, holding its monopoly against rivals like the Compagnie Royale and the peoples who resist it."
+    ]
+  },
+  "idleEarls": {
+    "name": "IDLE EARLS",
+    "description": [
+      "Enemy warships sank without ceremony, and DMC officers repaid the work with nothing more than a curt commendation."
+    ]
+  },
+  "cutthroatJacks": {
+    "name": "CUTTHROAT JACKS",
+    "description": [
+      "A senior DMC officer's sudden disappearance has cleared the path for his ambitious junior. The dead ask no questions."
+    ]
+  },
+  "headOfTheFleet": {
+    "name": "HEAD OF THE FLEET",
+    "description": [
+      "Commodore Van Hoek's last rival went silent, and command of the fleet has passed to him."
+    ]
+  },
+  "compagnieRoyale": {
+    "name": "COMPAGNIE ROYALE",
+    "description": [
+      "The Compagnie Royale is a French trading power that favors diplomacy and discrete dealing over conquest, using speed and quick wit to outmaneuver the Dutch Merchant Company for control of Indian Ocean trade."
+    ]
+  },
+  "botel0Rhum": {
+    "name": "BO'TEL 0' RHUM",
+    "description": [
+      "The old drunkard's rum ran plentiful, and for one grateful sailor aboard a Compagnie ship, no captain had ever earned such devotion."
+    ]
+  },
+  "poorCompagnie": {
+    "name": "POOR COMPAGNIE",
+    "description": [
+      "Lured by better wages, the Compagnie's officers were paid their dues. They will remember those who bought their respect."
+    ]
+  },
+  "skimTheTop": {
+    "name": "SKIM THE TOP",
+    "description": [
+      "The smuggled crate vanished without a trace. The Compagnie's ledgers stayed clean, and one of their officers sleeps easy."
+    ]
+  },
+  "theRoyaleExit": {
+    "name": "THE ROYALE EXIT",
+    "description": [
+      "With enough stolen silver to retire, disillusioned officers deserted the Compagnie for good, leaving behind a promised cut."
+    ]
+  },
+  "rogues": {
+    "name": "ROGUES",
+    "description": [
+      "The Rogues are independent pirate crews roaming the open seas, some loosely banding together or claiming loyalty to Kingpins and the Pirate Round. But in a dog-eat-dog ocean, every one of them is ultimately out for their own profit."
+    ]
+  },
+  "blastYeTowers": {
+    "name": "BLAST YE TOWERS",
+    "description": [
+      "The coastal towers came down, and the East Indies smuggling lanes run open once again."
+    ]
+  },
+  "hunterOfHunters": {
+    "name": "HUNTER OF HUNTERS",
+    "description": [
+      "The hunters sent after rogues were put to rest, leaving the smuggling lanes clear and a fair cut of the trade waiting to be claimed."
+    ]
+  },
+  "royalHunt": {
+    "name": "ROYAL HUNT",
+    "description": [
+      "The Marquis found his own price paid out to rogues -- the same rogues he once hunted."
+    ]
+  },
+  "hungryMermaids": {
+    "name": "HUNGRY MERMAIDS",
+    "description": [
+      "East Indies smugglers left starving by DMC raids have had their holds restocked, gaining new allies they will not soon forget."
+    ]
+  },
+  "rabbleRouser": {
+    "name": "RABBLE ROUSER",
+    "description": [
+      "DMC and Rempah patrols were lured to false trails, and the smugglers' lucrative contraband run slipped through."
+    ]
+  },
+  "seaPeople": {
+    "name": "SEA PEOPLE",
+    "description": [
+      "The Sea People are seafaring wanderers who live by the tide and the stars, trading and fishing across the Red Isles. They are now locked in an unending war with the Clan of Fara for the only ground they have"
+    ]
+  },
+  "thrillOfTheHunt": {
+    "name": "THRILL OF THE HUNT",
+    "description": [
+      "The sea monster fell before the hunts end, and the Sea People Huntmastets respect was earned."
+    ]
+  },
+  "relicsOfThePast": {
+    "name": "RELICS OF THE PAST",
+    "description": [
+      "The scattered relics were returned to Tenina Town. Among the Sea People, whispers rose of their prophesied peacemaker who might end their long war with the Fara."
+    ]
+  },
+  "lifeAfterDeath": {
+    "name": "LIFE AFTER DEATH",
+    "description": [
+      "The ancestors' procession reached its end, unbroken, and the Sea People completed the rites that Fara aggression threatened to interrupt."
+    ]
+  },
+  "fatesInTheStars": {
+    "name": "FATES IN THE STARS",
+    "description": [
+      "The stolen star charts came home. Beneath the night sky, the Sea People read their vintana once more."
+    ]
+  },
+  "clanOfFara": {
+    "name": "CLAN OF FARA",
+    "description": [
+      "The Clan of Fara are the iron-fisted rulers of Red Isle, holding power through taxation and force — locked in a bitter war with the Sea People for control of the ground beneath them."
+    ]
+  },
+  "smokeOnTheWater": {
+    "name": "SMOKE ON THE WATER",
+    "description": [
+      "The covert shipment slipped past, with the Fara merchant's secret trade deal kept intact."
+    ]
+  },
+  "ancestralRights": {
+    "name": "ANCESTRAL RIGHTS",
+    "description": [
+      "The disputed cargo passed into Fara hands, and the clan's claims over the Red Isle have gone unchallenged."
+    ]
+  },
+  "ourInheritedLand": {
+    "name": "OUR INHERITED LAND",
+    "description": [
+      "The Compagnie cache was retrieved from Fara ancestral grounds, and the payoff ran heavier than promised."
+    ]
+  },
+  "powerAfterDeath": {
+    "name": "POWER AFTER DEATH",
+    "description": [
+      "The Fara's sacred rite proceeded once the last relic was recovered. Here, only Fara blood was ever meant to seep."
+    ]
+  },
+  "confederationOfUngwana": {
+    "name": "CONFEDERATION OF UNGWANA",
+    "description": [
+      "The Confederation of Ungwana is a coalition of African traders and warriors bound by ancient gold and trade routes, now fracturing under a divided court, raided coasts, and a creditor demanding whats Ifo owed."
+    ]
+  },
+  "bruisingVengeance": {
+    "name": "BRUISING VENGEANCE",
+    "description": [
+      "Fara raiders who struck the Ungwana's food stockpiles limped away with far heavier losses."
+    ]
+  },
+  "weSeekWarriors": {
+    "name": "WE SEEK WARRIORS",
+    "description": [
+      "Across the Ungwana coast, every hunter answered the call, and the scattered survivors of Halisrs coup stand united."
+    ]
+  },
+  "aToweringThreat": {
+    "name": "A TOWERING THREAT",
+    "description": [
+      "The Compagnie's fortified towers fell, their guns silenced and their claim on Ungwana territory broken."
+    ]
+  },
+  "theForeignMenace": {
+    "name": "THE FOREIGN MENACE",
+    "description": [
+      "Sohari scout ships were driven back to open waters, and the debt the Sultan meant to collect on Halisi has stayed unclaimed."
+    ]
+  },
+  "dominionOfRempah": {
+    "name": "DOMINION OF REMPAH",
+    "description": [
+      "The Dominion of Rempah are traders turned warriors, their waters commanded by Admiral Rahma's fleet of women, the Unbound. They now fight to break the Dutch Merchant Companfs monopoly over their own trade"
+    ]
+  },
+  "unchartedWaters": {
+    "name": "UNCHARTED WATERS",
+    "description": [
+      "The DMC's surveyors were sunk before they could chart Rempah waters, and their expansion into the East Indies has been set back."
+    ]
+  },
+  "secretExtraction": {
+    "name": "SECRET EXTRACTION",
+    "description": [
+      "The golden dossier was retrieved, exposing a loose-tongued Dutch prince to a damning scandal."
+    ]
+  },
+  "aClandestineTrail": {
+    "name": "A CLANDESTINE TRAIL",
+    "description": [
+      "The spfs trail surfaced evidence of bribery and abuse among the DMC's officers, proof enough to hang them by their own corruption."
+    ]
+  },
+  "discreetDealings": {
+    "name": "DISCREET DEALINGS",
+    "description": [
+      "The attempted alliance between the DMC and the Compagnie collapsed, leaving the Dutch to face Rahma's rebellion without would-be partners."
+    ]
+  },
+  "economicEspionage": {
+    "name": "ECONOMIC ESPIONAGE",
+    "description": [
+      "The stolen goods vanished from the DMC:s hulls, chipping away at the illusion that their grip on the East Indies is untouchable."
+    ]
+  },
+  "theHelm": {
+    "name": "THE HELM",
+    "description": [
+      "The Helm operates in the shadows of the Indian Ocean's black market, its smuggling network built on competence, loyalty, and the promise of Kingpin tier mentorship for those who prove worthy."
+    ]
+  },
+  "supplyNetwork": {
+    "name": "SUPPLY NETWORK",
+    "description": [
+      "The sugar cane and Helm token reached Yanita Nara's hands without violence or complication — proof enough that a rogue can handle Helm business."
+    ]
+  },
+  "theDistillery": {
+    "name": "THE DISTILLERY",
+    "description": [
+      "Alcohol left the refinery, refined and registered. Proof enough for Yanita Nara that a rogue can run a legitimate smuggling operation."
+    ]
+  },
+  "rogueHunt": {
+    "name": "ROGUE HUNT",
+    "description": [
+      "The marked rogue fell, along with Chorus Fleet raiders. The Helm now knows of a captain's ruthlessness."
+    ]
+  },
+  "smugglersHideout": {
+    "name": "SMUGGLER'S HIDEOUT",
+    "description": [
+      "The Helm certificate reached Houma Nara at Telok Penjarah. The Smuggler's Hideout in the East Indies has opened its doors."
+    ]
+  },
+  "theHelmEmpire": {
+    "name": "THE HELM EMPIRE",
+    "description": [
+      "Yanita Nara and the Helm continue to support any prospective rogue's growing smuggling empire."
+    ]
+  },
+  "helmManufactories": {
+    "name": "HELM MANUFACTORIES",
+    "description": [
+      "The token was delivered and the manufactory funded, giving the Helm a fresh foothold in Madagascar's smuggling trade."
+    ]
+  },
+  "licenseToLease": {
+    "name": "LICENSE TO LEASE",
+    "description": [
+      "The lease was secured and the Helm's banner now covers one more captain's claim in Madagascar."
+    ]
+  }
+}
