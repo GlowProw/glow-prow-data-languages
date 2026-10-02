@@ -22,6 +22,7 @@ import territories_zh_CN from './data/zh_CN/territories.json'
 import npcs_zh_CN from './data/zh_CN/npcs.json'
 import zones_zh_CN from './data/zh_CN/zones.json'
 import masterys_zh_CN from './data/zh_CN/masterys.json'
+import quests_zh_CN from './data/zh_CN/quest.json'
 
 import ships_zh_TW from './data/zh_TW/ships.json';
 import items_zh_TW from './data/zh_TW/items.json';
@@ -48,6 +49,7 @@ import npcs_zh_TW from './data/zh_TW/npcs.json'
 import treasureMaps_zh_TW from './data/zh_TW/treasureMaps.json'
 import zones_zh_TW from './data/zh_TW/zones.json'
 import masterys_zh_TW from './data/zh_TW/masterys.json'
+import quests_zh_TW from './data/zh_TW/quest.json'
 
 import ships_en_US from './data/en_US/ships.json';
 import items_en_US from './data/en_US/items.json';
@@ -74,6 +76,7 @@ import npcs_en_US from './data/en_US/npcs.json'
 import treasureMaps_en_US from './data/en_US/treasureMaps.json'
 import zones_en_US from './data/en_US/zones.json'
 import masterys_en_US from './data/en_US/masterys.json'
+import quests_en_US from './data/en_US/quest.json'
 
 import {LanguageData} from "./types";
 
@@ -101,7 +104,8 @@ export const zh_CN: LanguageData = {
     npcs: npcs_zh_CN,
     treasureMaps: treasureMaps_en_US,
     zones: zones_zh_CN,
-    masterys: masterys_zh_CN
+    masterys: masterys_zh_CN,
+    quests: quests_zh_CN
 };
 
 export const zh_TW: LanguageData = {
@@ -128,7 +132,8 @@ export const zh_TW: LanguageData = {
     npcs: npcs_zh_TW,
     treasureMaps: treasureMaps_zh_TW,
     zones: zones_zh_TW,
-    masterys: masterys_zh_TW
+    masterys: masterys_zh_TW,
+    quests: quests_zh_TW
 };
 
 export const en_US: LanguageData = {
@@ -155,7 +160,9 @@ export const en_US: LanguageData = {
     npcs: npcs_en_US,
     treasureMaps: treasureMaps_en_US,
     zones: zones_en_US,
-    masterys: masterys_en_US
+    masterys: masterys_en_US,
+    quests: quests_en_US
 };
 
 export * from './types';
+
