@@ -306,5 +306,9 @@
   "cipherMooncake": {
     "name": "密文月饼",
     "description": "需要将这个重新加密的月饼交给一个走私贩。"
+  },
+  "warAssets": {
+    "name": "War Assets",
+    "description": "An official requisition for various military supplies. In the right hands, this document can be used to secure wartime provisions for your preferred benefactor."
   }
 }
