@@ -367,5 +367,8 @@
   "williamBlackwoodAbyssalStore": "在William Blackwood深海商店可以购买/购买",
   "worldEventReward": "世界活动可能带来的奖励",
   "twitchDropYear3Season2": "Twitch掉落将在 {{crimsonWaters}}开始时发放",
-  "galleonPhotomodeContestReward": "奖励给在盖伦摄影模式大赛中由社区投票选出的前 10 名作品"
+  "galleonPhotomodeContestReward": "奖励给在盖伦摄影模式大赛中由社区投票选出的前 10 名作品",
+  "twitchDropRequiemOfTheLostY3S2": "Twitch Drop for the Requiem of the Lost event in {{crimsonWaters}}",
+  "twitchDropPlatinumGodGames": "Time-limited twitch drop during a livestream from Platinum God Games",
+  "twitchDropSupereloy77": "Time-limited twitch drop during a livestream from Supereloy77"
 }
