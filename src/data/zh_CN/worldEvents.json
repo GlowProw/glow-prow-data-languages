@@ -1,82 +1,266 @@
 {
-  "anguishFromTheAbyss": "深渊悲鸣",
-  "tidesOfTerror": "恐怖之潮",
-  "theMizerja": "米泽贾",
-  "theOpwelling": "冲动号",
-  "thePlagueKing": "瘟疫之王",
-  "caperingTheCape": "海角嬉戏",
-  "anAllianceOfConvenience": "权宜之盟",
-  "theRempahResupply": "任帕补给",
-  "guidedByGuile": "诡计指引",
-  "symphonieMortelle": "死亡交响",
-  "verseOfVengeance": "复仇诗篇",
-  "verseOfRemorse": "悔恨诗篇",
-  "riskTheRisingTide": "冒着涨潮的危险",
-  "iceAndEasy": "如履薄冰",
-  "chorusOfHavoc": "浩劫合唱",
-  "divineRetribution": "神圣惩罚",
-  "opulentOpportunity": "富裕的良机",
-  "easternExchange": "东方交易",
-  "flamesOfTheDragon": "龙之焰",
-  "theGloriousPhoenix": "荣耀凤凰",
-  "theSerpentsWrath": "怒蛇之愤",
-  "flamesOfThePhoenix": "凤凰烈焰",
-  "baitAndSwitch": "诱饵与调包",
-  "stolenTreasures": "失窃宝藏",
-  "curseOfTheSchaduw": "暗影的诅咒",
-  "theLoomingShadow": "逼近的阴影",
-  "reaversVengeance": "掠夺者的复仇",
-  "theWolfHunter": "猎狼者",
-  "theAzureRoyale": "蔚蓝皇家",
-  "theGreatShadow": "巨大的阴影",
-  "undyingMaw": "不朽之口",
-  "payingDues": "血债血偿",
-  "scurlocksPrecious": "斯克罗克的宝贝",
-  "thickAsThieves": "亲密无间",
-  "gloryAdorned": "荣耀加身",
-  "theHonorlessMizerja": "无耻之徒：米泽贾",
-  "theHonorlessDianSinaga": "无耻之徒：黛安·西纳加",
-  "theHonorlessAhPak": "无耻之徒：阿帕",
-  "shadesOfTheRonin": "浪人阴影",
-  "fangsOfTheFara": "法拉之牙",
-  "hunterHunted": "猎人被猎",
-  "watchTheThrone": "注视王座",
-  "aTreacherousTurn": "奸诈反转",
-  "aShowOfStrength": "展示力量",
-  "fromTheDeep": "来自深渊",
-  "profitablePoison": "有利可图的毒药",
-  "farReachesForTheFara": "法拉的远方",
-  "drownedSorrows": "淹没的悲伤",
-  "aHushedHold": "寂静的货舱",
-  "theVanishing": "消失",
-  "silentDeath": "无声死亡",
-  "convoyOfHighSpirits": "情绪高昂的护卫队",
-  "shapesInTheWater": "水中之影",
-  "spoilsOfWar": "战利品",
-  "aPerilousPathToProfits": "危险的获利之路",
-  "maladiousMeasures": "恶疾措施",
-  "colonialShipment": "殖民地货物",
-  "apparativeApparitions": "显现的幻影",
-  "violentTendencies": "暴力倾向",
-  "aLongMarch": "长征",
-  "theManicMoonshinerFleet": "疯狂私酒舰队",
-  "deadMansMoonshine": "死人私酒",
-  "moonshineMadness": "私酒疯狂",
-  "bloodDrunk": "嗜血醉酒",
-  "theWeepingMother": "哭泣的母亲",
-  "soleilRoyal": "皇家太阳号",
-  "reapItAndWeep": "收割与哭泣",
-  "reaperOfTheLost": "迷失者的收割者",
-  "azureHarbinger": "蔚蓝先驱",
-  "warCargo": "战争货物",
-  "warConvoy": "战争护卫队",
-  "opstuwing": "激增",
-  "soleilImperial": "皇家太阳号",
-  "kraken": "克拉肯",
-  "theDrowningPlague": "溺亡瘟疫",
-  "jawsOfRetribution": "复仇之颚",
-  "megafortWolvenhol": "美加福尔特·沃尔芬霍尔",
-  "legendOfTheNian": "尼安的图例",
-  "crazedNian": "腐烂的尼亞文",
-  "heraldsOfTheAbyss": "深渊的先驱者"
+  "anguishFromTheAbyss": {
+    "name": "深渊悲鸣（红色曼戈丁领地）",
+    "description": "曼戈丁，一个受困于自身痛苦的复仇幽灵，重返生者之海播撒它的苦痛。"
+  },
+  "tidesOfTerror": {
+    "name": "恐怖之潮"
+  },
+  "theMizerja": {
+    "name": "米泽贾"
+  },
+  "theOpwelling": {
+    "name": "冲动号"
+  },
+  "thePlagueKing": {
+    "name": "瘟疫之王（拉佩斯特领地）"
+  },
+  "caperingTheCape": {
+    "name": "海角嬉戏"
+  },
+  "anAllianceOfConvenience": {
+    "name": "权宜之盟"
+  },
+  "theRempahResupply": {
+    "name": "任帕补给"
+  },
+  "guidedByGuile": {
+    "name": "诡计指引"
+  },
+  "symphonieMortelle": {
+    "name": "死亡交响"
+  },
+  "verseOfVengeance": {
+    "name": "复仇诗篇"
+  },
+  "verseOfRemorse": {
+    "name": "悔恨诗篇"
+  },
+  "riskTheRisingTide": {
+    "name": "冒着涨潮的危险"
+  },
+  "iceAndEasy": {
+    "name": "如履薄冰"
+  },
+  "chorusOfHavoc": {
+    "name": "浩劫合唱（于巴克双子领地）",
+    "description": "法国公司的利剑与长矛——于巴克双子正处于其实力顶峰。是时候主动迎战他们，阻止他们的推进了。"
+  },
+  "divineRetribution": {
+    "name": "神圣惩罚"
+  },
+  "opulentOpportunity": {
+    "name": "富裕的良机"
+  },
+  "easternExchange": {
+    "name": "东方交易"
+  },
+  "flamesOfTheDragon": {
+    "name": "龙之焰"
+  },
+  "theGloriousPhoenix": {
+    "name": "荣耀凤凰（李天宁领地）"
+  },
+  "theSerpentsWrath": {
+    "name": "怒蛇之愤"
+  },
+  "flamesOfThePhoenix": {
+    "name": "凤凰烈焰"
+  },
+  "baitAndSwitch": {
+    "name": "诱饵与调包"
+  },
+  "stolenTreasures": {
+    "name": "失窃宝藏"
+  },
+  "curseOfTheSchaduw": {
+    "name": "暗影的诅咒"
+  },
+  "theLoomingShadow": {
+    "name": "逼近的阴影（维克拉姆·拉詹领地）"
+  },
+  "reaversVengeance": {
+    "name": "掠夺者的复仇（复生扎玛哈里布）"
+  },
+  "theWolfHunter": {
+    "name": "猎狼者"
+  },
+  "theAzureRoyale": {
+    "name": "蔚蓝皇家"
+  },
+  "theGreatShadow": {
+    "name": "巨大的阴影（神话维克拉姆·拉詹）"
+  },
+  "undyingMaw": {
+    "name": "不朽之口（复生超级莱斯塔里）",
+    "description": "有人在这些海域目击到了莱斯塔里。但那只巨兽有些反常，仿佛已被维克拉姆的影响所侵蚀污染。"
+  },
+  "payingDues": {
+    "name": "血债血偿"
+  },
+  "scurlocksPrecious": {
+    "name": "斯克罗克的宝贝"
+  },
+  "thickAsThieves": {
+    "name": "亲密无间"
+  },
+  "gloryAdorned": {
+    "name": "荣耀加身"
+  },
+  "theHonorlessMizerja": {
+    "name": "无耻之徒：米泽贾"
+  },
+  "theHonorlessDianSinaga": {
+    "name": "无耻之徒：黛安·西纳加"
+  },
+  "theHonorlessAhPak": {
+    "name": "无耻之徒：阿帕"
+  },
+  "shadesOfTheRonin": {
+    "name": "浪人阴影"
+  },
+  "fangsOfTheFara": {
+    "name": "法拉之牙（坦格纳·拉贝）",
+    "description": "坦格纳·拉贝船长是法拉针对宿敌海民的最新的致命武器。"
+  },
+  "hunterHunted": {
+    "name": "猎人被猎（约卡·库布瓦）",
+    "description": "约卡·库布瓦是一名狂热的昂瓜纳军官，企图清除海岸上的所有外来势力，无论是法国人还是海盗。"
+  },
+  "watchTheThrone": {
+    "name": "注视王座（阿帕）",
+    "description": "被称为阿帕的鳗鱼私掠者已抵达公海，企图自立为巨头之王。让他见识一下谁才是公海真正的主宰。"
+  },
+  "aTreacherousTurn": {
+    "name": "奸诈反转（黛安·西纳加）",
+    "description": "黛安·西纳加船长企图背叛她的任帕同伴。扭转局势严惩叛徒，领取赏金。"
+  },
+  "aShowOfStrength": {
+    "name": "展示力量（德克·安克伦）",
+    "description": "DMC因叛军活动的报告而震怒，派出了残忍的执法者德克·安克伦来宣示主权。"
+  },
+  "fromTheDeep": {
+    "name": "来自深渊（库哈里布）",
+    "description": "在公海中，多艘船只失踪。幸存者私下低语着关于“远古恐惧”的传说——某种从深渊中浮现的庞大怪物，将整艘船只一口吞噬。"
+  },
+  "profitablePoison": {
+    "name": "有利可图的毒药"
+  },
+  "farReachesForTheFara": {
+    "name": "法拉的远方"
+  },
+  "drownedSorrows": {
+    "name": "淹没的悲伤"
+  },
+  "aHushedHold": {
+    "name": "寂静的货舱"
+  },
+  "theVanishing": {
+    "name": "消失（莱斯塔里）",
+    "description": "一只巨大的鲨鱼状生物潜伏在海洋中搜寻猎物，威胁着贸易路线，令船员们胆战心惊。"
+  },
+  "silentDeath": {
+    "name": "无声死亡（超级莱斯塔里领地）",
+    "description": "在下方海域中发现了一个潜伏的黑影，一个来自深海游弋徘徊的致命威胁……"
+  },
+  "convoyOfHighSpirits": {
+    "name": "情绪高昂的护卫队"
+  },
+  "shapesInTheWater": {
+    "name": "水中之影"
+  },
+  "spoilsOfWar": {
+    "name": "战利品"
+  },
+  "aPerilousPathToProfits": {
+    "name": "危险的获利之路"
+  },
+  "maladiousMeasures": {
+    "name": "恶疾措施"
+  },
+  "colonialShipment": {
+    "name": "殖民地货物"
+  },
+  "apparativeApparitions": {
+    "name": "显现的幻影"
+  },
+  "violentTendencies": {
+    "name": "暴力倾向"
+  },
+  "aLongMarch": {
+    "name": "长征"
+  },
+  "theManicMoonshinerFleet": {
+    "name": "疯狂私酒舰队"
+  },
+  "deadMansMoonshine": {
+    "name": "死人私酒"
+  },
+  "moonshineMadness": {
+    "name": "私酒疯狂"
+  },
+  "bloodDrunk": {
+    "name": "嗜血醉酒（加尔文·罗什）",
+    "description": "加尔文·罗什船长正在针对昂瓜纳人进行酒后狂暴的杀戮与破坏。用炮火让他清醒清醒，获取赏金。"
+  },
+  "theWeepingMother": {
+    "name": "哭泣的母亲"
+  },
+  "soleilRoyal": {
+    "name": "皇家太阳号"
+  },
+  "reapItAndWeep": {
+    "name": "收割与哭泣"
+  },
+  "reaperOfTheLost": {
+    "name": "迷失者的收割者"
+  },
+  "azureHarbinger": {
+    "name": "蔚蓝先驱"
+  },
+  "warCargo": {
+    "name": "战争货物"
+  },
+  "warConvoy": {
+    "name": "战争护卫队"
+  },
+  "opstuwing": {
+    "name": "强力冲动号"
+  },
+  "soleilImperial": {
+    "name": "强力皇家太阳号"
+  },
+  "kraken": {
+    "name": "克拉肯",
+    "description": "在下方海域中发现了一个潜伏的黑影，一个来自深海游弋徘徊的致命威胁……"
+  },
+  "theDrowningPlague": {
+    "name": "溺亡瘟疫（神话拉佩斯特）"
+  },
+  "jawsOfRetribution": {
+    "name": "复仇之颚（扎玛哈里布领地）",
+    "description": "该海域中大批船只已被未知的敌人摧毁殆尽。"
+  },
+  "megafortWolvenhol": {
+    "name": "沃尔芬霍尔超级堡垒",
+    "description": "与其他5位船长结盟组队，窃取超级堡垒内囤积的进阶材料。"
+  },
+  "legendOfTheNian": {
+    "name": "年兽传说"
+  },
+  "crazedNian": {
+    "name": "发狂的年兽"
+  },
+  "heraldsOfTheAbyss": {
+    "name": "深渊先驱",
+    "description": "彼岸的阴影潜伏在现实边缘。引出深渊舰队，并将他们驱逐出这个世界。"
+  },
+  "abyssalEnvoy": {
+    "name": "深渊特使",
+    "description": "低语着毁灭的幽灵般恐怖之物从碎浪中浮现。那是预示着未来灾厄的诅咒使者。"
+  },
+  "gloryAdornedResynced": {
+    "name": "荣耀加身：再同步",
+    "description": "留意身披独特装扮的商贸护卫队。击败他们，就有机会为你的船只赢取那些装饰！"
+  }
 }

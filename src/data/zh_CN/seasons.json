@@ -1,13 +1,57 @@
 {
-  "release": "发行",
-  "ragingTides": "狂潮",
-  "chorusOfHavoc": "浩劫合唱",
-  "intoTheDragonsWake": "龙之觉醒",
-  "shadowsOfTheDeep": "深海暗影",
-  "ascentIntoChaos": "混沌升腾",
-  "oathsOfWar": "战争誓约",
-  "gutsAndGlory": "勇气与荣耀",
-  "eyeOfTheBeast": "野兽之眼",
-  "shatteredSeas": "破碎之海",
-  "crimsonWaters": "猩红海域"
+  "release": {
+    "name": "发行",
+    "shortName": "Y1S0",
+    "fullName": "Y1S0 - 发行"
+  },
+  "ragingTides": {
+    "name": "狂潮",
+    "shortName": "Y1S1",
+    "fullName": "Y1S1 - 狂潮"
+  },
+  "chorusOfHavoc": {
+    "name": "浩劫合唱",
+    "shortName": "Y1S2",
+    "fullName": "Y1S2 - 浩劫合唱"
+  },
+  "intoTheDragonsWake": {
+    "name": "龙之觉醒",
+    "shortName": "Y1S3",
+    "fullName": "Y1S3 - 龙之觉醒"
+  },
+  "shadowsOfTheDeep": {
+    "name": "深海暗影",
+    "shortName": "Y1S4",
+    "fullName": "Y1S4 - 深海暗影"
+  },
+  "ascentIntoChaos": {
+    "name": "混沌升腾",
+    "shortName": "Y2S1",
+    "fullName": "Y2S1 - 混沌升腾"
+  },
+  "oathsOfWar": {
+    "name": "战争誓约",
+    "shortName": "Y2S2",
+    "fullName": "Y2S2 - 战争誓约"
+  },
+  "gutsAndGlory": {
+    "name": "勇气与荣耀",
+    "shortName": "Y2S3",
+    "fullName": "Y2S3 - 勇气与荣耀"
+  },
+  "eyeOfTheBeast": {
+    "name": "野兽之眼",
+    "shortName": "Y2S4",
+    "fullName": "Y2S4 - 野兽之眼"
+  },
+  "shatteredSeas": {
+    "name": "破碎之海",
+    "shortName": "Y3S1",
+    "fullName": "Y3S1 - 破碎之海"
+  },
+  "crimsonWaters": {
+    "name": "猩红海域",
+    "shortName": "Y3S2",
+    "fullName": "Y3S2 - 猩红海域"
+  }
 }
