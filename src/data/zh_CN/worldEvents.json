@@ -1,82 +1,266 @@
 {
-  "anguishFromTheAbyss": "深渊悲鸣",
-  "tidesOfTerror": "恐怖之潮",
-  "theMizerja": "米泽贾",
-  "theOpwelling": "冲动号",
-  "thePlagueKing": "瘟疫之王",
-  "caperingTheCape": "海角嬉戏",
-  "anAllianceOfConvenience": "权宜之盟",
-  "theRempahResupply": "任帕补给",
-  "guidedByGuile": "诡计指引",
-  "symphonieMortelle": "死亡交响",
-  "verseOfVengeance": "复仇诗篇",
-  "verseOfRemorse": "悔恨诗篇",
-  "riskTheRisingTide": "冒着涨潮的危险",
-  "iceAndEasy": "如履薄冰",
-  "chorusOfHavoc": "浩劫合唱",
-  "divineRetribution": "神圣惩罚",
-  "opulentOpportunity": "富裕的良机",
-  "easternExchange": "东方交易",
-  "flamesOfTheDragon": "龙之焰",
-  "theGloriousPhoenix": "荣耀凤凰",
-  "theSerpentsWrath": "怒蛇之愤",
-  "flamesOfThePhoenix": "凤凰烈焰",
-  "baitAndSwitch": "诱饵与调包",
-  "stolenTreasures": "失窃宝藏",
-  "curseOfTheSchaduw": "暗影的诅咒",
-  "theLoomingShadow": "逼近的阴影",
-  "reaversVengeance": "掠夺者的复仇",
-  "theWolfHunter": "猎狼者",
-  "theAzureRoyale": "蔚蓝皇家",
-  "theGreatShadow": "巨大的阴影",
-  "undyingMaw": "不朽之口",
-  "payingDues": "血债血偿",
-  "scurlocksPrecious": "斯克罗克的宝贝",
-  "thickAsThieves": "亲密无间",
-  "gloryAdorned": "荣耀加身",
-  "theHonorlessMizerja": "无耻之徒：米泽贾",
-  "theHonorlessDianSinaga": "无耻之徒：黛安·西纳加",
-  "theHonorlessAhPak": "无耻之徒：阿帕",
-  "shadesOfTheRonin": "浪人阴影",
-  "fangsOfTheFara": "法拉之牙",
-  "hunterHunted": "猎人被猎",
-  "watchTheThrone": "注视王座",
-  "aTreacherousTurn": "奸诈反转",
-  "aShowOfStrength": "展示力量",
-  "fromTheDeep": "来自深渊",
-  "profitablePoison": "有利可图的毒药",
-  "farReachesForTheFara": "法拉的远方",
-  "drownedSorrows": "淹没的悲伤",
-  "aHushedHold": "寂静的货舱",
-  "theVanishing": "消失",
-  "silentDeath": "无声死亡",
-  "convoyOfHighSpirits": "情绪高昂的护卫队",
-  "shapesInTheWater": "水中之影",
-  "spoilsOfWar": "战利品",
-  "aPerilousPathToProfits": "危险的获利之路",
-  "maladiousMeasures": "恶疾措施",
-  "colonialShipment": "殖民地货物",
-  "apparativeApparitions": "显现的幻影",
-  "violentTendencies": "暴力倾向",
-  "aLongMarch": "长征",
-  "theManicMoonshinerFleet": "疯狂私酒舰队",
-  "deadMansMoonshine": "死人私酒",
-  "moonshineMadness": "私酒疯狂",
-  "bloodDrunk": "嗜血醉酒",
-  "theWeepingMother": "哭泣的母亲",
-  "soleilRoyal": "皇家太阳号",
-  "reapItAndWeep": "收割与哭泣",
-  "reaperOfTheLost": "迷失者的收割者",
-  "azureHarbinger": "蔚蓝先驱",
-  "warCargo": "战争货物",
-  "warConvoy": "战争护卫队",
-  "opstuwing": "激增",
-  "soleilImperial": "皇家太阳号",
-  "kraken": "克拉肯",
-  "theDrowningPlague": "溺亡瘟疫",
-  "jawsOfRetribution": "复仇之颚",
-  "megafortWolvenhol": "美加福尔特·沃尔芬霍尔",
-  "legendOfTheNian": "尼安的图例",
-  "crazedNian": "腐烂的尼亞文",
-  "heraldsOfTheAbyss": "深渊的先驱者"
+  "anguishFromTheAbyss": {
+    "name": "Anguish from the Abyss (Rode Maangodin Domain)",
+    "description": "The Maangodin, a vengeful specter trapped in its own torment, returns to spread his anguish upon the seas of the living."
+  },
+  "tidesOfTerror": {
+    "name": "Tides of Terror"
+  },
+  "theMizerja": {
+    "name": "苦痛号"
+  },
+  "theOpwelling": {
+    "name": "冲动号"
+  },
+  "thePlagueKing": {
+    "name": "The Plague King (La Peste Domain)"
+  },
+  "caperingTheCape": {
+    "name": "Capering the Cape"
+  },
+  "anAllianceOfConvenience": {
+    "name": "An Alliance of Convenience"
+  },
+  "theRempahResupply": {
+    "name": "The Rempah Resupply"
+  },
+  "guidedByGuile": {
+    "name": "Guided by Guile"
+  },
+  "symphonieMortelle": {
+    "name": "Symphonie Mortelle"
+  },
+  "verseOfVengeance": {
+    "name": "Verse of Vengeance"
+  },
+  "verseOfRemorse": {
+    "name": "Verse of Remorse"
+  },
+  "riskTheRisingTide": {
+    "name": "Risk the Rising Tide"
+  },
+  "iceAndEasy": {
+    "name": "Ice & Easy"
+  },
+  "chorusOfHavoc": {
+    "name": "Chorus of Havoc (The Hubac Twins Domain)",
+    "description": "The Compagnie's sword and spear, the Hubac Twins, are at the height of their strength. It is time to take the fight to them and halt their advance."
+  },
+  "divineRetribution": {
+    "name": "Divine Retribution"
+  },
+  "opulentOpportunity": {
+    "name": "Opulent Opportunity"
+  },
+  "easternExchange": {
+    "name": "Eastern Exchange"
+  },
+  "flamesOfTheDragon": {
+    "name": "Flames of the Dragon"
+  },
+  "theGloriousPhoenix": {
+    "name": "The Glorious Phoenix (Li Tian Ning Domain)"
+  },
+  "theSerpentsWrath": {
+    "name": "飞龙之怒"
+  },
+  "flamesOfThePhoenix": {
+    "name": "Flames of the Phoenix"
+  },
+  "baitAndSwitch": {
+    "name": "Bait and Switch"
+  },
+  "stolenTreasures": {
+    "name": "Stolen Treasures"
+  },
+  "curseOfTheSchaduw": {
+    "name": "Curse of the Schaduw"
+  },
+  "theLoomingShadow": {
+    "name": "The Looming Shadow (Vikram Rajan Domain)"
+  },
+  "reaversVengeance": {
+    "name": "Reaver's Vengeance (Risen Zamaharibu)"
+  },
+  "theWolfHunter": {
+    "name": "猎狼人"
+  },
+  "theAzureRoyale": {
+    "name": "The Azure Royale"
+  },
+  "theGreatShadow": {
+    "name": "The Great Shadow (Mythic Vikram Rajan)"
+  },
+  "undyingMaw": {
+    "name": "Undying Maw (Risen Mega Lestari)",
+    "description": "There have been sightings of Lestari in these waters. But something is off about the beast, as though it has been tainted by Vikram's influence."
+  },
+  "payingDues": {
+    "name": "Paying Dues"
+  },
+  "scurlocksPrecious": {
+    "name": "Scurlock's Precious"
+  },
+  "thickAsThieves": {
+    "name": "Thick as Thieves"
+  },
+  "gloryAdorned": {
+    "name": "荣耀加身"
+  },
+  "theHonorlessMizerja": {
+    "name": "The Honorless: Mizerja"
+  },
+  "theHonorlessDianSinaga": {
+    "name": "The Honorless: Dian Sinaga"
+  },
+  "theHonorlessAhPak": {
+    "name": "The Honorless: Ah Pak"
+  },
+  "shadesOfTheRonin": {
+    "name": "Shades of the Ronin"
+  },
+  "fangsOfTheFara": {
+    "name": "Fangs of the Fara (Tangena Rabe)",
+    "description": "Captain Tangena Rabe is the Fara's latest deadly weapon against their sworn enemy, the Sea People."
+  },
+  "hunterHunted": {
+    "name": "Hunter, Hunted (Joka Kubwa)",
+    "description": "Joka Kubwa, a zealous Ungwanan officer, seeks to scour the coast of all outside influence, be it French or pirate."
+  },
+  "watchTheThrone": {
+    "name": "Watch the Throne (Ah Pak)",
+    "description": "The Eels corsair known as Ah Pak has arrived in the Open Seas to establish himself as the Kingpin of Kingpins. Show him who truly rules the waves."
+  },
+  "aTreacherousTurn": {
+    "name": "A Treacherous Turn (Dian Sinaga)",
+    "description": "Captain Dian Sinaga seeks to betray her Rempah comrades. Turn the tables on the traitor and claim a reward."
+  },
+  "aShowOfStrength": {
+    "name": "A Show of Strength (Dirk Ankeren)",
+    "description": "Incrensed by reports of rebel activity, the DMC has sent Dirk Ankeren, a brutal enforcer, to stake their claim."
+  },
+  "fromTheDeep": {
+    "name": "From the Deep (Kuharibu)",
+    "description": "In the Open Seas, numerous ships have gone missing. Survivors whisper of an \"ancient terror\", something monstrous emerging from the deep, taking ships whole."
+  },
+  "profitablePoison": {
+    "name": "Profitable Poison"
+  },
+  "farReachesForTheFara": {
+    "name": "Far Reaches for the Fara"
+  },
+  "drownedSorrows": {
+    "name": "Drowned Sorrows"
+  },
+  "aHushedHold": {
+    "name": "A Hushed Hold"
+  },
+  "theVanishing": {
+    "name": "The Vanishing (Lestari)",
+    "description": "A massive shark-like creature stalks the seas in search of prey, threatening trade and leaving seafarers terrified"
+  },
+  "silentDeath": {
+    "name": "Silent Death (Mega Lestari Domain)",
+    "description": "A shadow has been spotted lurking in the waters below, a prowling threat from the depths..."
+  },
+  "convoyOfHighSpirits": {
+    "name": "Convoy of High Spirits"
+  },
+  "shapesInTheWater": {
+    "name": "Shapes in the Water"
+  },
+  "spoilsOfWar": {
+    "name": "Spoils of War"
+  },
+  "aPerilousPathToProfits": {
+    "name": "A Perilous Path to Profits"
+  },
+  "maladiousMeasures": {
+    "name": "Maladious Measures"
+  },
+  "colonialShipment": {
+    "name": "Colonial Shipment"
+  },
+  "apparativeApparitions": {
+    "name": "Apparative Apparitions"
+  },
+  "violentTendencies": {
+    "name": "Violent Tendencies"
+  },
+  "aLongMarch": {
+    "name": "A Long March"
+  },
+  "theManicMoonshinerFleet": {
+    "name": "The Manic Moonshiner Fleet"
+  },
+  "deadMansMoonshine": {
+    "name": "Dead Man's Moonshine"
+  },
+  "moonshineMadness": {
+    "name": "Moonshine Madness"
+  },
+  "bloodDrunk": {
+    "name": "Blood Drunk (Galvin Roche)",
+    "description": "Captain Galvin Roche is on a drunken spree of murder and mayhem against the Ungwana. Sober him up with cannon-fire and reap the rewards."
+  },
+  "theWeepingMother": {
+    "name": "The Weeping Mother"
+  },
+  "soleilRoyal": {
+    "name": "Soleil Royal"
+  },
+  "reapItAndWeep": {
+    "name": "Reap It & Weep"
+  },
+  "reaperOfTheLost": {
+    "name": "Reaper of the Lost"
+  },
+  "azureHarbinger": {
+    "name": "Azure Harbinger"
+  },
+  "warCargo": {
+    "name": "War Cargo"
+  },
+  "warConvoy": {
+    "name": "War Convoy"
+  },
+  "opstuwing": {
+    "name": "Mighty Opwelling"
+  },
+  "soleilImperial": {
+    "name": "Mighty Soleil Royal"
+  },
+  "kraken": {
+    "name": "Kraken",
+    "description": "A shadow has been spotted lurking in the waters below, a prowling threat from the depths..."
+  },
+  "theDrowningPlague": {
+    "name": "The Drowning Plague (Mythic La Peste)"
+  },
+  "jawsOfRetribution": {
+    "name": "Jaws of Retribution (Zamaharibu Domain)",
+    "description": "Scores of ships in the region have been decimated by an unknown foe"
+  },
+  "megafortWolvenhol": {
+    "name": "Megafort Wolvenhol",
+    "description": "Band with 5 other Captains to steal a hoard of ascended materials held within the Megafort"
+  },
+  "legendOfTheNian": {
+    "name": "Legend of the Nian"
+  },
+  "crazedNian": {
+    "name": "Crazed Nian"
+  },
+  "heraldsOfTheAbyss": {
+    "name": "Heralds of the Abyss",
+    "description": "Shadows from beyond lurk at the edge of reality. Draw forth the Abyssal Fleet and banish them from this realm."
+  },
+  "abyssalEnvoy": {
+    "name": "深渊使者号",
+    "description": "A ghostly dread that whispers ruin emerges from the splintering tides. A cursed envoy of horrors to come."
+  },
+  "gloryAdornedResynced": {
+    "name": "荣耀加身：记忆重置",
+    "description": "Look out for merchant convoys donning unique Cosmetics. Defeat them and stand to claim those cosmetics for your ship!"
+  }
 }
