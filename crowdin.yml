@@ -42,3 +42,11 @@ files:
     translation: /src/data/%locale_with_underscore%/items_ammunition.json
   - source: /src/data/en_US/masterys.json
     translation: /src/data/%locale_with_underscore%/masterys.json
+  - source: /src/data/en_US/zones.json
+    translation: /src/data/%locale_with_underscore%/zones.json
+  - source: /src/data/en_US/treasureMaps.json
+    translation: /src/data/%locale_with_underscore%/treasureMaps.json
+  - source: /src/data/en_US/ranks.json
+    translation: /src/data/%locale_with_underscore%/ranks.json
+  - source: /src/data/en_US/quest.json
+    translation: /src/data/%locale_with_underscore%/quest.json

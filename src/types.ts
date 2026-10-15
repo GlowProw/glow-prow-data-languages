@@ -26,5 +26,7 @@ export interface LanguageData {
     npcs: LanguageMapData,
     treasureMaps: LanguageMapData,
     zones: LanguageMapData,
-    masterys: LanguageMapData
+    masterys: LanguageMapData,
+    quests: LanguageMapData
 }
+
