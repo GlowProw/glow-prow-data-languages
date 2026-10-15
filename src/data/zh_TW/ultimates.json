@@ -1,6 +1,6 @@
 {
   "hunter": {
-    "name": "Hunter",
+    "name": "獵人",
     "description": "When activated, massively increases the damage dealth by weapons for 20 seconds."
   },
   "laPesteSignalLauncher": {
@@ -16,7 +16,7 @@
     "description": "Equips broadsides with Torpedo launchers. When fired, unleashes delayed waves of torpedoes that require accurate prediction to deal lethal damage."
   },
   "bastion": {
-    "name": "Bastion",
+    "name": "堡壘",
     "description": "When activated, massively reduces the damage taken from all sources for 15 seconds."
   },
   "ghostShipSignalLauncher": {
