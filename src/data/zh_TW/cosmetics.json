@@ -23262,7 +23262,7 @@
     }
   },
   "creedOfShadows": {
-    "name": "Creed of Shadows",
+    "name": "傳奇印記",
     "description": {
       "general": "一切都是為了兄弟會。"
     }
@@ -24332,175 +24332,175 @@
   "northStarSP": {
     "name": "北極星",
     "description": {
-      "general": "Like the needle of a compass, a mark to guide your way"
+      "general": "像羅盤的指針一樣，是能為你指引道路的標記。"
     }
   },
   "roguewine": {
-    "name": "Roguewine",
+    "name": "海寇酒紅",
     "description": {
-      "general": "The color of fine wine and restless rebellion"
+      "general": "美酒與焦躁叛逆的顏色。"
     }
   },
   "horizonHunter": {
-    "name": "Horizon Hunter",
+    "name": "海平線獵人",
     "description": {
-      "general": "For those truly happy at the world's edge"
+      "general": "專屬於在世界邊緣真正感到快樂的人。"
     }
   },
   "recklessWinds": {
-    "name": "Reckless Winds",
+    "name": "魯莽之風",
     "description": {
-      "general": "Shines brighter than a raider's coin"
+      "general": "比劫掠者的硬幣更閃耀。"
     }
   },
   "pyromane": {
-    "name": "Pyromane",
+    "name": "縱火狂",
     "description": {
-      "general": "Ignite a wildfire"
+      "general": "點起野火。"
     }
   },
   "aPiratesPath": {
-    "name": "A Pirate's Path",
+    "name": "海盜之路",
     "description": {
-      "general": "No amount of coin is worth one's liberty"
+      "general": "再多的錢也換不回自由。"
     }
   },
   "freedomsCall": {
-    "name": "Freedom's Call",
+    "name": "自由之召",
     "description": {
-      "general": "\"True liberty is the open sea.\""
+      "general": "「真正的自由，在無邊之海。」"
     }
   },
   "tidesplitter": {
-    "name": "Tidesplitter",
+    "name": "裂潮者",
     "description": {
-      "general": "\"Raise yer flask to chaos and coin, matey!\""
+      "general": "「為混沌與銅臭舉杯吧，朋友！」"
     }
   },
   "brinehardenedHide": {
-    "name": "Brinehardened Hide",
+    "name": "鹽淬獸皮",
     "description": {
-      "general": "Salt-soaked and born of slaughter"
+      "general": "浸鹽而生，自屠戮而來。"
     }
   },
   "windhook": {
-    "name": "Windhook",
+    "name": "風鉤",
     "description": {
-      "general": "Seize every gust to sail to glory"
+      "general": "捕住每一道風，直航榮耀。"
     }
   },
   "stormlash": {
-    "name": "Stormlash",
+    "name": "風暴鞭擊",
     "description": {
-      "general": "One strike ends all"
+      "general": "一擊終局。"
     }
   },
   "raidersBet": {
-    "name": "Raider's Bet",
+    "name": "劫掠者之賭",
     "description": {
-      "general": "\"The quickest hand takes all.\""
+      "general": "「出手最快的人，拿走一切。」"
     }
   },
   "hexlight": {
-    "name": "Hexlight",
+    "name": "咒光",
     "description": {
-      "general": "The cursed hour looms..."
+      "general": "受詛咒的時刻將至……"
     }
   },
   "spectersmoke": {
-    "name": "Spectersmoke",
+    "name": "幽靈煙霧",
     "description": {
-      "general": "Haunt these waters"
+      "general": "讓這片海域不得安寧。"
     }
   },
   "grimjoy": {
-    "name": "Grimjoy",
+    "name": "陰喜",
     "description": {
-      "general": "\"Nothin' like fear to know you're alive, matey -- for now.\""
+      "general": "「沒什麼比恐懼更能讓你知道自己還活著，朋友——至少現在還是。」"
     }
   },
   "wraithsmoke": {
-    "name": "Wraithsmoke",
+    "name": "怨靈煙霧",
     "description": {
-      "general": "\"One sight will stop yer breath in yer throat.\""
+      "general": "「只要看上一眼，你的氣就會卡在喉頭。」"
     }
   },
   "duskbleed": {
-    "name": "Duskbleed",
+    "name": "暮血織",
     "description": {
-      "general": "Woven with the terrors of the witching hour"
+      "general": "以逢魔時刻的恐懼編織而成。"
     }
   },
   "soulReaver": {
-    "name": "Soul Reaver",
+    "name": "奪魂者",
     "description": {
-      "general": "\"Come on out, cully, it's huntin' time.\""
+      "general": "「出來吧，朋友，狩獵時間到了。」"
     }
   },
   "deadMansParade": {
-    "name": "Dead Man's Parade",
+    "name": "亡者行列",
     "description": {
-      "general": "Every good haunting needs a procession"
+      "general": "每一場像樣的作祟，都需要一支隊伍。"
     }
   },
   "gravemistSheen": {
-    "name": "Gravemist Sheen",
+    "name": "墓霧光澤",
     "description": {
-      "general": "No sweeter sight than a wake paved in corpses"
+      "general": "沒有比由屍骸鋪成的尾流更甜美的景象。"
     }
   },
   "bonehunter": {
-    "name": "Bonehunter",
+    "name": "獵骨者",
     "description": {
-      "general": "\"Those seas belong to those who haunt 'em.\""
+      "general": "「這片海屬於那些盤踞其上的幽魂。」"
     }
   },
   "theDisquiet": {
-    "name": "The Disquiet",
+    "name": "躁動",
     "description": {
-      "general": "For one who will not rest"
+      "general": "獻給拒絕安息之人。"
     }
   },
   "ossuaryFace": {
     "name": "納骨",
     "description": {
-      "general": "Where life once held shape"
+      "general": "生命曾存在於此。"
     }
   },
   "hollowlight": {
-    "name": "Hollowlight",
+    "name": "空冥之光",
     "description": {
-      "general": "A deadly stare lit by something beneath"
+      "general": "致命的凝視，被某種潛藏之物點亮。"
     }
   },
   "wraithtaken": {
-    "name": "Wraithtaken",
+    "name": "怨靈所奪",
     "description": {
-      "general": "A hollow form consumed by a creeping bloom"
+      "general": "被蔓生之華一點一滴吞噬的空殼。"
     }
   },
   "gravehook": {
-    "name": "Gravehook",
+    "name": "墓鉤",
     "description": {
-      "general": "Iron and bone where decay grips the flesh"
+      "general": "當腐壞攀附血肉時，便只剩鐵與骨。"
     }
   },
   "thornbind": {
-    "name": "Thornbind",
+    "name": "荊棘束縛",
     "description": {
-      "general": "Cinched tight where the rot begins to spread"
+      "general": "在腐朽開始蔓延之處緊緊束起。"
     }
   },
   "midnightMass": {
-    "name": "Midnight Mass",
+    "name": "午夜彌撒",
     "description": {
-      "general": "Pray the corruption does not run deep"
+      "general": "但願腐化沒有深入。"
     }
   },
   "gravewoken": {
-    "name": "Gravewoken",
+    "name": "亡魂覺醒",
     "description": {
-      "general": "Leaves the echo of things undone"
+      "general": "留下未竟之事的迴響。"
     }
   }
 }
