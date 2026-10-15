@@ -1,57 +1,57 @@
 {
   "release": {
-    "name": "發行",
+    "name": "Release",
     "shortName": "Y1S0",
-    "fullName": "Y1S0 - 發行"
+    "fullName": "Y1S0 - Release"
   },
   "ragingTides": {
-    "name": "狂潮",
+    "name": "Raging Tides",
     "shortName": "Y1S1",
-    "fullName": "Y1S1 - 狂潮"
+    "fullName": "Y1S1 - Raging Tides"
   },
   "chorusOfHavoc": {
-    "name": "浩劫合唱",
+    "name": "Chorus of Havoc",
     "shortName": "Y1S2",
-    "fullName": "Y1S2 - 浩劫合唱"
+    "fullName": "Y1S2 - Chorus of Havoc"
   },
   "intoTheDragonsWake": {
-    "name": "龍之覺醒",
+    "name": "Into the Dragon's Wake",
     "shortName": "Y1S3",
-    "fullName": "Y1S3 - 龍之覺醒"
+    "fullName": "Y1S3 - Into the Dragon's Wake"
   },
   "shadowsOfTheDeep": {
-    "name": "深海暗影",
+    "name": "Shadows of the Deep",
     "shortName": "Y1S4",
-    "fullName": "Y1S4 - 深海暗影"
+    "fullName": "Y1S4 - Shadows of the Deep"
   },
   "ascentIntoChaos": {
-    "name": "混沌升騰",
+    "name": "Ascent into Chaos",
     "shortName": "Y2S1",
-    "fullName": "Y2S1 - 混沌升騰"
+    "fullName": "Y2S1 - Ascent into Chaos"
   },
   "oathsOfWar": {
-    "name": "戰爭誓約",
+    "name": "Oaths of War",
     "shortName": "Y2S2",
-    "fullName": "Y2S2 - 戰爭誓約"
+    "fullName": "Y2S2 - Oaths of War"
   },
   "gutsAndGlory": {
-    "name": "勇氣與榮耀",
+    "name": "Guts and Glory",
     "shortName": "Y2S3",
-    "fullName": "Y2S3 - 勇氣與榮耀"
+    "fullName": "Y2S3 - Guts and Glory"
   },
   "eyeOfTheBeast": {
-    "name": "野獸之眼",
+    "name": "Eye of the Beast",
     "shortName": "Y2S4",
-    "fullName": "Y2S4 - 野獸之眼"
+    "fullName": "Y2S4 - Eye of the Beast"
   },
   "shatteredSeas": {
-    "name": "破碎之海",
+    "name": "Shattered Seas",
     "shortName": "Y3S1",
-    "fullName": "Y3S1 - 破碎之海"
+    "fullName": "Y3S1 - Shattered Seas"
   },
   "crimsonWaters": {
-    "name": "猩紅海域",
+    "name": "Crimson Waters",
     "shortName": "Y3S2",
-    "fullName": "Y3S2 - 猩紅海域"
+    "fullName": "Y3S2 - Crimson Waters"
   }
 }

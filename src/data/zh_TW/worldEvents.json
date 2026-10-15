@@ -1,266 +1,266 @@
 {
   "anguishFromTheAbyss": {
-    "name": "深淵悲鳴（紅色曼戈丁領地）",
-    "description": "曼戈丁，一個受困於自身痛苦的復仇幽靈，重返生者之海播撒它的苦痛。"
+    "name": "Anguish from the Abyss (Rode Maangodin Domain)",
+    "description": "The Maangodin, a vengeful specter trapped in its own torment, returns to spread his anguish upon the seas of the living."
   },
   "tidesOfTerror": {
-    "name": "恐怖之潮"
+    "name": "Tides of Terror"
   },
   "theMizerja": {
-    "name": "米澤賈"
+    "name": "The Mizerja"
   },
   "theOpwelling": {
-    "name": "衝動號"
+    "name": "The Opwelling"
   },
   "thePlagueKing": {
-    "name": "瘟疫之王（拉佩斯特領地）"
+    "name": "The Plague King (La Peste Domain)"
   },
   "caperingTheCape": {
-    "name": "海角嬉戲"
+    "name": "Capering the Cape"
   },
   "anAllianceOfConvenience": {
-    "name": "權宜之盟"
+    "name": "An Alliance of Convenience"
   },
   "theRempahResupply": {
-    "name": "任帕補給"
+    "name": "The Rempah Resupply"
   },
   "guidedByGuile": {
-    "name": "詭計指引"
+    "name": "Guided by Guile"
   },
   "symphonieMortelle": {
-    "name": "死亡交響"
+    "name": "Symphonie Mortelle"
   },
   "verseOfVengeance": {
-    "name": "復仇詩篇"
+    "name": "Verse of Vengeance"
   },
   "verseOfRemorse": {
-    "name": "悔恨詩篇"
+    "name": "Verse of Remorse"
   },
   "riskTheRisingTide": {
-    "name": "冒著漲潮的危險"
+    "name": "Risk the Rising Tide"
   },
   "iceAndEasy": {
-    "name": "如履薄冰"
+    "name": "Ice & Easy"
   },
   "chorusOfHavoc": {
-    "name": "浩劫合唱（于巴克雙子領地）",
-    "description": "法國公司的利劍與長矛——于巴克雙子正處於其實力頂峰。是時候主動迎戰他們，阻止他們的推進了。"
+    "name": "Chorus of Havoc (The Hubac Twins Domain)",
+    "description": "The Compagnie's sword and spear, the Hubac Twins, are at the height of their strength. It is time to take the fight to them and halt their advance."
   },
   "divineRetribution": {
-    "name": "神聖懲罰"
+    "name": "Divine Retribution"
   },
   "opulentOpportunity": {
-    "name": "富裕的良機"
+    "name": "Opulent Opportunity"
   },
   "easternExchange": {
-    "name": "東方交易"
+    "name": "Eastern Exchange"
   },
   "flamesOfTheDragon": {
-    "name": "龍之焰"
+    "name": "Flames of the Dragon"
   },
   "theGloriousPhoenix": {
-    "name": "榮耀鳳凰（李天寧領地）"
+    "name": "The Glorious Phoenix (Li Tian Ning Domain)"
   },
   "theSerpentsWrath": {
-    "name": "怒蛇之憤"
+    "name": "The Serpent's Wrath"
   },
   "flamesOfThePhoenix": {
-    "name": "鳳凰烈焰"
+    "name": "Flames of the Phoenix"
   },
   "baitAndSwitch": {
-    "name": "誘餌與調包"
+    "name": "Bait and Switch"
   },
   "stolenTreasures": {
-    "name": "失竊寶藏"
+    "name": "Stolen Treasures"
   },
   "curseOfTheSchaduw": {
-    "name": "暗影的詛咒"
+    "name": "Curse of the Schaduw"
   },
   "theLoomingShadow": {
-    "name": "逼近的陰影（維克拉姆·拉詹領地）"
+    "name": "The Looming Shadow (Vikram Rajan Domain)"
   },
   "reaversVengeance": {
-    "name": "掠奪者的復仇（復生扎瑪哈里布）"
+    "name": "Reaver's Vengeance (Risen Zamaharibu)"
   },
   "theWolfHunter": {
-    "name": "獵狼者"
+    "name": "The Wolf Hunter"
   },
   "theAzureRoyale": {
-    "name": "蔚藍皇家"
+    "name": "The Azure Royale"
   },
   "theGreatShadow": {
-    "name": "巨大的陰影（神話維克拉姆·拉詹）"
+    "name": "The Great Shadow (Mythic Vikram Rajan)"
   },
   "undyingMaw": {
-    "name": "不朽之口（復生超級萊斯塔里）",
-    "description": "有人在這些海域目擊到了萊斯塔里。但那隻巨獸有些反常，彷彿已被維克拉姆的影響所侵蝕污染。"
+    "name": "Undying Maw (Risen Mega Lestari)",
+    "description": "There have been sightings of Lestari in these waters. But something is off about the beast, as though it has been tainted by Vikram's influence."
   },
   "payingDues": {
-    "name": "血債血償"
+    "name": "Paying Dues"
   },
   "scurlocksPrecious": {
-    "name": "斯克羅克的寶貝"
+    "name": "Scurlock's Precious"
   },
   "thickAsThieves": {
-    "name": "親密無間"
+    "name": "Thick as Thieves"
   },
   "gloryAdorned": {
-    "name": "榮耀加身"
+    "name": "Glory Adorned"
   },
   "theHonorlessMizerja": {
-    "name": "無恥之徒：米澤賈"
+    "name": "The Honorless: Mizerja"
   },
   "theHonorlessDianSinaga": {
-    "name": "無恥之徒：黛安·西納加"
+    "name": "The Honorless: Dian Sinaga"
   },
   "theHonorlessAhPak": {
-    "name": "無恥之徒：阿帕"
+    "name": "The Honorless: Ah Pak"
   },
   "shadesOfTheRonin": {
-    "name": "浪人陰影"
+    "name": "Shades of the Ronin"
   },
   "fangsOfTheFara": {
-    "name": "法拉之牙（坦格納·拉貝）",
-    "description": "坦格納·拉貝船長是法拉針對宿敵海民的最新的致命武器。"
+    "name": "Fangs of the Fara (Tangena Rabe)",
+    "description": "Captain Tangena Rabe is the Fara's latest deadly weapon against their sworn enemy, the Sea People."
   },
   "hunterHunted": {
-    "name": "獵人被獵（約卡·庫布瓦）",
-    "description": "約卡·庫布瓦是一名狂熱的昂瓜納軍官，企圖清除海岸上的所有外來勢力，無論是法國人還是海盜。"
+    "name": "Hunter, Hunted (Joka Kubwa)",
+    "description": "Joka Kubwa, a zealous Ungwanan officer, seeks to scour the coast of all outside influence, be it French or pirate."
   },
   "watchTheThrone": {
-    "name": "注視王座（阿帕）",
-    "description": "被稱為阿帕的鰻魚私掠者已抵達公海，企圖自立為巨頭之王。讓他見識一下誰才是公海真正的主宰。"
+    "name": "Watch the Throne (Ah Pak)",
+    "description": "The Eels corsair known as Ah Pak has arrived in the Open Seas to establish himself as the Kingpin of Kingpins. Show him who truly rules the waves."
   },
   "aTreacherousTurn": {
-    "name": "奸詐反轉（黛安·西納加）",
-    "description": "黛安·西納加船長企圖背叛她的任帕同伴。扭轉局勢嚴懲叛徒，領取賞金。"
+    "name": "A Treacherous Turn (Dian Sinaga)",
+    "description": "Captain Dian Sinaga seeks to betray her Rempah comrades. Turn the tables on the traitor and claim a reward."
   },
   "aShowOfStrength": {
-    "name": "展示力量（德克·安克倫）",
-    "description": "DMC因叛軍活動的報告而震怒，派出了殘忍的執法者德克·安克倫來宣示主權。"
+    "name": "A Show of Strength (Dirk Ankeren)",
+    "description": "Incrensed by reports of rebel activity, the DMC has sent Dirk Ankeren, a brutal enforcer, to stake their claim."
   },
   "fromTheDeep": {
-    "name": "來自深淵（庫哈里布）",
-    "description": "在公海中，多艘船隻失蹤。倖存者私下低語著關於「遠古恐懼」的傳說——某種從深淵中浮現的龐大怪物，將整艘船隻一口吞噬。"
+    "name": "From the Deep (Kuharibu)",
+    "description": "In the Open Seas, numerous ships have gone missing. Survivors whisper of an \"ancient terror\", something monstrous emerging from the deep, taking ships whole."
   },
   "profitablePoison": {
-    "name": "有利可圖的毒藥"
+    "name": "Profitable Poison"
   },
   "farReachesForTheFara": {
-    "name": "法拉的遠方"
+    "name": "Far Reaches for the Fara"
   },
   "drownedSorrows": {
-    "name": "淹沒的悲傷"
+    "name": "Drowned Sorrows"
   },
   "aHushedHold": {
-    "name": "寂靜的貨艙"
+    "name": "A Hushed Hold"
   },
   "theVanishing": {
-    "name": "消失（萊斯塔里）",
-    "description": "一隻巨大的鯊魚狀生物潛伏在海洋中搜尋獵物，威脅著貿易路線，令船員們膽戰心驚。"
+    "name": "The Vanishing (Lestari)",
+    "description": "A massive shark-like creature stalks the seas in search of prey, threatening trade and leaving seafarers terrified"
   },
   "silentDeath": {
-    "name": "無聲死亡（超級萊斯塔里領地）",
-    "description": "在下方海域中發現了一個潛伏的黑影，一個來自深海遊弋徘徊的致命威脅……"
+    "name": "Silent Death (Mega Lestari Domain)",
+    "description": "A shadow has been spotted lurking in the waters below, a prowling threat from the depths..."
   },
   "convoyOfHighSpirits": {
-    "name": "情緒高昂的護衛隊"
+    "name": "Convoy of High Spirits"
   },
   "shapesInTheWater": {
-    "name": "水中之影"
+    "name": "Shapes in the Water"
   },
   "spoilsOfWar": {
-    "name": "戰利品"
+    "name": "Spoils of War"
   },
   "aPerilousPathToProfits": {
-    "name": "危險的獲利之路"
+    "name": "A Perilous Path to Profits"
   },
   "maladiousMeasures": {
-    "name": "惡疾措施"
+    "name": "Maladious Measures"
   },
   "colonialShipment": {
-    "name": "殖民地貨物"
+    "name": "Colonial Shipment"
   },
   "apparativeApparitions": {
-    "name": "顯現的幻影"
+    "name": "Apparative Apparitions"
   },
   "violentTendencies": {
-    "name": "暴力傾向"
+    "name": "Violent Tendencies"
   },
   "aLongMarch": {
-    "name": "長征"
+    "name": "A Long March"
   },
   "theManicMoonshinerFleet": {
-    "name": "瘋狂私酒艦隊"
+    "name": "The Manic Moonshiner Fleet"
   },
   "deadMansMoonshine": {
-    "name": "死人私酒"
+    "name": "Dead Man's Moonshine"
   },
   "moonshineMadness": {
-    "name": "私酒瘋狂"
+    "name": "Moonshine Madness"
   },
   "bloodDrunk": {
-    "name": "嗜血醉酒（加爾文·羅什）",
-    "description": "加爾文·羅什船長正在針對昂瓜納人進行酒後狂暴的殺戮與破壞。用砲火讓他清醒清醒，獲取賞金。"
+    "name": "Blood Drunk (Galvin Roche)",
+    "description": "Captain Galvin Roche is on a drunken spree of murder and mayhem against the Ungwana. Sober him up with cannon-fire and reap the rewards."
   },
   "theWeepingMother": {
-    "name": "哭泣的母親"
+    "name": "The Weeping Mother"
   },
   "soleilRoyal": {
-    "name": "皇家太陽號"
+    "name": "Soleil Royal"
   },
   "reapItAndWeep": {
-    "name": "收割與哭泣"
+    "name": "Reap It & Weep"
   },
   "reaperOfTheLost": {
-    "name": "迷失者的收割者"
+    "name": "Reaper of the Lost"
   },
   "azureHarbinger": {
-    "name": "蔚藍先驅"
+    "name": "Azure Harbinger"
   },
   "warCargo": {
-    "name": "戰爭貨物"
+    "name": "War Cargo"
   },
   "warConvoy": {
-    "name": "戰爭護衛隊"
+    "name": "War Convoy"
   },
   "opstuwing": {
-    "name": "強力衝動號"
+    "name": "Mighty Opwelling"
   },
   "soleilImperial": {
-    "name": "強力皇家太陽號"
+    "name": "Mighty Soleil Royal"
   },
   "kraken": {
-    "name": "克拉肯",
-    "description": "在下方海域中發現了一個潛伏的黑影，一個來自深海遊弋徘徊的致命威脅……"
+    "name": "Kraken",
+    "description": "A shadow has been spotted lurking in the waters below, a prowling threat from the depths..."
   },
   "theDrowningPlague": {
-    "name": "溺亡瘟疫（神話拉佩斯特）"
+    "name": "The Drowning Plague (Mythic La Peste)"
   },
   "jawsOfRetribution": {
-    "name": "復仇之顎（扎瑪哈里布領地）",
-    "description": "該海域重大批船隻已被未知的敵人摧毀殆盡。"
+    "name": "Jaws of Retribution (Zamaharibu Domain)",
+    "description": "Scores of ships in the region have been decimated by an unknown foe"
   },
   "megafortWolvenhol": {
-    "name": "沃爾芬霍爾超級堡壘",
-    "description": "與其他5位船長結盟組隊，竊取超級堡壘內囤積的進階材料。"
+    "name": "Megafort Wolvenhol",
+    "description": "Band with 5 other Captains to steal a hoard of ascended materials held within the Megafort"
   },
   "legendOfTheNian": {
-    "name": "年獸傳說"
+    "name": "Legend of the Nian"
   },
   "crazedNian": {
-    "name": "發狂的年獸"
+    "name": "Crazed Nian"
   },
   "heraldsOfTheAbyss": {
-    "name": "深淵先驅",
-    "description": "彼岸的陰影潛伏在現實邊緣。引出深淵艦隊，並將他們驅逐出這個世界。"
+    "name": "Heralds of the Abyss",
+    "description": "Shadows from beyond lurk at the edge of reality. Draw forth the Abyssal Fleet and banish them from this realm."
   },
   "abyssalEnvoy": {
-    "name": "深淵特使",
-    "description": "低語著毀滅的幽靈般恐怖之物從碎浪中浮現。那是預示著未來災厄的詛咒使者。"
+    "name": "Abyssal Envoy",
+    "description": "A ghostly dread that whispers ruin emerges from the splintering tides. A cursed envoy of horrors to come."
   },
   "gloryAdornedResynced": {
-    "name": "榮耀加身：再同步",
-    "description": "留意身披獨特裝扮的商貿護衛隊。擊敗他們，就有機會為你的船隻贏取那些裝飾！"
+    "name": "Glory Adorned: Resynced",
+    "description": "Look out for merchant convoys donning unique Cosmetics. Defeat them and stand to claim those cosmetics for your ship!"
   }
 }

@@ -103,7 +103,7 @@
   "hardenedMunitions": {
     "name": "硬化弹药",
     "description": [
-      "武器傷害 +20%"
+      "Weapon Damage +20%"
     ]
   },
   "bloodForBlood": {
@@ -115,43 +115,43 @@
   "viciousMunitions1": {
     "name": "恶毒弹药 I",
     "description": [
-      "異常效果傷害 +10%",
-      "異常效果持續時間 +10%"
+      "Status Effects Damage +10%",
+      "Status Effects Lifetime +10%"
     ]
   },
   "viciousMunitions2": {
     "name": "恶毒弹药 II",
     "description": [
-      "異常效果傷害 +15%",
-      "異常效果持續時間 +15%"
+      "Status Effects Damage +15%",
+      "Status Effects Lifetime +15%"
     ]
   },
   "veteranRaiders": {
     "name": "资深海盗",
     "description": [
-      "船員攻擊傷害 +20%"
+      "Crew Attack Damage +20%"
     ]
   },
   "specializedMunitions1": {
     "name": "特种弹药 I",
     "description": [
-      "燃燒傷害 +30%",
-      "進水傷害 +30%",
-      "穿刺傷害 +30%",
-      "爆炸傷害 +30%",
-      "電擊傷害 +30%",
-      "毒素傷害 +30%"
+      "Burning Damage +30%",
+      "Flooding Damage +30%",
+      "Piercing Damage +30%",
+      "Explosive Damage +30%",
+      "Electric Damage +30%",
+      "Toxic Damage +30%"
     ]
   },
   "specializedMunitions2": {
     "name": "特种弹药 II",
     "description": [
-      "燃燒傷害 +30%",
-      "進水傷害 +30%",
-      "穿刺傷害 +30%",
-      "爆炸傷害 +30%",
-      "電擊傷害 +30%",
-      "毒素傷害 +30%"
+      "Burning Damage +30%",
+      "Flooding Damage +30%",
+      "Piercing Damage +30%",
+      "Explosive Damage +30%",
+      "Electric Damage +30%",
+      "Toxic Damage +30%"
     ]
   },
   "adrenalSurge": {
@@ -169,593 +169,593 @@
   "targetedRepairs": {
     "name": "针对性维修",
     "description": [
-      "每次射擊修復量 +3%"
+      "Repair per Shot +3%"
     ]
   },
   "crewFitness": {
     "name": "船员体魄",
     "description": [
-      "船員耐力回覆速度 +10%"
+      "Crew Stamina Recovery Speed +10%"
     ]
   },
   "barnacleRemoval": {
     "name": "清理藤壶",
     "description": [
-      "加速度 +2%"
+      "Acceleration +2%"
     ]
   },
   "flexibleRudder": {
     "name": "灵活船舵",
     "description": [
-      "轉向速度 +2%"
+      "Turning Speed +2%"
     ]
   },
   "reinforcedFrame": {
     "name": "强化龙骨",
     "description": [
-      "船體生命值 +7000"
+      "Hull Health +7000"
     ]
   },
   "hullPlating": {
     "name": "船体装甲板",
     "description": [
-      "護甲等級 +200"
+      "Armor Rating +200"
     ]
   },
   "ironStance": {
     "name": "钢铁姿态",
     "description": [
-      "緊固強度 +20%"
+      "Brace Strength +20%"
     ]
   },
   "versatileDefenses": {
     "name": "全能防御",
     "description": [
-      "燃燒抗性 +2%",
-      "進水抗性 +2%",
-      "穿刺抗性 +2%",
-      "爆炸抗性 +2%",
-      "電擊抗性 +2%",
-      "毒素抗性 +2%"
+      "Burning Resistance +2%",
+      "Flooding Resistance +2%",
+      "Piercing Resistance +2%",
+      "Explosive Resistance +2%",
+      "Electric Resistance +2%",
+      "Toxic Resistance +2%"
     ]
   },
   "antiCorrosiveCoating": {
     "name": "防腐涂层",
     "description": [
-      "毒素抗性 +5%"
+      "Toxic Resistance +5%"
     ]
   },
   "layeredPlating": {
     "name": "复合装甲",
     "description": [
-      "穿刺抗性 +5%"
+      "Piercing Resistance +5%"
     ]
   },
   "insulatedGunwales": {
     "name": "绝缘船舷",
     "description": [
-      "電擊抗性 +5%"
+      "Electric Resistance +5%"
     ]
   },
   "quickSealant": {
     "name": "快速密封剂",
     "description": [
-      "進水抗性 +5%"
+      "Flooding Resistance +5%"
     ]
   },
   "spallLining": {
     "name": "防崩落衬层",
     "description": [
-      "爆炸抗性 +5%"
+      "Explosive Resistance +5%"
     ]
   },
   "asbestosCoating": {
     "name": "石棉涂层",
     "description": [
-      "燃燒抗性 +5%"
+      "Burning Resistance +5%"
     ]
   },
   "reactiveMeasures": {
     "name": "反应式装甲",
     "description": [
-      "異常效果傷害減少 -2%"
+      "Status Effects Damage Reduction -2%"
     ]
   },
   "fireDrills": {
     "name": "防火训练",
     "description": [
-      "燃燒傷害減少 -5%"
+      "Ablaze Damage Reduction -5%"
     ]
   },
   "floodingDrills": {
     "name": "防进水训练",
     "description": [
-      "進水傷害減少 -5%"
+      "Flooded Damage Reduction -5%"
     ]
   },
   "insulatedGear": {
     "name": "绝缘齿轮",
     "description": [
-      "雷暴傷害減少 -5%"
+      "Stormstruck Damage Reduction -5%"
     ]
   },
   "firstAidTraining": {
     "name": "急救训练",
     "description": [
-      "毒素持續時間 -5%"
+      "Toxic Lifetime -5%"
     ]
   },
   "breachTraining": {
     "name": "穿甲训练",
     "description": [
-      "穿孔持續時間 -5%"
+      "Punctured Lifetime -5%"
     ]
   },
   "protectiveMeasures": {
     "name": "防护举措",
     "description": [
-      "彈震持續時間 -5%"
+      "Shell-Shocked Lifetime -5%"
     ]
   },
   "savageAttacks": {
     "name": "野蛮攻势",
     "description": [
-      "船員攻擊傷害 +25%"
+      "Crew Attack Damage +25%"
     ]
   },
   "targetPractice": {
     "name": "射击练习",
     "description": [
-      "船員攻擊範圍 +3%"
+      "Crew Attack Range +3%"
     ]
   },
   "batteringProw": {
     "name": "撞角",
     "description": [
-      "衝撞傷害 +10%"
+      "Ram Damage +10%"
     ]
   },
   "reactiveCompounds": {
     "name": "活性化合物",
     "description": [
-      "燃燒傷害 +20%",
-      "進水傷害 +20%",
-      "穿刺傷害 +20%",
-      "爆炸傷害 +20%",
-      "電擊傷害 +20%",
-      "毒素傷害 +20%"
+      "Burning Damage +20%",
+      "Flooding Damage +20%",
+      "Piercing Damage +20%",
+      "Explosive Damage +20%",
+      "Electric Damage +20%",
+      "Toxic Damage +20%"
     ]
   },
   "alchemicFuel": {
     "name": "炼金燃料",
     "description": [
-      "燃燒傷害 +40%"
+      "Burning Damage +40%"
     ]
   },
   "expandingCasing": {
     "name": "扩容弹壳",
     "description": [
-      "進水傷害 +40%"
+      "Flooding Damage +40%"
     ]
   },
   "perforatingProjectiles": {
     "name": "贯穿射弹",
     "description": [
-      "穿刺傷害 +40%"
+      "Piercing Damage +40%"
     ]
   },
   "highYieldPowder": {
     "name": "高爆火药",
     "description": [
-      "爆炸傷害 +40%"
+      "Explosive Damage +40%"
     ]
   },
   "voltaicPowder": {
     "name": "电能火药",
     "description": [
-      "電擊傷害 +40%"
+      "Electric Damage +40%"
     ]
   },
   "corrosiveToxins": {
     "name": "腐蚀毒素",
     "description": [
-      "毒素傷害 +40%"
+      "Toxic Damage +40%"
     ]
   },
   "volatileFuel": {
     "name": "烈性燃料",
     "description": [
-      "燃燒傷害穿透 +10%"
+      "Burning Damage Penetration +10%"
     ]
   },
   "hullShredder": {
     "name": "船体粉碎者",
     "description": [
-      "進水傷害穿透 +10%"
+      "Flooding Damage Penetration +10%"
     ]
   },
   "hullPiercerShots": {
     "name": "穿甲弹丸",
     "description": [
-      "穿刺傷害穿透 +10%"
+      "Piercing Damage Penetration +10%"
     ]
   },
   "shapedCharge": {
     "name": "聚能装药",
     "description": [
-      "爆炸傷害穿透 +10%"
+      "Explosive Damage Penetration +10%"
     ]
   },
   "highCurrent": {
     "name": "高压电流",
     "description": [
-      "電擊傷害穿透 +10%"
+      "Electric Damage Penetration +10%"
     ]
   },
   "virulentContamination": {
     "name": "剧毒污染",
     "description": [
-      "毒素傷害穿透 +10%"
+      "Toxic Damage Penetration +10%"
     ]
   },
   "readyFire": {
     "name": "准备开火",
     "description": [
-      "武器裝填時間 -3%"
+      "Weapon Reload Time -3%"
     ]
   },
   "enhancedDamage": {
     "name": "强化伤害",
     "description": [
-      "武器傷害 +10%"
+      "Weapon Damage +10%"
     ]
   },
   "swiftStrikes": {
     "name": "迅捷打击",
     "description": [
-      "武器彈丸速度 +5%"
+      "Weapon Projectile Speed +5%"
     ]
   },
   "deadeye": {
     "name": "神枪手",
     "description": [
-      "武器弱點（暴擊）傷害 +20%"
+      "Weapon Weakpoint (Critical) Damage +20%"
     ]
   },
   "heavyWeaponry": {
     "name": "重型武器专精",
     "description": [
-      "迫擊炮傷害 +15%",
-      "火箭傷害 +15%",
-      "彈射器傷害 +15%"
+      "Mortar Damage +15%",
+      "Rocket Damage +15%",
+      "Springloader Damage +15%"
     ]
   },
   "heavyShells": {
     "name": "重型炮弹",
     "description": [
-      "迫擊炮傷害 +30%"
+      "Mortar Damage +30%"
     ]
   },
   "improvedTrajectories": {
     "name": "改良弹道",
     "description": [
-      "迫擊炮飛行時間 -5%"
+      "Mortar Time-to-Target -5%"
     ]
   },
   "burstShells": {
     "name": "爆裂炮弹",
     "description": [
-      "迫擊炮爆炸範圍 +5%"
+      "Mortar Area-of-Effect Radius +5%"
     ]
   },
   "improvedLaunchers": {
     "name": "改良发射器",
     "description": [
-      "彈射器最大射程 +10%"
+      "Springloader Maximum Range +10%"
     ]
   },
   "lightweightBuoys": {
     "name": "轻型浮标",
     "description": [
-      "彈射器飛行時間 -5%"
+      "Springloader Time-to-Target -5%"
     ]
   },
   "improvedGearset": {
     "name": "改良齿轮组",
     "description": [
-      "彈射器爆炸範圍 +10%"
+      "Springloader Area-of-Effect Radius +10%"
     ]
   },
   "highYieldMines": {
     "name": "高爆水雷",
     "description": [
-      "彈射器傷害 +30%"
+      "Springloader Damage +30%"
     ]
   },
   "heavyPayload": {
     "name": "重型战斗部",
     "description": [
-      "火箭傷害 +20%"
+      "Rocket Damage +20%"
     ]
   },
   "flutedRockets": {
     "name": "线膛火箭",
     "description": [
-      "火箭飛行時間 -5%"
+      "Rocket Time-to-Target -5%"
     ]
   },
   "packedRockets": {
     "name": "集束火箭",
     "description": [
-      "火箭最大射程 +10%"
+      "Rocket Maximum Range +10%"
     ]
   },
   "volleyFire": {
     "name": "齐射",
     "description": [
-      "半加農炮傷害 +10%",
-      "長炮傷害 +10%"
+      "Demicannon Damage +10%",
+      "Culverin Damage +10%"
     ]
   },
   "heavyShot": {
     "name": "重击",
     "description": [
-      "長炮傷害 +20%"
+      "Culverin Damage +20%"
     ]
   },
   "carvedShot": {
     "name": "线膛长炮",
     "description": [
-      "長炮彈丸速度 +5%"
+      "Culverin Projectile Speed +5%"
     ]
   },
   "loadedPowder": {
     "name": "高配火药",
     "description": [
-      "長炮最大射程 +5%"
+      "Culverin Maximum Range +5%"
     ]
   },
   "heavyGrapeshot": {
     "name": "重型霰弹",
     "description": [
-      "半加農炮傷害 +20%"
+      "Demicannon Damage +20%"
     ]
   },
   "solidSabot": {
     "name": "实心弹托",
     "description": [
-      "半加農炮彈丸速度 +5%"
+      "Demicannon Projectile Speed +5%"
     ]
   },
   "loadedPowderDC": {
     "name": "高配火药",
     "description": [
-      "半加農炮最大射程 +5%"
+      "Demicannon Maximum Range +5%"
     ]
   },
   "frontalAssault": {
     "name": "正面突击",
     "description": [
-      "弩炮傷害 +20%",
-      "海火傷害 +20%"
+      "Ballista Damage +20%",
+      "Sea Fire Damage +20%"
     ]
   },
   "heavyBolts": {
     "name": "重型弩箭",
     "description": [
-      "弩炮傷害 +20%"
+      "Ballista Damage +20%"
     ]
   },
   "swiftBolts": {
     "name": "疾风弩箭",
     "description": [
-      "弩炮彈丸速度 +10%"
+      "Ballista Projectile Speed +10%"
     ]
   },
   "precisionBolts": {
     "name": "精准弩箭",
     "description": [
-      "弩炮弱點（暴擊）傷害 +20%"
+      "Ballista Weakpoint (Critical) Damage +20%"
     ]
   },
   "volatileFuelSF": {
     "name": "海火烈性燃料",
     "description": [
-      "海火傷害 +30%"
+      "Sea Fire Damage +30%"
     ]
   },
   "tightenedNozzles": {
     "name": "缩束喷嘴",
     "description": [
-      "海火最大射程 +20%"
+      "Sea Fire Maximum Range +20%"
     ]
   },
   "backupCanisters": {
     "name": "备用储气罐",
     "description": [
-      "海火彈容量 +15%"
+      "Sea Fire Magazine Size +15%"
     ]
   },
   "seaFireDrills": {
     "name": "海火训练",
     "description": [
-      "海火裝填時間 -10%"
+      "Sea Fire Reload Time -10%"
     ]
   },
   "allHandsOnDeck": {
     "name": "全员登甲",
     "description": [
-      "轟炸炮傷害 +10%",
-      "長管炮傷害 +10%",
-      "魚雷傷害 +10%"
+      "Bombard Damage +10%",
+      "Long Gun Damage +10%",
+      "Torpedo Damage +10%"
     ]
   },
   "bombardDrills": {
     "name": "轰炸训练",
     "description": [
-      "射石炮裝填時間 -5%"
+      "Bombard Reload Time -5%"
     ]
   },
   "enhancedYield": {
     "name": "增强威力",
     "description": [
-      "射石炮爆炸範圍 +5%"
+      "Bombard Area-of-Effect Radius +5%"
     ]
   },
   "streamlinedCasing": {
     "name": "流线弹体",
     "description": [
-      "射石炮彈丸速度 +5%"
+      "Bombard Projectile Speed +5%"
     ]
   },
   "heavyBombs": {
     "name": "重磅炸弹",
     "description": [
-      "轟炸炮傷害 +20%"
+      "Bombard Damage +20%"
     ]
   },
   "longGunDrills": {
     "name": "长管炮训练",
     "description": [
-      "長管炮裝填時間 -10%"
+      "Long Gun Reload Time -10%"
     ]
   },
   "carvedShotLG": {
     "name": "线膛长管炮",
     "description": [
-      "長管炮彈丸速度 +5%"
+      "Long Gun Projectile Speed +5%"
     ]
   },
   "precisionShot": {
     "name": "精准射击",
     "description": [
-      "長炮弱點（暴擊）傷害 +10%"
+      "Long Gun Weakpoint (Critical) Damage +10%"
     ]
   },
   "heavyShotLG": {
     "name": "重型长管炮弹药",
     "description": [
-      "長管炮傷害 +20%"
+      "Long Gun Damage +20%"
     ]
   },
   "improvedLaunchersT": {
     "name": "改良型鱼雷发射器",
     "description": [
-      "魚雷速度 +5%"
+      "Torpedo Projectile Speed +5%"
     ]
   },
   "flutedTorpedoes": {
     "name": "线膛鱼雷",
     "description": [
-      "魚雷最大射程 +5%"
+      "Torpedo Maximum Range +5%"
     ]
   },
   "loadedTorpedoes": {
     "name": "高爆鱼雷",
     "description": [
-      "魚雷傷害 +20%"
+      "Torpedo Damage +20%"
     ]
   },
   "persistentCompounds": {
     "name": "持久混合物",
     "description": [
-      "異常效果持續時間 +10%"
+      "Status Effects Lifetime +10%"
     ]
   },
   "enhancedPayload": {
     "name": "强化装药",
     "description": [
-      "異常效果蓄積速率 +10%"
+      "Status Effects Charge Rate +10%"
     ]
   },
   "concentratedPayload": {
     "name": "高浓装药",
     "description": [
-      "異常效果傷害 +10%"
+      "Status Effects Damage +10%"
     ]
   },
   "phosphorusCompound": {
     "name": "白磷化合物",
     "description": [
-      "燃燒狀態傷害 +10%"
+      "Ablaze Damage +10%"
     ]
   },
   "potentFuel": {
     "name": "高效燃料",
     "description": [
-      "燃燒狀態蓄積速率 +10%"
+      "Ablaze Charge Rate +10%"
     ]
   },
   "heavyFlooding": {
     "name": "严重进水",
     "description": [
-      "進水狀態傷害 +10%"
+      "Flooded Damage +10%"
     ]
   },
   "rapidFlooding": {
     "name": "快速进水",
     "description": [
-      "進水狀態蓄積速率 +10%"
+      "Flooded Charge Rate +10%"
     ]
   },
   "voltaicShock": {
     "name": "电击震慑",
     "description": [
-      "雷暴狀態傷害 +10%"
+      "Stormstruck Damage +10%"
     ]
   },
   "powerSurge": {
     "name": "充能激增",
     "description": [
-      "雷暴狀態蓄積速率 +10%"
+      "Stormstruck Charge Rate +10%"
     ]
   },
   "persistentAffliction": {
     "name": "持续折磨",
     "description": [
-      "毒素持續時間 +10%"
+      "Toxic Lifetime +10%"
     ]
   },
   "virulentToxins": {
     "name": "烈性剧毒",
     "description": [
-      "毒素蓄積速率 +10%"
+      "Toxic Charge Rate +10%"
     ]
   },
   "violentRupture": {
     "name": "爆裂",
     "description": [
-      "貫穿持續時間 +10%"
+      "Punctured Lifetime +10%"
     ]
   },
   "penetratingMunitions": {
     "name": "穿透弹药",
     "description": [
-      "貫穿蓄積速率 +10%"
+      "Punctured Charge Rate +10%"
     ]
   },
   "highPressureShockwave": {
     "name": "高压冲击波",
     "description": [
-      "彈震持續時間 +10%"
+      "Shell-Shocked Lifetime +10%"
     ]
   },
   "flashDetonation": {
     "name": "闪光引爆",
     "description": [
-      "彈震蓄積速率 +10%"
+      "Shell-Shocked Charge Rate +10%"
     ]
   },
   "trainedRecovery": {
     "name": "强化恢复",
     "description": [
-      "防禦恢復速率 +20%"
+      "Brace Recovery +20%"
     ]
   },
   "steadyDefense": {
     "name": "稳固防御",
     "description": [
-      "防禦時耐力消耗 -10%"
+      "Stamina use while Bracing -10%"
     ]
   },
   "impetusOrder": {
@@ -905,7 +905,7 @@
   "steadyHands": {
     "name": "稳健",
     "description": [
-      "修理加成 +3%"
+      "Incoming Repair Multiplier +3%"
     ]
   },
   "weaponDamageIncrease": {

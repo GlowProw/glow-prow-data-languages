@@ -3356,5 +3356,11 @@
     "description": {
       "general": "内含武器,有几率附带基础及高级熟稔改装,以及专属神话改装"
     }
+  },
+  "blackFlagCosmeticsChest": {
+    "name": "Black Flag Cosmetics Chest",
+    "description": {
+      "general": "An opulent chest which may contain cosmetics that are part of the Jackdaw Set."
+    }
   }
 }
