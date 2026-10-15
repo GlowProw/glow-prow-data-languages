@@ -24332,175 +24332,175 @@
   "northStarSP": {
     "name": "北极星",
     "description": {
-      "general": "Like the needle of a compass, a mark to guide your way"
+      "general": "如同罗盘之针，为你指引方向的印记"
     }
   },
   "roguewine": {
-    "name": "Roguewine",
+    "name": "海贼美酒",
     "description": {
-      "general": "The color of fine wine and restless rebellion"
+      "general": "美酒与无尽反叛的颜色"
     }
   },
   "horizonHunter": {
-    "name": "Horizon Hunter",
+    "name": "地平线猎人",
     "description": {
-      "general": "For those truly happy at the world's edge"
+      "general": "为在天涯海角找到快乐的人打造"
     }
   },
   "recklessWinds": {
-    "name": "Reckless Winds",
+    "name": "恣肆之风",
     "description": {
-      "general": "Shines brighter than a raider's coin"
+      "general": "比掠夺者的金币更为闪耀"
     }
   },
   "pyromane": {
-    "name": "Pyromane",
+    "name": "纵火之徒",
     "description": {
-      "general": "Ignite a wildfire"
+      "general": "点燃野火"
     }
   },
   "aPiratesPath": {
-    "name": "A Pirate's Path",
+    "name": "海盗之路",
     "description": {
-      "general": "No amount of coin is worth one's liberty"
+      "general": "自由之贵，金不可量"
     }
   },
   "freedomsCall": {
-    "name": "Freedom's Call",
+    "name": "自由呐喊",
     "description": {
-      "general": "\"True liberty is the open sea.\""
+      "general": "“公海上才有真正的自由。”"
     }
   },
   "tidesplitter": {
-    "name": "Tidesplitter",
+    "name": "破浪",
     "description": {
-      "general": "\"Raise yer flask to chaos and coin, matey!\""
+      "general": "“为浑水摸鱼干杯！”"
     }
   },
   "brinehardenedHide": {
-    "name": "Brinehardened Hide",
+    "name": "盐渍硬皮",
     "description": {
-      "general": "Salt-soaked and born of slaughter"
+      "general": "浸满盐水与鲜血"
     }
   },
   "windhook": {
-    "name": "Windhook",
+    "name": "掠风",
     "description": {
-      "general": "Seize every gust to sail to glory"
+      "general": "乘风永逐荣光梦"
     }
   },
   "stormlash": {
-    "name": "Stormlash",
+    "name": "雷暴",
     "description": {
-      "general": "One strike ends all"
+      "general": "一击终结一切"
     }
   },
   "raidersBet": {
-    "name": "Raider's Bet",
+    "name": "掠夺者的赌注",
     "description": {
-      "general": "\"The quickest hand takes all.\""
+      "general": "“谁手快，就归谁。”"
     }
   },
   "hexlight": {
-    "name": "Hexlight",
+    "name": "诅咒光芒",
     "description": {
-      "general": "The cursed hour looms..."
+      "general": "诅咒时刻即将到来……"
     }
   },
   "spectersmoke": {
-    "name": "Spectersmoke",
+    "name": "魅影迷烟",
     "description": {
-      "general": "Haunt these waters"
+      "general": "闹得这片海域永无宁日"
     }
   },
   "grimjoy": {
-    "name": "Grimjoy",
+    "name": "亡中取乐",
     "description": {
-      "general": "\"Nothin' like fear to know you're alive, matey -- for now.\""
+      "general": "“伙计，没什么比恐惧更能让人觉得自己还活着——但不会太久。”"
     }
   },
   "wraithsmoke": {
-    "name": "Wraithsmoke",
+    "name": "幽魂烟幕",
     "description": {
-      "general": "\"One sight will stop yer breath in yer throat.\""
+      "general": "“只需看上一眼，就会吓得呼吸停滞。”"
     }
   },
   "duskbleed": {
-    "name": "Duskbleed",
+    "name": "暮色血痕",
     "description": {
-      "general": "Woven with the terrors of the witching hour"
+      "general": "由巫师之时的恐惧编织而成"
     }
   },
   "soulReaver": {
-    "name": "Soul Reaver",
+    "name": "夺魂者",
     "description": {
-      "general": "\"Come on out, cully, it's huntin' time.\""
+      "general": "“出来吧，伙计。狩猎时间到了。”"
     }
   },
   "deadMansParade": {
-    "name": "Dead Man's Parade",
+    "name": "亡魂列阵",
     "description": {
-      "general": "Every good haunting needs a procession"
+      "general": "鬼魂每次要像样地出没，都需要组成队伍"
     }
   },
   "gravemistSheen": {
-    "name": "Gravemist Sheen",
+    "name": "墓影幽雾",
     "description": {
-      "general": "No sweeter sight than a wake paved in corpses"
+      "general": "没有什么景象，比由尸体铺成的航迹更美"
     }
   },
   "bonehunter": {
-    "name": "Bonehunter",
+    "name": "猎骨者",
     "description": {
-      "general": "\"Those seas belong to those who haunt 'em.\""
+      "general": "“这些海域属于那些徘徊其中的存在。”"
     }
   },
   "theDisquiet": {
-    "name": "The Disquiet",
+    "name": "躁动",
     "description": {
-      "general": "For one who will not rest"
+      "general": "献予不得安息之魂"
     }
   },
   "ossuaryFace": {
     "name": "骨瓮",
     "description": {
-      "general": "Where life once held shape"
+      "general": "此处曾承载生命之形"
     }
   },
   "hollowlight": {
-    "name": "Hollowlight",
+    "name": "空洞幽光",
     "description": {
-      "general": "A deadly stare lit by something beneath"
+      "general": "体内的某种存在点亮了这致命目光"
     }
   },
   "wraithtaken": {
-    "name": "Wraithtaken",
+    "name": "魂夺衣",
     "description": {
-      "general": "A hollow form consumed by a creeping bloom"
+      "general": "空壳躯体，已被蔓生幽花吞噬"
     }
   },
   "gravehook": {
-    "name": "Gravehook",
+    "name": "冥墓钩爪",
     "description": {
-      "general": "Iron and bone where decay grips the flesh"
+      "general": "血肉腐坏之处，唯余废铁与骸骨"
     }
   },
   "thornbind": {
-    "name": "Thornbind",
+    "name": "荆棘之缚",
     "description": {
-      "general": "Cinched tight where the rot begins to spread"
+      "general": "将腐败禁锢于萌生之处"
     }
   },
   "midnightMass": {
-    "name": "Midnight Mass",
+    "name": "午夜弥撒",
     "description": {
-      "general": "Pray the corruption does not run deep"
+      "general": "祈祷腐化尚未深入骨髓"
     }
   },
   "gravewoken": {
-    "name": "Gravewoken",
+    "name": "亡灵觉醒",
     "description": {
-      "general": "Leaves the echo of things undone"
+      "general": "留下未竟之事的回响"
     }
   }
 }
