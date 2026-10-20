@@ -1,56 +1,56 @@
 {
   "cookery": {
-    "name": "Cookery"
+    "name": "烹飪"
   },
   "water": {
-    "name": "Water"
+    "name": "水面"
   },
   "piratesBonfire": {
-    "name": "Pirates Bonfire"
+    "name": "海盜篝火"
   },
   "helmLiaison": {
-    "name": "Helm Liaison"
+    "name": "「掌舵者」仲介"
   },
   "mailbox": {
-    "name": "Mailbox"
+    "name": "信箱"
   },
   "smugglersNetwork": {
-    "name": "Smugglers Network"
+    "name": "走私者網路"
   },
   "jobBoard": {
-    "name": "Job Board"
+    "name": "工作板"
   },
   "bountyBoard": {
-    "name": "Bounty Board"
+    "name": "懸賞公布欄"
   },
   "warehouse": {
-    "name": "Warehouse"
+    "name": "倉庫"
   },
   "vanityAtelier": {
-    "name": "Vanity Atelier"
+    "name": "服裝造型師"
   },
   "johnScurlocksOffice": {
-    "name": "John Scurlocks Office"
+    "name": "約翰．史柯洛克的辦事處"
   },
   "hallowedGravestone": {
-    "name": "Hallowed Gravestone"
+    "name": "聖碑"
   },
   "factionBroker": {
-    "name": "Faction Broker"
+    "name": "勢力掮客"
   },
   "deathTides": {
-    "name": "Death Tides"
+    "name": "死亡浪潮"
   },
   "refinery": {
-    "name": "Refinery"
+    "name": "精煉廠"
   },
   "blacksmith": {
-    "name": "Blacksmith"
+    "name": "鐵匠"
   },
   "shipwright": {
-    "name": "Shipwright"
+    "name": "船匠"
   },
   "carpenter": {
-    "name": "Carpenter"
+    "name": "木匠"
   }
 }

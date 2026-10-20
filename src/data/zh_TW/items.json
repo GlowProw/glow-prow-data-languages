@@ -1,284 +1,284 @@
 {
   "other": {
-    "name": "Other"
+    "name": "其他"
   },
   "huntingSpear": {
-    "name": "Hunting Spear",
+    "name": "獵矛",
     "description": {
-      "2": "An improved spear that can quickly take down animals or sharks.",
-      "3": "An improved spear that can quickly take down animals or sharks even faster.",
-      "4": "An improved spear that does more damage to wildlife.",
-      "5": "A fully improved spear that does even more damage to wildlife.",
-      "general": "A spear to take down animals or sharks."
+      "2": "改良過的長矛，可讓你快速擊倒鯊魚或其他動物。",
+      "3": "改良過的長矛，可讓你更快速地擊倒鯊魚或其他動物。",
+      "4": "改良過的長矛，對野生動物的傷害更高。",
+      "5": "全面改良過的長矛，可對野生動物進一步造成更多傷害。",
+      "general": "基礎長矛，可用來捕魚和狩獵動物。投得準的話，甚至還能用來擊退鯊魚……"
     }
   },
   "crowbar": {
-    "name": "Crowbar",
+    "name": "鐵撬",
     "description": {
-      "2": "Scavenges shipwrecks faster. Ideal for medium shipwrecks.",
-      "3": "Scavenges shipwrecks even faster. Ideal for large shipwrecks.",
-      "4": "A tool that is used for harvesting shipwrecks of any size while producing more yield.",
-      "5": "A better tool that is used for harvesting shipwrecks of any size while producing more yield.",
-      "general": "Scavenges shipwrecks."
+      "2": "可提升打撈沉船的速度。適用於中型沉船。",
+      "3": "可進一步提升打撈沉船的速度。適用於大型沉船。",
+      "4": "這種工具可用來打撈各種大小的沉船，並增加收穫量。",
+      "5": "這種優質工具可用來打撈各種大小的沉船，並進一步增加收穫量。",
+      "general": "可讓你打撈沉船裡的財寶。"
     }
   },
   "spyglass": {
-    "name": "Spyglass",
+    "name": "望遠鏡",
     "description": {
-      "1": "A basic spyglass with one zoom level.",
-      "2": "An improved spyglass with an additional zoom level as it has two lenses in it.",
-      "3": "A more improved spyglass that can see much further away as it has three lenses in it.",
+      "1": "只有單面鏡片的基礎望遠工具。",
+      "2": "改良過的望遠鏡，內含雙面鏡片，具有額外倍率。",
+      "3": "進一步改良過的望遠鏡，內含三面鏡片，可以讓你看得更遠。",
       "general": "A spyglass."
     }
   },
   "sickle": {
-    "name": "Sickle",
+    "name": "鐮刀",
     "description": {
-      "2": "Harvests plants with slightly increased efficiency.",
-      "3": "Harvests plants with moderately increased efficiency.",
-      "4": "Harvests plants with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
+      "2": "可稍微提升採集植物的效率。",
+      "3": "可進一步提升採集植物的效率。",
+      "4": "可大幅提升採集植物的效率。有機率產生額外收穫。",
       "5": "Harvests plants with significant increased efficiency. Grants the opportunity for an extra bonus yield.",
-      "general": "Allows harvesting from plants."
+      "general": "可讓你從植物採集纖維，以便製作物品。"
     }
   },
   "saw": {
-    "name": "Saw",
+    "name": "鋸子",
     "description": {
-      "2": "Harvests trees with slightly increased efficiency.",
-      "3": "Harvests trees with moderately increased efficiency.",
-      "4": "Harvests trees with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
+      "2": "可稍微提升伐木的效率。",
+      "3": "可進一步提升伐木的效率。",
+      "4": "可大幅提升伐木的效率。有機率產生額外的收穫。",
       "5": "Harvests trees with significant increased efficiency. Grants the opportunity for an extra bonus yield.",
-      "general": "Allows harvesting from trees."
+      "general": "可讓你從樹木採集木材，以便製作物品。"
     }
   },
   "pickaxe": {
-    "name": "Pickaxe",
+    "name": "鎬",
     "description": {
-      "2": "Harvests deposits with slightly increased efficiency.",
-      "3": "Harvests deposits with moderately increased efficiency.",
-      "4": "Harvests deposits with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
-      "5": "Harvests deposits with significant increased efficiency. Grants the opportunity for an extra bonus yield.",
-      "general": "Allows harvesting from deposits."
+      "2": "可稍微提升採礦的效率。",
+      "3": "可進一步提升採礦的效率。",
+      "4": "可大幅提升採礦的效率。有機率產生額外收穫。",
+      "5": "可顯著提升採礦的效率。有機率進一步產生額外收穫。",
+      "general": "可讓你從礦床採集金屬和礦石，以便製作物品。"
     }
   },
   "cannonballCrate": {
-    "name": "Cannonball Crate",
+    "name": "炮彈箱",
     "description": {
       "general": "Contains 100 cannonballs that can be used in Cannon weapons."
     }
   },
   "bombardBombCrate": {
-    "name": "Bombard Bomd Crate",
+    "name": "投石炮炮彈箱",
     "description": {
       "general": "Contains 60 bombard bombs that can be used in Bombard weapons."
     }
   },
   "ballistaBoltCrate": {
-    "name": "Ballista Bolt Crate",
+    "name": "弩炮弩箭箱",
     "description": {
       "general": "Contains 20 ballista bolts that can be used in Ballista weapons."
     }
   },
   "seaFireOilCrate": {
-    "name": "Sea Fire Oil Crate",
+    "name": "海火油箱",
     "description": {
       "general": "Contains 60 oil canisters that can be used in Sea Fire weapons."
     }
   },
   "mortarBombCrate": {
-    "name": "Mortar Bomb Crate",
+    "name": "迫擊炮炮彈箱",
     "description": {
       "general": "Contains 20 mortar bombs that can be used in Mortar weapons."
     }
   },
   "rocketCrate": {
-    "name": "Rocket Crate",
+    "name": "火箭箱",
     "description": {
       "general": "Contains 100 rockets that can be used in Rocket Launcher weapons."
     }
   },
   "torpedoCrate": {
-    "name": "Torpedo Crate",
+    "name": "水雷箱",
     "description": {
       "general": "Contains 60 torpedoes that can be used in Torpedo Launcher weapons."
     }
   },
   "ironHusk": {
-    "name": "Iron Husk",
+    "name": "鐵甲",
     "description": {
       "general": "Dark hues on interlocking plates; a rudimentary yet impenetrable marriage of steel and might."
     }
   },
   "layeredScales": {
-    "name": "Layered Scales",
+    "name": "疊層鱗甲",
     "description": {
       "general": "Red-brown scales meld with black iron; a fusion of nature and craft against the depths."
     }
   },
   "laForteresse": {
-    "name": "La Forteresse",
+    "name": "要塞",
     "description": {
-      "general": "La Fortresse is liky stormy seas -- dark blue and gold signify reliability against the chaos of the deep blue."
+      "general": "可提供極高的進水傷害與穿刺傷害抗性。堪稱一座海上移動要塞。"
     }
   },
   "theBastion": {
-    "name": "The Bastion",
+    "name": "堡壘",
     "description": {
       "general": "Woven wood merges with a metallic sheen, a testament in roguish toughness and intricate defense."
     }
   },
   "gambaKobe": {
-    "name": "Gamba Kobe",
+    "name": "龜甲",
     "description": {
       "general": "Layered planks seal off any breaks in the hull, making the ship airtight and sturdy."
     }
   },
   "kawaca": {
-    "name": "Kawaca",
+    "name": "爪哇盔甲",
     "description": {
-      "general": "Adorned in teal and mustard, the design echoes the stalwart longboats of yore."
+      "general": "可提供極高的衝撞攻擊抗性，它精緻的裝飾會讓人想起昔日的長船。"
     }
   },
   "blackPrince": {
-    "name": "Black Prince",
+    "name": "黑王子",
     "description": {
-      "general": "Fit for Scurlock himself, the red and golden plates were forged to be the strongest when they are at their weakest point."
+      "general": "這套紅、金裝甲是專為史柯洛克所打造，在最脆弱的狀態下也還是極其堅固。"
     }
   },
   "ouroboros": {
-    "name": "Ouroboros",
+    "name": "銜尾蛇",
     "description": {
-      "general": "Sewn together from the hide of Kuharibu, a sea monster fabled to possess powerful, regenerative properties."
+      "general": "以滅絕龍獸皮縫製而成。這種海怪因具有強大的再生能力而廣為人知。"
     }
   },
   "wailingWard": {
-    "name": "Wailing Ward",
+    "name": "嚎哭之護",
     "description": {
       "general": "Engineered by La Peste's cronies. Its surface is coated to be resistant to their own toxic arsenal."
     }
   },
   "wrathfulWard": {
-    "name": "Wrathful Ward",
+    "name": "狂怒之護",
     "description": {
       "general": "Smeared with toxic chemicals and effuses putrid fumes with every crest of the waves."
     }
   },
   "royalCustodian": {
-    "name": "Royal Custodian",
+    "name": "皇家托管人",
     "description": {
       "general": "Glamorous and golden. An invitation to all pirates to pursue their own riches."
     }
   },
   "mortar": {
-    "name": "Mortar",
+    "name": "迫擊炮",
     "description": {
       "general": "Massive artillery that delivers a single devastating shell, dealing immense damage over a large area."
     }
   },
   "leopold": {
-    "name": "Leopold",
+    "name": "利奧波德迫擊炮",
     "description": {
       "general": "Massive artillery that fires shrapnel-bearing shells. Remarkable at ripping holes into hulls and causing ships to be Flooded."
     }
   },
   "leFleau": {
-    "name": "Le Fléau",
+    "name": "「病變」",
     "description": {
-      "general": "Philippe La Peste's signature artillery that launches putrid projectiles unto his hapless foes, releasing fumes that damage targets and drain Crew Stamina."
+      "general": "「瘟疫」菲利普的招牌火炮，可向他倒楣的敵人發射糜爛性投射物，藉此釋放煙霧來傷害目標並消耗船員耐力。"
     }
   },
   "repairMortar": {
-    "name": "Repair Mortar",
+    "name": "修理迫擊炮",
     "description": {
-      "general": "Delivers adhesive packs that expand on impact over a wide area, filling holes between the broken beams of allied ships."
+      "general": "可向一定範圍發射著彈時會膨脹的黏著劑包，填補友方船隻毀損船樑上的孔洞。"
     }
   },
   "rocket": {
-    "name": "Rocket",
+    "name": "火箭",
     "description": {
-      "general": "Rapid firing rocket launcher that sends barrages of fiery missiles."
+      "general": "可快速射出一連串爆裂性投射物。只要命中就能造成致命傷害。"
     }
   },
   "theTermitesRocket": {
-    "name": "The Termites",
+    "name": "「白蟻」",
     "description": {
       "general": "Rocket launcher originating from the Far East with a higher angle of aiming to attack taller structures more easily. Delivers a barrage of fiery missiles that deals increased damage to structures."
     }
   },
   "bombard": {
-    "name": "Bombard",
+    "name": "投石炮",
     "description": {
-      "general": "Rains destructive shells and is able to damage multiple foes within its radius."
+      "general": "可投射一連串破壞性炮彈，對區域內數個敵人造成傷害。"
     }
   },
   "monsMeg": {
-    "name": "Mons Meg",
+    "name": "蒙斯瑪格投石炮",
     "description": {
       "general": "A grandiose Scottish bombard constructed to shatter castle walls. The perfect weapon against structures."
     }
   },
   "dardanellesGun": {
-    "name": "Dardanelles Gun",
+    "name": "達達尼爾投石炮",
     "description": {
-      "general": "Massive Ottoman weapon of terrifiying might. The guns are fired in unison for maximum devastation."
+      "general": "來自鄂圖曼帝國的強大武器。可同時開火產生最大的破壞力。"
     }
   },
   "fireBombard": {
-    "name": "Fire Bombard",
+    "name": "火焰投石炮",
     "description": {
       "general": "Rains destructive shells and is able to damage multiple foes within its radius. Incendiary shells set targets Ablaze."
     }
   },
   "repairBombard": {
-    "name": "Repair Bombard",
+    "name": "修理投石炮",
     "description": {
-      "general": "Launches adhesive packs that expand on impact, filling holes between the broken beams of allied ships."
+      "general": "可發射著彈時會膨脹的黏著劑包，修理友方船隻受到的傷害，填補受損船體。"
     }
   },
   "torpedo": {
-    "name": "Torpedo",
+    "name": "水雷",
     "description": {
       "general": "Fires devastating torpedos that deal double damage after being armed. Cannot target structures."
     }
   },
   "shalei": {
-    "name": "Shalei",
+    "name": "鯊雷",
     "description": {
       "general": "Fires high-explosive torpedos that can damage multiple targets. Torpedos deal double damage after being armed. Cannot target structures."
     }
   },
   "rahmasAmbition": {
-    "name": "Rahma's Ambition",
+    "name": "拉赫瑪的野心",
     "description": {
-      "general": "A refinement of Rahma's original torpedo design. Increasingly destructive when multiple torpedos hit at the same time."
+      "general": "哈桑．拉瑪原始水雷設計的改良版。當多枚水雷同時命中時，破壞力會更強。"
     }
   },
   "rahmasLegacy": {
-    "name": "Rahma's Legacy",
+    "name": "拉赫瑪的遺志",
     "description": {
-      "general": "A refinement of Rahma's original torpedo design. Increasingly destructive when multiple torpedos hit at the same time."
+      "general": "哈桑．拉瑪原始水雷設計的改良版。當多枚水雷同時命中時，破壞力會更強。"
     }
   },
   "ballista": {
-    "name": "Ballista",
+    "name": "弩炮",
     "description": {
-      "general": "Launches giant bolts with great precision. Draw the ballista for greater power and range."
+      "general": "以準確度為主的武器，可發射巨型弩箭，弩炮拉弓越深，傷害與距離就越佳。"
     }
   },
   "greatSpringald": {
-    "name": "Great Springald",
+    "name": "大型扭力弩炮",
     "description": {
-      "general": "Launches giant bolts that are designed to rip sails apart. Draw the ballista for greater power and range."
+      "general": "以準確度為主的武器，可發射巨型弩箭，弩炮拉弓越深，傷害與距離就越佳。這種版本專門設計來破壞船帆。"
     }
   },
   "twinWinchBallista": {
-    "name": "Twin Winch Ballista",
+    "name": "雙絞盤弩炮",
     "description": {
-      "general": "The double-winches of this ballista can be further cranked for greater draw weight and power."
+      "general": "這種具有雙絞盤的弩炮可以進一步鎖緊，藉此帶來更強的拉力。"
     }
   },
   "seaFire": {
-    "name": "Sea Fire",
+    "name": "海火",
     "description": {
       "general": "Spews liquid fire over a short range, immolating everything within distance."
     }
@@ -286,449 +286,449 @@
   "kallinikosFlame": {
     "name": "Kallinikos Flame",
     "description": {
-      "general": "This modified Sea Fire is exceptional at rendering ships vulnerable to Crew Attacks."
+      "general": "可在近距釋放液態火焰，非常適合用來焚燒目標。它的火焰能夠使敵人無法抵禦船員攻擊。"
     }
   },
   "blueSpecter": {
-    "name": "Blue Specter",
+    "name": "藍色幽靈",
     "description": {
-      "general": "Hellish weapon of mysterious origins. Emits bluish flames of otherwordly temperatures."
+      "general": "來自異界的武器，可釋放出地獄般的藍色火焰。集中攻擊單一目標時，強度會提升。"
     }
   },
   "culverin": {
-    "name": "Culverin",
+    "name": "蛇炮",
     "description": {
-      "general": "Versatile cannon with good range, damage and reload speed."
+      "general": "多用途的大炮，具有良好的射程、與傷害，且裝填時間短。"
     }
   },
   "tearingCulverin": {
-    "name": "Tearing Culverin",
+    "name": "撕裂蛇炮",
     "description": {
-      "general": "Versatile cannon with good range, damage and reload speed. Great at tearing enemy sails and leaving them immobile."
+      "general": "多用途的大炮，具有良好的射程、與傷害，且裝填時間短。適合用來破壞敵人的船帆，讓對方無法逃離或防禦。"
     }
   },
   "basilisk": {
-    "name": "Basilisk",
+    "name": "巴西利斯克",
     "description": {
-      "general": "Heavy bronze culverin aptly named after the deadly mythic serpent. Designed to render ships vulnerable to Crew Attacks."
+      "general": "重型青銅蛇炮，以致命的神話巨蛇為名，十分貼切。能夠使船隻無法抵禦船員攻擊。"
     }
   },
   "longGun": {
-    "name": "Long Gun",
+    "name": "遠距火炮",
     "description": {
-      "general": "Long-barrel cannons adept at hitting faraway targets."
+      "general": "適合用來摧毀遠距目標的長管大炮。"
     }
   },
   "fireLongGun": {
-    "name": "Fire Long Gun",
+    "name": "火焰遠距火炮",
     "description": {
-      "general": "Long-barrel cannons adept at hitting faraway targets. Incendiary shots set targets Ablaze."
+      "general": "適合用來打擊遠程目標的長管大炮。燃燒炮彈可點燃目標。"
     }
   },
   "repairLongGun": {
-    "name": "Repair Long Gun",
+    "name": "修理遠距火炮",
     "description": {
-      "general": "Fires casings filled with adhesive goo that repair gaps in allied ships."
+      "general": "可射擊填充了黏著劑的彈藥，藉此修理盟友船隻。"
     }
   },
   "scurlocksChasers": {
-    "name": "Scurlock's Chasers",
+    "name": "史柯洛克的醒酒水",
     "description": {
-      "general": "Infamous long guns that Scurlock has used to cripple many a ship, dismantling their masts before the Kingpin charges in for the kill."
+      "general": "大人物史柯洛克曾用這門惡名昭彰的遠距火炮擊沉過許多船隻，他會先摧毀對方的桅杆再衝上去一舉殺敵。"
     }
   },
   "scurlocksLongNines": {
-    "name": "Scurlock's Long Nines",
+    "name": "史柯洛克的遠距火炮",
     "description": {
-      "general": "Infamous long guns that Scurlock has used to cripple many a ship, dismantling their masts before the Kingpin charges in for the kill."
+      "general": "大人物史柯洛克曾用這門惡名昭彰的遠距火炮擊沉過許多船隻，他會先摧毀對方的桅杆再衝上去一舉殺敵。"
     }
   },
   "demicannon": {
-    "name": "Demi-Cannon",
+    "name": "半加農炮",
     "description": {
-      "general": "Fires deadly shrapnel that rips ships apart at short range."
+      "general": "可射出致命彈片的中型大炮，能撕裂位於近距的目標。"
     }
   },
   "floodingDemicannon": {
-    "name": "Flooding Demi-Cannon",
+    "name": "進水半加農炮",
     "description": {
-      "general": "Fires deadly shrapnel that rips ships apart at short range. Great at ripping holes in enemy hulls and causing them to be Flooded."
+      "general": "可射出致命彈片的中型大炮，能撕裂位於近距的目標。可射穿船體，使敵方進水。"
     }
   },
   "carronade": {
-    "name": "Carronade",
+    "name": "卡倫臼炮",
     "description": {
-      "general": "A revolutionary, lightweight cannon. The advanced design boasts power, accuracy, and low recoil, at the expense of range."
+      "general": "革命性的輕量大炮。它的設計先進，具有強大的火力、準確度及後座力表現，但射程相對較短。"
     }
   },
   "zamzama": {
-    "name": "Zamzama",
+    "name": "雷霆",
     "description": {
-      "general": "Short ranged, large-bore cannon that fires with thunderous power. Adept at rendering ships vulnerable to Crew Attacks."
+      "general": "可射出致命彈片的中型大炮，能撕裂位於近距的目標。能夠使敵方船隻無法抵禦船員攻擊。"
     }
   },
   "repairKit": {
-    "name": "Repair Kit",
+    "name": "修理包",
     "description": {
-      "1": "Mends a minimal amount of the ship's hull.",
-      "2": "Mends a modest amount of the ship's hull.",
-      "3": "Mends a moderate amount of the ship's hull.",
+      "1": "可小幅修理船體。",
+      "2": "可小幅修理船體。",
+      "3": "可適度修理船體。",
       "general": "Mends a amount of the ship's hull"
     }
   },
   "enhancedRepairKit": {
     "name": "Enhanced Repair Kit",
     "description": {
-      "1": "Mends a modest percentage of the ship's hull.",
-      "2": "Mends a moderate percentage of the ship's hull.",
-      "3": "Mends a greater percentage of the ship's hull.",
+      "1": "能以小幅百分比修理船體。",
+      "2": "能以適度百分比修理船體。",
+      "3": "能以大幅百分比修理船體。",
       "general": "Mends a percentage of the ship's hull"
     }
   },
   "restorationKit": {
-    "name": "Restoration Kit",
+    "name": "恢復包",
     "description": {
       "general": "Removes all status effects from the ship."
     }
   },
   "grilledBeef": {
-    "name": "Grilled Beef",
+    "name": "烤牛肉",
     "description": {
-      "general": "A popular meat dish seasoned with spices, skewered on a stick, and then grilled."
+      "general": "很受歡迎的香料調味肉類料理，只要串在細棍上，就可以烤起來了！"
     }
   },
   "grilledCoconut": {
-    "name": "Grilled Coconut",
+    "name": "烤椰子",
     "description": {
-      "general": "These coconut balls are grilled golden brown and then coated with grated coconut flakes."
+      "general": "將椰子球烤至金黃，抹上磨碎的椰肉碎屑。"
     }
   },
   "grilledFish": {
-    "name": "Grilled Fish",
+    "name": "烤魚",
     "description": {
-      "general": "A staple for any sailor: stick a fish over a flame and watch it turn moist and crispy."
+      "general": "所有水手都會吃的主食：只要將魚叉好擺在火焰上，再看著它變得多汁又酥脆就行了。"
     }
   },
   "grilledCrocodile": {
-    "name": "Grilled Crocodile",
+    "name": "烤鱷魚",
     "description": {
-      "general": "Firm and tender in texture while mild in flavor. Taste is not far from fish."
+      "general": "口感厚實而柔軟，沒有特殊的氣味。吃起來跟魚肉差不多。"
     }
   },
   "grilledShark": {
-    "name": "Grilled Shark",
+    "name": "烤鯊魚",
     "description": {
-      "general": "The predator has become the prey. When grilled, its meat exudes a pungent smell, but fills the belly."
+      "general": "掠食者反倒成了獵物。這種肉在烤的時候會散發強烈氣味，但很有飽足感。"
     }
   },
   "grilledMutton": {
-    "name": "Grilled Mutton",
+    "name": "烤羊肉",
     "description": {
-      "general": "Soft, tender mutton that has been spiced, slow-grilled, and left simmering for hours."
+      "general": "柔軟又嫩的調味羊肉料理，經過了數小時的慢烤與燉煮。"
     }
   },
   "grilledChicken": {
-    "name": "Grilled Chicken",
+    "name": "烤雞",
     "description": {
-      "general": "A whole chicken grilled till golden brown. A simple meal for the weary seafarer."
+      "general": "烤至金黃色的全雞。疲憊水手的一頓簡餐。"
     }
   },
   "grilledBread": {
-    "name": "Grilled Bread",
+    "name": "烤麵包",
     "description": {
-      "general": "One of the oldest foods that can be traced back to the beginnings of agriculture."
+      "general": "可追溯至農業發展初期的食物，歷史悠久。"
     }
   },
   "grilledBanana": {
-    "name": "Grilled Banana",
+    "name": "烤大蕉",
     "description": {
-      "general": "These grilled plantains make for a sweet and savory snack."
+      "general": "烤到金黃香酥的大蕉，是一種甜中帶鹹的風味點心。"
     }
   },
   "grilledPrimeHippo": {
-    "name": "Grilled Prime Hippo",
+    "name": "上等烤河馬",
     "description": {
-      "general": "Freshly grilled prime cut from a Hippo. Its meat is gamey but flavorful."
+      "general": "鮮烤上等河馬肉。味道強烈但很美味。"
     }
   },
   "grilledPrimeCrocodile": {
-    "name": "Grilled Prime Crocodile",
+    "name": "上等烤鱷魚",
     "description": {
-      "general": "Freshly grilled prime cut from a crocodile. Its meat is firm, tender, and stringy."
+      "general": "鮮烤上等鱷魚肉。緊實、柔軟又有彈性。"
     }
   },
   "tylosaurusSteak": {
-    "name": "Tylosaurus Steak",
+    "name": "海王龍肉排",
     "description": {
-      "general": "Grilled meat from an ancient predator known to stalk the African Coast. Firm and slightly sweet."
+      "general": "以非洲海岸古老掠食者獸肉製成的烤肉。質感扎實，帶有些許甜味。"
     }
   },
   "grilledScrewpine": {
-    "name": "Grilled Screwpine",
+    "name": "烤露兜樹果",
     "description": {
       "general": "These sweet cakes are filled with screwpine and the grilled in pandan leaves to give their green color."
     }
   },
   "grilledVegetables": {
-    "name": "Grilled Vegetables",
+    "name": "烤蔬菜",
     "description": {
-      "general": "Herbs, leaves and vegetables scrunched up from the Indian Ocean and grilled over a fire. A simple but hearty meal."
+      "general": "將取自印度洋的藥草、樹葉和蔬菜用火燒烤，就成了簡單又豐盛的一餐。"
     }
   },
   "grilledDurian": {
-    "name": "Grilled Durian",
+    "name": "烤榴槤",
     "description": {
-      "general": "Durian slices that are dried, then grilled. Pungent on its own, these crisps are sweet and smokey."
+      "general": "將榴蓮切片，再經過乾燥與燒烤處理。這種榴槤片本身的氣味就很強烈，嚐起來甜甜的、帶有些許煙燻味。"
     }
   },
   "grilledHippo": {
-    "name": "Grilled Hippo",
+    "name": "烤河馬",
     "description": {
-      "general": "Tastes slightly sweet with a tough texture."
+      "general": "吃起來有點甜，但肉質比較硬。"
     }
   },
   "varyBeMenaka": {
-    "name": "Vary Be Menaka",
+    "name": "馬拉加西油飯",
     "description": {
-      "general": "Rice served with fatty chunks of meat."
+      "general": "以飽含油脂的肉類搭配米飯而成的料理。"
     }
   },
   "godrogodro": {
-    "name": "Godrogodro",
+    "name": "葛卓葛卓",
     "description": {
-      "general": "Traditional coconut cake made with the 'cocotte' kettle over a charcoal cooker."
+      "general": "用荷蘭鍋在木炭爐上烤製的傳統椰子糕點。"
     }
   },
   "trondroGasy": {
-    "name": "Trondro Gasy",
+    "name": "馬拉加西燉魚",
     "description": {
-      "general": "Succulent fish cooked with vegetables and eaten with rice."
+      "general": "以鮮嫩多汁的魚肉和蔬菜一起烹煮而成，適合搭配米飯食用。"
     }
   },
   "ndiziNaNyama": {
-    "name": "Ndizi Na Nyama",
+    "name": "大蕉燉雞",
     "description": {
       "general": "A plantains-based stwe with chicken. A fragant meshing of the sweet and savory."
     }
   },
   "ragout": {
-    "name": "Ragout",
+    "name": "濃味蔬菜燉肉",
     "description": {
-      "general": "A stew of many meats, spiced and seasoned well."
+      "general": "用多種肉類做的燉肉，加了很棒的香料和調味。"
     }
   },
   "sateKambing": {
-    "name": "Sate Kambing",
+    "name": "羊肉沙嗲",
     "description": {
-      "general": "Mutton, seasoned, skewered and grilled on charcoal. Sweet, savory and juicy."
+      "general": "將醃漬好的羊肉塊串起放在炭火上燒烤。甜中帶鹹，美味多汁。"
     }
   },
   "bitterballen": {
-    "name": "Bitterballen",
+    "name": "荷蘭炸肉丸",
     "description": {
-      "general": "Made from a thick meat stew, the cooled, rolled into a ball, breaded and finally cooked."
+      "general": "將極其濃郁的燉肉放涼後捏成圓球，沾上麵包粉再油炸而成。"
     }
   },
   "ronakoho": {
-    "name": "Ron'akoho",
+    "name": "薑香雞湯",
     "description": {
-      "general": "Whole chicken broth prepared with fresh ingredients."
+      "general": "用新鮮食材燉煮的全雞湯。"
     }
   },
   "mchuziWaKuharibu": {
-    "name": "Mchuzi wa Kuharibu",
+    "name": "滅絕龍肉醬",
     "description": {
       "general": "The meat of Kuharibu, carefully wrapped in a blend of tomatoes and spies, and then baked in sweet coconut milk with local roots."
     }
   },
   "otakOtak": {
-    "name": "Otak-Otak",
+    "name": "烏達",
     "description": {
-      "general": "Consists of fish and spices wrapped in a leaf parcel and either grilled or steamed."
+      "general": "用葉片包裹魚肉和香料，並以燒烤或蒸熟的方式料理。"
     }
   },
   "firstAidStation": {
-    "name": "First Aid Station",
+    "name": "急救站",
     "description": {
-      "general": "Well, wouldn't need to patch ya up if you'd shot at the bastards first, now would I?"
+      "general": "一應俱全的工作站，可確保船員們在船體生命值過低等緊急狀況下，還能修補漏洞或是救助水手。"
     }
   },
   "ironCapstan": {
-    "name": "Iron Capstan",
+    "name": "鐵絞盤",
     "description": {
-      "general": "Release the anchor, Captain! Those gutter swabs won't be able to hit us!"
+      "general": "可讓船隻在下錨時抵禦敵人的炮火，但也會讓船隻成為活靶子。"
     }
   },
   "ropeLocker": {
-    "name": "Rope Locker",
+    "name": "繩索扣件",
     "description": {
-      "general": "Oi, lad! Use a spoon to wipe your ass? That's the trim rope, not the anchor line!"
+      "general": "繩索能用來提升船速，但前提是船員的手腳要跟得上。這個扣件收藏曾屬於一位著名的倫帕女舵手。"
     }
   },
   "scopingStation": {
-    "name": "Scoping Station",
+    "name": "觀測站",
     "description": {
       "general": "Keep yer eye on that enemy ship, lad! Don't let me catch ya sneaking winks at them mermaids!"
     }
   },
   "scrapperStation": {
-    "name": "Scrapper Station",
+    "name": "廢料站",
     "description": {
       "general": "A pickaxe, butter knife, or your damned left shoe! Patch the hull, me hearties!"
     }
   },
   "signalGong": {
-    "name": "Signal Gong",
+    "name": "施令鑼",
     "description": {
-      "general": "Hear that, scallywags? That ain't the fucking dinner bell!"
+      "general": "尖銳的鑼聲劃破一片混亂的場面，使戰鬥中的船員們在短時間內集結並更加賣力地戰鬥。"
     }
   },
   "warDrums": {
-    "name": "War Drums",
+    "name": "戰鼓",
     "description": {
-      "general": "Here they come, sea dogs! And if Davy Jones comes knocking, tell 'im we ain't ready for his locker yet!"
+      "general": "鼓聲能驅散心中的恐懼，並讓四肢充滿力量，促使船員們在戰鬥中操帆時能更有效率。"
     }
   },
   "megaphone": {
-    "name": "Megaphone",
+    "name": "大聲公",
     "description": {
-      "general": "With each blast of the horn, our cannons barked louder."
+      "general": "放大船長下命令的聲音，可使炮手在連續命中時加速裝填。"
     }
   },
   "munitionsMixer": {
-    "name": "Munitions Mixer",
+    "name": "彈藥混合器",
     "description": {
-      "general": "Careful with that mix, you bastards! I'm not having my other brow seared off!"
+      "general": "古老的煉金術書籍多數都記載著各種訣竅，能讓人了解如何完美地燃燒，或是延長漏水的時間。即使是粗魯的雙手，也能調合出長效的調合物，進而延長點燃與進水等負面效果的持續時間。"
     }
   },
   "riggingStation": {
-    "name": "Rigging Station",
+    "name": "索具檯",
     "description": {
       "general": "Grab yer tools, sea rats! We'll mend the hull faster than they make holes in it!"
     }
   },
   "gunnersQuadrant": {
-    "name": "Gunner´s Quadrant",
+    "name": "槍炮手分部",
     "description": {
       "general": "Captain, are we counting fleas on their coats? Can we fucking shoot yet?!"
     }
   },
   "waterTank": {
-    "name": "Water Tank",
+    "name": "水槽",
     "description": {
       "general": "Three days without water, you say? Bah. A day without rum is its own hell."
     }
   },
   "maintenanceForge": {
-    "name": "Maintenance Forge",
+    "name": "維修鍛造工坊",
     "description": {
-      "general": "Who repairs the forge when the forge needs repairs?"
+      "general": "特殊鍛造工坊，專為修理船隻的嚴重傷害所設計。"
     }
   },
   "doublePlankedHull": {
-    "name": "Double-planked Hull",
+    "name": "雙板材船體",
     "description": {
-      "general": "A thicker hull means we're tougher, but we'll also sink faster than a drunkard's dreams!"
+      "general": "以強化板材覆蓋船體，能提供額外的船體生命值。"
     }
   },
   "boatswainsCall": {
-    "name": "Boatswain's Call",
+    "name": "水手長號召",
     "description": {
-      "general": "This ain't tea time, arsetits! To your battle stations!"
+      "general": "高亢哨聲劃破戰鬥的混亂場面，確保部下聽見並遵守指令。可提升船員攻擊的傷害。"
     }
   },
   "chainsLocker": {
-    "name": "Chains Locker",
+    "name": "鏈具扣件",
     "description": {
-      "general": "Load the chains, boys! We've leave their sails limp in the wind!"
+      "general": "專門用來破壞敵方船隻船帆的鏈具，能延長敵方船隻喪失行動能力的時間。"
     }
   },
   "joineryWorkshop": {
-    "name": "Joinery Workshop",
+    "name": "細木工工坊",
     "description": {
       "general": "Don't fret if you lose a limb, lads. We've got spare pegs at the shop!"
     }
   },
   "gunpowderBench": {
-    "name": "Gunpowder Bench",
+    "name": "火藥工作檯",
     "description": {
       "general": "A pinch of this, a little dash of that, and voilà! A fiery delight for our foes!"
     }
   },
   "leadKettle": {
-    "name": "Lead Kettle",
+    "name": "鉛製水壺",
     "description": {
-      "general": "The lead's for their throats, lads, not your fucking afternoon tea!"
+      "general": "能增加投射物重量的特殊用具，能延長敵方船隻的「進水」狀態時間。"
     }
   },
   "spikedWarHorn": {
-    "name": "Spiked War Horn",
+    "name": "尖刺戰爭號角",
     "description": {
       "general": "To arms, me hearties! And while we're at it, let's take a few of theirs!"
     }
   },
   "stickyFuelStation": {
-    "name": "Sticky Fuel Station",
+    "name": "黏性燃料工坊",
     "description": {
-      "general": "Aye, thick and nasty, lads! Want it clinging to the hull like a lover's bum in a lap!"
+      "general": "用來混合黏性燃料配方的工坊。把黏性燃料用在彈藥上面時，可對敵方船隻造成更長時間的燃燒傷害。"
     }
   },
   "storageCompartment": {
-    "name": "Storage Compartment",
+    "name": "儲物艙室",
     "description": {
       "general": "This spot's for goods, not your goodies! I'd better not find hidden grog or lady portraits back here!"
     }
   },
   "toolSmithy": {
-    "name": "Tool Smithy",
+    "name": "工具鋪",
     "description": {
       "general": "Which came first, the wood or the wood that chopped the wood?"
     }
   },
   "flagPaintingStation": {
-    "name": "Flag Painting Station",
+    "name": "旗幟彩繪工坊",
     "description": {
-      "general": "Every raunchy crew's got an artist, y'know? And ours? Well, he's an expert at drawing... certain symbols."
+      "general": "專門繪製侮辱性和淫穢圖案的工坊，能激怒敵人。"
     }
   },
   "volatileFuel": {
-    "name": "Volatile Fuel",
+    "name": "揮發性燃料",
     "description": {
-      "general": "Cap'ain's got a death wish, keeping these barrels out in the open? One spark and we're a fucking bonfire!"
+      "general": "可強化點燃效果，確保敵方船隻燃燒得更快。極不穩定的燃料，儲存於堅固的木桶，要謹慎看顧。"
     }
   },
   "leatherRopeGrips": {
-    "name": "Leather Rope Grips",
+    "name": "皮革繩套",
     "description": {
-      "general": "Pull, boys! We'll have those sails trimmed faster than a blade on a bald's crown!"
+      "general": "專門的滑輪和船帆系統，可提升整帆效率。"
     }
   },
   "balancedMast": {
-    "name": "Balanced Mast",
+    "name": "平衡桅杆",
     "description": {
-      "general": "General and all purpose -- and no, sea rats, this doesn't mean I can't make up my fucking mind."
+      "general": "特殊的船體部件，能平衡慣性，進而提升船隻的加速與減速能力。"
     }
   },
   "sterileGalley": {
-    "name": "Sterile Galley",
+    "name": "清消伙房",
     "description": {
-      "general": "Oi, you filthy lot! Wipe that much off your boots before stepping in!"
+      "general": "專門用來確保食物和消耗品的新鮮度，進而提升船員耐力。"
     }
   },
   "rumPantry": {
-    "name": "Rum Pantry",
+    "name": "蘭姆酒儲藏間",
     "description": {
       "general": "Now that's more like it."
     }
   },
   "lightenedMast": {
-    "name": "Lightened Mast",
+    "name": "輕型桅杆",
     "description": {
-      "general": "Head about the races in the East Indies, the stragglers sneaking past Megafort Oosten's cannons..."
+      "general": "特殊的船體部件，能減少慣性，進而提升船隻的加速能力。"
     }
   },
   "longGunWorks": {
-    "name": "Long Gun Works",
+    "name": "遠距火炮加工裝置",
     "description": {
       "general": "It just works. It kills fucks faster."
     }
@@ -740,253 +740,253 @@
     }
   },
   "culverinWorks": {
-    "name": "Culverin Works",
+    "name": "蛇炮加工裝置",
     "description": {
       "general": "Beneath Maja's prayers and angelic grace, lurked a darkness, a secret space."
     }
   },
   "vatOfVolatiles": {
-    "name": "Vat of Volatiles",
+    "name": "桶裝揮發物",
     "description": {
-      "general": "Danny wantetd to wash his face. Now, he has no face."
+      "general": "可有效破壞結構。來自非洲的特殊化學調合物，最早是被烏瓜納人用來摧毀皇司高塔。"
     }
   },
   "ironCladdingStation": {
-    "name": "Iron Cladding Station",
+    "name": "鐵覆材工坊",
     "description": {
       "general": "Steel yourselves, lads! We'll plow through 'em like piss and paper!"
     }
   },
   "prismaticPowderFront": {
-    "name": "Front Powder Kegs",
+    "name": "船首火藥桶",
     "description": {
-      "general": "That ain't fairy dust, boys, but it'll still make your foes go 'poof!"
+      "general": "可提升船首武器的傷害。是「天女」藉由祕密煉金術精心製作的高級稀有火藥。"
     }
   },
   "prismaticPowderPort": {
-    "name": "Port Powder Kegs",
+    "name": "左舷火藥桶",
     "description": {
-      "general": "Think it's snuff, eh? Go on, take a sniff! Get ready for a real mind-blowing experience. Heh heh heh."
+      "general": "可提升左舷武器的傷害，讓舷側攻擊更強大。由最具攻擊性的炮手使用，能確保每顆炮彈都像鎚子一般重擊目標。"
     }
   },
   "prismaticPowderStarboard": {
-    "name": "Starboard Powder Kegs",
+    "name": "右舷火藥桶",
     "description": {
-      "general": "Don't be fooled by its pretty name, lads. Its beauty is in its destruction!"
+      "general": "專門用來裝武器化揮發性火藥的桶子。可大幅提升右舷武器的傷害。"
     }
   },
   "ballistaWorks": {
-    "name": "Ballista Works",
+    "name": "弩炮加工",
     "description": {
       "general": "Oh, Isabelle, silent as the deep. With bolts she strikes where sea monsters creep."
     }
   },
   "bombardWorks": {
-    "name": "Bombard Works",
+    "name": "投石炮加工",
     "description": {
       "general": "Balrai yearned for his native hearth. In battle's chaos, his heart cried out in spicy mirth."
     }
   },
   "flamethrowerWorks": {
-    "name": "Sea Fire Works",
+    "name": "海火加工",
     "description": {
       "general": "Smog was his fiery name, barking smoke and spewing tepid flames."
     }
   },
   "maintainedArsenal": {
-    "name": "Maintained Arsenal",
+    "name": "維修軍械庫",
     "description": {
-      "general": "Time to do things the old-fashioned way."
+      "general": "用於加工和維護輔助武器的工具，能提升輔助武器的傷害。"
     }
   },
   "torpedoWorks": {
-    "name": "Torpedo Works",
+    "name": "水雷加工",
     "description": {
       "general": "Amara's wit, once a spark so bright, but stillness fell during the failed heist's blight."
     }
   },
   "mortarWorks": {
-    "name": "Mortar Works",
+    "name": "迫擊炮加工",
     "description": {
       "general": "Big Martha marked the seas, her wit and scorn for all to see."
     }
   },
   "rocketWorks": {
-    "name": "Rocket Works",
+    "name": "火箭加工",
     "description": {
       "general": "Shiro, as white as purest snow. Innocence veiled, blood's tale yet to show."
     }
   },
   "grindstoneBallista": {
-    "name": "Ballista Grinder",
+    "name": "弩炮砂輪機",
     "description": {
-      "general": "I've seen a bolt pierce three men in a row. Let's aim for four!"
+      "general": "專門打磨弩炮發射機關的工作站，可提升彈藥速度。"
     }
   },
   "grindstoneBombard": {
-    "name": "Bombard Grinder",
+    "name": "投石炮砂輪機",
     "description": {
-      "general": "Not just blades that need grinding, mate. Remember an ex-lover getting an intimate look, the cheating bastard..."
+      "general": "專門打磨投石炮炮管的工作站，可提升彈藥速度。"
     }
   },
   "grindstoneCulverin": {
-    "name": "Culverin Grinder",
+    "name": "蛇炮砂輪機",
     "description": {
-      "general": "What's a grindstone good for 'sides sharpening weapons? Can't remove curses, can it?"
+      "general": "用於打磨武器炮管，以增加炮口初速，進而提升彈藥速度。"
     }
   },
   "grindstoneLongGun": {
-    "name": "Long Gun Grinder",
+    "name": "遠距火炮砂輪機",
     "description": {
-      "general": "Heard of Captain Longarm? Was sharpening his cannons one day when his hand got a little too close..."
+      "general": "專門打磨大炮炮管的工作站，可提升彈藥速度。"
     }
   },
   "grindstoneTorpedo": {
-    "name": "Torpedo Grinder",
+    "name": "水雷砂輪機",
     "description": {
       "general": "Sharpen those barrels, boys! Those 'pedos need to slice like a drunken sailor's purse strings."
     }
   },
   "grindstone": {
-    "name": "Grindstone",
+    "name": "砂輪",
     "description": {
-      "general": "What's a grindstone good for 'sides sharpening weapons? Can't remove curses, can it?"
+      "general": "用於打磨武器炮管，以增加炮口初速，進而提升彈藥速度。"
     }
   },
   "brazingFurnaceFlamethrower": {
-    "name": "Sea Fire Furnace",
+    "name": "海火熔爐",
     "description": {
-      "general": "How'd you fucking like THIS for a naked flame?!"
+      "general": "專門打磨海火武器發射機關的工作站，可提升射程。"
     }
   },
   "brazingFurnace": {
-    "name": "Brazing Furnace",
+    "name": "硬焊熔爐",
     "description": {
-      "general": "Aye, the blaze. Reminds me of the night dear Kat was claimed, and when I hoisted the colors tto feel her soft fur again."
+      "general": "專為提升所有投射物與武器的射程所設計的。可增加彈藥的威力。"
     }
   },
   "brazingFurnaceMortar": {
-    "name": "Mortar Furnace",
+    "name": "迫擊炮熔爐",
     "description": {
       "general": "Aye, make those shells scorching hot! We'll let loose on 'em like a belly full of bad oysters!"
     }
   },
   "brazingFurnaceTorpedo": {
-    "name": "Torpedo Furnace",
+    "name": "水雷熔爐",
     "description": {
-      "general": "Stick the tubes in the furnace! Let our foes boil in their wake!"
+      "general": "專門打磨水雷炮管的工作站，可提升射程。"
     }
   },
   "brazingFurnaceRocket": {
-    "name": "Rocket Furnace",
+    "name": "火箭熔爐",
     "description": {
-      "general": "Matt always wore white, each splotch of black a badge of honor."
+      "general": "專門打磨火箭炮管的工作站，可提升射程。"
     }
   },
   "brazingFurnaceDemicannon": {
-    "name": "Demi-cannon Furnace",
+    "name": "半加農炮熔爐",
     "description": {
       "general": "Aye, the blaze. Reminds me of the might dear Kat was claimed, and when I hoisted the colors to feel her soft fur again."
     }
   },
   "powderHouseBombard": {
-    "name": "Bombard Powderhouse",
+    "name": "投石炮火藥間",
     "description": {
-      "general": "No naked flames, please! No, like, seriously."
+      "general": "專門的工作間，能提升投石炮炮彈的威力，讓著彈時的投射物擴散範圍更大。"
     }
   },
   "powderHouseMortar": {
-    "name": "Mortar Powderhouse",
+    "name": "迫擊炮火藥間",
     "description": {
-      "general": "For fuck's sake! I said no, naked, flames!"
+      "general": "專門的工作間，能提升迫擊炮炮彈的威力，讓著彈時的投射物擴散範圍更大。"
     }
   },
   "laPotenceSchematics": {
-    "name": "La Potence Schematics",
+    "name": "「吊具」圖解",
     "description": {
-      "general": "I see a drop of green spreading, till the entire ocean is an emerald death."
+      "general": "標示出「吊具」的結構脆弱處。據說「瘟疫」菲利普那艘恐怖的船，比起船還更像是幽靈。然而，即使是最詭譎的船也是有弱點的。"
     }
   },
   "fauleIlse": {
-    "name": "Faule Ilse",
+    "name": "懶惰的伊爾斯",
     "description": {
-      "general": "Shrapnel fired from this demi-cannon is designed to cause collateral damage. On impact, iron pieces ricochet to nearby targets, making this weapon adept against a crowded fleet of ships."
+      "general": "這款半加農炮發射的彈片是以能造成連帶傷害設計的。著彈時，會有鐵片朝附近的目標彈射，使得這種武器成為了對付密集艦隊的最佳利器。"
     }
   },
   "theWarhammer": {
-    "name": "The Warhammer",
+    "name": "戰鎚",
     "description": {
-      "general": "This destructive weapon quite literally levels the playing field by raining large, explosive rockets from above."
+      "general": "這種毀滅性武器能從空中降下大型爆炸火箭，能做到真正意義上的「掃平」戰場。"
     }
   },
   "endlessRequiem": {
-    "name": "Endless Requiem",
+    "name": "無盡安魂曲",
     "description": {
-      "general": "Unique and highly-advanced torpedoes employed by Armand and Bertrand Hubac. Their target-seeking capabilities make them a challenge to evade."
+      "general": "阿曼與伯特蘭．胡巴奇專用的獨特高階水雷。這種水雷有追蹤目標的功能，被鎖定就很難避開。"
     }
   },
   "laPiqure": {
-    "name": "La Piqúre",
+    "name": "毒咬",
     "description": {
-      "general": "A malicious weapon wielded by La Peste's cronies. Fires tainted shells that drain Crew Stamina. These toxic gases also cannot be blocked by bracing."
+      "general": "「瘟疫」親信使用的邪惡武器。能射出汙穢的炮彈，消耗船員耐力。防備無法阻擋這種毒氣。"
     }
   },
   "dummySpringloader": {
-    "name": "Dummy Springloader",
+    "name": "仿造彈簧裝填器",
     "description": {
       "general": "They won't tell the difference. Ha ha ha!"
     }
   },
   "fatanaStation": {
-    "name": "Fatana Station",
+    "name": "火爐間",
     "description": {
       "general": "A flash of spice, a dash of powder. No, this ain't an explosion out yer' arse, mate."
     }
   },
   "tuningStation": {
-    "name": "Tuning Station",
+    "name": "調音站",
     "description": {
-      "general": "Get those tubes loaded! Or I'll stuff you in myself."
+      "general": "能打磨水雷管狀結構的熔爐工坊，可提升水雷的殺傷力和速度。"
     }
   },
   "stormwovenSymphony": {
-    "name": "Stormwoven Symphony",
+    "name": "風暴交響曲",
     "description": {
-      "general": "A full orchestra upon the waves. May their voices be your shield."
+      "general": "可釋放毀滅性的音波攻擊，對周圍敵人造成傷害。只有傳奇的胡巴奇雙胞胎才擁有這種金色船甲。"
     }
   },
   "buccaneersOath": {
-    "name": "Buccaneer's Oath",
+    "name": "私掠海盜的誓言",
     "description": {
-      "general": "Promises etched into the hull prove sturdier than any piercing shot."
+      "general": "刻在船體上的誓言，比任何能穿透一切的炮彈都還要強大。"
     }
   },
   "mineSpringloader": {
-    "name": "Mine Springloader",
+    "name": "定點水雷彈簧裝填器",
     "description": {
-      "general": "Launches Minefield Buoys using a complex system of springs and gears. These buoys deploy a field of deadly naval mines, as traps against unsuspecting victims."
+      "general": "可藉由複雜的彈簧與齒輪系統來射出「雷區浮標」。這些浮標會在一定區域內部署致命的海上定點水雷，讓大意的受害者誤中陷阱。"
     }
   },
   "infernalMaw": {
-    "name": "Infernal Maw",
+    "name": "地獄巨口",
     "description": {
       "general": "An advanced modification of the Mine Springloader that launches Fire Minefield Buoys. Apart from releasing fiery mines, these buoys carry volatile Sea Fire liqued that conflargrates when destroyed. A minefield acts as defense against torpedos."
     }
   },
   "littleGrace": {
-    "name": "Little Grace",
+    "name": "小小恩典",
     "description": {
-      "general": "Launches Repair Buoys using a complex system of spring and gears. When deployed, Repair Buoys restore the integrity of damaged hulls and masts."
+      "general": "可部署「修補工」浮標，藉此修理受損船體。是謹慎船長的首選。"
     }
   },
   "abyssal": {
     "name": "深淵",
     "description": {
-      "general": "Dark navy and gleaming silver, the burnished steel repels the fiercest of fires."
+      "general": "可縮短點燃狀態效果的持續時間，並提供極高的燃燒傷害抗性。鑲嵌在拋光鋼鐵上的銀色骷髏，能抵禦最兇猛的烈焰。"
     }
   },
   "buoyShellsCrate": {
-    "name": "Buoy Shells Crate",
+    "name": "浮標彈箱",
     "description": {
       "general": "Contains 20 buoy shells that can be used in Springloader weapons"
     }
@@ -994,91 +994,91 @@
   "leviathanArmor": {
     "name": "利維坦",
     "description": {
-      "general": "A tough yet sleek armor crafted from the mighty Lestari. Improves sailing speed."
+      "general": "堅韌又帥氣的裝甲，以強大的永恆鯊獸骸所打造。可提升航行速度。"
     }
   },
   "springloaderFurnace": {
-    "name": "Springloader Furnace",
+    "name": "彈簧裝填器熔爐",
     "description": {
-      "general": "Careful, or you'll singe the wood. Same as your brows!"
+      "general": "專門的彈簧裝填器工作間，可提升浮標的部署範圍。"
     }
   },
   "springloaderPowderhouse": {
-    "name": "Buoy Powderhouse",
+    "name": "浮標火藥間",
     "description": {
       "general": "Another naked flame and I'll load yer' into the Loader itself!"
     }
   },
   "machinistStationRepair": {
-    "name": "Machinist Table (Repair)",
+    "name": "機械師工作桌（修理）",
     "description": {
-      "general": "These buoys are meant for our friends! Don't spend too much time on 'em."
+      "general": "專門提升「修理浮標」效果的工坊。"
     }
   },
   "raisedQuarterdeck": {
-    "name": "Raised Quarterdeck",
+    "name": "增高後甲板",
     "description": {
-      "general": "Ughh. Wet stockings. The worst thing in the world."
+      "general": "改造船隻甲板，進而避免過多的進水傷害。"
     }
   },
   "buoyLocker": {
-    "name": "Buoy Locker",
+    "name": "浮標扣件",
     "description": {
-      "general": "Wonder where those fancy wigs've been hiding these buoys."
+      "general": "特殊浮標的儲存裝置。可讓你同時裝備更多浮標，並提升浮標的效果。"
     }
   },
   "brouwersPowderhouse": {
-    "name": "Brouwer's Powderhouse",
+    "name": "布勞威爾的火藥間",
     "description": {
       "general": "So this is where the butcher made his powder, eh? Let's use it to butcher some of his lads."
     }
   },
   "compagnieScreens": {
-    "name": "Compagnie Screens",
+    "name": "皇司屏風",
     "description": {
       "general": "Oi, you lot! Those things aren't for napping!"
     }
   },
   "medicineCabinet": {
-    "name": "Medicine Cabinet",
+    "name": "藥物收納櫃",
     "description": {
-      "general": "I don't think that pox's from La Peste, my lad."
+      "general": "包含能治療各種疾病的醫療物資，可提升船員的戰鬥效率。"
     }
   },
   "compagnieSpiritsLocker": {
-    "name": "Compagnie Spirits Locker",
+    "name": "皇司酒櫃",
     "description": {
       "general": "Which one of you lot took a swig of my Bourgogne 1650?"
     }
   },
   "secretCache": {
-    "name": "Secret Cache",
+    "name": "祕密儲物處",
     "description": {
-      "general": "We expect to be well paid. We'#re in it for the silver, lads."
+      "general": "走私者經常在船體和船板上臨時打洞，藉此擴大船艙容量，並防止非法貨品被扣押。"
     }
   },
   "bombardMenuiserie": {
-    "name": "Bombard Menuiserie",
+    "name": "投石炮木工",
     "description": {
-      "general": "Yes, join this, attach that. Remember, lad, or I'll join your head to the deck!"
+      "general": "這個工坊源自皇司的投石炮工程師，可提升武器的威力和結構傷害。"
     }
   },
   "rhapsodyOfTheDeep": {
-    "name": "Rhapsody of the Deep",
+    "name": "深淵狂想曲",
     "description": {
       "general": "None may harm a captain of such extravagant tastes."
     }
   },
   "cursedBanner": {
-    "name": "Cursed Banner",
+    "name": "詛咒旗幟",
     "description": {
       "general": "The banner... it calls..."
     }
   },
   "lemariMakanan": {
-    "name": "Lemari Makanan",
+    "name": "食品櫃",
     "description": {
-      "general": "Have you eaten yet? Plenty of asinan and salted fish to go around."
+      "general": "倫帕人的特殊儲藏空間，能在海上儲存香料和食物，可提升船員耐力回復。"
     }
   },
   "bedarUpgrade": {
@@ -1251,105 +1251,105 @@
     }
   },
   "boatswainsToll": {
-    "name": "Boatswain's Toll",
+    "name": "水手長的號召",
     "description": {
-      "general": "Bigger and better, lads! That means you'd best blasted get moving!"
+      "general": "較大的笛號，能激勵船員更賣力、更持久地戰鬥。"
     }
   },
   "scupperStation": {
-    "name": "Scupper Station",
+    "name": "排水站",
     "description": {
-      "general": "And don't let me catch yer' sticking your head in there!"
+      "general": "人力工作站，能在船隻進水時避免船員耐力過度消耗。"
     }
   },
   "waterFlask": {
-    "name": "Water Flask",
+    "name": "水壺",
     "description": {
-      "general": "Essential drink for a pirate."
+      "general": "海盜必備飲品。"
     }
   },
   "waterBarrel": {
-    "name": "Water Barrel",
+    "name": "水桶",
     "description": {
-      "general": "Refreshing drinking water."
+      "general": "新鮮的飲用水。"
     }
   },
   "teulingsCoffee": {
-    "name": "Teulings Coffee",
+    "name": "托靈的咖啡",
     "description": {
-      "general": "Coffee brewed from Teuling's favorite beans."
+      "general": "用托靈最愛的咖啡豆煮成的咖啡。"
     }
   },
   "zongZi": {
-    "name": "Zong Zi",
+    "name": "粽子",
     "description": {
-      "general": "Delicious rice dumplings wrapped with pandan leaves. Also a favorite among fish."
+      "general": "用七葉蘭葉子包裹的美味米飯，也很受魚類歡迎。"
     }
   },
   "teulingsSpecialSteakDinner": {
-    "name": "Teuling's Special Steak Dinner",
+    "name": "托靈的特製牛排晚餐",
     "description": {
-      "general": "Steak and sides, prepared to Teuling's tastes."
+      "general": "牛排與配菜，依照托靈的口味而準備。"
     }
   },
   "mermaidsTears": {
-    "name": "Mermaid's Tears",
+    "name": "人魚之淚",
     "description": {
-      "general": "As close as one can get to a mermaid"
+      "general": "你與人魚最近的距離。"
     }
   },
   "darkNStormy": {
-    "name": "Dark 'n Stormy",
+    "name": "月黑風高",
     "description": {
-      "general": "Calms the nerves, perfect for those Open Seas storms"
+      "general": "能幫忙穩定情緒，幫助你完美應對無主海域的風暴。"
     }
   },
   "scallyGrog": {
-    "name": "Scally Grog",
+    "name": "淘氣鬼格羅格酒",
     "description": {
-      "general": "Cheers to the Govenor!"
+      "general": "敬總督一杯！"
     }
   },
   "bloodyAnnie": {
-    "name": "Bloody Annie",
+    "name": "血腥安妮",
     "description": {
-      "general": "A sweet reminder to thee, for tis' lonely out at sea"
+      "general": "喚醒你的甜美回憶，因為海上生活難免孤獨。"
     }
   },
   "lestarisMeat": {
-    "name": "Lestari's Meat",
+    "name": "永恆鯊肉",
     "description": {
-      "general": "Meat obtained from the sea monster Lestari."
+      "general": "從海怪永恆鯊身上取得的獸肉。"
     }
   },
   "grilledLestariMeat": {
-    "name": "Grilled Lestari Meat",
+    "name": "烤永恆鯊肉",
     "description": {
-      "general": "Grilled meat from the sea monster Lestari. Tastes like chicken."
+      "general": "烤過的海怪永恆鯊肉。吃起來像雞肉。"
     }
   },
   "leatherFashioningStation": {
-    "name": "Leather Station",
+    "name": "皮革工坊",
     "description": {
-      "general": "Ever tried setting a cow on fire? That's why."
+      "general": "以鞣製船板覆蓋在船體外部，保護船體免受火焰威脅。"
     }
   },
   "lestariTrophy": {
-    "name": "Lestari Trophy",
+    "name": "永恆鯊掛飾",
     "description": {
-      "general": "\"Half the crew's limbs for its fuckin' head!\""
+      "general": "恐怖的雕像，形似被獵殺的巨獸，露出駭人的獠牙。能激勵船員去挑戰更大、更強的獵物。"
     }
   },
   "hubacTuningRack": {
-    "name": "Hubac Tuning Rack",
+    "name": "胡巴奇調音架",
     "description": {
-      "general": "\"The wheels and cogs seem to sing harmoniously.\""
+      "general": "取自胡巴奇雙胞胎的戰艦殘骸中的特殊裝備。它藉鑒了他們的戰術，能改善水雷的引爆準備和移動距離。"
     }
   },
   "machinistStationMines": {
-    "name": "Machinist Table (Mines)",
+    "name": "機械師工作桌（定點水雷）",
     "description": {
-      "general": "\"Polish those plugs up, lads. We've got French wigs to blow up!\""
+      "general": "專門提升雷區浮標傷害的工坊。"
     }
   },
   "deluxeBallistaBoltCrate": {
@@ -1417,97 +1417,97 @@
     }
   },
   "whiteJade": {
-    "name": "White Jade",
+    "name": "白玉",
     "description": {
-      "general": "Designed with the ability to repair fleets, this treasured cannon is coveted by admirals and merchants alike."
+      "general": "這種珍貴的大炮專為同時修理多艘船隻設計，不論各路海軍上將還是商人都很想得到它。"
     }
   },
   "thousandYearMonsoon": {
-    "name": "Thousand-Year Monsoon",
+    "name": "千年季風",
     "description": {
-      "general": "Like a century-old storm unleashed at sea, each blast renders keel and hull irreparable."
+      "general": "每一次爆破都像是在海上掀起百年風暴，使龍骨和船體無法修理。"
     }
   },
   "crouchingTiger": {
-    "name": "Crouching Tiger",
+    "name": "猩紅虎嘯",
     "description": {
-      "general": "A tiger poised to strike with boisterous fury. It infuses incense from the Far East into its shells that trigger agression when inhaled."
+      "general": "這件武器猶如一隻蓄勢待發的怒獸。它能發射注入了薰香的彈藥，能讓敵人在吸到時陷入暴怒失控的嘲諷狀態。"
     }
   },
   "spitefulSpikesStation": {
-    "name": "Spikes Station",
+    "name": "尖刺工坊",
     "description": {
-      "general": "\"I'll stuff some of these in your traps if yer' keep yappin'!\""
+      "general": "特製彈藥，削弱敵人修理船隻的能力。"
     }
   },
   "emergencySails": {
-    "name": "Emergency Sails",
+    "name": "緊急船帆",
     "description": {
       "general": "\"After the bastards! They took out poor Bob!\""
     }
   },
   "celestialDance": {
-    "name": "Celestial Dance",
+    "name": "天空之舞",
     "description": {
-      "general": "The electricity arcs gracefully from foe to foe. It's almost beautiful... except for the stench after."
+      "general": "電光優雅地在敵人之間竄動，簡直是完美無暇……除了後續散發出的燒焦臭味。"
     }
   },
   "hongYiPao": {
-    "name": "Hong Yi Pao",
+    "name": "紅衣大炮",
     "description": {
       "general": "These Imperial guns of Portuguese design infuse incense from the Far East into their shells, triggering agression when inhaled."
     }
   },
   "heavensMandate": {
-    "name": "Heaven's Mandate",
+    "name": "神聖旨意",
     "description": {
-      "general": "Its roar echoes the death of a celestial beast, its very heart a tempest of divine fury."
+      "general": "它的咆哮宣示著天界猛獸之死，它的內在充盈著神罰的風暴。"
     }
   },
   "phoenixTalons": {
-    "name": "Phoenix Talons",
+    "name": "鳳爪",
     "description": {
-      "general": "Spews beautiful death and fanfare, daring those who would oppose the legendary pirate queen."
+      "general": "噴湧出美麗的死亡和喧囂，向膽敢反抗傳奇海盜女王的人發起挑戰。"
     }
   },
   "baneOfTenSuns": {
-    "name": "Bane of Ten Suns",
+    "name": "十日剋星",
     "description": {
-      "general": "Its clockwork bolts puncture hull and steel, sundering the very skies."
+      "general": "它的機芯弩箭可穿透船體與鋼鐵、劃破天空。"
     }
   },
   "phoenixCrest": {
-    "name": "Phoenix Crest",
+    "name": "鳳冠",
     "description": {
-      "general": "Your beauty masks cruel intent. The vibrant colors appear to shift and swirl, creating a display that disorients and enrages."
+      "general": "以美麗的外表掩蓋殘酷的意圖。鮮豔的色彩彷彿在旋轉變幻，創造出一種使人迷失和憤怒的視覺效果。"
     }
   },
   "organHarvestingStation": {
-    "name": "Organ Harvesting Station",
+    "name": "器官摘除站",
     "description": {
       "general": "\"Poor Bob tried to sneak a taste of monster stew.\""
     }
   },
   "bracedGunwales": {
-    "name": "Braced Gunwales",
+    "name": "加護舷緣",
     "description": {
-      "general": "\"I'm not hiding! You are!\""
+      "general": "船隻甲板上的強化圍欄，能更有效地抵禦傷害。"
     }
   },
   "heavenlyLance": {
-    "name": "Heavenly Lance",
+    "name": "神聖騎槍",
     "description": {
-      "general": "Launches shimmering scales that slice through the seas, leaving thunder in their wake."
+      "general": "能發射閃閃發光的鱗片劃破海面，對敵人造成電擊傷害。"
     }
   },
   "lestariStew": {
-    "name": "Lestari Stew",
+    "name": "永恆鯊燉菜",
     "description": {
-      "general": "Meat from the Lestari that has been sliced thinly and stir-fried with fresh vegetables and served with a side of rice."
+      "general": "將永恆鯊的肉切成薄片，和新鮮蔬菜一起拌炒，再配飯吃。"
     }
   },
   "firstMatesLedger": {
-    "name": "First Mate's Ledger",
+    "name": "大副的分類帳",
     "description": {
       "general": "\"How the hell did she get the job?!\""
     }
@@ -1515,373 +1515,373 @@
   "kinckelsLaboratory": {
     "name": "Kinckel's Laboratory",
     "description": {
-      "general": "\"Here, the General concorted devious ways for the Rempah rebels to burn.\""
+      "general": "從荷商將軍隨從那竊取的計畫，其中包含提升迫擊炮武器威力的祕密。"
     }
   },
   "shellPackingStation": {
-    "name": "Shell Packing Station",
+    "name": "彈殼裝填坊",
     "description": {
-      "general": "\"Lucky! You won't need to see your ugly mug in a mirror no more.\""
+      "general": "填入金屬、釘子、石頭和碎玻璃來壓製炮彈，可提升投石炮的傷害擴散。"
     }
   },
   "densityFurnace": {
-    "name": "Density Furnace",
+    "name": "高密度熔爐",
     "description": {
       "general": "\"Sorry, Cap'n. I accidentally dropped one. It went vertical.\""
     }
   },
   "langrageBarrels": {
-    "name": "Langrage Barrels",
+    "name": "開花彈桶",
     "description": {
-      "general": "\"Where's Peg Leg's peg! Anything pointy goes in the barrel!\""
+      "general": "裝滿廢金屬、釘子和其他零碎物品的小桶子，能破壞敵方船帆。"
     }
   },
   "gearsWorkshop": {
-    "name": "Gears Workshop",
+    "name": "裝備工坊",
     "description": {
       "general": "\"Hammer and tongs! They're gonna get a bolt through their skull!\""
     }
   },
   "smokedCanisters": {
-    "name": "Smoked Canisters",
+    "name": "煙燻罐",
     "description": {
-      "general": "\"Anyone seen Mr. Arrow?!\""
+      "general": "可讓燃料在黏土內預熱，進而提升海火武器的彈藥儲量。"
     }
   },
   "beamSupports": {
-    "name": "Beam Supports",
+    "name": "橫樑支撐結構",
     "description": {
       "general": "\"This fortress shall not be sunk. I vow it!\""
     }
   },
   "divineThunder": {
-    "name": "Divine Thunder",
+    "name": "神雷",
     "description": {
-      "general": "Its muzzle, shaped like a maw, crackles with the essence of a storm."
+      "general": "它的炮口形似獸嘴、劈啪作響，醞釀著即來的風暴。"
     }
   },
   "immortalVessel": {
-    "name": "Immortal Vessel",
+    "name": "仙舟",
     "description": {
-      "general": "It is said that this armor is blessed by the eight divines and will preserve a ship at the most dire times."
+      "general": "據說這種裝甲受到八仙的靈力加持，可在危急時刻保護船隻。"
     }
   },
   "voltasWard": {
-    "name": "Volta's Ward",
+    "name": "伏特之護",
     "description": {
       "general": "Copper wires have been woven into the hull, channeling the storm's fury into harmless flickers of light."
     }
   },
   "amberCoatingStation": {
-    "name": "Amber Coating Station",
+    "name": "琥珀工坊",
     "description": {
       "general": "\"Bloody blood-suckers.\""
     }
   },
   "chargeStores": {
-    "name": "Charge Stores",
+    "name": "蓄電設備",
     "description": {
       "general": "\"Eh, why's our hair standing on end?\""
     }
   },
   "lotusMooncake": {
-    "name": "Lotus Mooncake",
+    "name": "蓮蓉月餅",
     "description": {
-      "general": "A delicious dessert stamped with an insignia on top. It is typically presented as a gift to family and friends."
+      "general": "美味的點心，頂部印有徽章。通常會作為禮物贈送給親朋好友。"
     }
   },
   "hellepoort": {
-    "name": "Hellepoort",
+    "name": "地獄之門",
     "description": {
       "general": "A blackened metal frame groaning with tales of lost souls."
     }
   },
   "freemansEmbrace": {
-    "name": "Freeman's Embrace",
+    "name": "費里曼的擁抱",
     "description": {
       "general": "\"I swear, Captain, them eyes followin' me about...\""
     }
   },
   "cannonballCarvingStation": {
-    "name": "Shot Carving Station",
+    "name": "炮彈雕刻坊",
     "description": {
-      "general": "\"Yer kiss your mother with those cannons?!\""
+      "general": "專門在彈藥上刻寫各種侮辱和粗俗用語的工作站。能刺激敵方船員展開報復。"
     }
   },
   "bloodyRed": {
-    "name": "Bloody Red",
+    "name": "血紅",
     "description": {
-      "general": "\"Oi, lads! Hoist the colors! We're after blood this day!\""
+      "general": "染成紅色的大型旗幟，會煽動仇恨之心，激起敵人的憤怒。"
     }
   },
   "plaguebringersWard": {
-    "name": "Plaguebringer's Ward",
+    "name": "傳疫者的牢房",
     "description": {
-      "general": "\"That bottle ain't filled with brandy, lad.\""
+      "general": "充滿化學物質和禁忌煉金術的特殊工坊。船員們回報，他們喝下綠色液體後感覺精神煥發，而且毒性攻擊對他們造成的影響也降低了。"
     }
   },
   "quickIgnitingPowder": {
-    "name": "Quick-Igniting Powder",
+    "name": "速燃火藥",
     "description": {
-      "general": "\"Smoke over there and I'll have one less ass to shove my boot up.\""
+      "general": "以木桶盛裝的特殊火藥，散落在甲板或船帆上時會劇烈燃燒。可提升對敵方船隻造成的點燃效果。"
     }
   },
   "ballistaFurnace": {
-    "name": "Ballista Furnace",
+    "name": "弩炮熔爐",
     "description": {
       "general": "\"Aye, we want them hot, lads! Hot enough to pierce through your stone-cold hearties!\""
     }
   },
   "nagasCall": {
-    "name": "Naga's Call",
+    "name": "那伽的呼喚",
     "description": {
-      "general": "Each spark of the cannon calls on the strength of the beast."
+      "general": "這門大炮似乎會從發出的火花獲得力量，每次射擊造成的傷害會逐步增加。"
     }
   },
   "agnisFury": {
-    "name": "Agni's Fury",
+    "name": "阿耆尼的怒火",
     "description": {
       "general": "Its delicate nozzle reduces foes to ash and dust."
     }
   },
   "eyeOfHeaven": {
-    "name": "Eye of Heaven",
+    "name": "天堂之眼",
     "description": {
       "general": "The heavens watch over all, as does a night sky lit by fire and lightning."
     }
   },
   "blightkeeper": {
-    "name": "Blightkeeper",
+    "name": "朽化護衛",
     "description": {
       "general": "This engineering marvel fires buoys that channel the life force of the vanquished."
     }
   },
   "crimsonLotus": {
-    "name": "Crimson Lotus",
+    "name": "緋紅蓮花",
     "description": {
       "general": "May yours be a vessel of divine fervor and pure purpose."
     }
   },
   "pishacha": {
-    "name": "Pishacha",
+    "name": "畢舍遮",
     "description": {
-      "general": "Forged from the flesh of those long thought to have passed into the divine."
+      "general": "根據衝撞攻擊的強度回復船體生命值。深受偏好衝撞戰術的海上霸主們喜愛。"
     }
   },
   "tanashah": {
-    "name": "Tanashah",
+    "name": "獨裁者",
     "description": {
-      "general": "Golden crowns dip from a firm girdle, guarding an indomitable will."
+      "general": "防備時可降低狀態效果的累積程度。由荷商特別訂製打造，象徵其權威。"
     }
   },
   "painPiper": {
-    "name": "Pain Piper",
+    "name": "苦痛小鷸",
     "description": {
-      "general": "\"Get some of this, you pigeon-loving loons!\""
+      "general": "能激發船員狂戰情緒的特殊船長排笛，可使船員攻擊更加致命，同時保護他們免受報復。"
     }
   },
   "drownedOnesToll": {
-    "name": "Drowned One's Toll",
+    "name": "溺水鬼的交替",
     "description": {
-      "general": "\"The cap't can pledge his soul to whoever he freakin' wants. I'm more worried about the rest of us...\""
+      "general": "動物頭骨的雕像，彷彿船長將他的靈魂（和船員）獻祭給超自然力量來回復船體生命值。"
     }
   },
   "chainedLinks": {
-    "name": "Chained Links",
+    "name": "鎖鏈連結",
     "description": {
-      "general": "\"Would you rather be a slowpoke or poked in your eye?\""
+      "general": "包覆船體側面的鋼索網，能保護弱點免於集中火力的威脅。"
     }
   },
   "teulingsGuidance": {
-    "name": "Teuling's Guidance",
+    "name": "托靈的指引",
     "description": {
-      "general": "\"That Mr. Teuling ain't half-bad for a cockney, silver-haired bastard who prefers his coattails clean!\""
+      "general": "放滿了設計圖和船隻圖解的桌子和板子，能標識出可加以鎖定的敵方船隻弱點。"
     }
   },
   "strangeElixir": {
-    "name": "Strange Elixir",
+    "name": "詭異靈藥",
     "description": {
-      "general": "\"I... I feel like I can fling the whole ship at our foes!\""
+      "general": "裝有神祕透明液體的瓷製容器。喝下其中的液體後，能讓船員增強活力與耐力，並將投射物投擲到更遠的距離。"
     }
   },
   "decoyDeck": {
-    "name": "Decoy Deck",
+    "name": "誘餌甲板",
     "description": {
-      "general": "\"Thank 'ee, mongrels, for your cannonballs!\""
+      "general": "用稻草人和空的槍炮裝飾船隻的一部分，吸引敵人的注意力，並在騙局被拆穿後激怒他們。"
     }
   },
   "floatCollars": {
-    "name": "Float Collars",
+    "name": "漂浮圓圈",
     "description": {
-      "general": "\"Grab them pillows, lads. Those buoys need more cushioning than your sorry heads!\""
+      "general": "成捆的蘆葦，能讓浮標在水面上漂浮得更久。"
     }
   },
   "mineClearingLocker": {
-    "name": "Mine Clearing Locker",
+    "name": "排雷儲物櫃",
     "description": {
-      "general": "\"What the hell are ya doing, sea dogs, kicking that around like a bladder ball?!\""
+      "general": "裝滿長桿的收納櫃，桿子的尖端都帶有鉤子。能提升避開敵方定點水雷浮標的機率。"
     }
   },
   "devilsConcoction": {
-    "name": "Devil's Concoction",
+    "name": "魔鬼調合物",
     "description": {
       "general": "\"Lads, that yellowish liquid had better not come from 'tween 'yer legs!\""
     }
   },
   "debrisLocker": {
-    "name": "Debris Locker",
+    "name": "廢料儲物櫃",
     "description": {
-      "general": "\"I'll stuff you in myself if I find one of yer' slackin' off!\""
+      "general": "廢料專用的儲物櫃。將廢料集中起來時，能夠發揮額外的固定作用，使敵人受到更嚴重的「進水」效果。"
     }
   },
   "expandingCorkscrewStation": {
-    "name": "Expanding Corkscrew Station",
+    "name": "伸縮開瓶器工坊",
     "description": {
-      "general": "\"Here, Bob, wanna see a magic trick?\""
+      "general": "專門將變型金屬碎片固定在炮彈上的工坊，可提升進水傷害。"
     }
   },
   "cannonballChargingStation": {
-    "name": "Cannonball Charging Station",
+    "name": "炮彈充能坊",
     "description": {
       "general": "\"Easy. All we need to do is connect this end to that e--\""
     }
   },
   "copperFasteningStation": {
-    "name": "Copper-Fastening Station",
+    "name": "銅包裝工坊",
     "description": {
       "general": "\"Here's a pretty prune all wrapped up for 'yer ass-puckers!\""
     }
   },
   "rifledBarrelWorkshop": {
-    "name": "Rifled Barrel Workshop",
+    "name": "槍管膛線工坊",
     "description": {
       "general": "\"Captain! Should we use the rifle to rifle the rifled barrels?\""
     }
   },
   "highVelocityKegs": {
-    "name": "High-Velocity Kegs",
+    "name": "高速火藥桶",
     "description": {
-      "general": "\"Who's the fecker who last filled the pepper pouch?\""
+      "general": "桶裝的優質黑火藥，能推送穿刺投射物，產生更大的傷害和射程。"
     }
   },
   "nashkar": {
-    "name": "Nashkar",
+    "name": "納什卡",
     "description": {
-      "general": "Unknowable runes are carved onto the barrel surface. Best left unspoken."
+      "general": "這個武器的炮管表面刻有不明的符文，能在戰鬥中引動神祕力量。每一次命中敵人時都能修理你的船隻，特別是命中弱點時效果更佳。"
     }
   },
   "dahaaka": {
-    "name": "Dahaaka",
+    "name": "查哈克",
     "description": {
-      "general": "Like the ancient water serpent, this launcher ensures your wrath snakes through the waves unimpeded."
+      "general": "這種水雷彷彿古代海蛇，能穿透多艘船隻，破壞船體並削弱裝甲。"
     }
   },
   "rumFruitcake": {
-    "name": "Rum Fruitcake",
+    "name": "蘭姆酒水果蛋糕",
     "description": {
-      "general": "A rich, decadent fruitcake that happens to be a favorite of Scurlock's."
+      "general": "味道濃郁的奢華水果蛋糕，正好是史柯洛克的最愛。"
     }
   },
   "crocodileMeat": {
-    "name": "Crocodile Meat",
+    "name": "鱷魚肉",
     "description": {
-      "general": "Barely edible if eaten raw."
+      "general": "幾乎無法生食。"
     }
   },
   "tylosaurusFlesh": {
-    "name": "Tylosaurus Flesh",
+    "name": "海王龍的肉",
     "description": {
-      "general": "The meat of a beast that stalks the African Coast, feasting on unfortunate seafarers"
+      "general": "野獸的肉；這隻野獸會在非洲海岸徘徊，以不幸的海員為食。"
     }
   },
   "fish": {
-    "name": "Fish",
+    "name": "魚",
     "description": {
-      "general": "Mild flavor with a soft texture."
+      "general": "味道溫和，口感柔軟。"
     }
   },
   "durian": {
-    "name": "Durian",
+    "name": "榴槤",
     "description": {
-      "general": "A large fruit with a strong odor and covered with thorns."
+      "general": "表面布滿硬刺的大型水果，氣味很強烈。"
     }
   },
   "coconut": {
-    "name": "Coconut",
+    "name": "椰子",
     "description": {
-      "general": "A stranded-island staple."
+      "general": "受困荒島時的主要食物。"
     }
   },
   "ndizi": {
-    "name": "Ndizi",
+    "name": "大蕉",
     "description": {
-      "general": "Popular for its sweet taste, those used for cooking are often called plantains."
+      "general": "因味道香甜而受大眾喜愛，用於烹飪的品種通常被稱為「大蕉」。"
     }
   },
   "rawChicken": {
-    "name": "Raw Chicken",
+    "name": "生雞肉",
     "description": {
-      "general": "Bland and viscous."
+      "general": "沒味道又黏黏的。"
     }
   },
   "flour": {
-    "name": "Flour",
+    "name": "麵粉",
     "description": {
-      "general": "Crucial ingredient for many dishes."
+      "general": "多種料理的必備食材。"
     }
   },
   "rawMutton": {
-    "name": "Raw Mutton",
+    "name": "生羊肉",
     "description": {
-      "general": "Cooking the mutton will reduce its strongly bitter taste."
+      "general": "羊肉經烹調後可以去除強烈的羊騷味。"
     }
   },
   "rawVegetables": {
-    "name": "Raw Vegetables",
+    "name": "生鮮蔬菜",
     "description": {
-      "general": "Plain and unassuming."
+      "general": "樸實無華的食材。"
     }
   },
   "screwpine": {
-    "name": "Screwpine",
+    "name": "露兜樹果",
     "description": {
-      "general": "The fruit can be boiled and ground into an edible, highly nutritious paste."
+      "general": "這種果實煮熟並磨碎後，可以做成營養豐富的糊狀物。"
     }
   },
   "hippoMeat": {
-    "name": "Hippo Meat",
+    "name": "河馬肉",
     "description": {
-      "general": "Bitter flavor and strong texture."
+      "general": "味道苦澀，口感堅韌。"
     }
   },
   "sharkMeat": {
-    "name": "Shark Meat",
+    "name": "鯊魚肉",
     "description": {
-      "general": "Strong, sour smell. Would taste better cooked."
+      "general": "酸味濃厚，煮過比較好吃。"
     }
   },
   "rawBeef": {
-    "name": "Raw Beef",
+    "name": "生牛肉",
     "description": {
-      "general": "Would taste better cooked."
+      "general": "煮熟後味道比較好。"
     }
   },
   "primeCrocodileMeat": {
-    "name": "Prime Crocodile Meat",
+    "name": "上等鱷魚肉",
     "description": {
-      "general": "Best cut of meat from a Crocodile."
+      "general": "取自鱷魚身上的最佳部位。"
     }
   },
   "primeHippoMeat": {
-    "name": "Prime Hippo Meat",
+    "name": "上等河馬肉",
     "description": {
-      "general": "Best cut of meat from a Hippo."
+      "general": "取自河馬身上的最佳部位。"
     }
   },
   "libertyCap": {
-    "name": "Liberty Cap",
+    "name": "半裸蓋菇",
     "description": {
-      "general": "Highly potent, just one bite is enough to make any person go mad."
+      "general": "效力極強，只要咬一口就足以讓任何人陷入瘋狂。"
     }
   },
   "schoonerUpgrade": {
@@ -1898,151 +1898,151 @@
     }
   },
   "titansCuirass": {
-    "name": "Titan's Cuirass",
+    "name": "泰坦層甲",
     "description": {
-      "general": "Reduces the strength of the Shell-Shocked status effect and offers exceptional resistance against Explosive damage. Inspired by the enduring might of ancient gods."
+      "general": "可削弱炮震狀態效果，並提供極高的爆炸傷害抗性。設計靈感源自上古諸神永恆的威能。"
     }
   },
   "heydensGuard": {
-    "name": "Heyden's Guard",
+    "name": "海登之護",
     "description": {
       "general": "Nullifies all damage of the Ablaze status effect while Bracing, and fortifies against burning weapons. Designed to stand against the Ungwana in all their fury."
     }
   },
   "nocturneHeart": {
-    "name": "Nocturne Heart",
+    "name": "夜曲之心",
     "description": {
       "general": "Increases weapon damage while at the height of Hull Health. Favored among Sainte-Anne raiders who are known for striking and vanishing untouched."
     }
   },
   "silverSentinel": {
-    "name": "Silver Sentinel",
+    "name": "銀之哨兵",
     "description": {
       "general": "Enhances Bracing which nullifies some damage, especially when well-timed."
     }
   },
   "divineWind": {
-    "name": "Divine Wind",
+    "name": "神風",
     "description": {
       "general": "Encased in a storm-dark scales, this bombard summons a lightning strike seconds after a shot lands, electrifying nearby foes."
     }
   },
   "floodingBombard": {
-    "name": "Flooding Bombard",
+    "name": "進水投石炮",
     "description": {
       "general": "Rains a hail of destructive shells, damaging multiple foes in an area. Suited to blasting holes in enemy hulls and causing them to be Flooded."
     }
   },
   "tearingLongGun": {
-    "name": "Tearing Long Gun",
+    "name": "撕裂遠距火炮",
     "description": {
-      "general": "Long-barrel cannons adept at destroying targets at long range. Great at tearing enemy sails and leaving them immobile."
+      "general": "適合用來打擊遠距目標的長管大炮。可對敵人的船帆造成嚴重破壞，使對方無法動彈。"
     }
   },
   "farscourge": {
-    "name": "Farscourge",
+    "name": "遠禍",
     "description": {
       "general": "A weapon torged by dishonorable scallywags, striking from afar to leave hulls Punctured and decks Flooded. Also adept at rendering ships vulnerable to Crew Attacks."
     }
   },
   "langeKartouwe": {
-    "name": "Lange Kartouwe",
+    "name": "大卡圖韋",
     "description": {
       "general": "A marvel of Dutch engineering that shoots off explosive flares, culminating in a delayed explosion. Its shots also deal increased damage to enemy fortifications."
     }
   },
   "alecto": {
-    "name": "Alecto",
+    "name": "阿萊克托",
     "description": {
-      "general": "This crimson-coated ballista fires three bolts at once. Should all three bolts hit the same mark, they erupt in flames in a devastating follow-up."
+      "general": "這門緋紅色的弩炮能一次發射三支弩箭。要是三支弩箭都命中同一目標，隨後就會引發毀滅性的大火。"
     }
   },
   "explosiveDemicannon": {
-    "name": "Explosive Demicannon",
+    "name": "爆炸半加農炮",
     "description": {
       "general": "A medium-sized cannon that rips targets apart at close range. Its shots deliver concussive blasts, causing the crew to be Shell-Shocked and unable to fire weapons for a short period."
     }
   },
   "piercingDemicannon": {
-    "name": "Piercing Demicannon",
+    "name": "穿刺半加農炮",
     "description": {
       "general": "A medium-sized cannon that rips targets apart at close range by firing deadly shrapnel. Also weakens their armor by leaving their hulls Punctured."
     }
   },
   "kleineKartouwe": {
-    "name": "Kleine Kartouwe",
+    "name": "小卡圖韋",
     "description": {
       "general": "Compact yet deadly, this bronze cannon delivers explosive rounds that can trigger a second, delayed explosion."
     }
   },
   "fireCulverin": {
-    "name": "Fire Culverin",
+    "name": "火焰蛇炮",
     "description": {
-      "general": "A versatile cannon that offers good range, damage, and reload speed. Its incendiary shots set targets Ablaze."
+      "general": "多用途的大炮，具有良好的射程、與傷害，且裝填時間短。它的燃燒炮彈可以點燃目標。"
     }
   },
   "brickbreaker": {
-    "name": "Brickbreaker",
+    "name": "破磚",
     "description": {
       "general": "The steel bores of this hardened cannon deliver explosive shells that excel at destroying fortifications."
     }
   },
   "urbansGreatGun": {
-    "name": "Urban's Great Gun",
+    "name": "烏爾班大炮",
     "description": {
-      "general": "The mighty guns speak but once, unleashing a devastating flurry in unison. Its immense power tears through sails, leaving enemies crippled and vulnerable."
+      "general": "這組威力無比的火炮一聲震天轟鳴，就能激發毀滅級的漫天彈雨齊射。它強大的威力足以撕裂船帆，讓敵人潰不成軍。"
     }
   },
   "bilgefireBarrels": {
-    "name": "Bilgefire Barrels",
+    "name": "舭火桶",
     "description": {
-      "general": "\"Sweep the guns good, lads. We'll coat the bastards with their own insides.\""
+      "general": "「好好掃射啊，各位。我們要讓那些混蛋身上沾滿他們自己的內臟。」"
     }
   },
   "emergencyLocker": {
-    "name": "Emergency Locker",
+    "name": "緊急儲物櫃",
     "description": {
-      "general": "\"Get the mallet and planks! Or I'll use your arse to plug that hole.\""
+      "general": "「把鎚子和木板拿來！不然我就用你的屁股來堵住那個洞。」"
     }
   },
   "wyrmsBreathChurner": {
-    "name": "Wyrm's Breath Churner",
+    "name": "蛟龍吐息攪拌器",
     "description": {
-      "general": "\"Sugar, spice, and everything not-so-nice.\""
+      "general": "「糖、香料，再加上所有不太新鮮的東西。」"
     }
   },
   "markOfTheWolf": {
-    "name": "Mark of the Wolf",
+    "name": "狼的印記",
     "description": {
-      "general": "\"The wolf hunts us. Its eyes follow us through the fog, like death.\""
+      "general": "「狼在追獵我們。牠的目光穿透迷霧鎖定我們，就像死亡一樣。」"
     }
   },
   "fuseFusingStation": {
-    "name": "Fuse-Fusing Station",
+    "name": "導火線接合工坊",
     "description": {
-      "general": "\"Those tips need to stay dry, lads! Or our foes gonna do the lightin'.\""
+      "general": "「這些導火線得保持乾燥，兄弟們！否則敵人可就要來導火了。」"
     }
   },
   "ramrodWorkshop": {
-    "name": "Ramrod Workshop",
+    "name": "搠杖工坊",
     "description": {
-      "general": "\"Stick that arm in there and pray your friend doesn't light the fuse.\""
+      "general": "「把手臂伸進去，然後祈禱你的朋友不要點燃導火線。」"
     }
   },
   "breechlockFurnace": {
-    "name": "Breechlock Furnace",
+    "name": "後膛鎖熔爐",
     "description": {
-      "general": "\"Ha! What a shot! In one end and clean out the other!\""
+      "general": "「哈！這一發真猛！從這邊射進去，從另一邊穿出來！」"
     }
   },
   "dynamicBallastControl": {
-    "name": "Dynamic Ballast Control",
+    "name": "動態壓艙物控制",
     "description": {
-      "general": "\"Poor Jimmy. Told him not to nap in the log room.\""
+      "general": "「可憐的吉米。早跟他說不要在木材間裡打瞌睡了。」"
     }
   },
   "mortarGrinder": {
-    "name": "Mortar Grinder",
+    "name": "迫擊炮砂輪機",
     "description": {
       "general": "A specialized station used to hone mortar barrels, resulting in faster shots."
     }
@@ -2050,43 +2050,43 @@
   "infamyChest": {
     "name": "Infamy Chest",
     "description": {
-      "general": "A chest gifted by your unknown sponsor"
+      "general": "不明贊助者贈送的箱子。"
     }
   },
   "kingpinChest": {
     "name": "Kingpin Chest",
     "description": {
-      "general": "A chest gifted by your unknown sponsor"
+      "general": "不明贊助者贈送的箱子。"
     }
   },
   "silveryRaiderCache": {
-    "name": "Silvery Raider Cache",
+    "name": "白銀劫掠者儲物箱",
     "description": {
-      "general": "A worthy prize for any seafarer. It speaks volumes of a pirate's daring adventures and deeds."
+      "general": "對於任何海員來說，它都是非常有價值的獎勵。它能充分體現出海盜大膽的冒險與事跡。"
     }
   },
   "gildedRaiderCache": {
-    "name": "Gilded Raider Cache",
+    "name": "黃金劫掠者儲物箱",
     "description": {
-      "general": "This is the ultimate symbol of prosperity and triumph. It's the mark of a true rogue on the high seas."
+      "general": "這是代表繁榮與勝利的終極象徵。只有海上真正的海寇配得起它。"
     }
   },
   "summerStashChest": {
-    "name": "Summer Stash Chest",
+    "name": "夏日儲物箱",
     "description": {
       "general": "Reward for turning in Ice to Yanita."
     }
   },
   "azureCache": {
-    "name": "Azure Cache",
+    "name": "蔚藍儲物箱",
     "description": {
       "general": "A cache a merchant ship of the Azure Fleet. It seems to sap the very warmth from the surrounding air."
     }
   },
   "azureStrongbox": {
-    "name": "Azure Strongbox",
+    "name": "蔚藍保險箱",
     "description": {
-      "general": "A strongbox from an elite ship of the Azure Fleet. It seems to sap the very warmth from the surrounding air."
+      "general": "來自「蔚藍艦隊」菁英船隻的保險箱。它似乎會吸走周遭空氣中的溫度。"
     }
   },
   "ogreKingCosmeticsChest": {
@@ -2098,35 +2098,35 @@
   "rodeMaangodinChest": {
     "name": "Mysterious Chest (Rode Maangodin)",
     "description": {
-      "general": "What rare finds lie within?"
+      "general": "裡面會不會有什麼稀有的東西？"
     }
   },
   "bloodiedStrongbox": {
-    "name": "Bloodied Strongbox",
+    "name": "染血保險箱",
     "description": {
-      "general": "The price of turning your backs on your kin goes beyond the material."
+      "general": "背叛自己人的代價遠超於物質。"
     }
   },
   "recoveredExeterChest": {
-    "name": "Recovered Exeter Chest",
+    "name": "取回的艾希特號箱子",
     "description": {
-      "general": "A chest of valuables recovered from the wreck of the Exeter."
+      "general": "從艾希特號殘骸中取回的一箱貴重物品。"
     }
   },
   "aGiftInReturn": {
-    "name": "A Gift in Return",
+    "name": "回禮",
     "description": {
-      "general": "A token of appreciation from someone you bestowed a thoughtful gift upon. They won't soon forget it."
+      "general": "謝禮，來自你曾貼心贈送過禮物的對象。你們將彼此的好意銘記於心。"
     }
   },
   "maangodinChest": {
     "name": "Mysterious Chest (Maangodin)",
     "description": {
-      "general": "What rare finds lie within?"
+      "general": "裡面會不會有什麼稀有的東西？"
     }
   },
   "reapersCache": {
-    "name": "Reaper's Cache",
+    "name": "收割者的箱子",
     "description": {
       "general": "An ornate chest containing unknown treasures."
     }
@@ -2134,55 +2134,55 @@
   "legacyCache": {
     "name": "Legacy Cache",
     "description": {
-      "general": "A collection of rare equipment, including items from the previous Season."
+      "general": "一系列稀有的裝備，包含上個季度的物品。"
     }
   },
   "smugglersSupplies": {
-    "name": "Smuggler's Supplies",
+    "name": "走私者物資",
     "description": {
-      "general": "Contains some of Teuling's provisions, specialized or Helm materials, and a good chunk of silver."
+      "general": "內含一些托靈的必需品、特化材料、「掌舵者」材料，以及一定數量的銀子。"
     }
   },
   "soleilRoyalTreasureChest": {
     "name": "Treasure Chest (Soleil Royal)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "whiteAriaChest": {
-    "name": "White Aria Chest",
+    "name": "「潔白詠嘆號」貨箱",
     "description": {
-      "general": "A treasure chest seized from Bertrand Hubac's flagship."
+      "general": "從伯特蘭．胡巴奇的旗艦上搶來的寶箱。"
     }
   },
   "blackAriaChest": {
-    "name": "Black Aria Chest",
+    "name": "「漆黑詠嘆號」貨箱",
     "description": {
-      "general": "A treasure chest seized from Armand Hubac's flagship."
+      "general": "從阿曼．胡巴奇的旗艦上搶來的寶箱。"
     }
   },
   "chorusFleetStrongbox": {
-    "name": "Chorus Fleet Strongbox",
+    "name": "合唱艦隊保險箱",
     "description": {
       "general": "A rightly sealed strongbox containing items that once belonged to the Hubac Twins."
     }
   },
   "nianStrongbox": {
-    "name": "Nian Strongbox",
+    "name": "「年」保險箱",
     "description": {
-      "general": "A chest from the ship that used the local legend of the Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
+      "general": "來自一艘船上的箱子，那艘船利用在地人關於「年」的傳說來散播恐懼，並搶劫倒楣的目標。勝者為王，贏者全取。"
     }
   },
   "opwellingTreasureChest": {
     "name": "Treasure Chest (Opwelling)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "vanderkillsLocker": {
-    "name": "Vanderkill's Locker",
+    "name": "「狂殺」的儲物櫃",
     "description": {
-      "general": "Chest looted from infamous Vanderkill."
+      "general": "從惡名昭彰的「狂殺」那邊搜刮到的箱子。"
     }
   },
   "roninCosmeticsChest": {
@@ -2200,145 +2200,145 @@
   "risenZamaharibuChest": {
     "name": "Mysterious Chest (Risen Zamaharibu)",
     "description": {
-      "general": "What rare finds lie within?"
+      "general": "裡面會不會有什麼稀有的東西？"
     }
   },
   "risenMegaLestariChest": {
     "name": "Mysterious Chest (Risen Mega Lestari)",
     "description": {
-      "general": "What rare finds lie within?"
+      "general": "裡面會不會有什麼稀有的東西？"
     }
   },
   "elderShadowbeastChest": {
     "name": "Mysterious Chest (Elder Shadowbeast)",
     "description": {
-      "general": "What rare finds lie within?"
+      "general": "裡面會不會有什麼稀有的東西？"
     }
   },
   "regattaChest": {
-    "name": "Regatta Chest",
+    "name": "賽船箱子",
     "description": {
-      "general": "Rewards for those who are fast on the seas."
+      "general": "這種獎勵只給海上航行速度夠快的人。"
     }
   },
   "mooncakeRegattaChest": {
-    "name": "Mooncake Regatta Chest",
+    "name": "月餅賽船箱子",
     "description": {
-      "general": "Rewards for those who are fast on the seas."
+      "general": "這種獎勵只給海上航行速度夠快的人。"
     }
   },
   "vikramsStash": {
-    "name": "Vikram's Stash",
+    "name": "維克拉姆的儲藏箱",
     "description": {
-      "general": "A chest from Vikram's ship. Contains a moderate assortment of loot."
+      "general": "維克拉姆船上的一個箱子，內有中等數量且混雜的戰利品。"
     }
   },
   "vikramsLocker": {
-    "name": "Vikram's Locker",
+    "name": "維克拉姆的儲物櫃",
     "description": {
-      "general": "A chest from Vikram's ship. Contains a modest amount of loot."
+      "general": "維克拉姆船上的一個箱子，內有少量戰利品。"
     }
   },
   "vikramsStrongbox": {
-    "name": "Vikram's Strongbox",
+    "name": "維克拉姆的保險箱",
     "description": {
-      "general": "A hefty chest from Vikram's ship. Contains a large amount of loot."
+      "general": "維克拉姆船上的一個巨大箱子，內有大量戰利品。"
     }
   },
   "silverPouch": {
-    "name": "Silver Pouch",
+    "name": "銀子袋",
     "description": {
-      "general": "Contains a small amount of silver."
+      "general": "內含少量銀子。"
     }
   },
   "silverBox": {
-    "name": "Silver Box",
+    "name": "銀子盒",
     "description": {
-      "general": "Contains a good amount of silver."
+      "general": "內含中量銀子。"
     }
   },
   "silverChest": {
-    "name": "Silver Chest",
+    "name": "銀子箱",
     "description": {
-      "general": "Contains a large amount of silver."
+      "general": "內含大量銀子。"
     }
   },
   "commanderZhangsChest": {
-    "name": "Commander Zhang's Chest",
+    "name": "張指揮官寶箱",
     "description": {
-      "general": "A treasure chest seized from Commander Zhang's flagship"
+      "general": "從張指揮官的旗艦上搶來的寶箱。"
     }
   },
   "phoenixsTalonChest": {
-    "name": "Phoenix's Talon Chest",
+    "name": "鳳爪幫寶箱",
     "description": {
       "general": "A treasure chest seized from the Phoenix's Talon Ship"
     }
   },
   "phoenixsTalonStrongbox": {
-    "name": "Phoenix's Talon Strongbox",
+    "name": "鳳爪幫保險箱",
     "description": {
-      "general": "A tightly sealed strongbox containing items that once belonged to Li Tian Ning"
+      "general": "緊緊密封的保險箱，裡面裝著曾經屬於黎天寧的物品。"
     }
   },
   "ascensionChest": {
-    "name": "Ascension Chest",
+    "name": "昇華箱子",
     "description": {
-      "general": "Advanced materials used for ascending and reforging items."
+      "general": "包含進階材料，能用來昇華與再造物品。"
     }
   },
   "materialsChest": {
     "name": "Materials Chest",
     "description": {
-      "general": "A chest gifted by your unknown sponsor."
+      "general": "不明贊助者贈送的箱子。"
     }
   },
   "darkDescentSetChest": {
     "name": "Dark Descent Set Chest",
     "description": {
-      "general": "A chest gifted by your unknown sponsor."
+      "general": "不明贊助者贈送的箱子。"
     }
   },
   "mutuallyAssuredSetChest": {
     "name": "Mutually Assured Set Chest",
     "description": {
-      "general": "A chest gifted by your unknown sponsor."
+      "general": "不明贊助者贈送的箱子。"
     }
   },
   "serpentsDueSetChest": {
     "name": "Serpent's Due Set Chest",
     "description": {
-      "general": "A chest gifted by your unknown sponsor."
+      "general": "不明贊助者贈送的箱子。"
     }
   },
   "divineInterventionSetChest": {
     "name": "Divine Intervention Set Chest",
     "description": {
-      "general": "A chest gifted by your unknown sponsor."
+      "general": "不明贊助者贈送的箱子。"
     }
   },
   "ascendedCache": {
-    "name": "Ascended Cache",
+    "name": "昇華儲物箱",
     "description": {
-      "general": "A collection of items that will be ascended upon opening the cache"
+      "general": "包含一系列在開啟儲物箱後會自動昇華的物品。"
     }
   },
   "deathTidesChest": {
     "name": "Death Tides Chest",
     "description": {
-      "general": "A chest gifted by your unknown sponsor."
+      "general": "不明贊助者贈送的箱子。"
     }
   },
   "poseidonsBrew": {
-    "name": "Poseidon's Brew",
+    "name": "波賽頓特釀",
     "description": {
-      "general": "A potent brew that is surprising refreshing and fights off the effects of heat exhaustion on the seas."
+      "general": "清爽又強效的酒，可以幫助飲用者抵抗海上的熱衰竭現象。"
     }
   },
   "largeSilverChest": {
-    "name": "Large Silver Chest",
+    "name": "大型銀子箱",
     "description": {
-      "general": "Contains a extra large amount of silver."
+      "general": "內含超大量銀子。"
     }
   },
   "frigateUpgrade": {
@@ -2355,111 +2355,111 @@
     }
   },
   "thunderDragonCannon": {
-    "name": "Thunder Dragon Cannon",
+    "name": "雷龍大炮",
     "description": {
       "general": "Summons lightning strikes while ripping sails to shreds, its muzzle roars with the might of seven thunders."
     }
   },
   "ashbreaker": {
-    "name": "Ashbreaker",
+    "name": "灰燼破壞者",
     "description": {
       "general": "Blessed by the priests of Fara, this bombard causes Burning damage to increase the build-up rate of the Vulnerable status effect. Wielded by agressive captains to unleash a deadly combination of flame and Crew Attacks."
     }
   },
   "hellgateSerpent": {
-    "name": "Hellgate Serpent",
+    "name": "獄門毒蛇",
     "description": {
       "general": "Dark spirits are called upon each torpedo, dealing Burning damage while mending your own ship. The further the accursed torpedoes travel, the more Hull Health is restored."
     }
   },
   "stormVigil": {
-    "name": "Storm Vigil",
+    "name": "風暴之護",
     "description": {
-      "general": "Delivers an endless rain of rockets, configured to deal Flooding and Severe Damage. A terrible weapon forged by an ancient Sea People design."
+      "general": "能降下無窮無盡的火箭雨，造成進水傷害和嚴重傷害。它是按照古代海人設計所鍛造的可怕武器。"
     }
   },
   "spiritcaller": {
-    "name": "Spiritcaller",
+    "name": "招魂者",
     "description": {
       "general": "Deploys the Spirit Beacon buoy, which deals damage, slows, and weakens armor of enemy ships. It also renders Weeping Specters vulnerable to damage. Used by Rempah ritualists to trap wandering spirits before they drag ships to the deep."
     }
   },
   "harrowguard": {
-    "name": "Harrowguard",
+    "name": "苦痛之護",
     "description": {
-      "general": "Reduces the effects of Punctured and offers exceptional resistance against Piercing damage. An experimental design first sold to both the DMC and Compagnie -- each searing they received the exclusive prototype."
+      "general": "降低刺傷效果，並提供極高的穿刺傷害抗性。是優先出售給荷商以及皇司的實驗型產品——雙方都聲稱他們獲得了獨家的原型。"
     }
   },
   "wyrmhide": {
-    "name": "Wyrmhide",
+    "name": "蛟龍皮",
     "description": {
       "general": "Exceptional defense against structures. Provides a greater protection when stationary or at half-sails. The pride of Compagnie war barques that shattered fort after fort off the Coast of Africa."
     }
   },
   "novaArma": {
-    "name": "Nova Arma",
+    "name": "新星裝甲",
     "description": {
       "general": "A reactive armor that triggers an explosion when hit while bracing. An ingenious design from the Old World that protects a ship while retaliating against its foes."
     }
   },
   "trunnionFurnace": {
-    "name": "Trunnion Furnace",
+    "name": "炮耳熔爐",
     "description": {
-      "general": "Refines the trunnions of Culverins, boosting their Projectile Speed and giving each shot a chance to chain damage to nearby targets."
+      "general": "改善蛇炮的炮耳，可提升投射物速度並使每次射擊都有機率對鄰近目標造成連鎖傷害。"
     }
   },
   "acceleratedGunrailSmithy": {
-    "name": "Accelerated Gunrail Smithy",
+    "name": "加速炮軌鍛造坊",
     "description": {
       "general": "Custom rails and smithing rigs speed up reloads and boost Auxiliary weapon damage. Just don't stop to admire the sparks."
     }
   },
   "ammoPrimingBench": {
-    "name": "Ammo-Priming Bench",
+    "name": "彈藥底火工作檯",
     "description": {
-      "general": "A well-stocked station where ammo is packed and primed by hand, boosting the effectiveness of Siege and Repair ammunition."
+      "general": "物資和用品充足的工作檯，能讓人們手工封裝彈藥，可提升「攻城」與「修理」彈藥的效果。"
     }
   },
   "royalSentinel": {
-    "name": "Royal Sentinel",
+    "name": "皇家哨兵",
     "description": {
-      "general": "Deploys the Sentinel Device buoy, which detonates and applies Shell-shocked to enemy ships that enter its Operation Range. The product of Compagnie research, these buoys are effectively employed in ambushes."
+      "general": "能部署哨兵裝置浮標，可在敵方船隻進入作用範圍時引爆，進而觸發炮震效果。這種浮標是皇司研發的，在伏擊時效果極佳。"
     }
   },
   "roaringMeg": {
-    "name": "Roaring Meg",
+    "name": "咆哮瑪格投石炮",
     "description": {
-      "general": "Enhances Explosive damage to be extremely effective against structures. This behemoth grinds forts to ash, eliminating any rivals to the DMC's fortifications."
+      "general": "強化爆炸傷害，大幅提升對結構的效果。這隻巨獸能將要塞化為灰燼，消滅荷商防禦工事所面臨的任何對手。"
     }
   },
   "rocketGrinder": {
-    "name": "Rocket Grinder",
+    "name": "火箭砂輪機",
     "description": {
-      "general": "A specialized station used to hone rocket barrels, resulting in faster shots."
+      "general": "專門打磨火箭炮管的工作站，可提升彈藥速度。"
     }
   },
   "moonshineChest": {
-    "name": "Moonshine Chest",
+    "name": "私酒箱子",
     "description": {
-      "general": "A chest with the illicit wealth of the Moonshiners."
+      "general": "裝滿了私酒販子的非法財寶。"
     }
   },
   "moonshineStrongbox": {
-    "name": "Moonshine Strongbox",
+    "name": "私酒保險箱",
     "description": {
-      "general": "A chest with the illicit wealth of the Moonshiners."
+      "general": "裝滿了私酒販子的非法財寶。"
     }
   },
   "ascendedAshbreakerChest": {
     "name": "Ascended Ashbreaker Chest",
     "description": {
-      "general": "Contains an Ascended Event weapon."
+      "general": "包含一個昇華事件武器。"
     }
   },
   "ascendedEventCache": {
-    "name": "Ascended Event Cache",
+    "name": "昇華事件儲物箱",
     "description": {
-      "general": "Contains an Ascended Event weapon."
+      "general": "包含一個昇華事件武器。"
     }
   },
   "topDeckWeaponsAscendedCache": {
@@ -2487,21 +2487,21 @@
     }
   },
   "megafortCache": {
-    "name": "Megafort Cache",
+    "name": "超級要塞箱子",
     "description": {
-      "general": "Spoils from the megacorporations' war, seized from Megafort Wolvenhol"
+      "general": "從「狼窩」超級要塞取得的超大型企業戰爭戰利品。"
     }
   },
   "teulingsMaterialsChest": {
     "name": "Teuling's Materials Chest",
     "description": {
-      "general": "Contains a selection of rare materials for crafting."
+      "general": "內含用於製作的一系列稀有材料。"
     }
   },
   "teulingsItemAscensionChest": {
     "name": "Teuling's Item Ascension Chest",
     "description": {
-      "general": "Contains a selection of items for ascension."
+      "general": "內含用於昇華的一系列物品。"
     }
   },
   "teulingsArmorChest": {
@@ -2528,49 +2528,49 @@
   "jokaKubwaTreasureChest": {
     "name": "Treasure Chest (Joka Kubwa)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "dianSinagaTreasureChest": {
     "name": "Treasure Chest (Dian Sinaga)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "dirkAnkerenTreasureChest": {
     "name": "Treasure Chest (Dirk Ankeren)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "galvinRocheTreasureChest": {
     "name": "Treasure Chest (Galvin Roche)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "tangenaRabeTreasureChest": {
     "name": "Treasure Chest (Tangena Rabe)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "ahPakTreasureChest": {
     "name": "Treasure Chest (Ah Pak)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "mizerjaTreasureChest": {
     "name": "Treasure Chest (Mizerja)",
     "description": {
-      "general": "What valuables are stashed inside this chest?"
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
     }
   },
   "elDoradoCosmeticsChest": {
-    "name": "El Dorado Cosmetics Chest",
+    "name": "黃金國造型箱子",
     "description": {
-      "general": "An opulent chest which may contain cosmetics that are part of El Dorado Set"
+      "general": "華麗的箱子，裡面可能有屬於「黃金國套組」的造型。"
     }
   },
   "hellfestShipCosmeticsChest": {
@@ -2580,75 +2580,75 @@
     }
   },
   "freemansLetter": {
-    "name": "Freeman's Letter",
+    "name": "費里曼的信",
     "description": {
-      "general": "A letter bearing good tidings, penned by the infamous Captain Uricko Freeman himself."
+      "general": "包含好消息的信，撰寫人是惡名昭彰的尤里科．費里曼船長本人。"
     }
   },
   "hubacShipComponents": {
-    "name": "Hubac Ship Components",
+    "name": "胡巴奇船隻零件",
     "description": {
       "general": "The metal shimmers under the sun, as though it feels itself comprised of a special blend of materials. Definitely Hubac in origin."
     }
   },
   "mysteriousInsignia": {
-    "name": "Mysterious Insignia",
+    "name": "神祕徽章",
     "description": {
-      "general": "A token etched with an unfamiliar insignia, found with a letter addressed to the Hubac Twins. Its mark is tied to a shadowy figure supplying weapons to the megacorporations."
+      "general": "刻有罕見徽章的信物，是在給胡巴奇雙胞胎的信件中發現的。它上面的徽章與供應武器給超大型企業的神祕人物有關。"
     }
   },
   "zhangsPlea": {
-    "name": "Zhang's Plea",
+    "name": "張的請求",
     "description": {
-      "general": "A letter from Commander Zhang to Li Tian Ning seemingly before they arrived in the Indian Ocean."
+      "general": "張指揮官寫給黎天寧的信，時間似乎是在他們抵達印度洋之前。"
     }
   },
   "seaPeopleTome": {
-    "name": "Sea People Tome",
+    "name": "海人典籍",
     "description": {
-      "general": "The translated text details an ancient ritual that might be able to weaken Vikram's shadowy influence."
+      "general": "翻譯後的文字詳述一項古代儀式，它或許能削弱維克拉姆的黑暗力量。"
     }
   },
   "shadowbeastsHorn": {
-    "name": "Shadowbeast's Horn",
+    "name": "暗影怪獸的角",
     "description": {
-      "general": "A horn of a great, celestial creature"
+      "general": "強大天界生物的角。"
     }
   },
   "royalSterilizationTent": {
-    "name": "Royal Sterilization Tent",
+    "name": "皇家滅菌帳篷",
     "description": {
-      "general": "Equipped with antiseptics and surgical tools of Compagnie design, this station restores Crew Stamina and enables faster repairs."
+      "general": "這個工作站具有皇司設計的抗菌劑和手術工具，可回復船員耐力並提升修理速度。"
     }
   },
   "atelierDeCuivrage": {
-    "name": "Atelier de Cuivrage",
+    "name": "鍍銅工坊",
     "description": {
-      "general": "Reinforces the hull with finely hammered copper plating, reducing damage from elemental ammunition and easing the strain when Bracing against enemy fire."
+      "general": "使用做工精細的搥製銅板材強化船體，可降低受到的元素彈藥傷害，並降低防備敵方炮火時的壓力。"
     }
   },
   "rampantCarriageHold": {
-    "name": "Rampant Carriage Hold",
+    "name": "猖獗護艙",
     "description": {
-      "general": "Outfitted with reinforced carriages and specialized plating, this station amplifies elemental damage dealt while reducing incoming elemental effects."
+      "general": "這個設施配備了強化隔層和特殊板材，可提升元素傷害，同時降低受到的元素效果影響。"
     }
   },
   "sandbagPaintingStation": {
-    "name": "Sandbag Painting Station",
+    "name": "沙包彩繪工坊",
     "description": {
-      "general": "A crude but effective workshop where taunts are stenciled in blood and sand. Strengthens brace and further enrages enemies to attack."
+      "general": "簡陋但效果絕佳的工坊，用血與沙寫下嘲諷的話。強化防備並進一步激怒敵人發動攻擊。"
     }
   },
   "counterthrustLocker": {
-    "name": "Counterthrust Locker",
+    "name": "反阻力扣件",
     "description": {
-      "general": "A clever system of reinforced pulleys and bracing rigs that converts drag into drive -- boosting speed when ramming or sailing against the wind."
+      "general": "由強化滑輪與支撐裝置組成的巧妙系統，能將風阻轉化為動力，提升衝撞或逆風航行時的速度。"
     }
   },
   "darktideChest": {
-    "name": "Darktide Chest",
+    "name": "暗潮箱子",
     "description": {
-      "general": "A waterlogged chest from the drowned depths."
+      "general": "來自水底深淵的浸水箱子。"
     }
   },
   "ascendedHellgateSerpentChest": {
@@ -2658,193 +2658,193 @@
     }
   },
   "ascendedDarktideLullabyEventCache": {
-    "name": "Ascended Event Cache (Darktide Lullaby)",
+    "name": "昇華事件儲物箱",
     "description": {
-      "general": "Contains an Ascended Event weapon."
+      "general": "包含一個昇華事件武器。"
     }
   },
   "contractCache": {
-    "name": "Contract Cache",
+    "name": "委託儲物箱",
     "description": {
-      "general": "A beginner's cache of basic contracts"
+      "general": "專為初學者準備的一箱基礎委託獎勵。"
     }
   },
   "advancedContractCache": {
-    "name": "Advanced Contract Cache",
+    "name": "進階委託儲物箱",
     "description": {
-      "general": "A cache of treasures for those who have proven their worth on the high seas"
+      "general": "專為在海上證明了自身能力的人所準備的一箱寶藏。"
     }
   },
   "locketOfTheDamned": {
-    "name": "Locket of the Damned",
+    "name": "詛咒墜飾",
     "description": {
-      "general": "A vessel of trapped souls belonging to those killed by the Soleil Royal"
+      "general": "容器，裡面都是慘遭皇陽號殺害的亡魂。"
     }
   },
   "tianNingsImperialCloak": {
-    "name": "Tian Ning's Imperial Cloak",
+    "name": "天寧的帝國披風",
     "description": {
-      "general": "Fine silk flows like a majestic serpent gliding through the clouds."
+      "general": "細密的絲綢猶如一隻雄偉的蛟龍滑行在雲間。"
     }
   },
   "laPestesHead": {
-    "name": "La Peste's Head",
+    "name": "「瘟疫」的人頭",
     "description": {
-      "general": "The head of the Plague King, Philippe La Peste. Holding the bag in hand, you could almost swear you hear muffled curses from within."
+      "general": "疫病之王「瘟疫」菲利普的人頭。把袋子拿在手上時，你幾乎可以明確地聽到從袋子裡傳來的低沉咒罵聲。"
     }
   },
   "laPestesLocker": {
-    "name": "La Peste's Locker",
+    "name": "「瘟疫」的儲物箱",
     "description": {
-      "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+      "general": "除了快樂、瘟疫，或是兩者皆有之外，你還能在其中找到什麼好東西呢？"
     }
   },
   "laPestesStrongbox": {
-    "name": "La Peste's Strongbox",
+    "name": "「瘟疫」的保險箱",
     "description": {
-      "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+      "general": "除了快樂、瘟疫，或是兩者皆有之外，你還能在其中找到什麼好東西呢？"
     }
   },
   "wreckedConductorBuoy": {
-    "name": "Wrecked Conductor Buoy",
+    "name": "損毀的導引浮標",
     "description": {
-      "general": "A technical marvel used by the opera-loving Hubac Twins to gain the edge in battle"
+      "general": "熱愛歌劇的胡巴奇雙胞胎所使用的科技奇蹟，能讓他們在戰場上取得優勢。"
     }
   },
   "shadowyBracelet": {
-    "name": "Shadowy Bracelet",
+    "name": "暗影臂鐲",
     "description": {
-      "general": "A bracelet worn by Vikram Rajan, captain of the Schaduw. It pulses with an unnatural aura."
+      "general": "「影子」船長「維克拉姆．拉詹」配戴的臂鐲。散發著超自然的氣息。"
     }
   },
   "necklaceOfTheSkyGoddess": {
-    "name": "Necklace of the Sky Goddess",
+    "name": "天女的項鍊",
     "description": {
-      "general": "Made of polished jade and precious stones."
+      "general": "由拋光的玉和寶石製成。"
     }
   },
   "flaskOfClearLiquid": {
-    "name": "Flask of Clear Liquid",
+    "name": "瓶裝透明液體",
     "description": {
-      "general": "The liquid shimmers like the nectar of gods."
+      "general": "液體閃耀著如眾神的瓊漿玉露般的光澤。"
     }
   },
   "gildedCompass": {
-    "name": "Gilded Compass",
+    "name": "鑲金羅盤",
     "description": {
-      "general": "An ornate, bulky thing only gifted to the highest-ranking members of the DMC. How accurate its arrow points, however, is debatable."
+      "general": "華麗而沉重的物品，只會贈送給荷商最高階級的成員。然而，它的箭頭指向究竟多準仍待商榷。"
     }
   },
   "zhangsClaw": {
-    "name": "Zhang's Claw",
+    "name": "張的爪子",
     "description": {
-      "general": "The arm of the Commander itself. The metal is still warm to the touch, its fingers specked with blood."
+      "general": "指揮官的手臂。金屬部分摸起來還溫溫的，手指部分則沾滿了血跡。"
     }
   },
   "suaveSeadogCosmeticsChest": {
-    "name": "Suave Seadog Cosmetics Chest",
+    "name": "文雅海盜造型箱子",
     "description": {
-      "general": "An opulent chest which may contain cosmetics that are part of Suave Seadog Set"
+      "general": "華麗的箱子，裡面可能有屬於「文雅海盜套組」的造型。"
     }
   },
   "tondraDra": {
-    "name": "Tondra-dra",
+    "name": "血土",
     "description": {
-      "general": "The raiders of the Red Isle have always believed their ships bled the shade of their soil, before biting back."
+      "general": "擊殺敵方目標時，可回復防備強度與船體生命值。紅嶼的劫掠者們一直相信，他們的船隻在反擊之前，流的都是與他們家鄉故土同樣顏色的血。"
     }
   },
   "rivotrasGrace": {
-    "name": "Rivotra's Grace",
+    "name": "風佑",
     "description": {
       "general": "To the Sea People, the wind has always brought the best protection to their sails."
     }
   },
   "sumuSunder": {
-    "name": "Sumu Sunder",
+    "name": "毒剋",
     "description": {
-      "general": "To master a fever, one must first break it -- for the ship lords off the Coast of Africa, poison can be the sternest teacher."
+      "general": "減少「中毒」狀態效果的持續時間與影響​。要戰勝熱病，就得先退燒——對於非洲海岸外的海上霸主而言，毒藥可能是最嚴厲的導師。"
     }
   },
   "stinkpotStation": {
-    "name": "Stinkpot Station",
+    "name": "惡臭彈工作站",
     "description": {
-      "general": "The grim laboratories of La Peste churn out noxious bombs filled with sulfur and antimony."
+      "general": "強化毒性武器與「中毒」狀態效果。「瘟疫」的陰暗實驗室會大量生產充滿硫與銻的有毒炸彈。"
     }
   },
   "sheetingWinchConsole": {
-    "name": "Sheeting Winch Console",
+    "name": "整帆絞盤操作台",
     "description": {
-      "general": "DMC-styled capstan-powered winches used for swift trimming and agile maneuvers."
+      "general": "提升武器傷害與航行速度。荷商風格的絞盤，可達到快速整帆與靈活操控的效果。"
     }
   },
   "gimbalRingStores": {
-    "name": "Gimbal Ring Stores",
+    "name": "平衡環架台",
     "description": {
       "general": "Compagnie-designed trunnion-mounted rings level guns through pitch and roll."
     }
   },
   "siphonFurnace": {
-    "name": "Siphon Furnace",
+    "name": "虹吸熔爐",
     "description": {
-      "general": "Used by the Ungwana to heat and hurl caustic oils brewed from belladonna and arsenic."
+      "general": "提升毒性武器射程與投射物速度。烏瓜納人使用的設施，能加熱並投射由顛茄與砒霜熬製的腐蝕油。"
     }
   },
   "causticSpallStation": {
-    "name": "Caustic Spall Station",
+    "name": "腐蝕碎裂工作站",
     "description": {
-      "general": "Designed by the Fara to rupture hulls and rot internal beams."
+      "general": "提升進水傷害與「進水」狀態效果。由法拉人設計，用以擊破船體與腐蝕內部船樑。"
     }
   },
   "leydenVaultArray": {
-    "name": "Leyden Vault Array",
+    "name": "萊頓儲電陣列",
     "description": {
-      "general": "Glass and foil-lined jars from the remains of the Shadowbeast wired to unleash high-voltage arcs."
+      "general": "強化閃電武器與「風暴侵襲」狀態效果。由「暗影怪獸」殘骸製成的金屬箔襯玻璃瓶，以電線連接，用於釋放高壓電弧。"
     }
   },
   "cascadeCoilBench": {
-    "name": "Cascade Coil Bench",
+    "name": "串聯線圈工作檯",
     "description": {
-      "general": "Copper coils are wound around flame nozzles, igniting secondary bursts of naptha and sulfur dust."
+      "general": "提升海火武器射程與傷害輸出。銅線圈纏繞於火焰噴嘴，引燃次級的石腦油和硫粉。"
     }
   },
   "curareCrushingBench": {
-    "name": "Curare Crushing Bench",
+    "name": "箭毒粉碎工作檯",
     "description": {
-      "general": "Basins of curare paste with paralytic toxins, packed into splintered shot."
+      "general": "延長「中毒」狀態效果的持續時間與疊層速度。含有麻痺毒素的箭毒膏漿盆，裝填於碎片彈中。"
     }
   },
   "virulentAccord": {
-    "name": "Virulent Accord",
+    "name": "劇毒協議",
     "description": {
-      "general": "Born of pact and poison, the first flames are always lit by friends turned foes."
+      "general": "致命武器，會向附近敵人散播毒性煙霧。由契約與毒藥所生，最初的火焰總是由化敵為友之人所點燃。"
     }
   },
   "heavenlyThunder": {
-    "name": "Heavenly Thunder",
+    "name": "天雷",
     "description": {
-      "general": "When Tianlei speaks, the sea listens, the storm obeys."
+      "general": "充能後可以發射一連串閃電的武器，能連鎖攻擊多個目標。天雷陣陣之時，海洋傾聽、風暴服從。"
     }
   },
   "theRotmouth": {
-    "name": "The Rotmouth",
+    "name": "腐口",
     "description": {
-      "general": "Each bark is a pestilent cough from the Plague King's maw."
+      "general": "受詛咒的武器，命中時會降低防備強度，並對中毒目標造成額外傷害。每一聲炮吼都是疫病之王因疫病導致的咳嗽。"
     }
   },
   "blightbringer": {
-    "name": "Blightbringer",
+    "name": "疫病傳染者",
     "description": {
-      "general": "Each charge is said to carry a volatile mix from the bilge-forges of La Peste himself."
+      "general": "追蹤型武器，會留下毒性軌跡，並在命中時產生毒性煙霧。每次發射據說都會攜帶來自「瘟疫」船底熔爐的易變混合物。"
     }
   },
   "theDrownedOne": {
-    "name": "The Drowned One",
+    "name": "溺亡者",
     "description": {
-      "general": "The Sea People believe its aim is guided by those who were lost at sea."
+      "general": "遠距武器，命中弱點時會觸發進水並造成嚴重傷害。海人相信它是由在海上失蹤之人所引導瞄準的。"
     }
   },
   "frostwail": {
-    "name": "Frostwail",
+    "name": "霜雪慟哭",
     "description": {
       "general": "Some say the screams are from those trapped within the Dark Beyond."
     }
@@ -2865,13 +2865,13 @@
   "ascendedRequiemOfTheLostEventCache": {
     "name": "Ascended Event Cache (Requiem of the Lost)",
     "description": {
-      "general": "Contains an Ascended Event weapon."
+      "general": "包含一個昇華事件武器。"
     }
   },
   "ascendedTheDrownedOneChest": {
     "name": "Ascended The Drowned One Chest",
     "description": {
-      "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+      "general": "華麗的箱子，裝著未知的寶藏。據說有人曾聽到裡面傳出哭泣的聲音。"
     }
   },
   "exoticArmorAscendedCache": {
@@ -2881,45 +2881,45 @@
     }
   },
   "hauntedReapersCache": {
-    "name": "Haunted Reaper's Cache",
+    "name": "鬧鬼收割者箱子",
     "description": {
       "general": "An ornate chest containing unknown treasures. Some claim to have heard ghostly whispers from within."
     }
   },
   "gildedProtectorChest": {
-    "name": "Gilded Protector Chest",
+    "name": "鑲金守護者箱子",
     "description": {
-      "general": "A chest containing Ascended Armor, a boon for one who hunts deadly monsters from the abyss."
+      "general": "箱子，內含昇華裝甲，對於獵殺致命深淵怪物的人來說是一大福音。"
     }
   },
   "slayersChest": {
-    "name": "Slayer's Chest",
+    "name": "殺手箱子",
     "description": {
-      "general": "A chest that may contain Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+      "general": "箱子，可能內含昇華武器，對於獵殺致命深淵怪物的人來說是一大福音。"
     }
   },
   "gildedSlayersChest": {
-    "name": "Gilded Slayer's Chest",
+    "name": "鑲金殺手箱子",
     "description": {
-      "general": "A chest containing Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+      "general": "內含昇華武器的箱子，專屬於成功獵殺致命深淵怪物的勇者。"
     }
   },
   "laPestesLockerMythic": {
     "name": "La Peste's Locker (Mythic)",
     "description": {
-      "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+      "general": "除了快樂、瘟疫，或是兩者皆有之外，你還能在其中找到什麼好東西呢？"
     }
   },
   "emeraldSkullTalisman": {
-    "name": "Emerald Skull Talisman",
+    "name": "祖母綠骷髏頭護身符",
     "description": {
-      "general": "An emerald unearthed from the depths of Africa and shaped into a fine crystal by Ungwana craftsmen. Believed to aid the cursed by easing the pain of the blight."
+      "general": "從非洲深處挖掘出來的祖母綠，由烏瓜納工匠塑造成精美的水晶。據信能減輕枯萎病的痛苦來幫助受詛咒的人。"
     }
   },
   "eerieRing": {
-    "name": "Eerie Ring",
+    "name": "詭異戒指",
     "description": {
-      "general": "A rusted ring set with an ominous-looking ruby, bright scarlet as blood against stone. Looking into the pulsing red gem stirs up a sense of anguish in your heart."
+      "general": "鏽蝕戒指，鑲著一顆看似不祥的紅寶石，亮紅如血色。凝視這顆閃亮的紅寶石，會在你的心中喚起一種痛苦的感覺。"
     }
   },
   "seaOfKingdomsCosmeticsChest": {
@@ -2929,25 +2929,25 @@
     }
   },
   "harbingersStrongbox": {
-    "name": "Harbinger's Strongbox",
+    "name": "預兆者保險箱",
     "description": {
-      "general": "A strongbox from an elite ship of the Azure Fleet. It seems to sap the very warmth from the surrounding air."
+      "general": "來自「蔚藍艦隊」菁英船隻的保險箱。它似乎會吸走周遭空氣中的溫度。"
     }
   },
   "ascendedFrostwailChest": {
     "name": "Ascended Frostwail Chest",
     "description": {
-      "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+      "general": "華麗的箱子，裝著未知的寶藏。據說有人曾聽到裡面傳出哭泣的聲音。"
     }
   },
   "ascendedAzureSolsticeEventCache": {
     "name": "Ascended Event Cache (Azure Solstice)",
     "description": {
-      "general": "Contains an Ascended Event weapon."
+      "general": "包含一個昇華事件武器。"
     }
   },
   "watersOfGowaSetChest": {
-    "name": "Waters of Gowa Set Chest",
+    "name": "戈瓦海域套組箱子",
     "description": {
       "general": "An opulent chest which may contain cosmetics that are part of the Waters of Gowa Set"
     }
@@ -2966,13 +2966,13 @@
     }
   },
   "foundingCelebratoryChest": {
-    "name": "Founding Celebratory Chest",
+    "name": "創立日歡慶箱",
     "description": {
-      "general": "A chest to celebrate the challenges conquered during the Founding."
+      "general": "慶祝在「創立日」期間克服挑戰的箱子。"
     }
   },
   "krakenInkGlands": {
-    "name": "Kraken Ink Glands",
+    "name": "克拉肯墨囊",
     "description": {
       "general": "Toxic glands from the Kraken, filled with corrosive venom strong enough to burn through hull and and flesh"
     }
@@ -2980,145 +2980,145 @@
   "krakenChest": {
     "name": "Mysterious Chest (Kraken)",
     "description": {
-      "general": "What rare finds lie within?"
+      "general": "裡面會不會有什麼稀有的東西？"
     }
   },
   "livingBastion": {
-    "name": "Living Bastion",
+    "name": "活體堡壘",
     "description": {
-      "general": "Armor Rating increases while not taking damage. Its surface shifts subtly, as if breathing, with cracked plating and faded gold veins glowing faintly from accumulated stacks."
+      "general": "在未受到傷害時，可提升裝甲值。裝甲的表面彷彿呼吸般輕微變化，裂紋鍍層和褪色金紋路隨著累積的堆疊而發出微弱光芒。"
     }
   },
   "mantleOfTheDeep": {
-    "name": "Mantle of the Deep",
+    "name": "深淵斗篷",
     "description": {
-      "general": "Reduces damage taken by Sea Monster attacks. Crafted from the salvaged hides of deep-dwelling leviathans by the keepers of balance beneath the waves."
+      "general": "降低受到的海怪攻擊傷害。由浪潮下的平衡守護者，利用回收到的深海利維坦獸皮打造而成。"
     }
   },
   "tidesReprieve": {
-    "name": "Tide's Reprieve",
+    "name": "潮汐喘息",
     "description": {
-      "general": "Activates a pulse that restores Hull Health to allies. Crafted from the rugged iron plates and heavy rivets of empires past."
+      "general": "啟用一道能為盟友回復船體生命值的脈衝。使用舊時代帝國的粗糙鐵板和重鉚釘打造。"
     }
   },
   "invertedFlagRack": {
-    "name": "Inverted Flag Rack",
+    "name": "倒置旗幟架",
     "description": {
-      "general": "Increases Weapon Damage to Taunted targets. Sends a clear message to any foes who approach: \"Your flag has fallen. You're next.\""
+      "general": "提升對受嘲諷影響的目標造成的武器傷害。向任何靠近的敵人發出明確的訊息：「你的旗幟已倒下。接下來就是你了。」"
     }
   },
   "apothecaryToolBench": {
-    "name": "Apothecary Tool Bench",
+    "name": "藥劑師工具檯",
     "description": {
-      "general": "Enhances defense against the Poisened Status Effect while the ship is sailing. Assembled by a Rempah herbalist. Contains antidotes for jellyfish stings and fermented seaweed poisoning."
+      "general": "在船隻航行時，可提升對「中毒」狀態效果的防禦。它是由一位倫帕草藥師組裝的，包含水母螫傷與發酵海藻中毒的解毒劑。"
     }
   },
   "anatomyCabinet": {
-    "name": "Anatomy Cabinet",
+    "name": "解剖櫃",
     "description": {
-      "general": "Enhances Brace Strength against Sea Monster attacks. Some swear the knowledge within has saved many from the jaws of death."
+      "general": "強化對海怪攻擊的防備強度。有人發誓，說它裡面蘊含的知識已將許多人從死亡之顎中拯救出來。"
     }
   },
   "blubberWorks": {
-    "name": "Blubber Works",
+    "name": "鯨脂工坊",
     "description": {
-      "general": "Reduces Reload Time of broadside weapons after dealing damage to Sea Monsters. The Sea People believe the essence of a creature can be used to influence or harm another."
+      "general": "對海怪造成傷害後，可降低舷側武器的裝填時間。海人相信，一種生物的精華可用於影響或傷害另一種生物。"
     }
   },
   "drowningCabinet": {
-    "name": "Drowning Cabinet",
+    "name": "溺亡之櫃",
     "description": {
-      "general": "Increases Flooding Weapon Damage for targets with Severe Damage. Enterprising pirates have modified the design to force floodwaters deeper and faster into enemy hulls."
+      "general": "提升具有嚴重傷害的目標的進水武器傷害。勇於創新的海盜改進了設計方案，使海水能更深更急地灌入敵方船艙。"
     }
   },
   "ballistaMountSmithy": {
-    "name": "Ballista Mount Smithy",
+    "name": "弩炮架鍛造坊",
     "description": {
-      "general": "Enhances Ballista Weapons and increases damage to Ruptured targets. Modeled after the siege mounts once used in the fortified city of Galle, Ceylon."
+      "general": "強化弩炮武器，並可對破裂的目標造成額外傷害。造型仿照錫蘭的要塞城市「加勒」於過往曾架設過的攻城器械。"
     }
   },
   "blightmaw": {
-    "name": "Blightmaw",
+    "name": "疫病之顎",
     "description": {
-      "general": "Designed by the plague-warped minds of La Peste's alchemists. Fires shells laced with toxins that cling to enemy hulls, corroding their defenses and making them more vulnerable to subsequent attacks."
+      "general": "由「瘟疫」扭曲心智的煉金術士所設計。能發射浸染毒素的炮彈，附著在敵方船體上，腐蝕船體防禦，使敵人更容易受到後續攻擊的影響。"
     }
   },
   "stormtongue": {
-    "name": "Stormtongue",
+    "name": "風暴之舌",
     "description": {
-      "general": "Repeatedly fires lightning and explosive projectiles. Its barrel is etched with stormcall glyphs and sigils of the phoenix."
+      "general": "能反覆發射閃電與爆炸投射物。它的炮管上蝕刻著風暴召喚符文與鳳凰印記。"
     }
   },
   "reachwarden": {
-    "name": "Reachwarden",
+    "name": "觸遠者",
     "description": {
-      "general": "Engineered for long-range support. Fires crystalline-tipped projectiles for restorative pulses to allies."
+      "general": "專為遠距支援而設計。能發射帶有水晶尖端的投射物，對盟友施放修理脈衝。"
     }
   },
   "celestialBloom": {
-    "name": "Celestial Bloom",
+    "name": "天界之華",
     "description": {
-      "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
+      "general": "能以齊射的修理火箭來保護盟友。「真正的力量不在於破壞，而在於守護的能力。」"
     }
   },
   "woundcaller": {
-    "name": "Woundcaller",
+    "name": "​喚傷者",
     "description": {
-      "general": "Upon impact, its payload releases a pulse of maddening resonance, an ancient frequency said to echo the death cries of fallen beasts. Those struck are seized by a violent frenzy, often damaging their own hulls as they lash out blindly."
+      "general": "著彈時，彈頭會釋放出一道令人發狂的共振脈衝，據說這是一種能呼應殞落巨獸死亡吶喊的古老頻率。被影響的人會陷入猛烈的狂亂狀態，經常會在一陣盲目亂擊時損害自己的船體。"
     }
   },
   "cloudbinder": {
-    "name": "Cloudbinder",
+    "name": "縛雲者",
     "description": {
-      "general": "Each bolt inscribed with stormcall glyphs and stabilized by jade capacitors, allowing the weapon to arc across multiple enemies. The more targets linked, the more volatile the storm, crackling with celestial wrath."
+      "general": "每發弩箭都刻有風暴召喚符文，並由玉石電容器穩定，使武器能在多個敵人之間產生連鎖電弧。連鎖的目標越多，風暴就越不穩定，進而會迸發出天界的憤怒。"
     }
   },
   "foundersCache": {
-    "name": "Founder's Cache",
+    "name": "創立者的儲物箱",
     "description": {
-      "general": "An ornate chest containing spoils from formidable foes of seasons past."
+      "general": "華麗的箱子，裝著過往季度強敵所留下的戰利品。"
     }
   },
   "zamaharibuChest": {
     "name": "Mysterious Chest (Zamaharibu)",
     "description": {
-      "general": "What rare finds lie within?"
+      "general": "裡面會不會有什麼稀有的東西？"
     }
   },
   "megaLestariChest": {
     "name": "Mysterious Chest (Mega Lestari)",
     "description": {
-      "general": "What rare finds lie within?"
+      "general": "裡面會不會有什麼稀有的東西？"
     }
   },
   "zamaharibusEye": {
-    "name": "Zamaharibu's Eye",
+    "name": "滅世龍的眼睛",
     "description": {
-      "general": "Plucked from the eye socket of an age-old beast. Its unflinching gaze instills primal fear in you, as though you were being hunted like prey."
+      "general": "從某種上古野獸的眼窩中取下的。它那毫不動搖的視線令人產生了一種原始恐懼感，彷彿你正被當成獵物一樣遭到追擊。"
     }
   },
   "megaLestarisEye": {
-    "name": "Mega Lestari's Eye",
+    "name": "超大型永恆鯊的眼睛",
     "description": {
-      "general": "Taken from the head of an elusive master predator, unmatched in ferocity"
+      "general": "從難以捉摸的頂級掠食者頭上所取下的，其凶猛程度無可比擬。"
     }
   },
   "crazedNianStrongbox": {
-    "name": "Crazed Nian Strongbox",
+    "name": "狂暴「年」保險箱",
     "description": {
-      "general": "A chest from the ship that used the fabled local legend of the Crazed Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
+      "general": "來自一艘船上的箱子，那艘船利用在地人關於狂暴「年」的傳說來散播恐懼，並搶劫倒楣的目標。勝者為王，贏者全取。"
     }
   },
   "ascendedBlightmawChest": {
     "name": "Ascended Blightmaw Chest",
     "description": {
-      "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+      "general": "華麗的箱子，裝著未知的寶藏。據說有人曾聽到裡面傳出哭泣的聲音。"
     }
   },
   "ascendedLegendOfTheNianEventCache": {
     "name": "Ascended Event Cache (Legend of the Nian)",
     "description": {
-      "general": "Contains an Ascended Event weapon."
+      "general": "包含一個昇華事件武器。"
     }
   },
   "galleonUpgrade": {
@@ -3135,181 +3135,181 @@
     }
   },
   "hullcarver": {
-    "name": "Hullcarver",
+    "name": "船體雕刻者",
     "description": {
-      "general": "A high fire-rate weapon that devastates targets with multiple shots."
+      "general": "高射速的武器，能以多次射擊摧毀目標。"
     }
   },
   "atmasToll": {
-    "name": "Atma's Toll",
+    "name": "真我之鐘",
     "description": {
-      "general": "Inscribed with an ancient mystical script, this sinister weapon is capable of reaving its enemies while restoring its master."
+      "general": "這件陰森的武器上刻有古老的神祕文字，能夠在治癒主人的同時奪取敵人的生命。"
     }
   },
   "blightbearer": {
-    "name": "Blightbearer",
+    "name": "腐朽者",
     "description": {
-      "general": "A precise Poison weapon, prized by La Peste's lackeys for its strength against fortified ships."
+      "general": "精準的毒性武器。因能有效打擊強化船隻而深受「瘟疫」的手下青睞。"
     }
   },
   "soulsnatcher": {
-    "name": "Soulsnatcher",
+    "name": "奪魂者",
     "description": {
-      "general": "Recovers Hull Health depending on how many enemies hit with a single projectile. A cursed weapon forged in the forgotten rituals of the Fara."
+      "general": "根據單一投射物命中的敵人數量來回復船體生命值。它是在被遺忘的法拉儀式中鍛造出來的詛咒武器。"
     }
   },
   "deBreker": {
-    "name": "De Breker",
+    "name": "破壞者",
     "description": {
-      "general": "A heavy bombardment weapon, coveted by the Dutch for its devastating fire and ability to slow down enemies."
+      "general": "重型轟炸武器。荷蘭人因它毀滅性的火力和緩速敵人的能力而對它垂涎三尺。"
     }
   },
   "floodbound": {
-    "name": "Floodbound",
+    "name": "洪流束縛",
     "description": {
-      "general": "A portion of weapon damage dealt to the Brace Health of nearby Flooded targets is converted back into Hull Health, turning any surrounding chaos and rising water into a steady source of recovery."
+      "general": "對鄰近「進水」目標的「防備生命值」所造成的部分武器傷害，會轉化為自身的「船體生命值」。將周遭的混亂與上漲的海水轉化為穩定的回復來源。"
     }
   },
   "needleShield": {
-    "name": "Needle Shield",
+    "name": "針盾",
     "description": {
-      "general": "Bracing against hits from Punctured targets strengthens your defenses and Piercing weapon damage for a short time with this armor, which uses your enemy's weakness to boost your own protection."
+      "general": "此裝甲可在你防備來自「刺傷」目標的攻擊時，在短時間內強化你的防禦力與「穿刺」武器傷害。利用敵人的弱點來提升自身的保護。"
     }
   },
   "drownedOrgan": {
-    "name": "Drowned Organ",
+    "name": "溺亡者風琴",
     "description": {
-      "general": "Enhances Mending weapons while the ship is at lower Hull Health. An ancient organ crafted from rust-caked pipes, found in the bowels of a Compagnie warship."
+      "general": "可在船隻的船體生命值過低時強化汲能武器。由生鏽管子製成的古老風琴，發現於一艘皇家公司戰艦的船艙深處。"
     }
   },
   "royalRammingWorks": {
-    "name": "Royal Ramming Works",
+    "name": "皇家衝撞機具",
     "description": {
-      "general": "A ramming-focused royal armament that rapidly builds Punctured status, slows targets, amplifies piercing damage, and passivly weakens nearby enemies."
+      "general": "以衝撞為核心的皇家軍備，能快速累積「刺傷」狀態、緩速目標、提升穿刺傷害，並被動削弱鄰近敵人。"
     }
   },
   "floodwardenStation": {
-    "name": "Floodwarden Station",
+    "name": "護洪員工作站",
     "description": {
-      "general": "Consecutive hits increase Flooding and damage. Missing resets stacks. Flooded enemies deal less damage and remain flooded longer."
+      "general": "連續命中時可提升「進水」狀態與傷害。未命中則會重設疊層。處於進水狀態的敵人造成的傷害較低，且維持進水的時間更長。"
     }
   },
   "hullMarkersTable": {
-    "name": "Hull Marker's Table",
+    "name": "船體標記桌",
     "description": {
-      "general": "Broadside hits may leave an Impact Mark, turning the target into a damage magnet for cannon fire. Marked hulls take increased cannonball damage, while every cannonball weapon aboard quietly boosts your secondary damage."
+      "general": "舷側攻擊命中時，有機率觸發「衝擊標記」，使目標成為會吸引炮火傷害的磁鐵。受標記的船體會受到更高的炮彈傷害，而船上配備的每一件「炮彈」類型武器都能微幅提升你的次要傷害。"
     }
   },
   "physiciansLedger": {
-    "name": "Physician's Ledger",
+    "name": "醫師分類帳",
     "description": {
-      "general": "Enhances the effectiveness of Mending weapons after prolonged use. Others have ventured further, studying the effects of shot sizes, angles, and bodily entry points."
+      "general": "可在長時間使用汲能武器後強化汲能武器的效用。比起寫了這些分類帳的人，其他人選擇進一步研究炮彈尺寸、角度與身體進入點所造成的影響。"
     }
   },
   "lAiguille": {
-    "name": "L'Aiguille",
+    "name": "針刺",
     "description": {
-      "general": "A precise weapon of French design that shatters the hulls of their foes."
+      "general": "法國設計的精準武器，能粉碎敵人的船體。"
     }
   },
   "mortarPowderbench": {
-    "name": "Mortar Powderbench",
+    "name": "迫擊炮火藥檯",
     "description": {
-      "general": "Enhances Mortar Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Mortar shells mid-flight."
+      "general": "強化迫擊炮武器，並縮短投射物命中目標所需的時間。這個檯子能用來改善迫擊炮炮彈投放出去後的風切表現。"
     }
   },
   "rocketPowderbench": {
-    "name": "Rocket Powderbench",
+    "name": "火箭火藥檯",
     "description": {
-      "general": "Enhances Rocket Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Rockets mid-flight."
+      "general": "強化火箭武器，並縮短投射物命中目標所需的時間。這個檯子能用來改善火箭投放出去後的風切表現。"
     }
   },
   "springloaderPowderbench": {
-    "name": "Springloader Powderbench",
+    "name": "彈簧裝填器火藥檯",
     "description": {
-      "general": "Enhances Springloader Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Buoys mid-flight."
+      "general": "強化彈簧裝填器武器，並縮短投射物命中目標所需的時間。這個檯子能用來改善浮標投放出去後的風切表現。"
     }
   },
   "verdantHuntsChest": {
-    "name": "Verdant Hunt's Chest",
+    "name": "蔥綠狩獵箱子",
     "description": {
-      "general": "An opulent chest which may contain cosmetics from The Bohemian Set and Jade Prowler Set."
+      "general": "華麗的箱子，裡面可能有屬於「波西米亞套組」與「玉掠奪者套組」的造型。"
     }
   },
   "cheese": {
-    "name": "Cheese",
+    "name": "起司",
     "description": {
-      "general": "Aged to perfection and tough as barnacled hull wood, this hearty cheese wheel can keep a crew fed through the fiercest storms -- and doubles as a fine bargaining chip in shady ports."
+      "general": "這塊紮實的起司經過完美熟成，硬得跟長滿藤壺的船體木材一樣，足以讓船員撐過最猛烈的風暴——在那些見不得光的港口，還能拿來當作上好的談判籌碼。"
     }
   },
   "infernalArtificersBench": {
-    "name": "Infernal Artificer's Bench",
+    "name": "獄火工匠工作檯",
     "description": {
-      "general": "A volatile workstation that enhances the application of Shell-Shocked and Ablaze status effects, reduces reload time for Explosive and Burning weapons, and amplifies damage against afflicted targets."
+      "general": "不穩定的工作檯，可強化施加「炮震」與「點燃」狀態效果，縮短爆炸與燃燒武器的裝填時間，並放大對狀態爆發的目標造成的傷害。"
     }
   },
   "hellshotSmithy": {
-    "name": "Hellshot Smithy",
+    "name": "獄火彈鍛造坊",
     "description": {
-      "general": "A forbidden shipboard forge, built to enhance the Ablaze status effect and spread Burning damage across enemy targets."
+      "general": "禁忌的船上鍛造設施，專為強化「點燃」狀態效果而建，並可將燃燒傷害擴散至多個敵方目標。"
     }
   },
   "stElmosChains": {
-    "name": "St. Elmo's Chains",
+    "name": "聖艾爾摩之鎖鏈",
     "description": {
-      "general": "A deadly fitting that enhances Lightning weapons, dealing significantly more electrical damage to Flooded targets."
+      "general": "致命的裝配設施，可強化「閃電武器」，使它們對處於「進水」狀態的目標造成顯著更高的電擊傷害。"
     }
   },
   "pyroclasm": {
-    "name": "Pyroclasm",
+    "name": "炎爆",
     "description": {
-      "general": "A vicious raider's armor, forged in an obsession with fire. Bracing enemy attacks builds a fiery explosion that damages nearby targets and spreads flames."
+      "general": "兇殘劫掠者的裝甲，由對火焰的執念所鍛造。防備敵人的攻擊時，會逐漸累積並產生燃燒爆炸，對鄰近目標造成傷害並擴散火勢。"
     }
   },
   "leDrac": {
-    "name": "Le Drac",
+    "name": "惡魔龍",
     "description": {
-      "general": "Worn by those who charge first. Bracing hits builds an explosion that can be triggered by ramming a target."
+      "general": "由總是衝在最前線的人所穿戴。防備攻擊時會累積爆炸，並可透過衝撞目標來觸發。"
     }
   },
   "scorchSong": {
-    "name": "Scorch Song",
+    "name": "灼燒之歌",
     "description": {
-      "general": "A fiery weapon that triggers devastating explosions, ramping up damage with each hit."
+      "general": "能引發毀滅性爆炸的燃燒武器，且每次命中都會使傷害逐漸提升。"
     }
   },
   "drowningHellion": {
-    "name": "Drowning Hellion",
+    "name": "溺亡惡煞",
     "description": {
-      "general": "A hull-shredding Demi-cannon built to Flood enemy ships with impunity."
+      "general": "可撕裂船體的半加農炮，能大肆讓敵方船隻進水。"
     }
   },
   "anathema": {
-    "name": "Anathema",
+    "name": "神憎鬼厭",
     "description": {
-      "general": "A vile weapon that spreads La Peste's toxins and blasts illness across enemy ships."
+      "general": "可散播「瘟疫」毒素的陰毒武器，能將病災爆散至敵方船隻之間。"
     }
   },
   "drakonsJaws": {
-    "name": "Drakon's Jaws",
+    "name": "德拉孔之顎",
     "description": {
-      "general": "An ingenious weapon that triggers burning blasts on impact, intensifying against Flooded targets."
+      "general": "精巧的武器，著彈時會引發燃燒爆炸，且對處於「進水」狀態的目標更具威力。"
     }
   },
   "clawsOfTheDeep": {
-    "name": "Claws of the Deep",
+    "name": "深淵之爪",
     "description": {
-      "general": "A precise perforator of ship hulls that tears holes through its targets to send them to their watery graves."
+      "general": "可精準鑿穿船體的穿孔兵器，能撕裂目標、將它們送入水下墳墓。"
     }
   },
   "hellfire": {
-    "name": "Hellfire",
+    "name": "地獄火",
     "description": {
       "general": "A heavy rocket weapon that burns away its target's Fire Mitigation with consecutive hits."
     }
   },
   "junkUpgrade": {
-    "name": "Junk Upgrade",
+    "name": "升級",
     "description": {
       "1": "Upgrades the ship level from 0 to 1.",
       "2": "Upgrades the ship level from 1 to 2.",
@@ -3318,7 +3318,7 @@
       "5": "Upgrades the ship level from 4 to 5.",
       "6": "Upgrades the ship level from 5 to 6.",
       "7": "Upgrades the ship level from 6 to 7.",
-      "general": "Ship upgrade for the Junk."
+      "general": "船隻升級"
     }
   },
   "ascendedDrakonsJawsChest": {
@@ -3328,33 +3328,33 @@
     }
   },
   "dredgedArmoryCache": {
-    "name": "Dredged Armory Cache",
+    "name": "打撈到的武器箱",
     "description": {
-      "general": "A cached dredged from the depths with various weapons including ascended weapons"
+      "general": "從深海打撈上來的儲物箱，裡面有各種武器，包括昇華武器。"
     }
   },
   "abyssalCache": {
-    "name": "Abyssal Cache",
+    "name": "深淵儲物箱",
     "description": {
-      "general": "Contains Weapons with Chance for Basic Adept Mods"
+      "general": "內含武器，且有機率附帶基礎行家模組。"
     }
   },
   "adeptCannonStrongbox": {
-    "name": "Adept Cannon Strongbox",
+    "name": "行家大炮保險箱",
     "description": {
-      "general": "Contains a Cannonball type weapon with a Basic Adept Mod"
+      "general": "內含炮彈類型武器，且附帶基礎行家模組。"
     }
   },
   "maelstromCannonStrongbox": {
-    "name": "Maelstrom Cannon Strongbox",
+    "name": "渦流大炮保險箱",
     "description": {
-      "general": "Contains Cannonball type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+      "general": "內含武器，且有機率附帶基礎與進階行家模組，以及獨家神話模組。"
     }
   },
   "maelstromBallistaStrongbox": {
-    "name": "Maelstrom Ballista Strongbox",
+    "name": "渦流弩炮保險箱",
     "description": {
-      "general": "Contains Ballista type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+      "general": "內含武器，且有機率附帶基礎與進階行家模組，以及獨家神話模組。"
     }
   },
   "blackFlagCosmeticsChest": {

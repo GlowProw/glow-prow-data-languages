@@ -1,6 +1,6 @@
 {
   "root": {
-    "name": "Player"
+    "name": "玩家"
   },
   "improvedLaboratoryEquipment": {
     "name": "Improved Laboratory Equipment",
@@ -11,7 +11,7 @@
     }
   },
   "masterApothecaries": {
-    "name": "Master Apothecaries",
+    "name": "藥劑大師",
     "effects": {
       "1": "Adds a 10% chance to produce an additional item when refining Helm Wares in the Laboratory",
       "2": "Adds a 20% chance to produce an additional item when refining Helm Wares in the Laboratory",
@@ -27,7 +27,7 @@
     }
   },
   "insideIntel": {
-    "name": "Inside Intel",
+    "name": "內線情報",
     "effects": {
       "1": "Ihcreases the amount of Raw Helm Materials ailable for the taking when plundering forts by 15%",
       "2": "Ihcreases the amount of Raw Helm Materials ailable for the taking when plundering forts by 25%",
@@ -35,7 +35,7 @@
     }
   },
   "betterOeals": {
-    "name": "Better Oeals",
+    "name": "划算買賣",
     "effects": {
       "1": "Increases the amount of Eights offered in Orders by 25%",
       "2": "Increases the amount of Eights offered in Orders by 50%",
@@ -43,7 +43,7 @@
     }
   },
   "bloodiedOrders": {
-    "name": "Bloodied Orders",
+    "name": "染血的訂單",
     "effects": {
       "1": "Pillage hidden wares from Overseas Smugglers by boarding them during Raving Orders. Increases Pieces of Eight rewards from boarding by 50% for new Roving Orders.",
       "2": "Pillage hidden wares from Overseas Smugglers by boarding them during Raving Orders. Increases Pieces of Eight rewards from boarding by 75% for new Roving Orders.",
@@ -57,7 +57,7 @@
     }
   },
   "masterDistillers": {
-    "name": "Master Distillers",
+    "name": "蒸餾大師",
     "effects": {
       "1": "1",
       "2": "2",
@@ -73,7 +73,7 @@
     }
   },
   "rogueScavenger": {
-    "name": "Rogue Scavenger",
+    "name": "海寇搜刮者",
     "effects": {
       "1": "1",
       "2": "2",
@@ -81,7 +81,7 @@
     }
   },
   "primeTargets": {
-    "name": "Prime Targets",
+    "name": "高價值目標",
     "effects": {
       "1": "1",
       "2": "2",
@@ -89,7 +89,7 @@
     }
   },
   "bulkOffers": {
-    "name": "Bulk Offers",
+    "name": "大批供貨",
     "effects": {
       "1": "1",
       "2": "2",
@@ -97,14 +97,14 @@
     }
   },
   "ruthlessDeals": {
-    "name": "Ruthless Deals",
+    "name": "無情買賣",
     "effects": {
       "1": "Pillage hidden materials from Helm Liaisons by boarding them during Roving Supply Deals. Increases Helm raw material rewards from boarding by 10% for new Roving Supply Deals.",
       "2": "Pillage hidden materials from Helm Liaisons by boarding them during Roving Supply Deals. Increases Helm raw material rewards from boarding by 20% for new Roving Supply Deals."
     }
   },
   "gangButcher": {
-    "name": "Gang Butcher",
+    "name": "幫派屠夫",
     "effects": {
       "1": "Deter rogue ambushers by eliminating their fleets. Completing Rogue Hunts reduces Death Mark duration by 10 minutes",
       "2": "Deter rogue ambushers by eliminating their fleets. Completing Rogue Hunts reduces Death Mark duration by 20 minutes",
@@ -112,7 +112,7 @@
     }
   },
   "manufactoryExpansion": {
-    "name": "Manufactory Expansion",
+    "name": "製造廠擴張",
     "effects": {
       "general": "Increases the maximum upgradeable level of {faction} Manufactories by {index}"
     }
@@ -125,7 +125,7 @@
     }
   },
   "refinedMaterialProduction": {
-    "name": "Refined Material Production",
+    "name": "精製材料生產",
     "effects": {
       "general": "Unlocks production of refined materials at Manufactories located in Clan of Fara resource settlements"
     }
@@ -138,7 +138,7 @@
     }
   },
   "processBreakthrough-refined": {
-    "name": "Process Breakthrough (Refined)",
+    "name": "工序突破（精製）",
     "effects": {
       "1": "Increases production rate of refined materials at {faction} manufactories by 10%",
       "2": "Increases production rate of refined materials at {faction} manufactories by 20%",
@@ -146,7 +146,7 @@
     }
   },
   "processBreakthrough-specialized": {
-    "name": "Process Breakthrough (Specialized)",
+    "name": "工序突破（特化）",
     "effects": {
       "1": "Increases production rate of specialized materials at {faction} manufactories by 10%",
       "2": "Increases production rate of specialized materials at {faction} manufactories by 20%",
@@ -154,13 +154,13 @@
     }
   },
   "refinedSpecializedMaterialProductionRefined": {
-    "name": "Refined Specialized Material Production Refined",
+    "name": "精製特化材料生產",
     "effects": {
       "general": "Unlocks production of refined specialized materials at manufactories located in {faction} settlements"
     }
   },
   "exoticMaterialProduction": {
-    "name": "Exotic Material Production",
+    "name": "異國材料生產",
     "effects": {
       "general": "Unlocks production of exotic materials at Manufactories located in the Clan of Fara capital settlement"
     }
@@ -172,7 +172,7 @@
     }
   },
   "ascensionModuleProduction": {
-    "name": "Ascension Module Production",
+    "name": "昇華模組生產",
     "effects": {
       "general": "Unlocks production of Ascension Modules at Manufactories located in the {faction} capital settlement"
     }
@@ -185,13 +185,13 @@
     }
   },
   "improvedEquipment": {
-    "name": "Improved Equipment",
+    "name": "改良設備",
     "effects": {
       "general": "Adds a production cost reduction bonus of 3% per Manufactory level (starting from Level 2), up to a maximum of 12%"
     }
   },
   "empireAdministration": {
-    "name": "Empire Administration",
+    "name": "帝國行政",
     "effects": {
       "general": "Increases the maximum number of owned Manufactories by {index}"
     }
@@ -203,7 +203,7 @@
     }
   },
   "dependableLaborers": {
-    "name": "Dependable Laborers",
+    "name": "可靠的勞工",
     "effects": {
       "general": "Adds a production rate bonus of 3% per Manufactory level (starting from Level 2), up to a maximum of 12%"
     }
@@ -215,7 +215,7 @@
     }
   },
   "upgradePartProduction": {
-    "name": "Upgrade Part Production",
+    "name": "升級零件生產",
     "effects": {
       "general": "Unlocks production of Upgrade Parts at Manufactories located in the {faction} capital settlement"
     }
@@ -227,7 +227,7 @@
     }
   },
   "refinedSpecializedMaterialProduction": {
-    "name": "Refined Specialized Material Production",
+    "name": "精製特化材料生產",
     "effects": {
       "general": "Unlocks production of refined specialized materials at manufactories located in {faction} settlements"
     }
@@ -245,7 +245,7 @@
     }
   },
   "processBreakthrough-refinedSpecialized": {
-    "name": "Process Breakthrough (Refined Specialized)",
+    "name": "工序突破（精製特化）",
     "effects": {
       "1": "Increases production rate of refined specialized materials at {faction} manufactories by 10%",
       "2": "Increases production rate of refined specialized materials at {faction} manufactories by 20%",
@@ -259,13 +259,13 @@
     }
   },
   "coerciveGrowth": {
-    "name": "Coercive Growth",
+    "name": "高壓成長",
     "effects": {
       "general": "Completing Takeover Oprtutis trgeting owned Manfactories upgrades the Manufactory by level up to level 4 "
     }
   },
   "manufactoryFortification": {
-    "name": "Manufactory Fortification",
+    "name": "製造廠防禦工事",
     "effects": {
       "1": "Increases resilience of manufactories located within owned territories by 10%",
       "2": "Increases resilience of manufactories located within owned territories by 20%",
@@ -273,13 +273,13 @@
     }
   },
   "territorialDominance": {
-    "name": "Territorial Dominance",
+    "name": "地盤主宰",
     "effects": {
       "general": "Reduces global production cost by 0.5% for every owned territory"
     }
   },
   "savvyTraders": {
-    "name": "Savvy Traders",
+    "name": "精明商人",
     "effects": {
       "1": "1",
       "2": "2",
@@ -287,7 +287,7 @@
     }
   },
   "efficientShipping": {
-    "name": "Efficient Shipping",
+    "name": "高效率運輸",
     "effects": {
       "1": "Reduces Transportation Time by 20%",
       "2": "Reduces Transportation Time by 40%",
@@ -295,7 +295,7 @@
     }
   },
   "tradeDominance": {
-    "name": "Trade Dominance",
+    "name": "貿易主宰",
     "effects": {
       "general": "Ihcreases global production rate by 0.1% for every established trade route"
     }

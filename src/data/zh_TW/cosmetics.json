@@ -1506,7 +1506,7 @@
     }
   },
   "venomAndBile": {
-    "name": "Venom & Bile",
+    "name": "毒液與膽汁",
     "description": {
       "general": "以腐爛顏色昭示著敵人的殞落。"
     }
@@ -3384,7 +3384,7 @@
     }
   },
   "bloodAndFlames": {
-    "name": "Blood & Flames",
+    "name": "鮮血與焰火",
     "description": {
       "general": "放心，不會用到你自己的頭髮。"
     }
@@ -4032,7 +4032,7 @@
     }
   },
   "coxwainNeckwear": {
-    "name": "Coxwain Neckwear",
+    "name": "艇長頸部衣著",
     "description": {
       "general": "能帶來好運，代表著顯赫地位的稀有硬幣。"
     }

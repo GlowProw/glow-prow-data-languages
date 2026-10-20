@@ -3,88 +3,96 @@
     "description": "The crimson tide rises, and with it, the most ruthless pirates, fearsome sea monsters, and legendary warships the Indian Ocean has ever seen. Battle through the Darktide, face formidable Seasonal Bosses, and claim your glory on these blood-soaked waters.",
     "data": {
       "darktideLullaby": {
-        "name": "Darktide Lullaby",
-        "description": "Time-Limited Event\nDefeat Darktide Roamers for rewards"
+        "name": "暗潮搖籃曲",
+        "description": "限時活動\n擊敗暗潮漂泊者，獲取獎勵"
       },
       "factionWar": {
-        "name": "Faction War",
-        "description": "Faction War"
+        "name": "勢力戰爭",
+        "description": "勢力戰爭"
       },
       "commanderZhang": {
-        "name": "Commander Zhang",
-        "description": "Seasonal Boss"
+        "name": "張指揮官",
+        "description": "菁英戰艦"
       },
       "philippeLaPeste": {
-        "name": "Philippe La Peste",
-        "description": "Seasonal Boss"
+        "name": "「瘟疫」菲利普",
+        "description": "賽季首領"
       },
       "theSoleilRoyal": {
-        "name": "The Soleil Royal",
-        "description": "Elite Warship"
+        "name": "皇陽號",
+        "description": "菁英戰艦"
       },
       "infamyBoost": {
-        "name": "Infamy Boost",
-        "description": "Special Weekend Event"
+        "name": "惡名加成",
+        "description": "週末活動"
       },
       "vikramRajan": {
-        "name": "Vikram Rajan",
-        "description": "Seasonal Boss"
+        "name": "維克拉姆．拉詹",
+        "description": "賽季首領"
       },
       "jonasVanderkill": {
-        "name": "Jonas Vanderkill",
-        "description": "Elite Warship"
+        "name": "「狂殺」約拿",
+        "description": "菁英戰艦"
       },
       "darktideBoost": {
-        "name": "Darktide Boost",
-        "description": "Special Weekend Event"
+        "name": "暗潮加成",
+        "description": "特別週末活動"
       },
       "theKraken": {
-        "name": "The Kraken",
-        "description": "Sea Monster"
+        "name": "克拉肯",
+        "description": "海怪"
       },
       "elderShadowbeast": {
-        "name": "Elder Shadowbeast",
-        "description": "Seasonal Boss"
+        "name": "上古暗影怪獸",
+        "description": "空之巨蛇"
       },
       "gloryAdornedResynced": {
-        "name": "Glory Adorned: Resynced",
-        "description": "Time-Limited Event"
+        "name": "榮耀裝飾：同步重置",
+        "description": "限時活動"
       },
       "abyssalEnvoy": {
-        "name": "Abyssal Envoy",
-        "description": "New Elite Warship"
+        "name": "深淵使者",
+        "description": "新菁英戰艦"
       },
       "piecesOfEightBoost": {
-        "name": "Pieces of Eight Boost",
-        "description": "Special Event"
+        "name": "八里亞爾銀圓加成",
+        "description": "特殊事件"
       },
       "gildmarksBoost": {
-        "name": "Gildmarks Boost",
-        "description": "Special Event"
+        "name": "鑲金印記加成",
+        "description": "特殊事件"
       },
       "smugglerBoost": {
-        "name": "Smuggler Boost",
-        "description": "Special Event"
+        "name": "走私者點數加成",
+        "description": "特殊事件"
       },
       "theRovingLost": {
         "name": "The Roving Lost",
-        "description": "Time-Limited Event"
+        "description": "限時活動\n擊敗散播恐懼的幽靈船"
       },
       "zamaharibu": {
-        "name": "Zamaharibu",
-        "description": "Sea Monster"
+        "name": "滅世龍",
+        "description": "海怪"
       },
       "rovingLostBoost": {
         "name": "Roving Lost Boost",
-        "description": "Special Event"
+        "description": "特殊事件"
       },
       "theOpwelling": {
-        "name": "The Opwelling",
-        "description": "Elite Warship"
+        "name": "歐普威林號",
+        "description": "菁英戰艦"
       },
       "helmBoost": {
-        "name": "Helm Boost",
-        "description": "Special Event"
+        "name": "「掌舵者」加成",
+        "description": "特殊事件"
+      },
+      "abyssalEssenceBoost": {
+        "name": "深淵精華增益",
+        "description": "特殊事件"
+      },
+      "silverBoost": {
+        "name": "銀幣加成",
+        "description": "特殊事件"
       }
     }
   },
@@ -102,14 +110,14 @@
         "name": "Shadow Dragon's Arrival"
       },
       "ferventBootleggerNickname": {
-        "name": "Fervent Bootlegger",
-        "description": "Limited-time Event"
+        "name": "瘋狂私酒販子",
+        "description": "限時事件"
       },
       "witchHunter": {
-        "name": "Witch Hunter"
+        "name": "「獵狼者」"
       },
       "theKingOfPlagues": {
-        "name": "King of Plagues"
+        "name": "疫病之王"
       },
       "chasingDestinyMelodicSilence": {
         "name": "Chasing Destiny: Melodic Silence",
@@ -117,7 +125,7 @@
       },
       "sufferingShip": {
         "name": "S.S. Suffering",
-        "description": "Elite Warship"
+        "description": "菁英戰艦"
       },
       "doubleSilverCoins": {
         "name": "Double Silver Coins",
@@ -125,18 +133,18 @@
       },
       "revengeOfTheBeast": {
         "name": "Beast's Revenge",
-        "description": "Sea Monster"
+        "description": "海怪"
       },
       "mahayama": {
-        "name": "Mahayama",
+        "name": "摩訶薩耶",
         "description": "Seasonal Boss"
       },
       "gloryUponOnesShoulders": {
-        "name": "Glory Upon Shoulders",
-        "description": "Limited-time Event"
+        "name": "榮耀裝飾",
+        "description": "限時事件"
       },
       "eightRupees": {
-        "name": "Eight Reales",
+        "name": "八里亞爾銀圓",
         "description": "Weekend Event"
       },
       "shroudingTheSunAndTerrifyingShadows": {
@@ -144,40 +152,40 @@
         "description": "Seasonal Boss"
       },
       "fromTheAbyss": {
-        "name": "From the Abyss",
-        "description": "Elite Warship"
+        "name": "來自深淵",
+        "description": "菁英戰艦"
       },
       "doubleGoldMark": {
         "name": "Double Gold Mark",
         "description": "Weekend Event"
       },
       "mistyRequiem": {
-        "name": "Misty Requiem",
-        "description": "Limited-time Event"
+        "name": "暗潮搖籃曲",
+        "description": "限時事件"
       },
       "ghostlyGapingMouth": {
         "name": "Ghostly Gaping Maw",
-        "description": "Sea Monster"
+        "description": "海怪"
       },
       "enmityAndAnger": {
         "name": "Enmity and Wrath",
-        "description": "Sea Monster"
+        "description": "海怪"
       },
       "toothEnhancementBonus": {
         "name": "Fang Enhancement Bonus",
         "description": "Weekend Event"
       },
       "royalSunray": {
-        "name": "Royal Sunray",
-        "description": "Elite Warship"
+        "name": "皇陽號",
+        "description": "菁英戰艦"
       },
       "decayedFortress": {
-        "name": "Decayed Fortress",
+        "name": "病害堡壘",
         "description": "Returning Boss"
       },
       "impulse": {
-        "name": "Impulse",
-        "description": "Elite Warship"
+        "name": "歐普威林號",
+        "description": "菁英戰艦"
       }
     }
   },
@@ -185,7 +193,7 @@
     "description": "As the Faction War rages on, where will your loyalties lie? Pick a side: Dutch Merchant Company or French Compagnie Royale. Win territories, earn war assets, and fight for ultimate victory in Guts and Glory. ",
     "data": {
       "factionWar": {
-        "name": "Faction War",
+        "name": "勢力戰爭",
         "description": "New Feature\nParticipate in the war between the Dutch Trading Company and the Royal Company to earn rewards"
       },
       "drowningPlague": {
@@ -193,7 +201,7 @@
         "description": ""
       },
       "theGreatShadow": {
-        "name": "The Great Shadow",
+        "name": "「大黑影」",
         "description": ""
       },
       "theRovingLost": {
@@ -201,64 +209,64 @@
         "description": ""
       },
       "gloryAdored": {
-        "name": "Glory Adored",
-        "description": "Limited-time Event"
+        "name": "榮耀裝飾",
+        "description": "限時事件"
       },
       "rewardBoost": {
-        "name": "Reward Boost",
-        "description": "Special Event"
+        "name": "獎勵加成",
+        "description": "特殊事件"
       },
       "theMizerja": {
-        "name": "The Mizerja",
-        "description": "Elite Warship"
+        "name": "苦難號",
+        "description": "菁英戰艦"
       },
       "theShadowBeasts": {
         "name": "The Shadow Beasts",
         "description": "Celestial Dragon Eclipses the Sun"
       },
       "theSerpentsWrath": {
-        "name": "The Serpent's Wrath",
+        "name": "蛟龍之怒",
         "description": "Season Boss"
       },
       "gildMarksBoost": {
-        "name": "Gild Marks Boost",
-        "description": "Special Event"
+        "name": "鑲金印記加成",
+        "description": "特殊事件"
       },
       "revenantsFury": {
         "name": "Revenant's Fury",
-        "description": "Sea Monster"
+        "description": "海怪"
       },
       "reaversRevenge": {
         "name": "Reaver's Revenge",
-        "description": "Sea Monster"
+        "description": "海怪"
       },
       "theSoleilRoyal": {
-        "name": "The Soleil Royal",
-        "description": "Elite Warship"
+        "name": "皇陽號",
+        "description": "菁英戰艦"
       },
       "helmRoost": {
-        "name": "Helm Roost",
-        "description": "Special Event"
+        "name": "「掌舵者」加成",
+        "description": "特殊事件"
       },
       "smugglerBoost": {
-        "name": "Smuggler Boost",
-        "description": "Special Event"
+        "name": "走私者點數加成",
+        "description": "特殊事件"
       },
       "theWolfHunter": {
-        "name": "The Wolf Hunter",
-        "description": "Elite Warship"
+        "name": "「獵狼者」",
+        "description": "菁英戰艦"
       },
       "azureSolstice": {
-        "name": "Azure Solstice",
-        "description": "Limited-time Event"
+        "name": "蔚藍冬日",
+        "description": "限時事件"
       },
       "theOpwelling": {
-        "name": "The Opwelling",
-        "description": "Elite Warship"
+        "name": "歐普威林號",
+        "description": "菁英戰艦"
       },
       "gloryAdorned": {
-        "name": "Glory Adorned",
-        "description": "Limited-time Event"
+        "name": "榮耀裝飾",
+        "description": "限時事件"
       }
     }
   },

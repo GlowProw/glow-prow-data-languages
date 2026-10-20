@@ -1,306 +1,306 @@
 {
   "laBastide": {
-    "name": "La Bastide"
+    "name": "拉巴斯蒂德"
   },
   "oostenCapital": {
-    "name": "Oosten Capital"
+    "name": "奧斯騰首都"
   },
   "sunyCapital": {
-    "name": "Suny Capital"
+    "name": "蘇尼首都"
   },
   "teninaTown": {
-    "name": "Tenina Town"
+    "name": "特尼納鎮"
   },
   "ankohonana": {
-    "name": "Ankohonana"
+    "name": "安科霍納納"
   },
   "jiwe": {
-    "name": "Jiwé"
+    "name": "吉威"
   },
   "sainteAnne": {
-    "name": "Den Saint Anne"
+    "name": "聖亞納"
   },
   "telokPenjarah": {
     "name": "Den Telok Penjarah"
   },
   "guerande": {
-    "name": "Guérande"
+    "name": "蓋朗德"
   },
   "sainteAmelie": {
-    "name": "Sainte-Amélie"
+    "name": "聖艾蜜莉"
   },
   "laar": {
-    "name": "Laar"
+    "name": "拉爾"
   },
   "kampongSubur": {
-    "name": "Kampong Subur"
+    "name": "豐收村"
   },
   "kencur": {
-    "name": "Kencur"
+    "name": "「山柰」"
   },
   "kotaLama": {
-    "name": "Kota Lama"
+    "name": "古都"
   },
   "damai": {
-    "name": "Damai"
+    "name": "「和平」"
   },
   "sangdad": {
-    "name": "Sangdad"
+    "name": "桑達"
   },
   "hovohovo": {
-    "name": "Hovohovo"
+    "name": "霍沃霍沃"
   },
   "tanjona": {
-    "name": "Tanjona"
+    "name": "「岬」"
   },
   "palisadeBay": {
-    "name": "Palisade Bay"
+    "name": "柵欄灣"
   },
   "sitrana": {
-    "name": "Sitrana"
+    "name": "「療癒」"
   },
   "shijavu": {
-    "name": "Shijavu"
+    "name": "希賈伍"
   },
   "mchanga": {
-    "name": "Mchanga"
+    "name": "「黃沙」"
   },
   "pembe": {
-    "name": "Pembe"
+    "name": "「粉紅」"
   },
   "wavuviIsland": {
-    "name": "Wavuvi Island"
+    "name": "漁夫島"
   },
   "kusini": {
-    "name": "Kusini"
+    "name": "「南向」"
   },
   "bandari": {
-    "name": "Bandari"
+    "name": "班得瑞"
   },
   "harufu": {
-    "name": "Harufu"
+    "name": "「香氣」"
   },
   "laColonie": {
-    "name": "La Colonie"
+    "name": "「殖民地」"
   },
   "portDesMines": {
-    "name": "Port des Mines"
+    "name": "礦港"
   },
   "fondDeLaBaie": {
-    "name": "Fond-de-la-Baie"
+    "name": "灣底"
   },
   "granbie": {
-    "name": "Granbie"
+    "name": "格蘭比"
   },
   "laDa": {
-    "name": "LaDa"
+    "name": "拉達"
   },
   "fonderieRoyale": {
-    "name": "Fonderie Royale"
+    "name": "皇家鍛造廠"
   },
   "duisterEastFoundry": {
-    "name": "Duister East Foundry"
+    "name": "黑暗之地東部鍛造廠"
   },
   "duisterWestFoundry": {
-    "name": "Duister West Foundry"
+    "name": "黑暗之地西部鍛造廠"
   },
   "duisterNorthFoundry": {
-    "name": "Duister North Foundry"
+    "name": "黑暗之地北部鍛造廠"
   },
   "trisulaFoundry": {
-    "name": "Trisula Foundry"
+    "name": "三叉戟鍛造廠"
   },
   "ladaFoundry": {
-    "name": "Lada Foundry"
+    "name": "拉達鍛造廠"
   },
   "kotaLamaFoundry": {
-    "name": "Kota Lama Foundry"
+    "name": "古都鍛造廠"
   },
   "southDamaiFoundry": {
-    "name": "South Damai Foundry"
+    "name": "「和平」南部鍛造廠"
   },
   "sunyFoundry": {
-    "name": "Suny Foundry"
+    "name": "蘇尼鍛造廠"
   },
   "sadjoaFoundry": {
-    "name": "Sadjoa Foundry"
+    "name": "薩喬亞鍛造廠"
   },
   "tambyFoundry": {
-    "name": "Tamby Foundry"
+    "name": "湯比鍛造廠"
   },
   "pembeFoundry": {
-    "name": "Pembe Foundry"
+    "name": "「粉紅」鍛造廠"
   },
   "jiweFoundry": {
-    "name": "Jiwé Foundry"
+    "name": "吉威鍛造廠"
   },
   "wawuviFoundry": {
-    "name": "Wawuvi Foundry"
+    "name": "瓦烏維鍛造廠"
   },
   "mumaliFoundry": {
-    "name": "Mumali Foundry"
+    "name": "木麻里鍛造廠"
   },
   "northDamaiFoundry": {
-    "name": "North Damai Foundry"
+    "name": "「和平」北部鍛造廠"
   },
   "duBoisLumberyard": {
-    "name": "Du Bois Lumberyard"
+    "name": "「好木」木材場"
   },
   "laarSouthLumbery": {
-    "name": "Laar South Lumberyard"
+    "name": "拉爾南部木材場"
   },
   "laarWestLumbery": {
-    "name": "Laar West Lumberyard"
+    "name": "拉爾西部木材場"
   },
   "suburLumberyard": {
-    "name": "Subur Lumberyard"
+    "name": "豐收木材場"
   },
   "kencurLumberyard": {
-    "name": "Kencur Lumberyard"
+    "name": "「山柰」木材場"
   },
   "suntLumberyard": {
-    "name": "Sunt Lumberyard"
+    "name": "蘇尼木材場"
   },
   "tankazoLumberyard": {
-    "name": "Tankazo Lumberyard"
+    "name": "譚加索木材場"
   },
   "tsifoLumberyard": {
-    "name": "Tsifo Lumberyard"
+    "name": "西福木材場"
   },
   "kambiLumberyard": {
-    "name": "Kambi Lumberyard"
+    "name": "「營地」木材場"
   },
   "harufuLumberyard": {
-    "name": "Harufu Lumberyard"
+    "name": "「香氣」木材場"
   },
   "rondavelsLumberyard": {
-    "name": "Rondavels Lumberyard"
+    "name": "「圓茅屋」木材場"
   },
   "kotaLamaLumberyard": {
-    "name": "Kota Lama Lumberyard"
+    "name": "古都木材場"
   },
   "kencurWeaver": {
-    "name": "Kencur Weaver"
+    "name": "「山柰」編織坊"
   },
   "southSunyWeaver": {
-    "name": "South Suny Weaver"
+    "name": "蘇尼南部編織坊"
   },
   "northSunyWeaver": {
-    "name": "North Suny Weaver"
+    "name": "蘇尼北部編織坊"
   },
   "raofiaWeaver": {
-    "name": "Raofia Weaver"
+    "name": "酒椰編織坊"
   },
   "lambaWeaver": {
-    "name": "Lamba Weaver"
+    "name": "蘭巴編織坊"
   },
   "jiweWeaver": {
-    "name": "Jiwe Weaver"
+    "name": "吉威編織坊"
   },
   "harufuWeaver": {
-    "name": "Harufu Weaver"
+    "name": "「香氣」編織坊"
   },
   "laCordeWeaver": {
-    "name": "La Corde Weaver"
+    "name": "「繩索」編織坊"
   },
   "pilotBayWeaver": {
-    "name": "Pilot Bay Weaver"
+    "name": "領航灣編織坊"
   },
   "fortDuLys": {
-    "name": "Fort Du Lys"
+    "name": "百合要塞"
   },
   "fortDuister": {
-    "name": "Fort Duister"
+    "name": "黑暗之地要塞"
   },
   "megafortOosten": {
-    "name": "Megafort Oosten"
+    "name": "奧斯騰超級要塞"
   },
   "fortPremie": {
-    "name": "Fort Premie"
+    "name": "初生要塞"
   },
   "fortPrakoso": {
-    "name": "Fort Prakoso"
+    "name": "普拉科索要塞"
   },
   "fortHarimau": {
-    "name": "Fort Harimau"
+    "name": "老虎要塞"
   },
   "fortGranbie": {
-    "name": "Fort Granbie"
+    "name": "格蘭比要塞"
   },
   "fortDuBout": {
-    "name": "Fort Du Bout"
+    "name": "穿天要塞"
   },
   "grandFort": {
-    "name": "Grand Fort"
+    "name": "天大要塞"
   },
   "bukitCandi": {
-    "name": "Outpost Bukit Candi"
+    "name": "山丘禪邸"
   },
   "theOubliette": {
-    "name": "Outpost The Oubliette"
+    "name": "「地牢」"
   },
   "grandeFalaise": {
-    "name": "Outpost Grande Falaise"
+    "name": "大法萊斯"
   },
   "dutchmansCamp": {
-    "name": "Outpost Dutchman's Camp"
+    "name": "荷蘭人營地"
   },
   "kokokTerapung": {
-    "name": "Outpost Kokok Terapung"
+    "name": "咯咯特阿鵬"
   },
   "returnFleetBight": {
-    "name": "Outpost Return Fleet Bight"
+    "name": "歸艦灣"
   },
   "threeBrothers": {
     "name": "Outpost Three Brothers"
   },
   "moyenneCrique": {
-    "name": "Outpost Moyenne Crique"
+    "name": "均等水灣"
   },
   "ileMichel": {
-    "name": "Outpost Île Michel"
+    "name": "米歇爾島"
   },
   "theForgottenCandi": {
-    "name": "Outpost The Forgotten Candi"
+    "name": "廢棄禪邸"
   },
   "ruinedLighthouse": {
-    "name": "Outpost The Ruined Lighthouse"
+    "name": "廢棄燈塔"
   },
   "parujarsCry": {
     "name": "Outpost Parujar's Cry"
   },
   "karstLookout": {
-    "name": "Outpost Karst Lookout"
+    "name": "喀斯特暸望台"
   },
   "khmoyEstate": {
-    "name": "Outpost Khmoy Estate"
+    "name": "喀莫伊莊園"
   },
   "lostCityOfPrei": {
-    "name": "Outpost Lost City of Prei"
+    "name": "失落之城普雷"
   },
   "ruinsOfLukKhun": {
-    "name": "Outpost Ruins of Luk Khun"
+    "name": "陸冠遺跡"
   },
   "fortLouis": {
-    "name": "Outpost Fort Louis"
+    "name": "路易要塞"
   },
   "royalBurialGround": {
-    "name": "Outpost Royal Burial Ground"
+    "name": "皇家墓園"
   },
   "sacredTree": {
-    "name": "Outpost Sacred Tree"
+    "name": "「聖樹」"
   },
   "varonaFalls": {
-    "name": "Outpost Vorona Falls"
+    "name": "沃羅納瀑布"
   },
   "lanitra": {
-    "name": "Outpost Lanitra"
+    "name": "拉尼特拉"
   },
   "dragonsBack": {
-    "name": "Outpost Dragon's Back"
+    "name": "「龍脊」"
   },
   "pillarTomb": {
-    "name": "Outpost Pillar Tomb"
+    "name": "墩柱陵墓"
   },
   "theNavigatorsCross": {
     "name": "Outpost The Navigator's Cross"
@@ -309,30 +309,30 @@
     "name": "Outpost Sunken Goldmine"
   },
   "poachersCache": {
-    "name": "Outpost Poacher's Cache"
+    "name": "盜獵者藏身處"
   },
   "kaaMangrove": {
-    "name": "Outpost Kaa Mangrove"
+    "name": "卡阿紅樹林"
   },
   "eldersCave": {
     "name": "Outpost Elder's Cave"
   },
   "greatUkuta": {
-    "name": "Outpost Great Ukuta"
+    "name": "大烏庫塔"
   },
   "kelelawarChamber": {
-    "name": "Outpost Kelelawar Chamber"
+    "name": "蝙蝠洞窟"
   },
   "motherOfShipwrecks": {
-    "name": "Outpost Mother of Shipwrecks"
+    "name": "「沉船之母」"
   },
   "rangnokCave": {
-    "name": "Outpost Rangnok Cave"
+    "name": "瑞格納洞窟"
   },
   "theNecropolis": {
-    "name": "Outpost The Necropolis"
+    "name": "大墓地"
   },
   "theWolvesHollow": {
-    "name": "The Wolves' Hollow"
+    "name": "狼窩之亂"
   }
 }

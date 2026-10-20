@@ -1,16 +1,16 @@
 {
   "anguishFromTheAbyss": {
     "name": "深淵悲鳴（紅色曼戈丁領地）",
-    "description": "曼戈丁，一個受困於自身痛苦的復仇幽靈，重返生者之海播撒它的苦痛。"
+    "description": "「女月神號」是被痛苦與復仇之心束縛的幽靈，它回來將船主的痛苦散播在生者之海。"
   },
   "tidesOfTerror": {
-    "name": "恐怖之潮"
+    "name": "恐怖浪潮"
   },
   "theMizerja": {
-    "name": "米澤賈"
+    "name": "苦難號"
   },
   "theOpwelling": {
-    "name": "衝動號"
+    "name": "歐普威林號"
   },
   "thePlagueKing": {
     "name": "瘟疫之王（拉佩斯特領地）"
@@ -28,13 +28,13 @@
     "name": "詭計指引"
   },
   "symphonieMortelle": {
-    "name": "死亡交響"
+    "name": "致命交響曲"
   },
   "verseOfVengeance": {
-    "name": "復仇詩篇"
+    "name": "復仇詩歌"
   },
   "verseOfRemorse": {
-    "name": "悔恨詩篇"
+    "name": "悔恨詩歌"
   },
   "riskTheRisingTide": {
     "name": "冒著漲潮的危險"
@@ -44,10 +44,10 @@
   },
   "chorusOfHavoc": {
     "name": "浩劫合唱（于巴克雙子領地）",
-    "description": "法國公司的利劍與長矛——于巴克雙子正處於其實力頂峰。是時候主動迎戰他們，阻止他們的推進了。"
+    "description": "皇司的劍與矛——胡巴奇雙胞胎——的力量如日中天。是時候攻打他們並阻止他們進犯了。"
   },
   "divineRetribution": {
-    "name": "神聖懲罰"
+    "name": "神聖報應"
   },
   "opulentOpportunity": {
     "name": "富裕的良機"
@@ -56,25 +56,25 @@
     "name": "東方交易"
   },
   "flamesOfTheDragon": {
-    "name": "龍之焰"
+    "name": "龍焰"
   },
   "theGloriousPhoenix": {
     "name": "榮耀鳳凰（李天寧領地）"
   },
   "theSerpentsWrath": {
-    "name": "怒蛇之憤"
+    "name": "蛟龍之怒"
   },
   "flamesOfThePhoenix": {
-    "name": "鳳凰烈焰"
+    "name": "鳳凰火"
   },
   "baitAndSwitch": {
-    "name": "誘餌與調包"
+    "name": "上鉤調包法"
   },
   "stolenTreasures": {
-    "name": "失竊寶藏"
+    "name": "失竊財寶"
   },
   "curseOfTheSchaduw": {
-    "name": "暗影的詛咒"
+    "name": "「影子」詛咒"
   },
   "theLoomingShadow": {
     "name": "逼近的陰影（維克拉姆·拉詹領地）"
@@ -86,7 +86,7 @@
     "name": "獵狼者"
   },
   "theAzureRoyale": {
-    "name": "蔚藍皇家"
+    "name": "蔚藍皇家號"
   },
   "theGreatShadow": {
     "name": "巨大的陰影（神話維克拉姆·拉詹）"
@@ -96,28 +96,28 @@
     "description": "有人在這些海域目擊到了萊斯塔里。但那隻巨獸有些反常，彷彿已被維克拉姆的影響所侵蝕污染。"
   },
   "payingDues": {
-    "name": "血債血償"
+    "name": "付出"
   },
   "scurlocksPrecious": {
-    "name": "斯克羅克的寶貝"
+    "name": "史柯洛克的珍寶"
   },
   "thickAsThieves": {
-    "name": "親密無間"
+    "name": "叛徒麻吉"
   },
   "gloryAdorned": {
-    "name": "榮耀加身"
+    "name": "榮耀裝飾"
   },
   "theHonorlessMizerja": {
-    "name": "無恥之徒：米澤賈"
+    "name": "「沉淪者」：苦難號"
   },
   "theHonorlessDianSinaga": {
-    "name": "無恥之徒：黛安·西納加"
+    "name": "「沉淪者」：黛安．辛納加"
   },
   "theHonorlessAhPak": {
-    "name": "無恥之徒：阿帕"
+    "name": "「沉淪者」：「阿伯」"
   },
   "shadesOfTheRonin": {
-    "name": "浪人陰影"
+    "name": "浪人之影"
   },
   "fangsOfTheFara": {
     "name": "法拉之牙（坦格納·拉貝）",
@@ -129,7 +129,7 @@
   },
   "watchTheThrone": {
     "name": "注視王座（阿帕）",
-    "description": "被稱為阿帕的鰻魚私掠者已抵達公海，企圖自立為巨頭之王。讓他見識一下誰才是公海真正的主宰。"
+    "description": "鰻幫海盜「阿伯」已經抵達無主海域，打算讓自己成為大人物中的大人物。讓他明白誰才是真正的海上霸主。"
   },
   "aTreacherousTurn": {
     "name": "奸詐反轉（黛安·西納加）",
@@ -141,7 +141,7 @@
   },
   "fromTheDeep": {
     "name": "來自深淵（庫哈里布）",
-    "description": "在公海中，多艘船隻失蹤。倖存者私下低語著關於「遠古恐懼」的傳說——某種從深淵中浮現的龐大怪物，將整艘船隻一口吞噬。"
+    "description": "無主海域有許多船隻都神祕地遭到摧毀，關於深海恐怖生物的謠言也隨之傳開。"
   },
   "profitablePoison": {
     "name": "有利可圖的毒藥"
@@ -157,11 +157,11 @@
   },
   "theVanishing": {
     "name": "消失（萊斯塔里）",
-    "description": "一隻巨大的鯊魚狀生物潛伏在海洋中搜尋獵物，威脅著貿易路線，令船員們膽戰心驚。"
+    "description": "有長得很像鯊魚的巨型生物在海中遊蕩尋找獵物，不僅威脅到貿易，還讓海員們耽驚受怕"
   },
   "silentDeath": {
     "name": "無聲死亡（超級萊斯塔里領地）",
-    "description": "在下方海域中發現了一個潛伏的黑影，一個來自深海遊弋徘徊的致命威脅……"
+    "description": "有人發現水面下方潛伏著一道陰影，是來自深淵的潛在威脅……"
   },
   "convoyOfHighSpirits": {
     "name": "情緒高昂的護衛隊"
@@ -176,7 +176,7 @@
     "name": "危險的獲利之路"
   },
   "maladiousMeasures": {
-    "name": "惡疾措施"
+    "name": "惡意決策"
   },
   "colonialShipment": {
     "name": "殖民地貨物"
@@ -191,76 +191,76 @@
     "name": "長征"
   },
   "theManicMoonshinerFleet": {
-    "name": "瘋狂私酒艦隊"
+    "name": "瘋狂私酒販子艦隊"
   },
   "deadMansMoonshine": {
-    "name": "死人私酒"
+    "name": "死人私釀"
   },
   "moonshineMadness": {
-    "name": "私酒瘋狂"
+    "name": "私酒之亂"
   },
   "bloodDrunk": {
     "name": "嗜血醉酒（加爾文·羅什）",
-    "description": "加爾文·羅什船長正在針對昂瓜納人進行酒後狂暴的殺戮與破壞。用砲火讓他清醒清醒，獲取賞金。"
+    "description": "「頑石」蓋爾文船長在喝醉酒後對烏瓜納人展開了一連串謀殺與破壞。用炮火讓他清醒一下並取得獎勵吧。"
   },
   "theWeepingMother": {
-    "name": "哭泣的母親"
+    "name": "哭泣之母"
   },
   "soleilRoyal": {
-    "name": "皇家太陽號"
+    "name": "皇陽號"
   },
   "reapItAndWeep": {
     "name": "收割與哭泣"
   },
   "reaperOfTheLost": {
-    "name": "迷失者的收割者"
+    "name": "遊魂收割者"
   },
   "azureHarbinger": {
-    "name": "蔚藍先驅"
+    "name": "蔚藍預兆者"
   },
   "warCargo": {
-    "name": "戰爭貨物"
+    "name": "戰爭貨品"
   },
   "warConvoy": {
-    "name": "戰爭護衛隊"
+    "name": "戰爭船隊"
   },
   "opstuwing": {
-    "name": "強力衝動號"
+    "name": "強大歐普威林號"
   },
   "soleilImperial": {
-    "name": "強力皇家太陽號"
+    "name": "強大皇陽號"
   },
   "kraken": {
     "name": "克拉肯",
-    "description": "在下方海域中發現了一個潛伏的黑影，一個來自深海遊弋徘徊的致命威脅……"
+    "description": "有人發現水面下方潛伏著一道陰影，是來自深淵的潛在威脅……"
   },
   "theDrowningPlague": {
     "name": "溺亡瘟疫（神話拉佩斯特）"
   },
   "jawsOfRetribution": {
     "name": "復仇之顎（扎瑪哈里布領地）",
-    "description": "該海域重大批船隻已被未知的敵人摧毀殆盡。"
+    "description": "地區內有大量船隻被不明的敵人摧毀了。"
   },
   "megafortWolvenhol": {
-    "name": "沃爾芬霍爾超級堡壘",
+    "name": "「狼窩」超級要塞",
     "description": "與其他5位船長結盟組隊，竊取超級堡壘內囤積的進階材料。"
   },
   "legendOfTheNian": {
-    "name": "年獸傳說"
+    "name": "「年」的傳說"
   },
   "crazedNian": {
-    "name": "發狂的年獸"
+    "name": "狂暴「年」"
   },
   "heraldsOfTheAbyss": {
     "name": "深淵先驅",
-    "description": "彼岸的陰影潛伏在現實邊緣。引出深淵艦隊，並將他們驅逐出這個世界。"
+    "description": "來自彼方的暗影潛伏在現實邊緣。引出「深淵艦隊」，將他們逐出這個領域。"
   },
   "abyssalEnvoy": {
-    "name": "深淵特使",
-    "description": "低語著毀滅的幽靈般恐怖之物從碎浪中浮現。那是預示著未來災厄的詛咒使者。"
+    "name": "深淵使者",
+    "description": "一道低語著毀滅的幽魂恐懼，自碎裂的潮汐中現身。那是未來災厄的詛咒先驅。"
   },
   "gloryAdornedResynced": {
-    "name": "榮耀加身：再同步",
-    "description": "留意身披獨特裝扮的商貿護衛隊。擊敗他們，就有機會為你的船隻贏取那些裝飾！"
+    "name": "榮耀裝飾：同步重置",
+    "description": "留意帶有獨特造型的商隊。擊敗他們就有機會替你的船隻取得造型！"
   }
 }
