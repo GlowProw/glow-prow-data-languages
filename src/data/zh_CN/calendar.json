@@ -12,7 +12,7 @@
             },
             "commanderZhang": {
                 "name": "张提督",
-                "description": "赛季首领"
+                "description": "精英战船"
             },
             "philippeLaPeste": {
                 "name": "菲力浦·拉佩斯特",
@@ -44,7 +44,7 @@
             },
             "elderShadowbeast": {
                 "name": "上古影龙",
-                "description": "赛季首领"
+                "description": "Sky Serpent"
             },
             "gloryAdornedResynced": {
                 "name": "荣耀加身：记忆重置",
@@ -68,7 +68,7 @@
             },
             "theRovingLost": {
                 "name": "彷徨游魂",
-                "description": "限时活动"
+                "description": "Time-Limited Event\nDefeat the spectral ships spreading terror"
             },
             "zamaharibu": {
                 "name": "萨马哈利布",
@@ -84,6 +84,14 @@
             },
             "helmBoost": {
                 "name": "海舵社加成",
+                "description": "特别活动"
+            },
+            "abyssalEssenceBoost": {
+                "name": "Abyssal Essence Boost",
+                "description": "特别活动"
+            },
+            "silverBoost": {
+                "name": "Silver Boost",
                 "description": "特别活动"
             }
         }
