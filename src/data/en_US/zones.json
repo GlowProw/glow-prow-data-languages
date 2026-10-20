@@ -14,5 +14,9 @@
   "innerEastAfrica": "Inner East Africa",
   "northernAfricaCoast": "Northern Africa Coast",
   "upperEastAfrica": "Upper East Africa",
-  "southernOpenSeas": "Southern Open Seas"
+  "southernOpenSeas": "Southern Open Seas",
+  "centralOpenSeas": "Central Open Seas",
+  "northEastRedIsle": "North-East Red Isle",
+  "northWestRedIsle": "North-West Red Isle",
+  "centralAfricaCoast": "Central Africa Coast"
 }
