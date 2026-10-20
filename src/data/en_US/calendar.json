@@ -12,7 +12,7 @@
             },
             "commanderZhang": {
                 "name": "Commander Zhang",
-                "description": "Seasonal Boss"
+                "description": "Elite Warship"
             },
             "philippeLaPeste": {
                 "name": "Philippe La Peste",
@@ -44,7 +44,7 @@
             },
             "elderShadowbeast": {
                 "name": "Elder Shadowbeast",
-                "description": "Seasonal Boss"
+                "description": "Sky Serpent"
             },
             "gloryAdornedResynced": {
                 "name": "Glory Adorned: Resynced",
@@ -68,7 +68,7 @@
             },
             "theRovingLost": {
                 "name": "The Roving Lost",
-                "description": "Time-Limited Event"
+                "description": "Time-Limited Event\nDefeat the spectral ships spreading terror"
             },
             "zamaharibu": {
                 "name": "Zamaharibu",
@@ -84,6 +84,14 @@
             },
             "helmBoost": {
                 "name": "Helm Boost",
+                "description": "Special Event"
+            },
+            "abyssalEssenceBoost": {
+                "name": "Abyssal Essence Boost",
+                "description": "Special Event"
+            },
+            "silverBoost": {
+                "name": "Silver Boost",
                 "description": "Special Event"
             }
         }
