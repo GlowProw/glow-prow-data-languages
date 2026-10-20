@@ -14,5 +14,9 @@
   "innerEastAfrica": "东非内陆",
   "northernAfricaCoast": "北非海岸",
   "upperEastAfrica": "东非北部",
-  "southernOpenSeas": "南部公海"
+  "southernOpenSeas": "南部公海",
+  "centralOpenSeas": "Central Open Seas",
+  "northEastRedIsle": "North-East Red Isle",
+  "northWestRedIsle": "North-West Red Isle",
+  "centralAfricaCoast": "Central Africa Coast"
 }
