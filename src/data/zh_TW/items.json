@@ -3362,5 +3362,35 @@
     "description": {
       "general": "An opulent chest which may contain cosmetics that are part of the Jackdaw Set."
     }
+  },
+  "mysteriousChest": {
+    "name": "Mysterious Chest",
+    "description": {
+      "general": "裡面會不會有什麼稀有的東西？"
+    }
+  },
+  "dominionOfRempahConvoyTreasureChest": {
+    "name": "Treasure Chest (Dominion of Rempah Convoy)",
+    "description": {
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
+    }
+  },
+  "clanOfFaraConvoyTreasureChest": {
+    "name": "Treasure Chest (Clan of Fara Convoy)",
+    "description": {
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
+    }
+  },
+  "confederationOfUngwanaConvoyTreasureChest": {
+    "name": "Treasure Chest (Confederation of Ungwana Convoy)",
+    "description": {
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
+    }
+  },
+  "dmcConvoyTreasureChest": {
+    "name": "Treasure Chest (DMC Convoy)",
+    "description": {
+      "general": "這個寶箱裡裝了什麼貴重物品呢？"
+    }
   }
 }

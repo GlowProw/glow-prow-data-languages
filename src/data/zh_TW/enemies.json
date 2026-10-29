@@ -1,0 +1,262 @@
+{
+  "tangenaRabe": {
+    "name": "「海檬果」拉貝",
+    "description": "「海檬果」拉貝船長，是法拉人對上世仇海人時的致命武器。她已經出現在法拉地盤，而且駕著強大的戰艦。"
+  },
+  "jokaKubwa": {
+    "name": "「大蛇」",
+    "description": "「大蛇」是個熱心、積極的烏瓜納官員，他想掃除海岸上所有的外來影響，不論對方是法國人或是海盜都一樣。他的船正在烏瓜納掌控的海域中航行。"
+  },
+  "ahPak": {
+    "name": "「阿伯」",
+    "description": "鰻幫海盜「阿伯」已經抵達無主海域，打算讓自己成為大人物中的大人物。讓他明白誰才是真正的海上霸主。"
+  },
+  "galvinRoche": {
+    "name": "「頑石」蓋爾文",
+    "description": "「頑石」蓋爾文船長在喝醉酒後對烏瓜納人展開了一連串謀殺與破壞。用炮火讓他清醒一下並取得獎勵吧。"
+  },
+  "dirkAnkeren": {
+    "name": "德克．安克恩",
+    "description": "接獲反抗勢力活動的通報後，荷商在盛怒之下派出了兇殘的打手「德克．安克恩」，希望能鞏固他們對地盤主張的所有權。他的船準備要進入荷商海域了。"
+  },
+  "dianSinaga": {
+    "name": "黛安．辛納加",
+    "description": "倫帕人發現他們自己人當中的黛安．辛納加船長，準備要為了銀子而將關鍵機密洩漏給荷商。她很快就會出現在倫帕地盤。"
+  },
+  "jonasVanderkill": {
+    "name": "「狂殺」約拿",
+    "description": "「狂殺」的荷商勢力已出現在附近，且即將抵達地區內，他們想尋找接近「影子」的方法。"
+  },
+  "theOpwelling": {
+    "name": "歐普威林號",
+    "description": "無主海域的局勢越來越緊繃，迫使荷商將他們的旗艦部署至地區內。那艘旗艦正在東印度進行巡邏。"
+  },
+  "commanderZhang": {
+    "name": "張指揮官",
+    "description": "擊沉龍爪幫領袖張指揮官，取得戰利品。"
+  },
+  "abyssalEnvoy": {
+    "name": "深淵使者",
+    "description": "一道低語著毀滅的幽魂恐懼，自碎裂的潮汐中現身。那是未來災厄的詛咒先驅。"
+  },
+  "bertrandHubac": {
+    "name": "伯特蘭．胡巴奇",
+    "description": "皇司派出了胡巴奇雙胞胎當中的「伯特蘭」來確保他們在印度洋的霸權。伯特蘭是個狡猾且致命的人物，因擅於從遠處祭出重擊而聞名。"
+  },
+  "vikramRajan": {
+    "name": "維克拉姆．拉詹（危險）",
+    "description": "「維克拉姆．拉詹」的領域。在這使用rebelliousSignal即可召喚「大黑影」。"
+  },
+  "liTianNing": {
+    "name": "黎天寧（危險）",
+    "description": "「黎天寧」的領域。在這使用rebelliousSignal即可召喚「天女」。"
+  },
+  "theHubacTwins": {
+    "name": "胡巴奇雙胞胎（危險）",
+    "description": "「胡巴奇雙胞胎」的領域。在這使用rebelliousSignal即可召喚「阿曼」與「伯特蘭」。"
+  },
+  "philippeLaPeste": {
+    "name": "「瘟疫」菲利普（危險）",
+    "description": "「瘟疫」菲利普的領域。在這使用rebelliousSignal即可召喚「疫病之王」。"
+  },
+  "rodeMaangodin": {
+    "name": "血紅女月神",
+    "description": "「血紅女月神」的領域。在這使用essenceOfSpirits即可召喚幽靈船。"
+  },
+  "zamaaribu": {
+    "name": "滅世龍",
+    "description": "「滅世龍」的領域。在這使用monstrousBait即可召喚猛獸。"
+  },
+  "sadowbeast": {
+    "name": "暗影怪獸",
+    "description": "「暗影怪獸」的領域。在這使用monstrousBait即可召喚猛獸。"
+  },
+  "megaLestari": {
+    "name": "超大型永恆鯊",
+    "description": "「超大型永恆鯊」的領域。在這使用monstrousBait即可召喚猛獸。"
+  },
+  "heralosOfTheAbyss": {
+    "name": "深淵先驅",
+    "description": "來自彼方的暗影潛伏在現實邊緣。引出「深淵艦隊」，將他們逐出這個領域。"
+  },
+  "philppeLaPesteDeadlw": {
+    "name": "「瘟疫」菲利普（致命）",
+    "description": "與其他 5 位船長一起挑戰力量如日中天的「瘟疫」。",
+    "difficulty": {
+      "description": "與其他 5 位船長一起挑戰力量如日中天的「瘟疫」。"
+    }
+  },
+  "vikramRajanDeadlw": {
+    "name": "維克拉姆．拉詹（致命）",
+    "description": "與其他 5 位船長一起挑戰力量如日中天的維克拉姆。",
+    "difficulty": {
+      "description": "與其他 5 位船長一起挑戰力量如日中天的維克拉姆。"
+    }
+  },
+  "kraken": {
+    "name": "克拉肯",
+    "description": "有人發現水面下方潛伏著一道陰影，是來自深淵的潛在威脅……"
+  },
+  "guardTower": {
+    "name": "守衛塔"
+  },
+  "dominionOfRempahConvoy": {
+    "name": "倫帕自治軍船隊",
+    "variants": {
+      "dominionOfRempahConvoy-route-1-variant-1": {
+        "name": "已啟程",
+        "description": "皇司造成的混亂讓倫帕人有機會把貨品移交給盟友。他們已經從山柰啟程，帶著精美的貿易品向東航行了。"
+      },
+      "dominionOfRempahConvoy-route-1-variant-2": {
+        "name": "即將啟程",
+        "description": "皇司造成的混亂讓倫帕人有機會把貨品移交給盟友。他們準備要從山柰啟程，帶著精美的貿易品向東航行。"
+      },
+      "dominionOfRempahConvoy-route-2-variant-1": {
+        "name": "已啟程",
+        "description": "無主海域中出現了一條航線，不過它同時也會穿越荷商的地盤。古都商人在船艙裡裝滿了貨品。他們已經出發，並展開漫長的南下航程了。"
+      },
+      "dominionOfRempahConvoy-route-2-variant-2": {
+        "name": "即將啟程",
+        "description": "無主海域中出現了一條航線，不過它同時也會穿越荷商的地盤。古都商人在船艙裡裝滿了貨品。他們準備要盡快出發，並展開漫長的南下航程。"
+      }
+    }
+  },
+  "shadowLegionConvoy": {
+    "name": "暗影軍團船隊",
+    "variants": {
+      "shadowLegionConvoy-route-1-variant-1": {
+        "name": "已啟程",
+        "description": "水手們閒談間提到一支載有大量紅酒和烈酒的失蹤船隊。現在有傳聞說那些船掛著和過往一樣斑駁的旗幟，往無主海域北邊航行。"
+      },
+      "shadowLegionConvoy-route-1-variant-2": {
+        "name": "即將啟程",
+        "description": "水手們閒談間提到一支載有大量紅酒和烈酒的失蹤船隊。現在有傳聞說那些船掛著和過往一樣斑駁的旗幟，在無主海域南邊聚集。"
+      },
+      "shadowLegionConvoy-route-2-variant-1": {
+        "name": "已啟程",
+        "description": "數年前，有一支船隊在與超級要塞戰鬥後全數沉沒。現在同樣的船隊再度出現，已經往南前進，很可能是要報仇雪恨。"
+      },
+      "shadowLegionConvoy-route-2-variant-2": {
+        "name": "即將啟程",
+        "description": "數年前，有一支船隊在與超級要塞戰鬥後全數沉沒。現在同樣的船隊再度出現，準備要往南前進，很可能是要報仇雪恨。"
+      }
+    }
+  },
+  "clanOfFaraConvoy": {
+    "name": "法拉氏族船隊",
+    "variants": {
+      "clanOfFaraConvoy-route-1-variant-1": {
+        "name": "已啟程",
+        "description": "法拉人亟欲開闢通往印度的新貿易航線。他們的商人已經從「療癒」啟航了。"
+      },
+      "clanOfFaraConvoy-route-1-variant-2": {
+        "name": "即將啟程",
+        "description": "法拉人亟欲開闢通往印度的新貿易航線。他們的商人準備要從「療癒」啟航。"
+      },
+      "clanOfFaraConvoy-route-2-variant-1": {
+        "name": "已啟程",
+        "description": "在皇司對紅嶼貿易的獨斷控制之下，法拉商人已經啟航，打算到非洲南端尋找其他商人。"
+      },
+      "clanOfFaraConvoy-route-2-variant-2": {
+        "name": "即將啟程",
+        "description": "在皇司對紅嶼貿易的獨斷控制之下，法拉商人準備要啟航，打算到非洲南端尋找其他商人。"
+      }
+    }
+  },
+  "compagnieRoyaleConvoy": {
+    "name": "皇家公司船隊",
+    "variants": {
+      "compagnieRoyaleConvoy-route-1-variant-1": {
+        "name": "已啟程",
+        "description": "皇司士兵需要用紅酒與白蘭地來提振士氣。有一支船隊已經離開紅嶼，船上還載了那些精神糧食。"
+      },
+      "compagnieRoyaleConvoy-route-1-variant-2": {
+        "name": "即將啟程",
+        "description": "皇司士兵需要用紅酒與白蘭地來提振士氣。有一支船隊準備要離開紅嶼，船上還載了那些精神糧食。"
+      },
+      "compagnieRoyaleConvoy-route-2-variant-1": {
+        "name": "已啟程",
+        "description": "有一支皇司船隊已經從東印度出發，打算運回戰利品。他們預計經過路易港，並往印度洋的南方航行。"
+      },
+      "compagnieRoyaleConvoy-route-2-variant-2": {
+        "name": "即將啟程",
+        "description": "有一支皇司船隊準備要從東印度出發，打算運回戰利品。他們預計經過路易港，並往印度洋的南方航行。"
+      }
+    }
+  },
+  "royalWarConvoy": {
+    "name": "皇家戰爭船隊",
+    "description": "隨著戰爭持續，大量資源不斷被運送到皇司的重要地盤，以對抗日益增長的荷蘭入侵勢力。"
+  },
+  "chorusFleetConvoy": {
+    "name": "合唱艦隊",
+    "variants": {
+      "chorusFleetConvoy-route-1-variant-1": {
+        "name": "已啟程",
+        "description": "與法拉氏族的同盟關係，坐實了皇司的商業利益。有一支受到合唱艦隊保護的船隊載滿高價貿易品，已經從霍沃霍沃出發了。"
+      },
+      "chorusFleetConvoy-route-1-variant-2": {
+        "name": "即將啟程",
+        "description": "與法拉氏族的同盟關係，坐實了皇司的商業利益。有一支受到合唱艦隊保護的船隊載滿高價貿易品，準備要從霍沃霍沃出發。"
+      },
+      "chorusFleetConvoy-route-2-variant-1": {
+        "name": "已啟程",
+        "description": "有一支受到合唱艦隊保護的皇司船隊已經啟程，打算把戰利品運回故鄉。他們預計經過路易港，並往印度洋的南方航行。"
+      },
+      "chorusFleetConvoy-route-2-variant-2": {
+        "name": "即將啟程",
+        "description": "有一支受到合唱艦隊保護的皇司船隊準備要啟程，打算把戰利品運回故鄉。他們預計經過路易港，並往印度洋的南方航行。"
+      }
+    }
+  },
+  "confederationOfUngwanaConvoy": {
+    "name": "烏瓜納聯邦船隊",
+    "variants": {
+      "confederationOfUngwanaConvoy-route-1-variant-1": {
+        "name": "已啟程",
+        "description": "烏瓜納商人與鄰近勢力簽訂了一項利潤豐厚（同時也危險重重）的協議，有一支船隊已經從班得瑞啟航了。"
+      },
+      "confederationOfUngwanaConvoy-route-1-variant-2": {
+        "name": "即將啟程",
+        "description": "烏瓜納商人與鄰近勢力簽訂了一項利潤豐厚（同時也危險重重）的協議，有一支船隊準備要從班得瑞啟航。"
+      },
+      "confederationOfUngwanaConvoy-route-2-variant-1": {
+        "name": "已啟程",
+        "description": "有一批在非洲北邊生產的違法物質，人們已經將它們從「香氣」地區運出港外，並送往非洲海岸的中心地帶了。烏瓜納商人會從這項貿易中獲利，他們不在意這批毒品是否會殘害到他們的同胞。"
+      },
+      "confederationOfUngwanaConvoy-route-2-variant-2": {
+        "name": "即將啟程",
+        "description": "有一批在非洲北邊生產的違法物質，人們準備要將它們從「香氣」地區運出港外，並送往非洲海岸的中心地帶。烏瓜納商人會從這項貿易中獲利，他們不在意這批毒品是否會殘害到他們的同胞。"
+      }
+    }
+  },
+  "dmcConvoy": {
+    "name": "荷商船隊",
+    "variants": {
+      "dmcConvoy-route-1-variant-1": {
+        "name": "已啟程",
+        "description": "駐紮在拉達的荷商士兵原本並不相信海上有幽靈和幽靈船的傳聞……結果卻太遲了。現在生還者們正逃向南方，而他們仍為夢中揮之不去的怪誕感到人心惶惶。"
+      },
+      "dmcConvoy-route-1-variant-2": {
+        "name": "即將啟程",
+        "description": "駐紮在拉達的荷商士兵原本並不相信海上有幽靈和幽靈船的傳聞……結果卻太遲了。生還者們打算逃向南方，而他們仍為夢中揮之不去的怪誕感到人心惶惶。"
+      },
+      "dmcConvoy-route-2-variant-1": {
+        "name": "已啟程",
+        "description": "荷商指揮官無法擊退維克拉姆．拉詹的軍團。他們已經開始逃離，帶著物資和他們僅存的尊嚴離開。"
+      },
+      "dmcConvoy-route-2-variant-2": {
+        "name": "即將啟程",
+        "description": "荷商指揮官無法擊退維克拉姆．拉詹的軍團。他們準備要逃離，帶著物資和他們僅存的尊嚴離開。"
+      }
+    }
+  },
+  "reapItWeep": {
+    "name": "收割與哀泣",
+    "description": "在此事件浮標處使用萬聖訊號彈召喚不羈死神。"
+  },
+  "reaperOfTheLost": {
+    "name": "遊魂收割者",
+    "description": "世界之間的界線變得模糊，遊魂收割者因此出現在海上。在祂消失前奪取祂的財寶吧。"
+  }
+}

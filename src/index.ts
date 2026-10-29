@@ -20,6 +20,7 @@ import sets_zh_CN from './data/zh_CN/sets.json'
 import regions_zh_CN from './data/zh_CN/regions.json'
 import territories_zh_CN from './data/zh_CN/territories.json'
 import npcs_zh_CN from './data/zh_CN/npcs.json'
+import enemies_zh_CN from './data/zh_CN/enemies.json'
 import zones_zh_CN from './data/zh_CN/zones.json'
 import masterys_zh_CN from './data/zh_CN/masterys.json'
 import quests_zh_CN from './data/zh_CN/quest.json'
@@ -46,6 +47,7 @@ import sets_zh_TW from './data/zh_TW/sets.json'
 import regions_zh_TW from './data/zh_TW/regions.json'
 import territories_zh_TW from './data/zh_TW/territories.json'
 import npcs_zh_TW from './data/zh_TW/npcs.json'
+import enemies_zh_TW from './data/zh_TW/enemies.json'
 import treasureMaps_zh_TW from './data/zh_TW/treasureMaps.json'
 import zones_zh_TW from './data/zh_TW/zones.json'
 import masterys_zh_TW from './data/zh_TW/masterys.json'
@@ -73,6 +75,7 @@ import sets_en_US from './data/en_US/sets.json'
 import regions_en_US from './data/en_US/regions.json'
 import territories_en_US from './data/en_US/territories.json'
 import npcs_en_US from './data/en_US/npcs.json'
+import enemies_en_US from './data/en_US/enemies.json'
 import treasureMaps_en_US from './data/en_US/treasureMaps.json'
 import zones_en_US from './data/en_US/zones.json'
 import masterys_en_US from './data/en_US/masterys.json'
@@ -102,6 +105,7 @@ export const zh_CN: LanguageData = {
     regions: regions_zh_CN,
     territories: territories_zh_CN,
     npcs: npcs_zh_CN,
+    enemies: enemies_zh_CN,
     treasureMaps: treasureMaps_en_US,
     zones: zones_zh_CN,
     masterys: masterys_zh_CN,
@@ -130,6 +134,7 @@ export const zh_TW: LanguageData = {
     regions: regions_zh_TW,
     territories: territories_zh_TW,
     npcs: npcs_zh_TW,
+    enemies: enemies_zh_TW,
     treasureMaps: treasureMaps_zh_TW,
     zones: zones_zh_TW,
     masterys: masterys_zh_TW,
@@ -158,6 +163,7 @@ export const en_US: LanguageData = {
     regions: regions_en_US,
     territories: territories_en_US,
     npcs: npcs_en_US,
+    enemies: enemies_en_US,
     treasureMaps: treasureMaps_en_US,
     zones: zones_en_US,
     masterys: masterys_en_US,

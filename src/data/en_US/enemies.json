@@ -1,0 +1,262 @@
+{
+  "tangenaRabe": {
+    "name": "Tangena Rabe",
+    "description": "Captain Tangena Rabe is the Fara's deadliest weapon against their sworn enemy, the Sea People. She has appeared in Fara territory, helming a formidable warship."
+  },
+  "jokaKubwa": {
+    "name": "Joka Kubwa",
+    "description": "Joka Kubwa, a zealous Ungwanan officer, seeks to scour the coast of all outside influence, be it French or pirate. His ship now prowls Ungwana-controlled waters."
+  },
+  "ahPak": {
+    "name": "Ah Pak",
+    "description": "The Eels corsair known as Ah Pak has arrived in the Open Seas to establish himself as the Kingpin of Kingpins. Show him who truly rules the waves."
+  },
+  "galvinRoche": {
+    "name": "Galvin Roche",
+    "description": "Captain Galvin Roche is on a drunken spree of murder and mayhem against the Ungwana. Sober him up with cannon-fire and reap the rewards."
+  },
+  "dirkAnkeren": {
+    "name": "Dirk Ankeren",
+    "description": "Incensed by reports of rebel activity, the DMC has sent Dirk Ankeren, a brutal enforcer, to stake their claim. His ship will soon arrive in DMC waters."
+  },
+  "dianSinaga": {
+    "name": "Dian Sinaga",
+    "description": "The Rempah have discovered that one of their own, Captain Dian Sinaga, is about to offer up vital secrets to the DMC for coin. She will soon appear in Rempah territory."
+  },
+  "jonasVanderkill": {
+    "name": "Jonas Vanderkill",
+    "description": "Vanderkilrs DMC forces have been sighted nearby, and are due to arrive in the region, seeking a way to get to the Schaduw."
+  },
+  "theOpwelling": {
+    "name": "The Opwelling",
+    "description": "Rising tensions in the Open Seas have forced the DMC to deploy their flagship to the region. The ship has begun patrolling the East Indies."
+  },
+  "commanderZhang": {
+    "name": "Commander Zhang",
+    "description": "Sink Commander Zhang, the leader of the Dragon's Claw, and claim the spoils of war"
+  },
+  "abyssalEnvoy": {
+    "name": "Abyssal Envoy",
+    "description": "A ghostly dread that whispers ruin emerges from the splintering tides. A cursed envoy of horrors to come."
+  },
+  "bertrandHubac": {
+    "name": "Bertrand Hubac",
+    "description": "The Compagnie has dispatched Bertrand of the Hubac Twins to reaffirm their supremacy in the Indian Ocean. Cunning and deadly, Bertrand is known for striking hard from afar."
+  },
+  "vikramRajan": {
+    "name": "Vikram Rajan (Dangerous)",
+    "description": "Domain of Vikram Rajan. Use Rebellious Signal at this location to bring forth The Great Shadow."
+  },
+  "liTianNing": {
+    "name": "Li Tian Ning (Dangerous)",
+    "description": "Domain of Li Tian Ning. Use Rebellious Signal at this location to bring forth the Sky Goddess."
+  },
+  "theHubacTwins": {
+    "name": "The Hubac Twins (Dangerous)",
+    "description": "Domain of the Hubac Twins. Use Rebellious Signal at this location to bring forth Armand and Bertrand."
+  },
+  "philippeLaPeste": {
+    "name": "Philippe La Peste (Dangerous)",
+    "description": "Domain of Philippe La Peste. Use Rebellious Signal at this location to bring forth the Plague King."
+  },
+  "rodeMaangodin": {
+    "name": "Rode Maangodin",
+    "description": "Domain of the Rode Maangodin. Use Essence of Spirits at this location to bring forth the spectral ship."
+  },
+  "zamaaribu": {
+    "name": "Zamaharibu",
+    "description": "Domain of Zamaharibu. Use Monstrous Bait at this location to bring forth the beast."
+  },
+  "sadowbeast": {
+    "name": "Shadowbeast",
+    "description": "Domain of the Shadowbeast. Use Monstrous Bait at this location to bring forth the beast."
+  },
+  "megaLestari": {
+    "name": "Mega Lestari",
+    "description": "Domain of Mega Lestari. Use Monstrous Bait at this location to bring forth the beast."
+  },
+  "heralosOfTheAbyss": {
+    "name": "Heralds of the Abyss",
+    "description": "Shadows from beyond lurk at the edge of reality. Draw forth the Abyssal Fleet and banish them from this realm."
+  },
+  "philppeLaPesteDeadlw": {
+    "name": "Philippe La Peste (Deadly)",
+    "description": "Join 5 other captains to challenge La Peste at the height of his power.",
+    "difficulty": {
+      "description": "Join 5 other captains to challenge La Peste at the height of his power."
+    }
+  },
+  "vikramRajanDeadlw": {
+    "name": "Vikram Rajan (Deadly)",
+    "description": "Join 5 other captains to challenge Vikram at theheight of his power.",
+    "difficulty": {
+      "description": "Join 5 other captains to challenge Vikram at the height of his power."
+    }
+  },
+  "kraken": {
+    "name": "Kraken",
+    "description": "A shadow has been spotted lurking in the waters below, a prowling threat from the depths..."
+  },
+  "guardTower": {
+    "name": "GUARD TOWER"
+  },
+  "dominionOfRempahConvoy": {
+    "name": "Dominion of Rempah Convoy",
+    "variants": {
+      "dominionOfRempahConvoy-route-1-variant-1": {
+        "name": "Underway",
+        "description": "The chaos caused by the Compagnie has given the Rempah an opportunity to move their goods to their allies. They have set sail from Kencur, heading east with stylishly-crafted trade goods."
+      },
+      "dominionOfRempahConvoy-route-1-variant-2": {
+        "name": "Departing Soon",
+        "description": "The chaos caused by the Compagnie has given the Rempah an opportunity to move their goods to their allies. They will soon set sail from Kencur, heading east with stylishly-crafted trade goods."
+      },
+      "dominionOfRempahConvoy-route-2-variant-1": {
+        "name": "Underway",
+        "description": "A path through the Open Seas has presented itself, through DMC territory. The Kota Lama traders have prepared holds brimming with goods. They have left for the long voyage south."
+      },
+      "dominionOfRempahConvoy-route-2-variant-2": {
+        "name": "Departing Soon",
+        "description": "A path through the Open Seas has presented itself, through DMC territory. The Kota Lama traders have prepared holds brimming with goods. They aim to leave soon for a long voyage south."
+      }
+    }
+  },
+  "shadowLegionConvoy": {
+    "name": "Shadow Legion Convoy",
+    "variants": {
+      "shadowLegionConvoy-route-1-variant-1": {
+        "name": "Underway",
+        "description": "Sailors speak of a lost convoy that once carried a motherlode of wine and spirits. Now, there are whispers of ships flying the same faded colors as before, headed north of the Open Seas."
+      },
+      "shadowLegionConvoy-route-1-variant-2": {
+        "name": "Departing Soon",
+        "description": "Sailors speak of a lost convoy that once carried a motherlode of wine and spirits. Now, there are whispers of ships flying the same faded colors as before, massing south of the Open Seas."
+      },
+      "shadowLegionConvoy-route-2-variant-1": {
+        "name": "Underway",
+        "description": "Years ago, a fleet was sunk after a battle with a Megafort. The same ships have been spotted again, headed south, possibly for vengeance."
+      },
+      "shadowLegionConvoy-route-2-variant-2": {
+        "name": "Departing Soon",
+        "description": "Years ago, a fleet was sunk after a battle with a Megafort. The same ships have been spotted again, set to head south, possibly for vengeance."
+      }
+    }
+  },
+  "clanOfFaraConvoy": {
+    "name": "Clan of Fara Convoy",
+    "variants": {
+      "clanOfFaraConvoy-route-1-variant-1": {
+        "name": "Underway",
+        "description": "The Fara are eager to carve out new trade routes to India. Their merchants have set sail from Sitrana."
+      },
+      "clanOfFaraConvoy-route-1-variant-2": {
+        "name": "Departing Soon",
+        "description": "The Fara are eager to carve out new trade routes to India. Their merchants will soon set sail from Sitrana."
+      },
+      "clanOfFaraConvoy-route-2-variant-1": {
+        "name": "Underway",
+        "description": "The suffocation of trade in the Red Isle by the Compagnie has forced Fara merchants to set sail, searching for traders about the southern tip of Africa."
+      },
+      "clanOfFaraConvoy-route-2-variant-2": {
+        "name": "Departing Soon",
+        "description": "The suffocation of trade in the Red Isle by the Compagnie will soon force Fara merchants to set sail, searching for traders about the southern tip of Africa."
+      }
+    }
+  },
+  "compagnieRoyaleConvoy": {
+    "name": "Compagnie Royale Convoy",
+    "variants": {
+      "compagnieRoyaleConvoy-route-1-variant-1": {
+        "name": "Underway",
+        "description": "Compagnie soldiers need wine and brandy to boost morale. A convoy has left the Red Isle, carrying spirits."
+      },
+      "compagnieRoyaleConvoy-route-1-variant-2": {
+        "name": "Departing Soon",
+        "description": "Compagnie soldiers need wine and brandy to boost morale. A convoy is set to leave the Red Isle, carrying spirits."
+      },
+      "compagnieRoyaleConvoy-route-2-variant-1": {
+        "name": "Underway",
+        "description": "A convoy from the Compagnie has set sail with spoils from the East Indies. Passing by Port Louis, it aims to sail southward of the Indian Ocean."
+      },
+      "compagnieRoyaleConvoy-route-2-variant-2": {
+        "name": "Departing Soon",
+        "description": "A convoy from the Compagnie will soon ship back its spoils from the East Indies. Passing by Port Louis, it aims to sail southward of the Indian Ocean."
+      }
+    }
+  },
+  "royalWarConvoy": {
+    "name": "ROYAL WAR CONVOY",
+    "description": "As the war effort continues, assets are transported to key Compagnie territories to combat the rising Dutch invasion."
+  },
+  "chorusFleetConvoy": {
+    "name": "Chorus Fleet Convoy",
+    "variants": {
+      "chorusFleetConvoy-route-1-variant-1": {
+        "name": "Underway",
+        "description": "The alliance with the Fara has been lucrative for the Compagnie. A convoy under the protection of the Chorus Fleet and carrying profitable trade goods has set sail from Hovohovo."
+      },
+      "chorusFleetConvoy-route-1-variant-2": {
+        "name": "Departing Soon",
+        "description": "The alliance with the Fara has been lucrative for the Compagnie. A convoy under the protection of the Chorus Fleet and carrying profitable trade goods will soon set sail from Hovohovo."
+      },
+      "chorusFleetConvoy-route-2-variant-1": {
+        "name": "Underway",
+        "description": "A Compagnie convoy, under the protection of the Chorus Fleet, has begun transporting its spoils back to their homeland. Passing by Port Louis, it aims to sail south of the Indian Ocean."
+      },
+      "chorusFleetConvoy-route-2-variant-2": {
+        "name": "Departing Soon",
+        "description": "A Compagnie convoy, under the protection of the Chorus Fleet, will soon depart, transporting its spoils back to their homeland. Passing by Port Louis, it aims to sail south of the Indian Ocean."
+      }
+    }
+  },
+  "confederationOfUngwanaConvoy": {
+    "name": "CONFEDERATION OF UNGWANA CONVOY",
+    "variants": {
+      "confederationOfUngwanaConvoy-route-1-variant-1": {
+        "name": "Underway",
+        "description": "A convoy has set sail from Bandari after Ungwanamerchants signed a deal with their neighbors toolucrative (and dangerous) to pass up."
+      },
+      "confederationOfUngwanaConvoy-route-1-variant-2": {
+        "name": "Departing Soon",
+        "description": "A convoy is set to sail from Bandari after Ungwana merchants signed a deal with their neighbors too lucrative (and dangerous) to pass up."
+      },
+      "confederationOfUngwanaConvoy-route-2-variant-1": {
+        "name": "Underway",
+        "description": "Illicit substances procured from the north of Africa have left from the port of Harifu, headed into the heart of the Coast. Ungwana merchants will profit from the trade, not caring if the poison cripples their people."
+      },
+      "confederationOfUngwanaConvoy-route-2-variant-2": {
+        "name": "Departing Soon",
+        "description": "Illicit substances procured from the north of Africa will soon leave from the port of Harifu, headed into the heart of the Coast. Ungwana merchants will profit from the trade, not caring if the poison cripples their people."
+      }
+    }
+  },
+  "dmcConvoy": {
+    "name": "DMC CONVOY",
+    "variants": {
+      "dmcConvoy-route-1-variant-1": {
+        "name": "Underway",
+        "description": "The DMC soldiers stationed in Lada did not believe the rumors of ghosts and ships floating on the waves... till it was too late. Now, the survivors flee southwards, still shaken from strange whispers in their dreams."
+      },
+      "dmcConvoy-route-1-variant-2": {
+        "name": "Departing Soon",
+        "description": "The DMC soldiers stationed in Lada did not believe the rumors of ghosts and ships floating on the waves... till it was too late. The survivors aim to flee southwards, still shaken from strange whispers in their dreams."
+      },
+      "dmcConvoy-route-2-variant-1": {
+        "name": "Underway",
+        "description": "DMC commanders have failed to push back Vikram's forces. They are now in flight, carrying supplies and what's left of their pride."
+      },
+      "dmcConvoy-route-2-variant-2": {
+        "name": "Departing Soon",
+        "description": "DMC commanders have failed to push back Vikram's forces. They mean to flee, carrying supplies and what's left of their pride."
+      }
+    }
+  },
+  "reapItWeep": {
+    "name": "REAP IT & WEEP",
+    "description": "Use Hallowed Flare at this event buoy to summon Unbound Reaper."
+  },
+  "reaperOfTheLost": {
+    "name": "Reaper of the Lost",
+    "description": "The veil between worlds has thinned and brought the Reaper of the Lost to the seas. Claim its riches before it slips away."
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "tangenaRabe": {
+    "name": "坦吉那·拉贝",
+    "description": "坦吉那·拉贝船长是珐拉氏族对抗其死敌海民的最致命武器。她出现在了珐拉领土,执掌着一艘令人生畏的战舰。"
+  },
+  "jokaKubwa": {
+    "name": "乔卡·库卜瓦",
+    "description": "乔卡·库卜瓦船长是个狂热的乌瓜纳长官，他试图清剿海岸的所有外来势力，无论是法国人还是海盗。他的船只现已在乌瓜纳控制的海域游走。"
+  },
+  "ahPak": {
+    "name": "亚帕克",
+    "description": "鳗鱼帮海寇亚帕克现已抵达公海，想要成为头目中的头目。让他明白谁才是真正的海域主宰。"
+  },
+  "galvinRoche": {
+    "name": "贾尔文·罗棋",
+    "description": "皇家公司准备派遣贾尔文·罗棋船长前去制服乌瓜纳人。他很快就出现在皇家公司海域,此人对酒的热爱仅次于他对血的嗜好。"
+  },
+  "dirkAnkeren": {
+    "name": "德克·安柯仑",
+    "description": "由于对叛军活动怒不可遏,荷兰商社已派出残暴的执行者德克·安柯仑,前去宣示他们的主权。他的船只现已抵达荷兰商社的海域。"
+  },
+  "dianSinaga": {
+    "name": "笛安·希纳加",
+    "description": "笛安·希纳加船长试图背叛任帕战友。面对叛徒并扭转局势,然后就能领取奖励。她目前在任帕水域。"
+  },
+  "jonasVanderkill": {
+    "name": "乔纳斯·范德基尔",
+    "description": "范德基尔的荷兰商社势力已经抵达该地 区，正在想办法追到暗影号。"
+  },
+  "theOpwelling": {
+    "name": "局势升温",
+    "description": "公海上日渐紧张的局势使得荷兰商社不得不向该区域派遣旗舰。这艘船已开始在东印度群岛巡逻。"
+  },
+  "commanderZhang": {
+    "name": "张提督",
+    "description": "击沉龙爪的首领张提督，夺取战利品"
+  },
+  "abyssalEnvoy": {
+    "name": "深渊使者号",
+    "description": "可怕的鬼魅存在低语着毁灭,破开潮汐而来。这不详的使者,预示着诸般恐怖即将到来。"
+  },
+  "bertrandHubac": {
+    "name": "伯特兰· 胡巴茨",
+    "description": "皇家公司已经派出胡巴茨兄弟之一的伯特兰,以巩固他们在印度洋的霸主地位。阴险毒辣的伯特兰以其远距离的猛烈攻击而闻名。"
+  },
+  "vikramRajan": {
+    "name": "维克莱姆·拉詹（高危级）",
+    "description": "维克莱姆·拉詹的领域。在该地点使用叛逆讯号以召唤蔽日骇影。"
+  },
+  "liTianNing": {
+    "name": "黎天宁（高危级）",
+    "description": "黎天宁的领域。在该地点使用叛逆讯号以召唤天女。"
+  },
+  "theHubacTwins": {
+    "name": "胡巴茨双兄弟（高危级）",
+    "description": "胡巴茨兄弟的领域。在该地点使用叛逆讯号以召唤阿尔芒和伯特兰。"
+  },
+  "philippeLaPeste": {
+    "name": "菲利浦·拉佩斯特（高危级）",
+    "description": "菲力浦·拉佩斯特的领域。在该地点使用叛逆讯号以召唤瘟疫之王。"
+  },
+  "rodeMaangodin": {
+    "name": "锚泊月亮女神号",
+    "description": "锚泊月亮女神号的领域。在该地点使用灵魂精华以召唤这艘幽灵船。"
+  },
+  "zamaaribu": {
+    "name": "萨马哈利布",
+    "description": "萨马哈利布的领域。在该地点使用巨兽诱饵以召唤这头巨兽。"
+  },
+  "sadowbeast": {
+    "name": "影龙",
+    "description": "影龙的领域。在该地点使用巨兽诱饵以召唤这头巨兽。"
+  },
+  "megaLestari": {
+    "name": "巨型莱斯塔里",
+    "description": "巨型莱斯塔里的领域。在该地点使用巨兽诱饵以召唤这头巨兽。"
+  },
+  "heralosOfTheAbyss": {
+    "name": "深渊使者",
+    "description": "来自彼界的阴影潜伏在现实世界的边缘。诱使深渊舰队现身,将其逐回深渊。"
+  },
+  "philppeLaPesteDeadlw": {
+    "name": "菲利浦·拉佩斯特（致命级）",
+    "description": "与其他5位船长一起挑战处于巅峰状态的拉佩斯特。",
+    "difficulty": {
+      "description": "与其他5位船长一起挑战处于巅峰状态的拉佩斯特。"
+    }
+  },
+  "vikramRajanDeadlw": {
+    "name": "维克莱姆·拉詹（致命级）",
+    "description": "与其他5位船长一起挑战处于巅峰状态的维克莱姆。",
+    "difficulty": {
+      "description": "与其他5位船长一起挑战处于巅峰状态的维克莱姆。"
+    }
+  },
+  "kraken": {
+    "name": "克拉肯",
+    "description": "有人在水下发现了一道潜伏的阴影,一个来自深渊的潜在威胁…"
+  },
+  "guardTower": {
+    "name": "守卫塔楼"
+  },
+  "dominionOfRempahConvoy": {
+    "name": "任帕自治领船队",
+    "variants": {
+      "dominionOfRempahConvoy-route-1-variant-1": {
+        "name": "已启程",
+        "description": "皇家公司造成的混乱给了任帕人一个机会，正好向他们的盟友运货。他们已经从沙姜地起航，带着精心制作的贸易品向东航行。"
+      },
+      "dominionOfRempahConvoy-route-1-variant-2": {
+        "name": "即将启程",
+        "description": "皇家公司造成的混乱给了任帕人一个机会，正好向他们的盟友运货。他们将很快从沙姜地起航，带着精心制作的贸易品向东航行。"
+      },
+      "dominionOfRempahConvoy-route-2-variant-1": {
+        "name": "已启程",
+        "description": "出现了一条穿过公海的路径，横跨荷兰商社的领地。老城贸易商已准备好了满载货物的货舱。他们已经启程，向南远航。"
+      },
+      "dominionOfRempahConvoy-route-2-variant-2": {
+        "name": "即将启程",
+        "description": "出现了一条穿过公海的路径，横跨荷兰商社的领地。老城贸易商已准备好了满载货物的货舱。他们计划很快启程，向南远航。"
+      }
+    }
+  },
+  "shadowLegionConvoy": {
+    "name": "暗影军队船队",
+    "variants": {
+      "shadowLegionConvoy-route-1-variant-1": {
+        "name": "已启程",
+        "description": "水手们提到了一支曾运送大量酒水的失踪船队。现在,据说有一队船只已往公海北上,它们飘扬着褪色的旗帜,就跟原有的船队一模一样。"
+      },
+      "shadowLegionConvoy-route-1-variant-2": {
+        "name": "即将启程",
+        "description": "水手们提到了一支曾运送大量酒水的失踪船队。现在，据说有一队船只在公海以南聚集着，它们飘扬着褪色的旗帜，就跟原有的船队一模一样。"
+      },
+      "shadowLegionConvoy-route-2-variant-1": {
+        "name": "已启程",
+        "description": "多年前，有支舰队在与一个大型要塞的交战中被击如今，一模一样的船只队伍再次现身，已经向南航行，可能是为了复仇。"
+      },
+      "shadowLegionConvoy-route-2-variant-2": {
+        "name": "即将启程",
+        "description": "多年前，有支舰队在与一个大型要塞的交战中被击沉。如今，一模一样的船只队伍再次现身，即将向南航行，可能是为了复仇。"
+      }
+    }
+  },
+  "clanOfFaraConvoy": {
+    "name": "珐拉氏族船队",
+    "variants": {
+      "clanOfFaraConvoy-route-1-variant-1": {
+        "name": "已启程",
+        "description": "珐拉氏族渴望开辟通往印度的新贸易航路，他们的商船已经从锡特拉纳起航。"
+      },
+      "clanOfFaraConvoy-route-1-variant-2": {
+        "name": "即将启程",
+        "description": "珐拉氏族渴望开辟通往印度的新贸易航路，他们的商船将很快从锡特拉纳起航。"
+      },
+      "clanOfFaraConvoy-route-2-variant-1": {
+        "name": "已启程",
+        "description": "皇家公司在红岛上扼杀了贸易，这已经迫使珐拉商人出海，寻找位于非洲南端的贸易商。"
+      },
+      "clanOfFaraConvoy-route-2-variant-2": {
+        "name": "即将启程",
+        "description": "皇家公司在红岛上扼杀了贸易，这将很快迫使珐拉商人出海，寻找位于非洲南端的贸易商。"
+      }
+    }
+  },
+  "compagnieRoyaleConvoy": {
+    "name": "皇家公司船队",
+    "variants": {
+      "compagnieRoyaleConvoy-route-1-variant-1": {
+        "name": "已启程",
+        "description": "皇家公司的士兵们需要红酒和白兰地来帮助他们提升士气。一支船队已经带着烈酒从红岛出发。"
+      },
+      "compagnieRoyaleConvoy-route-1-variant-2": {
+        "name": "即将启程",
+        "description": "皇家公司的士兵们需要红酒和白兰地来帮助他们提升士气。一支船队即将带着烈酒从红岛出发。"
+      },
+      "compagnieRoyaleConvoy-route-2-variant-1": {
+        "name": "已启程",
+        "description": "一支皇家公司船队已经出发将他们在东印度群岛的战利品运送回来，其将途径路易港，计划南下驶向印度洋。"
+      },
+      "compagnieRoyaleConvoy-route-2-variant-2": {
+        "name": "即将启程",
+        "description": "一支皇家公司船队很快就会将他们在东印度群岛的战利品运送回来，其将途径路易港，计划南下驶向印度洋。"
+      }
+    }
+  },
+  "royalWarConvoy": {
+    "name": "皇家公司战争舰队",
+    "description": "随着战况持续推进，为了应对荷兰人日益猖獗的入侵，皇家公司将资产运往重要领地。"
+  },
+  "chorusFleetConvoy": {
+    "name": "合唱舰队船队",
+    "variants": {
+      "chorusFleetConvoy-route-1-variant-1": {
+        "name": "已启程",
+        "description": "与珐拉氏族结盟为皇家公司敞开了财富的大门。在合唱舰队的护卫下，一支装载着高价值贸易货物的船队已经从霍沃霍沃定居点出发。"
+      },
+      "chorusFleetConvoy-route-1-variant-2": {
+        "name": "即将启程",
+        "description": "与珐拉氏族结盟为皇家公司敞开了财富的大门。在合唱舰队的护卫下，一支装载着高价值贸易货物的船队将很快从霍沃霍沃定居点出发。"
+      },
+      "chorusFleetConvoy-route-2-variant-1": {
+        "name": "已启程",
+        "description": "在合唱舰队的保护下，一支皇家公司船队已经出发，将他们的战利品运送回家乡，并途径路易港，南下驶向印度洋。"
+      },
+      "chorusFleetConvoy-route-2-variant-2": {
+        "name": "即将启程",
+        "description": "在合唱舰队的保护下，一支皇家公司船队很快就会出发，将他们的战利品运送回家乡；其将途径路易港，计划南下驶向印度洋。"
+      }
+    }
+  },
+  "confederationOfUngwanaConvoy": {
+    "name": "乌瓜纳联邦船队",
+    "variants": {
+      "confederationOfUngwanaConvoy-route-1-variant-1": {
+        "name": "已启程",
+        "description": "一支船队已从班得瑞启航，因为乌瓜纳商人与邻邦签署了一项利润丰厚〈也十分危险）的交易，不容错过。"
+      },
+      "confederationOfUngwanaConvoy-route-1-variant-2": {
+        "name": "即将启程",
+        "description": "一支船队计划将从班得瑞启航，因为乌瓜纳商人与邻邦签署了一项利润丰厚（也十分危险）的交易，不容错过。"
+      },
+      "confederationOfUngwanaConvoy-route-2-variant-1": {
+        "name": "已启程",
+        "description": "取自非洲北部的非法药品已从哈路弗港口出发，前往海岸中心。乌瓜纳商人将从这笔交易中获利，毫不在乎毒药是否会伤害到自己的同胞。"
+      },
+      "confederationOfUngwanaConvoy-route-2-variant-2": {
+        "name": "即将启程",
+        "description": "取自非洲北部的非法药品将很快从哈路弗港口出发，前往海岸中心。乌瓜纳商人将从这笔交易中获利，毫不在乎毒药是否会伤害到自己的同胞。"
+      }
+    }
+  },
+  "dmcConvoy": {
+    "name": "兰商社船队",
+    "variants": {
+      "dmcConvoy-route-1-variant-1": {
+        "name": "已启程",
+        "description": "荷兰商社驻扎在拉达的士兵们不相信关于鬼魂和海上幽灵船的传言……直到为时已晚。现在，幸存者们正向南撤离，他们仍被梦中的低语搅得心神不宁。"
+      },
+      "dmcConvoy-route-1-variant-2": {
+        "name": "即将启程",
+        "description": "荷兰商社驻扎在拉达的士兵们不相信关于鬼魂和海上幽灵船的传言，直到为时已晚。现在，幸存者们仍被梦中的低语搅得心神不宁，他们计划向南撤离。"
+      },
+      "dmcConvoy-route-2-variant-1": {
+        "name": "已启程",
+        "description": "荷兰商社指挥官未能击退维克莱姆·拉詹的势力，眼下正带着补给和残存的尊严撤离。"
+      },
+      "dmcConvoy-route-2-variant-2": {
+        "name": "即将启程",
+        "description": "荷兰商社指挥官未能击退维克莱姆·拉詹的势力，他们打算带上补给和残存的尊严撤离。"
+      }
+    }
+  },
+  "reapItWeep": {
+    "name": "收割与哀泣",
+    "description": "在此事件浮标处使用万圣信号弹召唤不羁死神。"
+  },
+  "reaperOfTheLost": {
+    "name": "游魂收割者",
+    "description": "阴阳两界相互交汇，将游魂收割者带到了海上。在它溜走前获取宝物吧。"
+  }
+}
