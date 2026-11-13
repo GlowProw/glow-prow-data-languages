@@ -258,5 +258,9 @@
   "reaperOfTheLost": {
     "name": "Reaper of the Lost",
     "description": "The veil between worlds has thinned and brought the Reaper of the Lost to the seas. Claim its riches before it slips away."
+  },
+  "risenZamaharibu": {
+    "name": "Risen Zamaharibu",
+    "description": "There have been sightings of a cursed beast in the area, twisted by Vikram's shadowy influence. The Risen Zamaharibu has arrived in the region."
   }
 }
