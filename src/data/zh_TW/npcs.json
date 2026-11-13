@@ -1,6 +1,6 @@
 {
   "cookery": {
-    "name": "烹飪"
+    "name": "烹飪台"
   },
   "water": {
     "name": "水面"
@@ -8,49 +8,139 @@
   "piratesBonfire": {
     "name": "海盜篝火"
   },
+  "azuriteLodestone": {
+    "name": "藍銅礦磁石"
+  },
+  "woridTier": {
+    "name": "Worid Tier"
+  },
+  "managerOfLePontMuet": {
+    "name": "靜默橋掌櫃"
+  },
+  "sumugglersHideout": {
+    "name": "走私者藏身處"
+  },
   "helmLiaison": {
     "name": "「掌舵者」仲介"
   },
   "mailbox": {
-    "name": "信箱"
+    "name": "信箱 {location}"
   },
   "smugglersNetwork": {
-    "name": "走私者網路"
+    "name": "走私者網路 {location}"
   },
   "jobBoard": {
-    "name": "工作板"
+    "name": "工作板 {location}"
   },
   "bountyBoard": {
-    "name": "懸賞公布欄"
+    "name": "懸賞公布欄 {location}"
   },
   "warehouse": {
     "name": "倉庫"
   },
+  "hawker": {
+    "name": "小販"
+  },
+  "commodityTrader": {
+    "name": "大宗物資商人"
+  },
   "vanityAtelier": {
-    "name": "服裝造型師"
+    "name": "服裝造型師 {location}"
   },
   "johnScurlocksOffice": {
-    "name": "約翰．史柯洛克的辦事處"
+    "name": "約翰．史柯洛克辦公室"
   },
   "hallowedGravestone": {
-    "name": "聖碑"
+    "name": "聖碑 {location}"
   },
   "factionBroker": {
-    "name": "勢力掮客"
+    "name": "勢力掮客 {location}"
   },
   "deathTides": {
     "name": "死亡浪潮"
   },
   "refinery": {
-    "name": "精煉廠"
+    "name": "精煉廠 {location}"
   },
   "blacksmith": {
     "name": "鐵匠"
   },
   "shipwright": {
-    "name": "船匠"
+    "name": "船匠 {location}"
   },
   "carpenter": {
-    "name": "木匠"
+    "name": "木匠 {location}"
+  },
+  "docks": {
+    "name": "碼頭"
+  },
+  "cache": {
+    "name": "儲物處"
+  },
+  "liTianNing": {
+    "name": "黎天寧"
+  },
+  "rempahTrader": {
+    "name": "倫帕商人 {location}"
+  },
+  "vendor-overseasSmuggler": {
+    "name": "海外走私者 {location}"
+  },
+  "vendor-rempahWarrior": {
+    "name": "倫帕戰士"
+  },
+  "overseasSmuggler": {
+    "name": "海外走私者 {location}"
+  },
+  "rogueTraderJasperRagsdale": {
+    "name": "海寇商人賈斯珀·「公牛」·拉格斯代爾 {location}"
+  },
+  "rogueTraderRosettaLaw": {
+    "name": "海寇商人羅塞塔·「海妖」·勞 {location}"
+  },
+  "rogueTraderBertramFugler": {
+    "name": "海寇商人伯特倫·「大伯蒂」·弗格勒 {location}"
+  },
+  "rogueTraderOswinSmithers": {
+    "name": "海寇商人奧斯溫·「笑傑克」·史密瑟斯 {location}"
+  },
+  "rogueTraderClareTyde": {
+    "name": "海寇商人克萊爾·「風暴」·泰德 {location}"
+  },
+  "vendor-corruptDmcOfficer": {
+    "name": "貪腐荷商官員 {location}"
+  },
+  "corruptDutchOfficer": {
+    "name": "貪腐荷蘭官員"
+  },
+  "shipwreckedRogue": {
+    "name": "沉船海寇 {location}"
+  },
+  "rope": {
+    "name": "繩索"
+  },
+  "rogue": {
+    "name": "海寇 {location}"
+  },
+  "rempahMerchant": {
+    "name": "倫帕商人"
+  },
+  "ungwanaLeader": {
+    "name": "烏瓜納領袖"
+  },
+  "ungwanaTrader": {
+    "name": "烏瓜納商人"
+  },
+  "rempahLeader": {
+    "name": "倫帕領袖"
+  },
+  "ungwanaMerchant": {
+    "name": "烏瓜納商人"
+  },
+  "theMystic": {
+    "name": "方士"
+  },
+  "hardheadJoe": {
+    "name": "「硬頭」喬"
   }
 }

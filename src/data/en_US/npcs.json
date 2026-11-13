@@ -6,51 +6,141 @@
     "name": "Water"
   },
   "piratesBonfire": {
-    "name": "Pirates Bonfire"
+    "name": "Pirate's Bonfire"
+  },
+  "azuriteLodestone": {
+    "name": "Azurite Lodestone"
+  },
+  "woridTier": {
+    "name": "Worid Tier"
+  },
+  "managerOfLePontMuet": {
+    "name": "Manager Of Le Pont Muet"
+  },
+  "sumugglersHideout": {
+    "name": "Smugglers Hideout"
   },
   "helmLiaison": {
     "name": "Helm Liaison"
   },
   "mailbox": {
-    "name": "Mailbox"
+    "name": "Mailbox {location}"
   },
   "smugglersNetwork": {
-    "name": "Smugglers Network"
+    "name": "Smugglers Network {location}"
   },
   "jobBoard": {
-    "name": "Job Board"
+    "name": "Job Board {location}"
   },
   "bountyBoard": {
-    "name": "Bounty Board"
+    "name": "Bounty Board {location}"
   },
   "warehouse": {
     "name": "Warehouse"
   },
+  "hawker": {
+    "name": "Hawker"
+  },
+  "commodityTrader": {
+    "name": "Commodity Trader"
+  },
   "vanityAtelier": {
-    "name": "Vanity Atelier"
+    "name": "Vanity Atelier {location}"
   },
   "johnScurlocksOffice": {
     "name": "John Scurlocks Office"
   },
   "hallowedGravestone": {
-    "name": "Hallowed Gravestone"
+    "name": "Hallowed Gravestone {location}"
   },
   "factionBroker": {
-    "name": "Faction Broker"
+    "name": "Faction Broker {location}"
   },
   "deathTides": {
     "name": "Death Tides"
   },
   "refinery": {
-    "name": "Refinery"
+    "name": "Refinery {location}"
   },
   "blacksmith": {
     "name": "Blacksmith"
   },
   "shipwright": {
-    "name": "Shipwright"
+    "name": "Shipwright {location}"
   },
   "carpenter": {
-    "name": "Carpenter"
+    "name": "Carpenter {location}"
+  },
+  "docks": {
+    "name": "Docks"
+  },
+  "cache": {
+    "name": "Cache"
+  },
+  "liTianNing": {
+    "name": "Li Tian Ning"
+  },
+  "rempahTrader": {
+    "name": "Rempah Trader {location}"
+  },
+  "vendor-overseasSmuggler": {
+    "name": "Overseas Smuggler {location}"
+  },
+  "vendor-rempahWarrior": {
+    "name": "Rempah Warrior"
+  },
+  "overseasSmuggler": {
+    "name": "Overseas Smuggler {location}"
+  },
+  "rogueTraderJasperRagsdale": {
+    "name": "Rogue Trader Jasper 'The Bull' Ragsdale {location}"
+  },
+  "rogueTraderRosettaLaw": {
+    "name": "Rogue Trader Rosetta 'The Siren' Law {location}"
+  },
+  "rogueTraderBertramFugler": {
+    "name": "Rogue Trader Bertram 'Big Bertie' Fugler {location}"
+  },
+  "rogueTraderOswinSmithers": {
+    "name": "Rogue Trader Oswin 'Laughing Jack' Smithers {location}"
+  },
+  "rogueTraderClareTyde": {
+    "name": "Rogue Trader Clare 'The Tempest' Tyde {location}"
+  },
+  "vendor-corruptDmcOfficer": {
+    "name": "Corrupt DMC Officer {location}"
+  },
+  "corruptDutchOfficer": {
+    "name": "Corrupt Dutch Officer"
+  },
+  "shipwreckedRogue": {
+    "name": "Shipwrecked Rogue {location}"
+  },
+  "rope": {
+    "name": "Rope"
+  },
+  "rogue": {
+    "name": "Rogue {location}"
+  },
+  "rempahMerchant": {
+    "name": "Rempah Merchant"
+  },
+  "ungwanaLeader": {
+    "name": "Ungwana Leader"
+  },
+  "ungwanaTrader": {
+    "name": "Ungwana Trader"
+  },
+  "rempahLeader": {
+    "name": "Rempah Leader"
+  },
+  "ungwanaMerchant": {
+    "name": "Ungwana Merchant"
+  },
+  "theMystic": {
+    "name": "The Mystic"
+  },
+  "hardheadJoe": {
+    "name": "Hardhead Joe"
   }
 }
