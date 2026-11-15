@@ -24502,5 +24502,11 @@
     "description": {
       "general": "留下未竟之事的回响"
     }
+  },
+  "boneReaver": {
+    "name": "劫骸掠骨",
+    "description": {
+      "general": "每一发都携带着诅咒"
+    }
   }
 }

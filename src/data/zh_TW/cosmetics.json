@@ -24502,5 +24502,11 @@
     "description": {
       "general": "留下未竟之事的迴響。"
     }
+  },
+  "boneReaver": {
+    "name": "白骨洗劫者",
+    "description": {
+      "general": "每一發射擊都帶著詛咒。"
+    }
   }
 }

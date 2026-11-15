@@ -113,7 +113,7 @@
   },
   "brute": {
     "name": "天生蛮力",
-    "description": "命中目标后，有16%几率恢复该船只%s-%s的防御强度"
+    "description": "命中目标时有16%几率恢复本船%s-%s防御强度"
   },
   "severity": {
     "name": "严重损毁",
@@ -163,7 +163,7 @@
     "description": "将现有火焰伤害提升%s-%s%"
   },
   "siege": {
-    "name": "破城",
+    "name": "围攻",
     "description": "对建筑物的伤害提升%s-%s%"
   },
   "restoreReadiness": {
