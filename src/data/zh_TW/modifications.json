@@ -112,7 +112,7 @@
     "description": "命中時也可使目標的「刺傷」狀態累積降低 %s-%s%"
   },
   "brute": {
-    "name": "Brute",
+    "name": "蠻力",
     "description": "命中時，有 16% 的機率使這艘船隻回復 %s-%s 防備強度"
   },
   "severity": {
