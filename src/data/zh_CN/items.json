@@ -3358,37 +3358,37 @@
     }
   },
   "blackFlagCosmeticsChest": {
-    "name": "Black Flag Cosmetics Chest",
+    "name": "黑旗外观宝箱",
     "description": {
-      "general": "An opulent chest which may contain cosmetics that are part of the Jackdaw Set."
+      "general": "一个豪华的宝箱，或许能从中获取黑旗外观套装系列的外观物品"
     }
   },
   "mysteriousChest": {
-    "name": "Mysterious Chest",
+    "name": "神秘宝箱",
     "description": {
-      "general": "这箱子里藏着什么宝贝呢？"
+      "general": "此箱藏有何种财宝？"
     }
   },
   "dominionOfRempahConvoyTreasureChest": {
-    "name": "Treasure Chest (Dominion of Rempah Convoy)",
+    "name": "宝箱(任帕自治领船队)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "clanOfFaraConvoyTreasureChest": {
-    "name": "Treasure Chest (Clan of Fara Convoy)",
+    "name": "宝箱(珐拉氏族船队)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "confederationOfUngwanaConvoyTreasureChest": {
-    "name": "Treasure Chest (Confederation of Ungwana Convoy)",
+    "name": "宝箱(乌瓜纳联邦船队)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
   },
   "dmcConvoyTreasureChest": {
-    "name": "Treasure Chest (DMC Convoy)",
+    "name": "宝箱(兰商社船队)",
     "description": {
       "general": "此箱藏有何种财宝？"
     }
