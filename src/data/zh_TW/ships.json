@@ -1,122 +1,122 @@
 {
   "dhow": {
-    "name": "Dhow",
+    "name": "德霍帆船",
     "description": {
-      "general": "A nimble hunter of wildlife. The Sea People use it to harvest hides and meat effectively."
+      "general": "靈巧的野生動物獵手。海人使用它來高效率地採集獸皮和獸肉。"
     }
   },
   "bedar": {
-    "name": "Bedar",
+    "name": "貝達爾帆船",
     "description": {
       "general": "A fast-hitting rammer favored by the Rempah, built to Flood enemy hulls before vanishing into the waves."
     }
   },
   "hulk": {
-    "name": "Hulk",
+    "name": "霍克船",
     "description": {
-      "general": "A fortress on the water, with formidable defenses and recovery, as befitting the technological might of the megacorporations."
+      "general": "水上要塞，有著無與倫比的防禦與回復力，正符合超大型企業的技術實力。"
     }
   },
   "cutter": {
-    "name": "Cutter",
+    "name": "卡特帆船",
     "description": {
-      "general": "A ship capable of sustained repairs at sea. Prized by smugglers to swiftly repair themselves whilst evading enemy fire."
+      "general": "能在海上持續提供修理的船隻。走私者特別青睞這種船，能讓他們在躲避敵方火力的同時快速自我修理。"
     }
   },
   "barge": {
-    "name": "Barge",
+    "name": "平底船",
     "description": {
-      "general": "A firestorm at sea. Repurposed in the Ungwana dockyards, it excels at setting enemy fleets Ablaze and crippling burning foes."
+      "general": "海上的火焰風暴。是由烏瓜納造船廠改造過的，強項是點燃敵方艦隊，並牽制燃燒的敵人。"
     }
   },
   "sloop": {
-    "name": "Sloop",
+    "name": "單桅縱帆船",
     "description": {
-      "general": "A fast menace specializing in explosive weaponry. Prized by pirates for making short work of enemy convoys and structures."
+      "general": "機動性高的危險存在，非常適合搭配爆炸武器。因為能迅速摧毀敵方船隊和結構而受到海盜青睞。"
     }
   },
   "padewakang": {
-    "name": "Padewakang",
+    "name": "帕德瓦康帆船",
     "description": {
-      "general": "A floating siege engine, obliterating structures and striking harder when Anchored. Once used by warlords to shatter the walls of an ancient kingdom."
+      "general": "猶如水上的攻城機器，下錨後能更有效地破壞結構且火力更為強大。曾被軍閥用來粉碎古代王國的城牆。"
     }
   },
   "snow": {
-    "name": "Snow",
+    "name": "史諾帆船",
     "description": {
-      "general": "Initially a Dutch warship built to escort valuable trade convoys. Its fast recovery of Brace Strength allows it to hold the line against overwhelming firepower."
+      "general": "原先是為了護送高價貿易船隊而打造的荷蘭戰艦。它能快速回復防備強度，進而維持住防線來抵抗強大火力。"
     }
   },
   "brigantine": {
-    "name": "Brigantine",
+    "name": "前桅橫帆雙桅船",
     "description": {
-      "general": "A ramming predator that excels at dealing Flooding Damage before the final blow. Feared by the megacorporations and merchants alike."
+      "general": "擅於衝撞的掠食者，可造成進水傷害並祭出致命一擊。對超大型企業與商人而言都是令人畏懼的存在。"
     }
   },
   "sambuk": {
-    "name": "Sambuk",
+    "name": "桑布克帆船",
     "description": {
-      "general": "A pyromaniac of a ship rumored to hail from the Arabian subcontinent. Sets nearby enemies Ablaze, before spreading flames to all who dare come close."
+      "general": "據說是來自阿拉伯次大陸的縱火用船。能點燃附近的敵人，進而讓火勢蔓延到所有敢於靠近的船隻。"
     }
   },
   "barque": {
-    "name": "Barque",
+    "name": "末桅縱帆船",
     "description": {
-      "general": "The backbone of any fleet, repairing hulls and reinforcing allies in the heat of battle. The pride of a Compagnie convoy."
+      "general": "是所有艦隊的中流砥柱，能在激烈的戰鬥中修理船體並支援盟友。是皇司船隊的驕傲。"
     }
   },
   "brig": {
-    "name": "Brig",
+    "name": "雙桅橫帆船",
     "description": {
       "general": "A master of auxiliary warfare, amplifying support weapons for both offense and defense, as befitting the British Trade Alliance."
     }
   },
   "battleJunk": {
-    "name": "Battle Junk",
+    "name": "座䑸",
     "description": {
-      "general": "A walking provocation and exotic vessel from the Far East -- taunting enemies and soaking up fire, before turning the tide for friends."
+      "general": "猶如引戰者的遠東異國船隻，能嘲諷敵人並吸收火力，為盟友扭轉局勢。"
     }
   },
   "garuda": {
-    "name": "Garuda",
+    "name": "迦樓羅",
     "description": {
-      "general": "Devastates enemies from afar while equipped with the ability to escape whenever a fight gets too close. Modeled after an ancient god of the skies."
+      "general": "能從遠處毀滅敵人，具備能快速逃離戰場的能力。以上古天神為靈感所設計。"
     }
   },
   "schooner": {
-    "name": "Schooner",
+    "name": "縱帆船",
     "description": {
-      "general": "Excels at devastating broadside attacks, turning every barrage into an explosive reaction, wreaking havoc on fleets and structures in the Red Isle."
+      "general": "能進行毀滅性的舷側攻擊，讓每一發炮火都產生爆炸性的效果，對紅嶼的艦隊與結構造成嚴重破壞。"
     }
   },
   "frigate": {
-    "name": "Frigate",
+    "name": "巡防艦",
     "description": {
-      "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
+      "general": "具有無敵防禦力的大型船隻。它散發著強大氣場，能強化盟友。它是結合皇司獨特工藝與歐洲先進材料的產物。"
     }
   },
   "sloopOfWar": {
     "name": "Sloop of War",
     "description": {
-      "general": "A ship that excels at spreading toxins. Some say the Plague King himself breathes upon its sails, spreading pestilence in its wake."
+      "general": "以散播毒素為主的船隻。有人說它的船帆被「疫病之王」親自吹拂過，會在航行時帶來疫病。"
     }
   },
   "corvette": {
-    "name": "Corvette",
+    "name": "護衛艦",
     "description": {
       "general": "A ship that excels at controlling and commandeering the flow of the battle. Favored by the capitaines of the Compagnie Royale and pirates who seek to control the seas."
     }
   },
   "galleon": {
-    "name": "Galleon",
+    "name": "蓋倫帆船",
     "description": {
-      "general": "A ship reforged to excel in close-ranger slaughter and dominance. Spanish in origin, it is coveted by pirates and companies alike, and commandeered by only the boldest captains."
+      "general": "專為近距屠戮與壓制而重鑄的船隻。源自西班牙，海盜與各大公司無不覬覦，唯有最膽大的船長敢於掌舵。"
     }
   },
   "junk": {
-    "name": "Junk",
+    "name": "戎克船",
     "description": {
-      "general": "A ship forged by flame, excelling at Weapon Damage and boasting a Quick Reload Time. This powder keg was reforged from ruin by the pirates of Telok Penjarah, every shot reducing the target's Armor and Fire Resistance before the final barrage."
+      "general": "以烈焰鍛造的船隻，具有優異的武器傷害以及較短的裝填時間。這艘火藥桶般的船是由劫掠海灣的海盜以殘骸重鑄而成——每一發射擊都可削弱目標的裝甲與火焰抗性，並在最後施展終結齊射。"
     }
   }
 }
