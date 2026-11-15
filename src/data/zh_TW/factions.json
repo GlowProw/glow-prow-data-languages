@@ -1,74 +1,74 @@
 {
   "compagnieRoyale": {
-    "name": "Compagnie Royale"
+    "name": "皇家公司"
   },
   "dutchMerchantCompany": {
-    "name": "Dutch Merchant Company"
+    "name": "荷蘭商業公司"
   },
   "britishTradingAlliance": {
-    "name": "British Trading Alliance"
+    "name": "大英貿易聯盟"
   },
   "confederationOfUngwana": {
-    "name": "Confederation of Ungwana"
+    "name": "烏瓜納聯邦"
   },
   "clanOfFara": {
-    "name": "Clan of Fara"
+    "name": "法拉氏族"
   },
   "chorusFleet": {
-    "name": "Chorus Fleet"
+    "name": "合唱艦隊"
   },
   "pirates": {
-    "name": "Pirates"
+    "name": "海盜"
   },
   "phoenixsTalon": {
-    "name": "Phoenix's Talon"
+    "name": "鳳爪幫"
   },
   "dragonsClaw": {
-    "name": "Dragon's Claw"
+    "name": "龍爪幫"
   },
   "privateers": {
-    "name": "Privateers"
+    "name": "私掠者"
   },
   "shadowLegion": {
-    "name": "Shadow Legion"
+    "name": "暗影軍團"
   },
   "dominionOfRempah": {
-    "name": "Dominion of Rempah"
+    "name": "倫帕自治軍"
   },
   "fleetOfPestilence": {
-    "name": "Fleet of Pestilence"
+    "name": "傳疫艦隊"
   },
   "azureFleet": {
-    "name": "Azure Fleet"
+    "name": "蔚藍艦隊"
   },
   "theUnhallowed": {
-    "name": "The Unhallowed"
+    "name": "不潔者"
   },
   "seaPeople": {
-    "name": "Sea People"
+    "name": "海人"
   },
   "rogues": {
-    "name": "Rogues"
+    "name": "海寇"
   },
   "theHelm": {
-    "name": "The Helm"
+    "name": "「掌舵者」"
   },
   "theHelmEmpire": {
-    "name": "The Helm Empire"
+    "name": "「掌舵者」帝國"
   },
   "scavengers": {
-    "name": "Scavengers"
+    "name": "搜刮者"
   },
   "sultanateOfSohar": {
-    "name": "Sultanate of Sohar"
+    "name": "蘇哈爾蘇丹"
   },
   "scurlocksRogues": {
-    "name": "Scurlock's Rogues"
+    "name": "史柯洛克的海寇"
   },
   "weepingSpecters": {
-    "name": "Weeping Specters"
+    "name": "哭泣幽靈"
   },
   "abyssalFleet": {
-    "name": "Abyssal Fleet"
+    "name": "深淵艦隊"
   }
 }
