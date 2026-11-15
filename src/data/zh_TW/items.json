@@ -3358,9 +3358,9 @@
     }
   },
   "blackFlagCosmeticsChest": {
-    "name": "Black Flag Cosmetics Chest",
+    "name": "黑旗造型箱子",
     "description": {
-      "general": "An opulent chest which may contain cosmetics that are part of the Jackdaw Set."
+      "general": "一个豪华的宝箱，或许能从中获取黑旗造型套装系列的外观物品"
     }
   },
   "mysteriousChest": {
