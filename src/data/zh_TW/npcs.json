@@ -1,146 +1,146 @@
 {
   "cookery": {
-    "name": "Cookery"
+    "name": "烹飪台"
   },
   "water": {
-    "name": "Water"
+    "name": "水面"
   },
   "piratesBonfire": {
-    "name": "Pirate's Bonfire"
+    "name": "海盜篝火"
   },
   "azuriteLodestone": {
-    "name": "Azurite Lodestone"
+    "name": "藍銅礦磁石"
   },
   "woridTier": {
     "name": "Worid Tier"
   },
   "managerOfLePontMuet": {
-    "name": "Manager Of Le Pont Muet"
+    "name": "靜默橋掌櫃"
   },
   "sumugglersHideout": {
-    "name": "Smugglers Hideout"
+    "name": "走私者藏身處"
   },
   "helmLiaison": {
-    "name": "Helm Liaison"
+    "name": "「掌舵者」仲介"
   },
   "mailbox": {
-    "name": "Mailbox {location}"
+    "name": "信箱 {location}"
   },
   "smugglersNetwork": {
-    "name": "Smugglers Network {location}"
+    "name": "走私者網路 {location}"
   },
   "jobBoard": {
-    "name": "Job Board {location}"
+    "name": "工作板 {location}"
   },
   "bountyBoard": {
-    "name": "Bounty Board {location}"
+    "name": "懸賞公布欄 {location}"
   },
   "warehouse": {
-    "name": "Warehouse"
+    "name": "倉庫"
   },
   "hawker": {
-    "name": "Hawker"
+    "name": "小販"
   },
   "commodityTrader": {
-    "name": "Commodity Trader"
+    "name": "大宗物資商人"
   },
   "vanityAtelier": {
-    "name": "Vanity Atelier {location}"
+    "name": "服裝造型師 {location}"
   },
   "johnScurlocksOffice": {
-    "name": "John Scurlocks Office"
+    "name": "約翰．史柯洛克辦公室"
   },
   "hallowedGravestone": {
-    "name": "Hallowed Gravestone {location}"
+    "name": "聖碑 {location}"
   },
   "factionBroker": {
-    "name": "Faction Broker {location}"
+    "name": "勢力掮客 {location}"
   },
   "deathTides": {
-    "name": "Death Tides"
+    "name": "死亡浪潮"
   },
   "refinery": {
-    "name": "Refinery {location}"
+    "name": "精煉廠 {location}"
   },
   "blacksmith": {
-    "name": "Blacksmith"
+    "name": "鐵匠"
   },
   "shipwright": {
-    "name": "Shipwright {location}"
+    "name": "船匠 {location}"
   },
   "carpenter": {
-    "name": "Carpenter {location}"
+    "name": "木匠 {location}"
   },
   "docks": {
-    "name": "Docks"
+    "name": "碼頭"
   },
   "cache": {
-    "name": "Cache"
+    "name": "儲物處"
   },
   "liTianNing": {
-    "name": "Li Tian Ning"
+    "name": "黎天寧"
   },
   "rempahTrader": {
-    "name": "Rempah Trader {location}"
+    "name": "倫帕商人 {location}"
   },
   "vendor-overseasSmuggler": {
-    "name": "Overseas Smuggler {location}"
+    "name": "海外走私者 {location}"
   },
   "vendor-rempahWarrior": {
-    "name": "Rempah Warrior"
+    "name": "倫帕戰士"
   },
   "overseasSmuggler": {
-    "name": "Overseas Smuggler {location}"
+    "name": "海外走私者 {location}"
   },
   "rogueTraderJasperRagsdale": {
-    "name": "Rogue Trader Jasper 'The Bull' Ragsdale {location}"
+    "name": "海寇商人賈斯珀·「公牛」·拉格斯代爾 {location}"
   },
   "rogueTraderRosettaLaw": {
-    "name": "Rogue Trader Rosetta 'The Siren' Law {location}"
+    "name": "海寇商人羅塞塔·「海妖」·勞 {location}"
   },
   "rogueTraderBertramFugler": {
-    "name": "Rogue Trader Bertram 'Big Bertie' Fugler {location}"
+    "name": "海寇商人伯特倫·「大伯蒂」·弗格勒 {location}"
   },
   "rogueTraderOswinSmithers": {
-    "name": "Rogue Trader Oswin 'Laughing Jack' Smithers {location}"
+    "name": "海寇商人奧斯溫·「笑傑克」·史密瑟斯 {location}"
   },
   "rogueTraderClareTyde": {
-    "name": "Rogue Trader Clare 'The Tempest' Tyde {location}"
+    "name": "海寇商人克萊爾·「風暴」·泰德 {location}"
   },
   "vendor-corruptDmcOfficer": {
-    "name": "Corrupt DMC Officer {location}"
+    "name": "貪腐荷商官員 {location}"
   },
   "corruptDutchOfficer": {
-    "name": "Corrupt Dutch Officer"
+    "name": "貪腐荷蘭官員"
   },
   "shipwreckedRogue": {
-    "name": "Shipwrecked Rogue {location}"
+    "name": "沉船海寇 {location}"
   },
   "rope": {
-    "name": "Rope"
+    "name": "繩索"
   },
   "rogue": {
-    "name": "Rogue {location}"
+    "name": "海寇 {location}"
   },
   "rempahMerchant": {
-    "name": "Rempah Merchant"
+    "name": "倫帕商人"
   },
   "ungwanaLeader": {
-    "name": "Ungwana Leader"
+    "name": "烏瓜納領袖"
   },
   "ungwanaTrader": {
-    "name": "Ungwana Trader"
+    "name": "烏瓜納商人"
   },
   "rempahLeader": {
-    "name": "Rempah Leader"
+    "name": "倫帕領袖"
   },
   "ungwanaMerchant": {
-    "name": "Ungwana Merchant"
+    "name": "烏瓜納商人"
   },
   "theMystic": {
-    "name": "The Mystic"
+    "name": "方士"
   },
   "hardheadJoe": {
-    "name": "Hardhead Joe"
+    "name": "「硬頭」喬"
   }
 }
