@@ -1,314 +1,314 @@
 {
   "lambaCloth": {
     "name": "Lamba Cloth",
-    "description": "Traditional garment from the Red Isle. Has value to the right buyer. Produced by the Sea People to be traded in the region."
+    "description": "紅嶼的傳統服飾。對特定買家頗有價值。由海人生產並用於地區貿易。"
   },
   "uncutGarnet": {
-    "name": "Uncut Garnet",
-    "description": "A deep maroon hints at its value. It is prized as a gem by many. Produced by the Sea People to be exported from the region."
+    "name": "未切割石榴石",
+    "description": "具深邃的紅紫色光彩，透露著不斐的價值，作為寶石深受世人喜愛。由海人生產並出口至地區外。"
   },
   "fineSeaPeopleRelic": {
-    "name": "Fine Sea People Relic",
-    "description": "A precious article from the Sea People. They could be sold for a good amount of silver."
+    "name": "精製文物",
+    "description": "來自海人的珍貴文物。賣出後可換取到中量銀子。"
   },
   "capitalSeaPeopleRelic": {
-    "name": "Capital Sea People Relic",
-    "description": "An invaluable article from the Sea People. They could be sold for a huge amount of silver."
+    "name": "首都文物",
+    "description": "來自海人的無價文物。賣出後可換取到大量銀子。"
   },
   "cloves": {
-    "name": "Cloves",
-    "description": "Cloves are dried flower buds used both as a spice and a medicinal ingredient. Produced and traded by the Fara in the region of the Red Isle."
+    "name": "丁香",
+    "description": "丁香是一種乾燥花苞，能用作香料與藥材。由法拉生產並用於紅嶼地區貿易。"
   },
   "frankincense": {
-    "name": "Frankincense",
-    "description": "An aromatic resin obtained from a shrub that grows in the region of the Arabian Straits. It is burnt in various rituals, both in the East and West. Produced by the Fara to be exported out of the region."
+    "name": "乳香",
+    "description": "具有芳香的樹脂，取自一種生長於阿拉伯海峽地區的灌木植物。東、西方世界都會在宗教儀式過程中焚燒乳香。由法拉生產並出口至地區外。"
   },
   "uncutSapphire": {
-    "name": "Uncut Sapphire",
-    "description": "A crude, valuable blue gem that can be found in the Red Isle. Unearthed by the Fara for trades beyond the Indian Ocean."
+    "name": "未切割藍寶石",
+    "description": "粗糙、珍貴的藍色寶石，可以在紅嶼找到。由法拉採集並用於印度洋外的貿易。"
   },
   "fineFaraRelic": {
-    "name": "Fine Fara Relic",
-    "description": "A precious article from the Fara. They could be sold for a good amount of silver."
+    "name": "精製文物",
+    "description": "來自法拉的珍貴文物。賣出後可換取到中量銀子。"
   },
   "capitalFaraRelic": {
-    "name": "Capital Fara Relic",
-    "description": "An invaluable article from the Fara. They could be sold for a huge amount of silver."
+    "name": "首都文物",
+    "description": "來自法拉的無價文物。賣出後可換取到大量銀子。"
   },
   "snuff": {
-    "name": "Snuff",
-    "description": "In the hands of a connoisseur, it brings joy for its flavor. produced by the Ungwana to be traded in the region."
+    "name": "鼻菸",
+    "description": "由於別具風味，總能討得識貨行家的歡心。由烏瓜納生產並用於地區貿易。"
   },
   "ivory": {
-    "name": "Ivory",
-    "description": "A priceless commodity prized by artisans for its beauty and range of items that can be crafted from it. Produced by the Ungwana to be exported out of the region."
+    "name": "象牙",
+    "description": "這種大宗物資因漂亮好看，又可製成各種物品，故在工匠眼中價值連城。由烏瓜納生產並出口至地區外。"
   },
   "uncutDiamond": {
-    "name": "Uncut Diamond",
-    "description": "Prized by many, this commodity is valued for its beauty and price in the hands of the right person. Produced by the Ungwana to be exported out of the region."
+    "name": "未切割鑽石",
+    "description": "這種美麗昂貴的商品風行各地，對特定買家頗有價值。由烏瓜納生產並出口至地區外。"
   },
   "fineUngwanaRelic": {
-    "name": "Fine Ungwana Relic",
-    "description": "A precious article from the Ungwana. They could be sold for a good amount of silver."
+    "name": "精製文物",
+    "description": "來自烏瓜納的珍貴文物。賣出後可換取到中量銀子。"
   },
   "capitalUngwanaRelic": {
-    "name": "Capital Ungwana Relic",
-    "description": "An invaluable article from the Ungwana. They could be sold for a huge amount of silver."
+    "name": "首都文物",
+    "description": "來自烏瓜納的無價文物。賣出後可換取到大量銀子。"
   },
   "spice": {
-    "name": "Spice",
-    "description": "Ground spices highly valued for its culinary and medical utility. Wars have been fought over them. Produced by the Rempah to be exported from the region."
+    "name": "香料",
+    "description": "香料粉廣泛用於料理和醫藥，其重要性不言可喻，多少戰爭皆因其而起。由倫帕生產並出口至地區外。"
   },
   "batik": {
-    "name": "Batik",
-    "description": "Intricate dyed cloth manufactured by the Rempah. Produced to be traded in the region."
+    "name": "蠟染花布",
+    "description": "倫帕生產的精緻染布。用於地區貿易。"
   },
   "uncutRuby": {
-    "name": "Uncut Ruby",
-    "description": "An unprocessed gem of fire red to be fitted into the cane of a nobleman or the ring of a Kingpin. Produced by the Rempah to be exported from the region."
+    "name": "未切割紅寶石",
+    "description": "未加工的寶石，帶有火紅顏色，常見於貴族手杖和大人物的戒指上。由倫帕生產並出口至地區外。"
   },
   "fineRempahRelic": {
-    "name": "Fine Rempah Relic",
-    "description": "A precious article from the Rempah. They could be sold for a good amount of silver."
+    "name": "精製文物",
+    "description": "來自倫帕的珍貴文物。賣出後可換取到中量銀子。"
   },
   "capitalRempahRelic": {
-    "name": "Capital Rempah Relic",
-    "description": "An invaluable article from the Rempah. They could be sold for a huge amount of silver."
+    "name": "首都文物",
+    "description": "來自倫帕的無價文物。賣出後可換取到大量銀子。"
   },
   "ale": {
-    "name": "Ale",
-    "description": "More stuff to make people drunk. A pirate's favorite drink."
+    "name": "愛爾啤酒",
+    "description": "另一種可把人灌醉的東西，是海盜最愛的飲品。"
   },
   "tobacco": {
-    "name": "Tobacco",
-    "description": "Dried leaves from a plant in the West Indies. Highly addictive, it is smoked, chewed, or snuffed as a leisure drug, and mistakenly considered beneficial for health. Produced by the Compagnie to be exported out of the region."
+    "name": "菸草",
+    "description": "乾燥碎葉，取自一種西印度產的植物。這種娛樂用藥可用抽、嚼或吸的方式使用，具高度成癮性，訛傳對健康有益。由皇司生產並出口至地區外。"
   },
   "ambergris": {
-    "name": "Ambergris",
+    "name": "龍涎香",
     "description": "Found ashore or floating at sea near the Red Isle, ambergris is a fragrant substance used in perfumery and a byproduct of digesting giant squids by sperm whales. Produced  by the Compagnie to be exported out of the region."
   },
   "vanilla": {
-    "name": "Vanilla",
-    "description": "A sweet spice for flavoring and medicine. Produced by the Compagnie to be exported out of the region."
+    "name": "香草",
+    "description": "用於調味和醫藥的甜香料。由皇司生產並用於地區貿易。"
   },
   "wine": {
-    "name": "Wine",
-    "description": "A classic alcoholic beverage made from fermented grapes and enjoyed by people from all continents. Imported by the Compagnie to be traded in the region."
+    "name": "紅酒",
+    "description": "以葡萄發酵製成的傳統酒精飲料，天下人無不喜愛。由皇司進口並用於地區貿易。"
   },
   "brandy": {
-    "name": "Brandy",
-    "description": "A strong liquor distilled from wine and aged in wooden casks, which give it a distinct flavor and scent. Imported by the Compagnie to be traded in the region."
+    "name": "白蘭地",
+    "description": "將水果酒蒸餾後產生的酒液，封存於木桶中並靜置多年後而成的烈酒，具有別緻的風味和香氣。由皇司進口並用於地區貿易。"
   },
   "ornatePistols": {
-    "name": "Ornate Pistols",
-    "description": "Pistols desirable for officers and pirates who like to be conspicuous with their wealth."
+    "name": "華麗手槍",
+    "description": "想要炫富的官員和海盜都喜歡這種手槍。"
   },
   "militaryCompagnieRelic": {
-    "name": "Military Compagnie Relic",
-    "description": "A fortification component from the Compagnie. They could be sold for a huge amount of silver."
+    "name": "軍事文物",
+    "description": "來自皇司的防禦工事零件。賣出後可換取到大量銀子。"
   },
   "fineCompagnieRelic": {
-    "name": "Fine Compagnie Relic",
-    "description": "A precious article from the Compagnie. They could be sold for a good amount of silver."
+    "name": "精製文物",
+    "description": "來自皇司的珍貴文物。賣出後可換取到中量銀子。"
   },
   "basicCompagnieRelic": {
-    "name": "Basic Compagnie Relic",
-    "description": "An article from the Compagnie. They could be sold for a decent amount of silver."
+    "name": "基礎文物",
+    "description": "來自皇司的文物。賣出後可換取到少量銀子。"
   },
   "capitalCompagnieRelic": {
-    "name": "Capital Compagnie Relic",
-    "description": "An invaluable article from the Compagnie. They could be sold for a huge amount of silver."
+    "name": "首都文物",
+    "description": "來自皇司的無價文物。賣出後可換取到大量銀子。"
   },
   "nutmeg": {
-    "name": "Nutmeg",
-    "description": "The fruit of a rare tree that only grows in the islands of the East Indies. Nutmeg is a priceless spice produced by the DMC to be traded in the region."
+    "name": "肉豆蔻",
+    "description": "一種只生長在東印度的稀有樹種，其所生果實即為肉豆蔻，是無價的香料。由荷商生產並用於地區貿易。"
   },
   "cacao": {
-    "name": "Cacao",
-    "description": "A popular bean used in a variety of food and beverages, and imported from Europe. Has value to the right buyer. Produced by the DMC to be traded in the region."
+    "name": "可可",
+    "description": "自歐洲進口的熱門豆類，用於多種料理和飲料。對特定買家頗有價值。由荷商生產並用於地區貿易。"
   },
   "camphor": {
-    "name": "Camphor",
-    "description": "A fragrant substance contained in the vapors from burning trees in the East Indies. It is used both in perfumery and as a medicinal ingredient. Produced by the DMC to be traded in the region."
+    "name": "樟腦",
+    "description": "這種芳香物質產自東印度，是透過燃燒樹木時的蒸氣煉製而成，能作為香水材料或藥材。由倫帕生產並用於地區貿易。"
   },
   "gin": {
-    "name": "Gin",
-    "description": "Originally created as a medicinal liquor by monks and alchemists in Europe. Imported by the DMC to be traded in the region."
+    "name": "琴酒",
+    "description": "原先是歐洲僧侶和煉金術士釀製的藥用烈酒。由荷商進口並用於地區貿易。"
   },
   "painting": {
-    "name": "Painting",
-    "description": "A beautiful oil canvas painting framed by mahogany. This will fetch the right price from the right buyer. Imported by the DMC to be traded in the region."
+    "name": "畫作",
+    "description": "一幅配有桃花心木畫框的優美帆布油畫。對特定買家頗有價值。由荷商進口並用於地區貿易。"
   },
   "militaryDmcRelic": {
-    "name": "Military DMC Relic",
-    "description": "A fortification component from the DMC. They could be sold for a huge amount of silver."
+    "name": "軍事文物",
+    "description": "來自荷商的防禦工事零件。賣出後可換取到大量銀子。"
   },
   "fineDmcRelic": {
-    "name": "Fine DMC Relic",
-    "description": "A precious article from the DMC. They could be sold for a good amount of silver."
+    "name": "精製文物",
+    "description": "來自荷商的珍貴文物。賣出後可換取到中量銀子。"
   },
   "capitalDmcRelic": {
-    "name": "Capital DMC Relic",
-    "description": "An invaluable article from the DMC. They could be sold for a huge amount of silver."
+    "name": "首都文物",
+    "description": "來自荷商的無價文物。賣出後可換取到大量銀子。"
   },
   "rum": {
     "name": "Rum",
-    "description": "Distilled from sugarcane molasses. Truly the pirate's drink of choice. Imported by Scurlock to be traded in the region."
+    "description": "以甘蔗糖汁蒸餾而成，是海盜止渴時的首選。由史柯洛克進口並用於地區貿易。"
   },
   "cannonPowder": {
-    "name": "Cannon Powder",
-    "description": "The sheer explosive power of this chemical concoction means your enemies won't just be leaving with a bruised ego. Imported by Scurlock to be traded in the region."
+    "name": "大炮火藥",
+    "description": "這種化合物的爆炸威力驚天動地，任何敵人對上它們都休想全身而退。由史柯洛克進口並用於地區貿易。"
   },
   "firearms": {
-    "name": "Firearms",
-    "description": "A cache of illegally procured weapons to bolster any pirate's arsenal. Imported by Scurlock to be traded in the region."
+    "name": "槍械",
+    "description": "一批用非法手段取得的武器，能為海盜增添火力。由史柯洛克進口並用於地區貿易。"
   },
   "ginseng": {
-    "name": "Ginseng",
-    "description": "One of the most famous herbs in the world. Often used by Rahma for its medicinal benefits. Imported by Rahma to be traded in the region."
+    "name": "人參",
+    "description": "世界上最廣為人知的藥草之一。因為它們具有療效，因此拉赫瑪經常使用。由拉赫瑪進口並用於地區貿易。"
   },
   "jade": {
-    "name": "Jade",
-    "description": "Prized mineral from the East, Jade is worn as jewelry and ornaments in certain cultures. Imported by Rahma to be traded in the region."
+    "name": "玉",
+    "description": "玉是來自東方的珍貴礦石，有些文化的人民會將它們當成首飾和裝飾使用。由拉赫瑪進口並用於地區貿易。"
   },
   "porcelain": {
-    "name": "Porcelain",
-    "description": "Priceless ceramic artifacts originating from the Far East. Imported by Rahma to be traded in the region."
+    "name": "瓷器",
+    "description": "源自遠東的無價瓷製工藝品。由拉赫瑪進口並用於地區貿易。"
   },
   "poppy": {
-    "name": "Poppy",
-    "description": "Refined into Blue Lotus Opium at the laboratory in Telok Penjarah."
+    "name": "罌粟花",
+    "description": "可於劫掠海灣化工廠精煉成「藍蓮鴉片」。"
   },
   "sugarCane": {
-    "name": "Sugar Cane",
-    "description": "Refines into White Skull Rum in Sainte-Anne's Helm office."
+    "name": "甘蔗",
+    "description": "可於聖亞納酒廠精煉成「白骨蘭姆酒」。"
   },
   "juniperBerries": {
-    "name": "Juniper Berries",
-    "description": "Refined into White Skull Gin in Sainte-Anne's Helm office."
+    "name": "杜松子",
+    "description": "可於聖亞納「掌舵者」辦事處精煉成「白骨琴酒」。"
   },
   "tobaccoLeaves": {
-    "name": "Tobacco Leaves",
-    "description": "Refined into Black Snuff in Telok Penjarah's Helm office."
+    "name": "菸草葉",
+    "description": "可於劫掠海灣「掌舵者」辦事處加工成「黑鼻菸」。"
   },
   "rawImperialJade": {
-    "name": "Raw Imperial Jade",
-    "description": "A raw form of Imperial Jade, a valuable piece of contraband from the East. Refines into Imperial Jade at the Telok Penjarah Office."
+    "name": "帝國玉原石",
+    "description": "「帝國玉」的原石，是來自東方的珍貴違禁品。可透過劫掠海灣辦事處加工成帝國玉。"
   },
   "blackSnuff": {
-    "name": "Black Snuff",
-    "description": "High-quality black snuff refined from Tobacco Leaves by Helm members."
+    "name": "黑鼻菸",
+    "description": "「掌舵者」成員以菸草葉精煉而成的高品質黑鼻菸。"
   },
   "blueLotusOpium": {
-    "name": "Blue Lotus Opium",
+    "name": "藍蓮鴉片",
     "description": "High-quality opium refined from Poppy by the Helm members."
   },
   "whiteSkullRum": {
-    "name": "White Skull Rum",
-    "description": "High-quality white rum refined from Sugar Cane by the Helm members."
+    "name": "白骨蘭姆酒",
+    "description": "「掌舵者」成員以甘蔗精煉而成的高品質白蘭姆酒。"
   },
   "whiteSkullGin": {
-    "name": "White Skull Gin",
-    "description": "High-quality white gin refined from Juniper Berries by the Helm members."
+    "name": "白骨琴酒",
+    "description": "「掌舵者」成員以杜松子精煉而成的高品質白琴酒。"
   },
   "imperialJade": {
-    "name": "Imperial Jade",
-    "description": "Imperial Jade is a precious, highly valuable form of jade from the Far East, also known as the Middle Kingdom."
+    "name": "帝國玉",
+    "description": "帝國玉是一種珍貴高價的玉，源自稱為「中央之國」的遠東。"
   },
   "silverSnuff": {
-    "name": "Silver Snuff",
-    "description": "The highest-quality white snuff obtainable from Black Snuff by Helm members."
+    "name": "銀鼻菸",
+    "description": "「掌舵者」成員以「黑鼻菸」精煉而成的最高品質白鼻菸。"
   },
   "blackLotusOpium": {
-    "name": "Black Lotus Opium",
+    "name": "黑蓮鴉片",
     "description": "The highest-quality opium obtainable from Blue Lotus Opium by Helm members."
   },
   "goldSkullRum": {
-    "name": "Gold Skull Rum",
+    "name": "黃金骨蘭姆酒",
     "description": "The highest-quality gold rum obtainable from White Skull Rum by Helm members."
   },
   "goldSkullGin": {
-    "name": "Gold Skull Gin",
-    "description": "The highest-quality gold gin obtainable from White Skull Gin by Helm members."
+    "name": "黃金骨琴酒",
+    "description": "「掌舵者」成員以「白骨琴酒」精煉而成的最高品質黃金琴酒。"
   },
   "carvedImperialJade": {
-    "name": "Carved Imperial Jade",
-    "description": "An artful carving of Imperial Jade from the East, coveted by collectors. Obtainable from Imperial Jade and members of the Helm."
+    "name": "精雕帝國玉",
+    "description": "來自東方的精雕版「帝國玉」，是收藏家夢寐以求的珍品。可藉由帝國玉製作或透過「掌舵者」成員取得。"
   },
   "copperBars": {
-    "name": "Kupfer Bars",
-    "description": "A significant, high-grade metal from Europe, from refining copper to its highest purity. Makes it viable for applications for war."
+    "name": "銅條",
+    "description": "來自歐洲的重要高級金屬，由銅精煉至最高純度而成，具有軍事用途。"
   },
   "gildmarks": {
-    "name": "Gildmarks",
-    "description": "Thin pieces of an unknown material stamped with the symbol of balance and death. To the unknowing, they are curious oddities; to those in the know, they are not easily earned."
+    "name": "鑲金印記",
+    "description": "薄片狀的不明材料，印著象徵秩序與死亡的印記。對不知情者而言，它們只是引人好奇的小玩意；但內行人都知道，這種東西可沒那麼輕易就能弄到手。"
   },
   "helmLeaseOpen": {
-    "name": "Helm Lease (Open)",
-    "description": "An unrestricted certificate of ownership stamped by Helm contacts for any Manufactory of your choosing."
+    "name": "「掌舵者」租約（無限制）",
+    "description": "無限制的所有權證書，由「掌舵者」聯絡人蓋章認證，可讓你任選製造廠。"
   },
   "crystalizedTaintedWood": {
-    "name": "Crystalized Tainted Wood",
-    "description": "Rumored to be from Sathanur, the wood has been hardened by petrification and the undying passage of time."
+    "name": "結晶化的木頭",
+    "description": "據說這種木材來自薩塔努爾，經過石化和時間的洗禮而變得堅硬。"
   },
   "sigilFlare": {
-    "name": "Sigil Flare",
+    "name": "圖章信號彈",
     "description": "An ornate flare that shines brightly when ignited. This is the calling card of the Honorless for their hallucinogen supply drops."
   },
   "roseWater": {
-    "name": "Rose Water",
+    "name": "玫瑰水",
     "description": "The flavor of love, empathy, attraction, and femininity."
   },
   "soothingBalm": {
-    "name": "Soothing Balm",
+    "name": "舒緩膏",
     "description": "A fragrant oilment guaranteed to relief sores and aches."
   },
   "shipInABottle": {
-    "name": "Ship in a Bottle",
+    "name": "瓶中船",
     "description": "An intricate miniature of a ship in a bottle."
   },
   "luxuryDice": {
-    "name": "Luxury Dice",
+    "name": "奢華骰子",
     "description": "An exotic set marked for a passion of randomness."
   },
   "phoenixPouch": {
-    "name": "Phoenix Pouch",
-    "description": "An embroidered pouch of intricate design, filled with an unknown substance. Belonged to the leader of the Phoenix's Talon."
+    "name": "鳳凰小袋",
+    "description": "設計精巧的刺繡小袋子，裡面裝滿了某種不明物質。本來屬於鳳爪幫領袖。"
   },
   "pulsingSchaduwRemnant": {
-    "name": "Vivid Schaduw Remnant",
+    "name": "有生氣的「影子」殘骸",
     "description": "Debris of the Schaduw, powered by Vikram's influence."
   },
   "grainFlare": {
-    "name": "Grain Flare",
+    "name": "穀物信號彈",
     "description": "Sorghum packed with explosive materials, tightly woven into a singular piece. Setting this off brings about the wrath of the Moonshiners."
   },
   "jasmineIncenseFlare": {
-    "name": "Jasmine Incense Flare",
+    "name": "茉莉香",
     "description": "When lit, it gives off a sickly yet pleasant aroma."
   },
   "azureFlare": {
-    "name": "Azure Flare",
+    "name": "蔚藍信號彈",
     "description": "This flare has a terrifying shimmer to it. Perhaps it has some connection to a greater curse..."
   },
   "hallowedFlare": {
-    "name": "Hallowed Flare",
+    "name": "萬聖信號彈",
     "description": "This flare has an air that is disturbing yet whimsical. It almost seems to be cackling at you."
   },
   "nianFlare": {
-    "name": "Nian Flare",
+    "name": "「年」信號彈",
     "description": "Anchored coins coiled onto the beast, fate destined to be sealed by its greed."
   },
   "encryptedMooncake": {
-    "name": "Encrypted Mooncake",
-    "description": "An encrypted message is hidden within this delicate mooncake."
+    "name": "密語月餅",
+    "description": "這種月餅裡藏著以密語撰寫的訊息。把它交給賊窩大人物。"
   },
   "cipherMooncake": {
-    "name": "Cipher Mooncake",
-    "description": "A re-encrypted mooncake needs to be handled carefully."
+    "name": "暗號月餅",
+    "description": "這種被重新賦予暗號的月餅必須交到走私者手中。"
   },
   "warAssets": {
-    "name": "War Assets",
-    "description": "An official requisition for various military supplies. In the right hands, this document can be used to secure wartime provisions for your preferred benefactor."
+    "name": "戰爭資源",
+    "description": "各類軍事物資的正式徵用文件。若使用得當，這份文件能為你所青睞的貴人確保戰爭必需品。"
   }
 }
